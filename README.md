@@ -1,4 +1,4 @@
-# ospo.ucop.net
+# ucospo.net
 
 University of California OSPO Network
 

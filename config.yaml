@@ -1,6 +1,6 @@
-baseURL: "https://ospo.ucop.net/"
+baseURL: "https://ucospo.net/"
 languageCode: "en-us"
-title: "University of California OSPO Network"
+title: "UC OSPO Network"
 theme: scientific-python-hugo-theme
 relativeURLs: true
 disableKinds: ["taxonomy"]
@@ -17,15 +17,15 @@ markup:
 
 params:
   author:
-    name: "University of California OSPO Network"
-  description: "University of California OSPO Network Website"
+    name: "UC OSPO Network"
+  description: "UC OSPO Network Website"
   font:
     name: "Open Sans"
     sizes: [400, 900]
   navbarlogo:
     image: logo.svg
-    altText: UC-wide OSPO Network logo
-    text: University of California OSPO Network Website
+    altText: UC OSPO Network logo
+    text: UC OSPO Network
     link: /
   navbar:
     - title: About
