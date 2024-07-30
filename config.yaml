@@ -1,0 +1,43 @@
+baseURL: "https://ospo.ucop.net/"
+languageCode: "en-us"
+title: "University of California OSPO Network"
+theme: scientific-python-hugo-theme
+relativeURLs: true
+disableKinds: ["taxonomy"]
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    renderHooks:
+      link:
+        enableDefault: true
+
+params:
+  author:
+    name: "University of California OSPO Network"
+  description: "University of California OSPO Network Website"
+  font:
+    name: "Open Sans"
+    sizes: [400, 900]
+  navbarlogo:
+    image: logo.svg
+    altText: UC-wide OSPO Network logo
+    text: University of California OSPO Network Website
+    link: /
+  navbar:
+    - title: About
+      url: /about
+    - title: Blog
+      url: /posts
+  footer:
+    logo: logo.svg
+    socialmediatitle: ""
+    socialmedia:
+      - link: https://github.com/UC-OSPO-Network/
+        icon: github
+    quicklinks:
+      column1:
+        title: ""
