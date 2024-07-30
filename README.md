@@ -1,4 +1,5 @@
-# ucosponet.github
+# ospo.ucop.net
+
 University of California OSPO Network
 
 This repo is a work in progress
