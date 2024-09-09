@@ -54,6 +54,12 @@ params:
       url: /about
     - title: Blog
       url: /posts
+    - title: Discovery
+      url: /discovery
+    - title: Education
+      url: /education
+    - title: Sustainability
+      url: /sustainability
   footer:
     logo: uc-ospo-network-logo.svg
     socialmediatitle: ""
