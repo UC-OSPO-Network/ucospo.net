@@ -7,7 +7,7 @@ sidebar: false
 
 ## 2024--06--12: UC-wide OSPO Network Holds Kick-off Event
 
-For more information, see this [blog post](/posts/kick-off/).
+For more information, see this blog post.
 
 ## 2024--04--30: BIDS Launches Open Source Program Office
 

@@ -30,8 +30,6 @@ params:
   navbar:
     - title: About
       url: /about
-    - title: Blog
-      url: /posts
   footer:
     logo: uc-ospo-network-logo.svg
     socialmediatitle: ""
