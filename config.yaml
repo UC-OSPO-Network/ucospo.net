@@ -3,7 +3,8 @@ languageCode: "en-us"
 title: "UC OSPO Network"
 theme: scientific-python-hugo-theme
 relativeURLs: true
-disableKinds: ["taxonomy"]
+disableKinds: ["RSS", "taxonomy"]
+ignoreErrors: ["error-disable-taxonomy"]
 
 markup:
   highlight:
@@ -14,6 +15,27 @@ markup:
     renderHooks:
       link:
         enableDefault: true
+
+outputFormats:
+  Atom:
+    mediaType: "application/atom"
+    baseName: "atom"
+    isPlainText: false
+
+mediaTypes:
+  application/atom:
+    suffixes:
+      - xml
+
+frontmatter:
+  date: [":filename", ":default"]
+
+permalinks:
+  posts: "/:sections[1:]/:filename"
+
+outputs:
+  home: ["HTML", "ATOM"]
+  term: ["HTML", "ATOM"]
 
 params:
   author:
@@ -30,6 +52,8 @@ params:
   navbar:
     - title: About
       url: /about
+    - title: Blog
+      url: /posts
   footer:
     logo: uc-ospo-network-logo.svg
     socialmediatitle: ""
