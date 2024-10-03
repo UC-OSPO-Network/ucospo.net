@@ -69,3 +69,22 @@ params:
     quicklinks:
       column1:
         title: ""
+        links:
+          - text: Berkeley
+            link: https://ospo-berkeley-edu.netlify.app
+          - text: Davis
+            link: /davis/
+      column2:
+        title: ""
+        links:
+          - text: Los Angeles
+            link: /los-angeles/
+          - text: San Diego
+            link: /san-diego/
+      column3:
+        title: ""
+        links:
+          - text: Santa Barbara
+            link: /santa-barbara/
+          - text: Santa Cruz
+            link: https://ucsc-ospo.github.io/
