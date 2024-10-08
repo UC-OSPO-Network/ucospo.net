@@ -66,6 +66,8 @@ params:
     socialmedia:
       - link: https://github.com/UC-OSPO-Network/
         icon: github
+      - link: https://ucospo.net/atom.xml
+        icon: rss-feed
     quicklinks:
       column1:
         title: ""
