@@ -1,9 +1,14 @@
-UC Santa Barbara is one of the six campus partners in the UC Network of Open Source Program Offices (OSPOs) focussed on supporting developers and users of Open Source through the discovery and indexing of UC developed Open Source; development of educational materials, curricula and best practices guidelines; and services and guides in support of Open Source sustainability.  
+<img align="right" width="220" src="UCSB-ospo.png">
+
+
+UC Santa Barbara is one of the six campus partners in the UC Network of Open Source Program Offices (OSPOs) focussed on supporting developers and users of Open Source through the discovery and indexing of UC developed Open Source; development of educational materials, curricula and best practices guidelines; and services and guides in support of Open Source sustainability.
 
 **OSS at UCSB**
 
 UC Santa Barbara has an established history in open source software development and community OSS contribution, in addition to leadership in open science principles and practices. Expertise is distributed across the campus community and OSS development extends from small exploratory research projects, to established community adopted systems, to administrative infrastructure and more. Additionally, UCSB as a community invests significantly in community developed open tools and systems for the benefit of the campus and broader communities.
 
+ 
+ 
 **How is UCSB supporting the local OSS community?**
 
 At present, UCSB does not have a dedicated OSPO. Through the collaborative Alfred. P Sloan Foundation grant, we will be able to conduct landscape analysis on the state of OSS at UCSB to better inform future services and resources, develop a cross-campus open-source community of practitioners and users, and make available the opportunities, materials, and services developed in collaboration with UC partners. These activities will be coordinated through the UCSB Library as a cross-domain center for scholarship and information literacy.
