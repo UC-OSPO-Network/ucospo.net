@@ -19,7 +19,7 @@ We foresee an OSPO advising on open source licenses, fostering community engagem
 
 **Get connected**
 
-We are excited to build community among the UCSB population of Open Source practitioners. To stay informed about campus initiatives, learn more about the UC OSPO network, or to support us in the development of a UCSB OSPO, reach out via ospo@ucsb.edu.
+We are excited to build community among the UCSB population of Open Source practitioners. To stay informed about campus initiatives, learn more about the UC OSPO network, or to support us in the development of a UCSB OSPO, reach out via ospo@library.ucsb.edu.
 
 **Resources:**
 
