@@ -1,3 +1,7 @@
+---
+title: UC Santa Barbara OSPO
+---
+
 <img align="right" width="240" src="UCSB-ospo.png">
 
 
