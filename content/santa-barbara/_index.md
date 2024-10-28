@@ -2,7 +2,12 @@
 title: UC Santa Barbara OSPO
 ---
 
-<img align="right" width="240" src="UCSB-ospo.png">
+{{< figure >}}
+src = 'UCSB-ospo.png'
+width = 240
+align = 'right'
+alt = "UCSB OSPO Logo"
+{{< /figure >}}
 
 
 UC Santa Barbara is one of the six campus partners in the UC Network of Open Source Program Offices (OSPOs) focussed on supporting developers and users of Open Source through the discovery and indexing of UC developed Open Source; development of educational materials, curricula and best practices guidelines; and services and guides in support of Open Source sustainability.
