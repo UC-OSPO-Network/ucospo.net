@@ -28,4 +28,4 @@ We are excited to build community among the UCSB population of Open Source pract
 **Resources:**
 
 - [Announcement of Sloan funded UC OSPO Network](https://news.ucsb.edu/in-focus/new-grant-supports-creation-uc-network-open-source-program-offices)
-- [UC OSPO Network](https://ucospo.net])
+- [UC OSPO Network](https://ucospo.net)
