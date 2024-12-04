@@ -1,3 +1,3 @@
 ---
-title: Laura Langdon 
+title: Laura Langdon
 ---
