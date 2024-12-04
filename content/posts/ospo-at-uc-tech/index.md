@@ -9,7 +9,7 @@ author: ["Laura Langdon <laura-langdon>"]
 
 resources:
   - name: featuredImage
-    src: "2024_UCTech_2.png."
+    src: "2024_UCTech_2.png"
     params:
       description: "Panel of UC OSPO members at UC Tech 2024"
       showOnTop: true
