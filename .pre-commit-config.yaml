@@ -19,7 +19,7 @@ repos:
       - id: trailing-whitespace
 
   - repo: https://github.com/rbubley/mirrors-prettier
-    rev: bc7af46104f0f5368b95878decf720f9f00c2559  # frozen: v3.4.2
+    rev: bc7af46104f0f5368b95878decf720f9f00c2559 # frozen: v3.4.2
     hooks:
       - id: prettier
         files: \.(css|md|yml|yaml)
@@ -31,12 +31,12 @@ repos:
       - id: black
 
   - repo: https://github.com/asottile/blacken-docs
-    rev: 78a9dcbecf4f755f65d1f3dec556bc249d723600  # frozen: 1.19.1
+    rev: 78a9dcbecf4f755f65d1f3dec556bc249d723600 # frozen: 1.19.1
     hooks:
       - id: blacken-docs
 
   - repo: https://github.com/asottile/pyupgrade
-    rev: ce40a160603ab0e7d9c627ae33d7ef3906e2d2b2  # frozen: v3.19.1
+    rev: ce40a160603ab0e7d9c627ae33d7ef3906e2d2b2 # frozen: v3.19.1
     hooks:
       - id: pyupgrade
         args: [--py38-plus]
