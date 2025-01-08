@@ -60,6 +60,8 @@ params:
       url: /education
     - title: Sustainability
       url: /sustainability
+    - title: Resources
+      url: /oss-resources
   footer:
     logo: uc-ospo-network-logo.svg
     socialmediatitle: ""
