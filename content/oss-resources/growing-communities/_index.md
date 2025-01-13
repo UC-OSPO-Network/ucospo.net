@@ -45,7 +45,7 @@ And if you have a bit more time, you could add:
 - Screenshots or GIFs of your project
 - Code examples
 
-### Contributing guidelines
+## Contributing guidelines
 
 Users considering contributing to your project will look for its `CONTRIBUTING.md` file to find guidelines on:
 
