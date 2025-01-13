@@ -6,13 +6,6 @@ description: "How to start a community around an open source project"
 tags: [davis]
 displayInList: true
 author: ["Laura Langdon <laura-langdon>"]
-
-# resources:
-#   - name: featuredImage
-#     src: "2024_UCTech_2.png"
-#     params:
-#       description: "Panel of UC OSPO members at UC Tech 2024"
-#       showOnTop: true
 ---
 
 If you maintain an open source and want to attract contributors to it but don't know where to start, the OSPO is here to help! This guide will walk you through setting up the essential documentation and infrastructure a contributor-friendly project needs.
