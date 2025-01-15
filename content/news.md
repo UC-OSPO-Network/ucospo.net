@@ -4,6 +4,13 @@ newsHeader: UC-wide OSPO Network Holds Kick-off Event
 date: 2024-06-12
 sidebar: false
 ---
+## 2024--12--03: UC OSPO Network hosts two sessions at UC Tech 2024
+
+For more information, see this [blog post](/posts/ospo-at-uc-tech/).
+
+## 2024--07--29: UC Network Joins UN OSPOs For Good at UNHQ
+
+For more information, see story [here](https://ucsc-ospo.github.io/post/20240709ospo4good/)
 
 ## 2024--06--12: UC-wide OSPO Network Holds Kick-off Event
 
