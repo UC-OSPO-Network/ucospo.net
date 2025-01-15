@@ -40,4 +40,4 @@ As the first system-wide OSPO network in a large university system, we are setti
 - Santa Barbara (contact [Amber Budden](ospo@library.ucsb.edu))
 - Santa Cruz (contact [Stephanie Lieggi](ospo-info-group@ucsc.edu))
 
-Coming...
+More team member details coming! If you don't see your campus listed above contact ospo-info-group@ucsc.edu for more details about how the network can help you.
