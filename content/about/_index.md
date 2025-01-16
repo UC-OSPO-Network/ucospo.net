@@ -33,11 +33,12 @@ As the first system-wide OSPO network in a large university system, we are setti
 - Promoting open-source sustainability and best practices
 
 ## Team
+
 - Berkeley (contact [Jarrod Millman](mailto:millman@berkeley.edu))
-- Davis (contact [Vessela Ensber](mailto:vensberg@ucdavis.edu))
+- Davis (contact [Vessela Ensberg](mailto:vensberg@ucdavis.edu))
 - Los Angeles (contact [Todd Grappone](mailto:grappone@library.ucla.edu))
 - San Diego (contact [David Minor](mailto:dminor@ucsd.edu))
 - Santa Barbara (contact [Amber Budden](mailto:ospo@library.ucsb.edu))
 - Santa Cruz (contact [Stephanie Lieggi](mailto:ospo-info-group@ucsc.edu))
 
-More team member details coming! If you don't see your campus listed above contact ospo-info-group@ucsc.edu for more details about how the network can help you.
+More team member details coming! If you don't see your campus listed above [contact us](mailto:ospo-info-group@ucsc.edu) for more details about how the network can help you.
