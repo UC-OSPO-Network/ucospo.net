@@ -82,7 +82,7 @@ params:
           - text: Los Angeles
             link: /los-angeles/
           - text: San Diego
-            link: /san-diego/
+            link: https://datanexus.ucsd.edu/ospo/
       column3:
         title: ""
         links:
