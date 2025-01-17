@@ -2,9 +2,24 @@
 title: Discovery
 ---
 
-The UC OSPO Network is embarking on an ambitious initiative to map and analyze the open-source landscape across the University of California system.
-Building upon existing efforts like the NumFOCUS Map of Open Source Science (MOSS), the Apereo Foundation's Open Source Software in Higher Education Report, and Open@RIT's Mystic Community Health Analytics System, our project team will develop tools to identify and catalog open-source projects and research groups throughout the UC campuses.
-This comprehensive mapping effort will serve as a crucial interface between the UC research enterprise and the broader open-source community, informing UC-wide open-source strategies and policies.
-To achieve this, we will conduct system-wide surveys to assess open-source projects, practices, and perceptions, followed by the creation of a detailed map of UC-led open-source projects and their dependencies.
-This valuable information will guide our outreach activities and help curate a portfolio of open-source projects primed for external engagement.
-Our initiative necessitates the development of infrastructure capable of discovering UC-associated open-source projects and analyzing their communities and software artifacts.
+The UC OSPO Network’s **Discovery Working Group** is creating tools to map out the open source landscape at the University of California and discover research groups creating open source software throughout the system. These activities enable the network to be the interface between the UC research enterprise and the open source world, informing the UC open source strategy and policy. This Working Group is also undertaking a UC-wide stakeholder survey of open source projects, practices and perceptions. This information will be used to target outreach activities and curate a compelling portfolio of open source projects open to engagement with external sponsors. 
+
+Primary activities under this Working Group include:
+
+- *UC Open Source Repository Browser (UC ORB)*:  This discovery tool will leverage work by the other initiative– including the [Map of Open Source Science](https://map.opensource.science) – and aims to provide a unique research outcome particularly useful to academic OSPOs and UC leadership. UC ORB data will also help attract external stakeholders interested in supporting and contributing to the identified open source research. The UC ORB will base its data collection on campus-specific queries to be used for APIs of repository providers such as GitHub and integrate results with other UC OSPO network programs.
+- *Survey of OS Research and Projects*:  In addition to the technical methodologies included within UC ORB, this Working Group is undertaking a comprehensive survey to evaluate the current health of UC-based open source projects, and to better understand the support needs of these projects and perceptions of their communities. This collaboration will help form the basis for an OS community of practice and the data gained in these activities will be used for the publication of the annual “State of UC Open Source.”
+
+**Working Group Members:**
+- Amber Budden, UC Santa Barbara (Campus CoPI)
+- Vessela Ensberg, UC Davis
+- Juanita Gomez, UC Santa Cruz
+- Laura Langdon, UC Network Community Manager
+- Stephanie Lieggi, UC Santa Cruz (Campus coPI)
+- Emily Lovell, UC Santa Cruz
+
+**Advisor:** 
+Adam Tilghman, UC San Diego
+
+**External Contributor:**
+Jonathan Starr, NumFocus / Map Of Open Source Science
+ 
