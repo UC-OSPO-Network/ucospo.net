@@ -52,14 +52,10 @@ params:
   navbar:
     - title: About
       url: /about
+    - title: Guiding Themes
+      url: /guiding-themes
     - title: Blog
       url: /posts
-    - title: Discovery
-      url: /discovery
-    - title: Education
-      url: /education
-    - title: Sustainability
-      url: /sustainability
     - title: Resources
       url: /oss-resources
   footer:
