@@ -52,6 +52,8 @@ params:
   navbar:
     - title: About
       url: /about
+    - Guiding Themes
+      url: /guiding-themes
     - title: Blog
       url: /posts
     - title: Resources
