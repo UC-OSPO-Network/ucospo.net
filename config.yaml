@@ -52,7 +52,7 @@ params:
   navbar:
     - title: About
       url: /about
-    - Guiding Themes
+    - title: Guiding Themes
       url: /guiding-themes
     - title: Blog
       url: /posts
