@@ -1,4 +1,11 @@
-# Guiding Themes
+---
+title: "Guiding Themes"
+date: 2025-02-04
+draft: false
+description: "Three themes that guide our work in the OSPO network"
+displayInList: true
+author: ["Laura Langdon <laura-langdon>"]
+---
 
 The OSPO network will coordinate multi-campus activities built around three themes identified as critical by all participating campuses:
 
