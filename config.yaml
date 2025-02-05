@@ -52,6 +52,14 @@ params:
   navbar:
     - title: About
       url: /about
+      - title: Guiding Themes
+        url: /about/guiding-themes
+        - title: Discovery
+          url: /about/guiding-themes/discovery.md
+        - title: Education
+          url: /about/guiding-themes/education.md
+        - title: Sustainability
+          url: /about/guiding-themes/sustainability.md
     - title: Blog
       url: /posts
     - title: Resources
