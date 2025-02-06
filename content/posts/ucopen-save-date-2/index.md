@@ -5,7 +5,7 @@ draft: false
 description: "Celebrating Open Source and Open Science throughout the UC system"
 tags: [santa cruz]
 displayInList: true
-author: ["Stephanie Liegg <stephanie-lieggi>"]
+author: ["Stephanie Lieggi <stephanie-lieggi>"]
 ---
 ## SAVE THE DATE - 2025 UC Open
 
