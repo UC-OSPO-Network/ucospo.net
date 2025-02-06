@@ -6,13 +6,6 @@ description: "Celebrating Open Source and Open Science throughout the UC system"
 tags: [network]
 displayInList: true
 author: ["Stephanie Lieggi"]
-
-resources:
-  - name: featuredImage
-    src: ""
-    params:
-      description: ""
-      showOnTop: true
 ---
 
 ## SAVE THE DATE - 2025 UC Open
