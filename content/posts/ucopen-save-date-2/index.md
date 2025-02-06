@@ -7,6 +7,7 @@ tags: [santa cruz]
 displayInList: true
 author: ["Stephanie Lieggi <stephanie-lieggi>"]
 ---
+
 ## SAVE THE DATE - 2025 UC Open
 
 **April 23 & 24, 2025**
@@ -20,4 +21,4 @@ The event will include keynotes, panels, directed discussions and technical sess
 
 **Check back soon for registration information and the full agenda!**
 
-*For those coming from outside the Bay Area, information for discounted hotel rates will be available soon.*
+_For those coming from outside the Bay Area, information for discounted hotel rates will be available soon._

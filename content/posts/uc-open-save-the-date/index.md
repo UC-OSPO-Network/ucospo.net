@@ -28,4 +28,4 @@ The event will include keynotes, panels, directed discussions and technical sess
 
 **Check back soon for registration information and the full agenda!**
 
-*For those coming from outside the Bay Area, information for discounted hotel rates will be available soon.*
+_For those coming from outside the Bay Area, information for discounted hotel rates will be available soon._
