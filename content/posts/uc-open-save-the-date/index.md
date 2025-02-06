@@ -3,7 +3,7 @@ title: "Save the Date! First Annual UC OSPO"
 date: 02-05-2025
 draft: false
 description: "Celebrating Open Source and Open Science throughout the UC system"
-tags: [network]
+tags: [ucsc]
 displayInList: true
 author: ["Stephanie Lieggi"]
 
@@ -14,7 +14,6 @@ resources:
       description: "Silicon Valley Campus"
       showOnTop: true
 ---
-
 ## SAVE THE DATE - 2025 UC Open
 
 **April 23 & 24, 2025**
