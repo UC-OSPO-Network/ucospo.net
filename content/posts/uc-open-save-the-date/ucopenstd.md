@@ -9,9 +9,9 @@ author: ["Stephanie Lieggi"]
 
 resources:
   - name: featuredImage
-    src: ""
+    src: "svc-corner-front-500.jpg"
     params:
-      description: ""
+      description: "UCSC Silicon Valley Campus"
       showOnTop: true
 ---
 
