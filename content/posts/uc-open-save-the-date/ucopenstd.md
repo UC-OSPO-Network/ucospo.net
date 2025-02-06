@@ -5,8 +5,9 @@ draft: false
 description: "Celebrating Open Source and Open Science throughout the UC system"
 tags: [network]
 displayInList: true
-author: ["Stephanie Lieggi<stephanie-lieggi>"]
---
+author: ["Stephanie Lieggi <stephanie-lieggi>"]
+---
+
 ## SAVE THE DATE - 2025 UC Open
 
 **April 23 & 24, 2025**
