@@ -1,6 +1,6 @@
 ---
 title: "Save the Date! First Annual UC OSPO"
-date: 02-05-2025
+date: 2025-02-05
 draft: false
 description: "Celebrating Open Source and Open Science throughout the UC system"
 tags: [network]
