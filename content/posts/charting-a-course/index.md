@@ -44,7 +44,7 @@ Morning sessions included:
    Facilitated by David Minor (UCSD) and Erik Mitchell (UCSD), discussions centered on defining the roles and responsibilities within the OSPO Leadership Group (OLG) and working groups, as well as the governance structure between campuses.
    We defined the membership and responsibilities of the OLG and working groups, and discussed the governance structure between the OLG, campuses, and working groups.
 
-The afternoon was dedicated to thematic discussions on Discovery, Sustainability, and Education before continuing our Timeline and Deliverable discussion:
+   The afternoon was dedicated to thematic discussions on Discovery, Sustainability, and Education before continuing our Timeline and Deliverable discussion:
 
 6. **Discovery Theme.**
    Facilitated by Amber Budden (UCSB) and Emily Lovell (UCSC), the priority is to get the GitHub scraping run at each of the campuses to enable discovery of open source projects and the development of a UC Open Source Repository Browser (ORB).
@@ -59,7 +59,7 @@ The afternoon was dedicated to thematic discussions on Discovery, Sustainability
    We discussed gathering metadata and organizing educational resources, connecting with Teaching Open Source and other OSPO communities, and exploring the Carpentries Incubator and Lab for developing courses.
    We also brainstormed around early events like Hacktoberfest@UCSC in Fall 2024 and workshops on understanding large codebases with GitHub Copilot.
 
-Over the next few months, our focus will be on finalizing the project governance and management approach, branding and communications strategy, and advancing the work in the three thematic areas.
+   Over the next few months, our focus will be on finalizing the project governance and management approach, branding and communications strategy, and advancing the work in the three thematic areas.
 
 As the UC-wide network of OSPOs moves forward, it is poised to play a pivotal role in advancing open-source principles and practices across the UC system.
 With the support of the Alfred P. Sloan Foundation and the collective efforts of the UC campuses, the network is excited to embark on this journey towards a more open, collaborative, and innovative future.
