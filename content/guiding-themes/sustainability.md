@@ -29,12 +29,12 @@ Open-source software is often created to accomplish a research goal. We want to 
 
 ## Team Members
 
-**Peter Brantley, UC Davis Campus CoPI**
-**Vladimir Filkov, UC Davis Campus CoPI**
-**Amber Budden, UCSB Campus CoPI**
-**Jonathan Balkind, UCSB Campus CoPI**
-**Vessela Ensberg, UC Davis**
-**Priyal Soni, UC Davis, GSR**
-**Greg Janee, UCSB**
-**Justin Merz, UC Davis**
-**Renata Curty, UCSB**
+- Peter Brantley, UC Davis Campus CoPI
+- Vladimir Filkov, UC Davis Campus CoPI
+- Amber Budden, UCSB Campus CoPI
+- Jonathan Balkind, UCSB Campus CoPI
+- Vessela Ensberg, UC Davis
+- Priyal Soni, UC Davis, GSR
+- Greg Janee, UCSB
+- Justin Merz, UC Davis
+- Renata Curty, UCSB
