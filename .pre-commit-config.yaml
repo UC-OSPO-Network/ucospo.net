@@ -19,30 +19,30 @@ repos:
       - id: trailing-whitespace
 
   - repo: https://github.com/rbubley/mirrors-prettier
-    rev: 1463d990e0801964764a375260dca598513f3be5 # frozen: v3.3.3
+    rev: 35e81bfd12425d1786c04943fe34a9b6596d8515 # frozen: v3.5.0
     hooks:
       - id: prettier
         files: \.(css|md|yml|yaml)
         args: [--prose-wrap=preserve]
 
   - repo: https://github.com/psf/black
-    rev: 1b2427a2b785cc4aac97c19bb4b9a0de063f9547 # frozen: 24.10.0
+    rev: 8a737e727ac5ab2f1d4cf5876720ed276dc8dc4b # frozen: 25.1.0
     hooks:
       - id: black
 
   - repo: https://github.com/asottile/blacken-docs
-    rev: d4e2940d27621c7f20215459be05703947618b7b # frozen: 1.19.0
+    rev: 78a9dcbecf4f755f65d1f3dec556bc249d723600 # frozen: 1.19.1
     hooks:
       - id: blacken-docs
 
   - repo: https://github.com/asottile/pyupgrade
-    rev: a25bb536e10881d928ee824910cbaab8f4719bd1 # frozen: v3.17.0
+    rev: ce40a160603ab0e7d9c627ae33d7ef3906e2d2b2 # frozen: v3.19.1
     hooks:
       - id: pyupgrade
         args: [--py38-plus]
 
   - repo: https://github.com/codespell-project/codespell
-    rev: 193cd7d27cd571f79358af09a8fb8997e54f8fff # frozen: v2.3.0
+    rev: 63c8f8312b7559622c0d82815639671ae42132ac # frozen: v2.4.1
     hooks:
       - id: codespell
 
