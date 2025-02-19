@@ -1,66 +1,38 @@
 ---
-title: 2025 UC Open
+title: UC Open 2025
 subtitle: |
-  The First UC Open ...
-  x-x April 2025 – Seanta Clara, CA
-summary: |
-  The first
+  The First Annual UC Open celebrating open source throughout the UC system
+  23 & 24 April 2025 – Santa Clara, CA
+summary:  |
+The UC Open provides an opportunity to highlight the valuable and impactful open source research happening at our campuses. This event welcomes UC faculty, technical staff, and students, as well as those interested in collaborating with the UC open source community, and focus on sharing experience, knowledge, and expertise. The event will include keynotes, panels, directed discussions and technical sessions covering a wide range of issue relevant to open source communities inside and outside academia. Special attention will be given to common challenges facing open source communities in the UC-system. first
 ---
 
-## During the event
 
 ## Agenda
 
-{{< details "**Sunday**" >}}
+
+
+{{< details "**April 23, Wednesday**" >}}
 | Time | Description |
 |------|-------------|
-| | Arrive |
-| 19:00 | Dinner (Cedars or at hotel, TBD) |
+| 9:00--9:30 | Breakfast & Registration|
+| 9:30--13:00 | Keynotes and Panels |
+| 13:00--14:30 | Lunch & networking |
+| 14:30--16:45 | Keynotes and Panels |
+| 16:45--17:00 | Closing |
+| 17:00 | Reception |
 {{< /details >}}
 
-{{< details "**Monday**" >}}
+{{< details "**April 23, Wednesday**" >}}
 | Time | Description |
 |------|-------------|
-| 08:40 | Meet in hotel lobby (or 9am at eScience) |
-| 9:00--9:30 | Breakfast |
-| 9:00--9:30 | Welcome & coordination |
-| 9:30--13:00 | Work session |
-| 13:00--14:30 | Lunch & campus/coffee walks |
-| 14:30--17:30 | Work session |
-| 17:30--18:00 | Check-in / discussion |
-| 18:30 | Dinner (Costas) |
+| 9:00--9:30 | Breakfast & Registration|
+| 9:30--10:00 | Keynote and Breakout Sessions |
+| 10:00--13:00 | Breakout Sessions (2 Tracks) |
+| 13:00--14:30 | Lunch & networking |
+| 14:30--16:00 | Breakout Sessions (2 Tracks) |
+| 16:00--16:15 | Closing |
 {{< /details >}}
-
-{{< details "**Tuesday**" >}}
-| Time | Description |
-|------|-------------|
-| 9:00--9:30 | Breakfast |
-| 9:30--13:00 | Work session |
-| 13:00--14:30 | Lunch & campus/coffee walks |
-| 14:30--17:30 | Work session |
-| 17:30--18:00 | Check-in / discussion |
-| 19:00 | Dinner (Big Time Brewery) |
-{{< /details >}}
-
-{{< details "**Wednesday**" >}}
-| Time | Description |
-|------|-------------|
-| 9:00--9:30 | Breakfast |
-| 9:30--13:00 | Work session |
-| 13:00--14:30 | Lunch & campus/coffee walks |
-| 14:30--16:45 | Work session |
-| 16:45--17:30 | Discussion & closing |
-| 18:30 | Informal group dinner (beach/arepas?) |
-{{< /details >}}
-
-The event is held at
-
-<br/>
-<iframe
-  src="https://www.google.com/maps/d/embed?mid=1eWqjU_k7dkYF8Z58sNQ9zJaYbR8HXPM&ehbc=2E312F"
-  width="100%" height="480"
->
-</iframe>
 
 ## Logistics
 
