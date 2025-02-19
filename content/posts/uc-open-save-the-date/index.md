@@ -1,5 +1,5 @@
 ---
-title: "Save the Date! 2025 UC Open"
+title: "Save the Date! UC Open 2025"
 date: 2025-02-05
 draft: false
 description: "Celebrating Open Source and Open Science throughout the UC system"
@@ -15,7 +15,7 @@ resources:
       showOnTop: true
 ---
 
-## SAVE THE DATE - 2025 UC Open
+## SAVE THE DATE - UC Open 2025
 
 **April 23 & 24, 2025**
 **Venue: [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/)**
