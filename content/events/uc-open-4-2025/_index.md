@@ -1,6 +1,7 @@
 ---
-title: UC Open 2025
-description:  The First Annual UC Open celebrating open source throughout the UC system:  23 & 24 April 2025 – Santa Clara, CA
+title: "UC Open 2025"
+date: 2025-02-19
+description:  "The First Annual UC Open celebrating open source throughout the UC system:  23 & 24 April 2025 – Santa Clara, CA"
 ---
 
 The UC Open provides an opportunity to highlight the valuable and impactful open source research happening at our campuses. This event welcomes UC faculty, technical staff, and students, as well as those interested in collaborating with the UC open source community, and focus on sharing experience, knowledge, and expertise. The event will include keynotes, panels, directed discussions and technical sessions covering a wide range of issue relevant to open source communities inside and outside academia. Special attention will be given to common challenges facing open source communities in the UC-system.
