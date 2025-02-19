@@ -52,6 +52,8 @@ params:
   navbar:
     - title: About
       url: /about
+    - title: Events
+      url: /events
     - title: Guiding Themes
       url: /guiding-themes
     - title: Blog
