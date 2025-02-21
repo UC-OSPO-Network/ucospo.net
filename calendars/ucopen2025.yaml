@@ -1,0 +1,11 @@
+name: UC Open 2025
+timezone: America/Los_Angeles
+events:
+  - summary: UC Open 2025
+    description: |
+      This is ...
+
+      Meeting Link: https://ucospo.net/events/uc-open-4-2025/
+    begin: 2025-04-23 9:00:00
+    end: 2025-04-23 15:00:00
+    ics: RRULE:FREQ=DAILY;UNTIL=2024-04-24
