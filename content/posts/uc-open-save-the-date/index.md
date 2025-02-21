@@ -29,6 +29,7 @@ The event will include keynotes, panels, directed discussions and technical sess
 **Check back soon for registration information and the full agenda!**
 
 ### Event sponsors and partners
-If you or your organization is interesting in sponsoring the event please contact [the steering committee](mailto:slieggi@ucsc.edu). A full sponorship prospectus will be available soon.  
+
+If you or your organization is interesting in sponsoring the event please contact [the steering committee](mailto:slieggi@ucsc.edu). A full sponsorship prospectus will be available soon.
 
 _For those coming from outside the Bay Area, information for discounted hotel rates will be available soon._
