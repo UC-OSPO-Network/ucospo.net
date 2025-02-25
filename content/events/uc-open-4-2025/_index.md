@@ -18,7 +18,7 @@ The University of California Open Summit (UC Open) 2025 provides an opportunity 
 | ----------- | ------------------------ |
 | 9:00-9:30   | Breakfast & Registration |
 | 9:30-9:50   | Opening Remarks          |
-| 9:50-10:45  | Panel: From Idea to Impact – Looking at Pathways of Widely Adopted UC-affiliated Open Source |
+| 9:50-10:45  | Panel: From Idea to Impact - Charting Creation and Adoption of UC-affiliated Open Source |
 | 10:45-11:10 | Break and Networking     |
 | 11:10-11:50 | Keynote: Heather Meeker, ChinStrap Communities |
 | 11:50-12:30 | Keynote: Kenyatta Forbes, GitHub Open Source Programs |
@@ -45,20 +45,31 @@ The University of California Open Summit (UC Open) 2025 provides an opportunity 
 
 ## Logistics
 
-Coming soon!
+Event Venue Address:  3175 Bowers Ave, Santa Clara, CA 95054
+*Free parking available*
 
-### Airport to hotel
+Venue reachable through [Valley Transportation Authority (VTA)](https://www.vta.org/) / [Caltrain](https://www.caltrain.com/). 
 
-Coming soon!
+### Hotel
+AC Hotel San Jose Santa Clara (closest to venue) - 2970 Lakeside Dr Santa Clara, CA 95054. (.8 miles from SVC, 12 minute walk)
+- Preferred Rates on Connexus Available
+
+Santa Clara Marriott - 2700 Mission College Boulevard Santa Clara, California 95054. (1.6 miles from SVC, 34 min walk)
+- Preferred Rates on Connexus Available
+
+TownePlace Suites San Jose Cupertino - 440 Saratoga Ave San Jose, CA 95129 (5.5 miles from SVC)
+- Preferred Rates on Connexus Available
+
+
+### Nearby Airports
+
+The UCSC Silicon Valley Campus is about 6 miles away from San Jose Airport (SJC) and 30 miles from San Francisco Airport (SFO)
 
 ### Food
 
-Coming soon!
+Light breakfast and lunch is provided on both days of the event. There will also be an evening reception on April 23. When you register you will be asked to provide any dietary restrictions or concers. 
 
 ### Participants
 
 Coming soon!
 
-## About
-
-Coming soon!
