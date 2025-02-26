@@ -20,7 +20,7 @@ The University of California Open Summit (UC Open) 2025 provides an opportunity 
 | 9:30-9:50   | Opening Remarks          |
 | 9:50-10:45  | Panel: From Idea to Impact - Charting Creation and Adoption of UC-affiliated Open Source |
 | 10:45-11:10 | Break and Networking     |
-| 11:10-11:50 | Keynote: Heather Meeker, ChinStrap Communities |
+| 11:10-11:50 | Fireside Chat: Heather Meeker, Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community - Commercial Open Source Software: How innovators profit by giving software away |
 | 11:50-12:30 | Keynote: Kenyatta Forbes, GitHub Open Source Programs |
 | 12:30-2:00  | Lunch & networking       |
 | 2:00-2:40   | Keynote: TBC             |
@@ -36,7 +36,7 @@ The University of California Open Summit (UC Open) 2025 provides an opportunity 
 | ----------- | ----------------------------- |----------------------------- |
 | 9:00-9:30   | Breakfast & Registration      |
 | 9:30-10:20  | Panel: Technology Transfer and Impact of Open Source|
-| 10:30-11:20 | BoF: OS Licensing at UC       | Creating Sustainable Open Source |
+| 10:30-11:20 | BoF: OS Licensing at UC       | Discussion of Sustainable Open Source, including Launch of OSPEx, tool for OSS Sustainability by Vladimir Filkov, UC Davis|
 | 11:25-12:35 | Software Security             | Open Source in Agriculture   |
 | 12:35-2:00  | Lunch & networking            |
 | 2:00-2:50   | BoF: OS and Campus IT  | Open Source and Medical Sector |
