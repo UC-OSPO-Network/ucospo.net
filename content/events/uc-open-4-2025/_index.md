@@ -20,7 +20,7 @@ The University of California Open Summit (UC Open) 2025 provides an opportunity 
 
 ### Wednesday, April 23 2025
 
-| Time        | Main Room              |
+| Time        | Session                  |
 | ----------- | ------------------------ |
 | 9:00-9:30   | Breakfast & Registration |
 | 9:30-9:50   | Opening Remarks          |
@@ -38,15 +38,21 @@ The University of California Open Summit (UC Open) 2025 provides an opportunity 
 
 ### Thursday, April 24 2025
 
-| Time        | Main Room                   |Breakout Room                   |
-| ----------- | ----------------------------- |----------------------------- |
+| Time        | Sessions                   |
+| ----------- | ----------------------------- |
 | 9:00-9:30   | Breakfast & Registration      |
 | 9:30-10:20  | Panel: Technology Transfer and Impact of Open Source|
-| 10:30-11:20 | BoF: OS Licensing at UC       | Discussion of Sustainable Open Source, including Launch of OSPEx, tool for OSS Sustainability by Vladimir Filkov, UC Davis|
-| 11:25-12:35 | Software Security             | Open Source in Agriculture   |
+| 10:30-11:20 | Track 1: BoF: OS Licensing at UC       | 
+| ----------- | Track 2: Discussion of Sustainable Open Source, including Launch of OSPEx, tool for OSS Sustainability by Vladimir Filkov, UC Davis|
+| 11:25-12:35 | Track 1: Software Security    | 
+| ----------- | Track 2: Open Source in Agriculture   |
 | 12:35-2:00  | Lunch & networking            |
-| 2:00-2:50   | BoF: OS and Campus IT  | Open Source and Medical Sector |
+| 2:00-2:50   | Track 1: BoF: OS and Campus IT  | 
+| ----------- | Track 2: Open Source and Medical Sector |
 | 3:00-3:50   | Closing Session: Building Academic OSPOs at UC  |
+
+# Sponsors
+More on sponsorship coming soon!
 
 
 ## Logistics
