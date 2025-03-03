@@ -1,11 +1,9 @@
 ---
-title: UC Open Sponsorship Information
+title: Be a UC Open Sponsor!
 ---
 
-Does your organization want to support open source innovation & research in academia?
-Do you want to foster collaboration with industry, universities & OS communities?
-
-# Be a UC Open Sponsor!
+- Does your organization want to support open source innovation & research in academia?
+- Do you want to foster collaboration with industry, universities & OS communities?
 
 | Sponsor Tiers  | Amount      | Benefits                                                                                             |
 | -------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
@@ -14,4 +12,4 @@ Do you want to foster collaboration with industry, universities & OS communities
 | _Silver_       | _$1000_     | _Break Sponsor. Medium Logo on event signage & website Shared table in sponsor area_                 |
 | Bronze         | $1500       | Medium Logo on event signage & website Shared table in sponsor area                                  |
 
-## Contact ospo-info-group@ucsc.edu for more details on how to sponsor this event!
+**Contact [ospo-info-group@ucsc.edu](mailto:ospo-info-group@ucsc.edu) for more details on how to sponsor this event!**
