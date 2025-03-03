@@ -15,6 +15,10 @@ The University of California Open Summit (UC Open) 2025 provides an opportunity 
 
 **Location: [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/facility/) Santa Clara, CA**
 
+## Sponsorship info
+
+If your organization wants to support open source innovation & research in academia, and foster collaboration with industry, universities & OS communities, check out our [sponsorship opportunities!](./sponsor/_index.md)
+
 ## Agenda
 
 ### Wednesday, April 23 2025
