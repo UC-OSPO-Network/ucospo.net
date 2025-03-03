@@ -10,6 +10,10 @@ The UC Open provides an opportunity to highlight the valuable and impactful open
 
 **Location: Santa Clara, CA**
 
+## Sponsorship info
+
+If your organization wants to support open source innovation & research in academia, and foster collaboration with industry, universities & OS communities, check out our [sponsorship opportunities!](/content//events/uc-open-4-2025/sponsor/_index.md)
+
 ## Agenda
 
 ### Wednesday, April 23 2025
