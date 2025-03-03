@@ -12,7 +12,7 @@ The UC Open provides an opportunity to highlight the valuable and impactful open
 
 ## Sponsorship info
 
-If your organization wants to support open source innovation & research in academia, and foster collaboration with industry, universities & OS communities, check out our [sponsorship opportunities!](/content//events/uc-open-4-2025/sponsor/_index.md)
+If your organization wants to support open source innovation & research in academia, and foster collaboration with industry, universities & OS communities, check out our [sponsorship opportunities!](/content/events/uc-open-4-2025/sponsor/_index.md)
 
 ## Agenda
 
