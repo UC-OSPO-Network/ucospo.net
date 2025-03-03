@@ -55,10 +55,13 @@ params:
     - title: Events
       url: /events
       sublinks:
-        - title: Sponsorship info
-          url: /sponsor
-        - title: Speakers
-          url: /speakers
+        - title: UC Open 2025
+          url: /uc-open-4-2025
+        - sublinks:
+            - title: Sponsorship info
+              url: /sponsor
+            - title: Speakers
+              url: /speakers
     - title: Guiding Themes
       url: /guiding-themes
     - title: Blog
