@@ -51,7 +51,7 @@ If your organization wants to support open source innovation & research in acade
 | ----------- | Track 2: Open Source in Agriculture                                                                                                 |
 | 12:35-2:00  | Lunch & networking                                                                                                                  |
 | 2:00-2:50   | Track 1: BoF: OS and Campus IT                                                                                                      |
-| ----------- | Track 2: Open Source and Medical Sector                                                                                             |
+| ----------- | Track 2: Open Source and AI                                                                                             |
 | 3:00-3:50   | Closing Session: Building Academic OSPOs at UC                                                                                      |
 
 # Sponsors
