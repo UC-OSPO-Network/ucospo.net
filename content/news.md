@@ -1,8 +1,12 @@
 ---
 title: News
-newsHeader: UC OSPO Network hosts two sessions at UC Tech 2024
+newsHeader: UC Open Summit (April 23 & 24) Registration OPEN!
 sidebar: false
 ---
+
+## 2025--03--05: UC Open Summit Registration OPEN!
+
+For more information, see our [event page](events/uc-open-4-2025).
 
 ## 2024--12--03: UC OSPO Network hosts two sessions at UC Tech 2024
 
