@@ -47,7 +47,7 @@ If your organization wants to support open source innovation & research in acade
 | 9:30-10:20  | Panel: Technology Transfer and Impact of Open Source, including Michael Cohen (UCB), Marc Oettinger (UCSC), more TBC           |
 | 10:30-11:20 | Track 1: BoF: OS Licensing at UC                                                                                                    |
 | ----------- | Track 2: Discussion of Sustainable Open Source, including Launch of OSPEx, tool for OSS Sustainability by Vladimir Filkov (UCD) |
-| 11:25-12:35 | Track 1: Open Source Software Security -- Understanding and Mitigating Risk in Academic Settings, moderated by Juanita Gomez and Alfaro Cardenas (UCSC)               |
+| 11:25-12:35 | Track 1: Open Source Software Security -- Understanding and Mitigating Risk in Academic Settings, moderated by Alvaro Cardenas and Juanita Gomez (UCSC)               |
 | ----------- | Track 2: Open Source for Agrifood - Perspectives from Academics and Industry, moderated by Rob Trice (Better Food Ventures); including Colleen Josephson (UCSC), others TBA   |
 | 12:35-2:00  | Lunch & networking                                                                                                                  |
 | 2:00-2:50   | Track 1: BoF: Supporting Open Source Contributions from UC-affiliated Technologist                                                                      |
