@@ -9,7 +9,6 @@ resources:
       description: "UC Open Banner"
       showOnTop: true
 ---
----
 
 {{< button success >}}
 label: REGISTRATION
