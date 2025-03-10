@@ -11,7 +11,7 @@ label: REGISTRATION
 link: https://www.eventbrite.com/e/uc-open-2025-tickets-1253650846429?aff=ebdssbdestsearch
 {{< /button >}}
 
-The University of California Open Summit (UC Open) 2025 will highlight the value open source has to the UC system and how UC contributions are a benefit to open source communities. This event welcomes UC faculty, technical staff, and students, as well as the industry and open source community interested in collaborating with UC researchers. The UC Open aims to leverage participants' experience, knowledge, and expertise in order to increase the impact of the research and education on UC campuses. Our keynotes, panels, directed discussions and technical sessions will cover a wide range of issue relevant to open source communities inside and outside academia. 
+The University of California Open Summit (UC Open) 2025 will highlight the value open source has to the UC system and how UC contributions are a benefit to open source communities. This event welcomes UC faculty, technical staff, and students, as well as the industry and open source community interested in collaborating with UC researchers. The UC Open aims to leverage participants' experience, knowledge, and expertise in order to increase the impact of the research and education on UC campuses. Our keynotes, panels, directed discussions and technical sessions will cover a wide range of issue relevant to open source communities inside and outside academia.
 
 Special attention will be given to common challenges facing open source communities in the UC-system, and ways that collaborating across sectors can help meet these challenges.
 
@@ -27,36 +27,36 @@ If your organization wants to support open source innovation & research in acade
 
 ### Wednesday, April 23 2025
 
-| Time        | Session                                                                                                                                                                             |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9:00-9:30   | Breakfast & Registration                                                                                                                                                            |
-| 9:30-9:50   | Opening Remarks                                                                                                                                                                     |
+| Time        | Session                                                                                                                                                                                                                    |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9:00-9:30   | Breakfast & Registration                                                                                                                                                                                                   |
+| 9:30-9:50   | Opening Remarks                                                                                                                                                                                                            |
 | 9:50-10:45  | Panel: From Idea to Impact - Charting Creation and Adoption of Open Source Coming for Academia; Moderater: Stephanie Lieggi (UCSC); panelists: Fernando Perez (UCB and Jupyter), Michele Tobias (UCD and OSGeo), other TBA |
-| 10:45-11:10 | Break and Networking                                                                                                                                                                |
-| 11:10-11:50 | Fireside Chat: Heather Meeker, Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community - Commercial Open Source Software: How innovators profit by giving software away |
-| 11:50-12:30 | Keynote: Kenyatta Forbes, GitHub Open Source Programs                                                                                                                               |
-| 12:30-2:00  | Lunch & networking                                                                                                                                                                  |
-| 2:00-2:40   | Keynote: TBC                                                                                                                                                                        |
-| 2:40-3:30   | Panel: Open S####? - Understanding What is Meant by Open -- Featuring Jarrod Millman (UCB), Emily Lovell (UCSC), other TBA                                                         |
-| 3:30-4:00   | Break and Networking                                                                                                                                                                |
-| 4:00-4:40   | Keynote: Kate Hertweck, Chan Zuckerberg Initiative - Essential Open Source Software for Science                                                                                      |
-| 4:40-5:00   | Wrap - up / Day 2 preview                                                                                                                                                           |
-| 5:00 - 6:30 | Reception                                                                                                                                                                           |
+| 10:45-11:10 | Break and Networking                                                                                                                                                                                                       |
+| 11:10-11:50 | Fireside Chat: Heather Meeker, Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community - Commercial Open Source Software: How innovators profit by giving software away                                        |
+| 11:50-12:30 | Keynote: Kenyatta Forbes, GitHub Open Source Programs                                                                                                                                                                      |
+| 12:30-2:00  | Lunch & networking                                                                                                                                                                                                         |
+| 2:00-2:40   | Keynote: TBC                                                                                                                                                                                                               |
+| 2:40-3:30   | Panel: Open S####? - Understanding What is Meant by Open -- Featuring Jarrod Millman (UCB), Emily Lovell (UCSC), other TBA                                                                                                 |
+| 3:30-4:00   | Break and Networking                                                                                                                                                                                                       |
+| 4:00-4:40   | Keynote: Kate Hertweck, Chan Zuckerberg Initiative - Essential Open Source Software for Science                                                                                                                            |
+| 4:40-5:00   | Wrap - up / Day 2 preview                                                                                                                                                                                                  |
+| 5:00 - 6:30 | Reception                                                                                                                                                                                                                  |
 
 ### Thursday, April 24 2025
 
-| Time        | Sessions                                                                                                                                                                    |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9:00-9:30   | Breakfast & Registration                                                                                                                                                    |
-| 9:30-10:20  | Panel: Technology Transfer and Impact of Open Source; Moderator: Karla Padilla (UCSD); Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA                                                        |
-| 10:30-11:20 | Track 1: BoF - What You Should Know about OS Licensing at UC                                                                                                                      |
-| ----------- | Track 2: Discussion of Sustainable Open Source, including Launch of OSPEx, tool for OSS Sustainability by Vladimir Filkov (UCD)                                             |
-| 11:25-12:35 | Track 1: Open Source Software Security -- Understanding and Mitigating Risk in Academic Settings; Moderated by Alvaro Cardenas and Juanita Gomez (UCSC)                     |
+| Time        | Sessions                                                                                                                                                                   |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9:00-9:30   | Breakfast & Registration                                                                                                                                                   |
+| 9:30-10:20  | Panel: Technology Transfer and Impact of Open Source; Moderator: Karla Padilla (UCSD); Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA                 |
+| 10:30-11:20 | Track 1: BoF - What You Should Know about OS Licensing at UC                                                                                                               |
+| ----------- | Track 2: Discussion of Sustainable Open Source, including Launch of OSPEx, tool for OSS Sustainability by Vladimir Filkov (UCD)                                            |
+| 11:25-12:35 | Track 1: Open Source Software Security -- Understanding and Mitigating Risk in Academic Settings; Moderated by Alvaro Cardenas and Juanita Gomez (UCSC)                    |
 | ----------- | Track 2: Open Source for Agrifood - Perspectives from Academics and Industry; Moderater: Rob Trice (Better Food Ventures); Panelists: Colleen Josephson (UCSC), others TBA |
-| 12:35-2:00  | Lunch & networking                                                                                                                                                          |
-| 2:00-2:50   | Track 1: BoF: Supporting Open Source Contributions from UC-affiliated Technologist                                                                                          |
-| ----------- | Track 2: Open Source, AI and the Role of UC Researchers                                                                                                                     |
-| 3:00-3:50   | Closing Session: Building Academic OSPOs at UC                                                                                                                              |
+| 12:35-2:00  | Lunch & networking                                                                                                                                                         |
+| 2:00-2:50   | Track 1: BoF: Supporting Open Source Contributions from UC-affiliated Technologist                                                                                         |
+| ----------- | Track 2: Open Source, AI and the Role of UC Researchers                                                                                                                    |
+| 3:00-3:50   | Closing Session: Building Academic OSPOs at UC                                                                                                                             |
 
 # Sponsors
 
