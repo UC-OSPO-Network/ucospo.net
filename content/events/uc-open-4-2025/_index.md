@@ -31,7 +31,7 @@ If your organization wants to support open source innovation & research in acade
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 9:00-9:30   | Breakfast & Registration                                                                                                                                                            |
 | 9:30-9:50   | Opening Remarks                                                                                                                                                                     |
-| 9:50-10:45  | Panel: From Idea to Impact - Charting Creation and Adoption of Open Source Coming for Academia, including Fernando Perez (UCB and Jupyter), more TBA                                |
+| 9:50-10:45  | Panel: From Idea to Impact - Charting Creation and Adoption of Open Source Coming for Academia; Moderater: Stephanie Lieggi (UCSC); panelists: Fernando Perez (UCB and Jupyter), Michele Tobias (UCD and OSGeo), other TBA |
 | 10:45-11:10 | Break and Networking                                                                                                                                                                |
 | 11:10-11:50 | Fireside Chat: Heather Meeker, Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community - Commercial Open Source Software: How innovators profit by giving software away |
 | 11:50-12:30 | Keynote: Kenyatta Forbes, GitHub Open Source Programs                                                                                                                               |
@@ -48,11 +48,11 @@ If your organization wants to support open source innovation & research in acade
 | Time        | Sessions                                                                                                                                                                    |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 9:00-9:30   | Breakfast & Registration                                                                                                                                                    |
-| 9:30-10:20  | Panel: Technology Transfer and Impact of Open Source, including Michael Cohen (UCB), Marc Oettinger (UCSC), others TBA                                                        |
-| 10:30-11:20 | Track 1: BoF - What Should Know about OS Licensing at UC                                                                                                                      |
+| 9:30-10:20  | Panel: Technology Transfer and Impact of Open Source; Moderator: Karla Padilla (UCSD); Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA                                                        |
+| 10:30-11:20 | Track 1: BoF - What You Should Know about OS Licensing at UC                                                                                                                      |
 | ----------- | Track 2: Discussion of Sustainable Open Source, including Launch of OSPEx, tool for OSS Sustainability by Vladimir Filkov (UCD)                                             |
-| 11:25-12:35 | Track 1: Open Source Software Security -- Understanding and Mitigating Risk in Academic Settings, moderated by Alvaro Cardenas and Juanita Gomez (UCSC)                     |
-| ----------- | Track 2: Open Source for Agrifood - Perspectives from Academics and Industry, moderated by Rob Trice (Better Food Ventures); including Colleen Josephson (UCSC), others TBA |
+| 11:25-12:35 | Track 1: Open Source Software Security -- Understanding and Mitigating Risk in Academic Settings; Moderated by Alvaro Cardenas and Juanita Gomez (UCSC)                     |
+| ----------- | Track 2: Open Source for Agrifood - Perspectives from Academics and Industry; Moderater: Rob Trice (Better Food Ventures); Panelists: Colleen Josephson (UCSC), others TBA |
 | 12:35-2:00  | Lunch & networking                                                                                                                                                          |
 | 2:00-2:50   | Track 1: BoF: Supporting Open Source Contributions from UC-affiliated Technologist                                                                                          |
 | ----------- | Track 2: Open Source, AI and the Role of UC Researchers                                                                                                                     |
