@@ -58,10 +58,6 @@ If your organization wants to support open source innovation & research in acade
 |             | **Track 2:** _Open Source, AI and the Role of UC Researchers_                                                  |
 | 3:00-3:50   | Closing Session: Building Academic OSPOs at UC                                                                 |                                                                                                      |
 
-# Sponsors
-
-Coming Soon!
-
 ## Logistics
 
 Event Venue Address: [3175 Bowers Ave, Santa Clara, CA 95054](https://www.openstreetmap.org/directions?from=&to=37.379740,-121.976883#map=19/37.379619/-121.977135)
