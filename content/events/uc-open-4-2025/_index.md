@@ -67,17 +67,19 @@ Venue reachable through [Valley Transportation Authority (VTA)](https://www.vta.
 
 ### Hotel
 
-AC Hotel San Jose Santa Clara (closest to venue) - 2970 Lakeside Dr Santa Clara, CA 95054. (.8 miles from SVC, 12 minute walk)
+Preferred rates are available at the following hotels for UC folks (check back soon for room block details for non-UC folks!):
 
-- Preferred Rates on Connexus Available
+- AC Hotel San Jose Santa Clara (closest to venue)
+  - 2970 Lakeside Dr Santa Clara, CA 95054
+  - 0.8 miles from SVC, 12 minute walk
 
-Santa Clara Marriott - 2700 Mission College Boulevard Santa Clara, California 95054. (1.6 miles from SVC, 34 min walk)
+- Santa Clara Marriott
+  - 2700 Mission College Boulevard Santa Clara, California 95054
+  - 1.6 miles from SVC, 34 min walk
 
-- Preferred Rates on Connexus Available
-
-TownePlace Suites San Jose Cupertino - 440 Saratoga Ave San Jose, CA 95129 (5.5 miles from SVC)
-
-- Preferred Rates on Connexus Available
+- TownePlace Suites San Jose Cupertino
+  - 440 Saratoga Ave San Jose, CA 95129
+  - 5.5 miles from SVC
 
 ### Nearby Airports
 
