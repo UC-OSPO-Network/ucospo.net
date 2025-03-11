@@ -15,6 +15,10 @@ resources:
       showOnTop: true
 ---
 
+## Registration now open!
+
+[Check out the agenda and register](../../events/uc-open-4-2025/_index.md) for UC Open 2025!
+
 ## SAVE THE DATE - UC Open 2025
 
 **April 23 & 24, 2025**
