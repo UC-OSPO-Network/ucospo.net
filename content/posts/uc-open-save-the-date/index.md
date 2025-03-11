@@ -17,9 +17,7 @@ resources:
 
 ## Registration now open!
 
-[Check out the agenda and register](../../events/uc-open-4-2025/_index.md) for UC Open 2025!
-
-## SAVE THE DATE - UC Open 2025
+[**Check out the agenda and register for UC Open 2025**](../../events/uc-open-4-2025/_index.md)!
 
 **April 23 & 24, 2025**
 **Venue: [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/)**
