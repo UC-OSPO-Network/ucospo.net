@@ -15,6 +15,12 @@ The University of California Open Summit (UC Open) 2025 will highlight the value
 
 Special attention will be given to common challenges facing open source communities in the UC-system, and ways that collaborating across sectors can help meet these challenges.
 
+This isn't just another professional obligation. UC Open promises to be:
+
+- **Genuinely enjoyable**: we’ve made sure to include breaks long enough to recharge your attention span and have meaningful conversations.
+- **Small but mighty**: our deliberately limited capacity means you’ll leave with real relationships, not just business cards. Every conversation matters when you're part of a curated community rather than a sea of strangers.
+- **Warmly collaborative**: this conference is for humans, not sales. Whether you're a researcher, maintainer, contributor, or simply curious about open source innovation, you'll find your people here.
+
 _Thanks to the generosity of our sponsors, we are able to make this event **free of charge** for all participants and we will provide a light breakfast and lunch on both days as well as a buffet/reception at the end of the first day._
 
 **Date: 23 & 24 April 2025**
