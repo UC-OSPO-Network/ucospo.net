@@ -15,13 +15,15 @@ The University of California Open Summit (UC Open) 2025 will highlight the value
 
 Special attention will be given to common challenges facing open source communities in the UC-system, and ways that collaborating across sectors can help meet these challenges.
 
+*Thanks to the genorous of our sponsors, we are able to make this event **free of charge** for all participants and we will provide light breakfast and lunch on both days as well as a buffet/reception at the end of the first day.* 
+
 **Date: 23 & 24 April 2025**
 
 **Location: [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/facility/) Santa Clara, CA**
 
 ## Sponsorship info
 
-If your organization wants to support open source innovation & research in academia, and foster collaboration with industry, universities & OS communities, check out our [sponsorship opportunities!](./sponsor/_index.md)
+If your organization wants to support open source innovation & research in academia, and foster collaboration with industry, universities & OS communities, check out our [sponsorship opportunities!](./sponsor/_index.md). Individual participants can also make to donations to support support our efforts. Contact the [organizers](mailto:slieggi@ucsc.edu) for more detials.
 
 ## Agenda
 
@@ -37,7 +39,7 @@ If your organization wants to support open source innovation & research in acade
 | 11:50-12:30 | Keynote                                                                                         | Kenyatta Forbes, GitHub Open Source Programs                                                                                          |
 | 12:30-2:00  | Lunch & networking                                                                              |                                                                                                                                       |
 | 2:00-2:40   | Keynote                                                                                         | TBA                                                                                                                                   |
-| 2:40-3:30   | Panel: _Open S#####? - Understanding What is Meant by "Open"_                                   | Moderator: Kirstie Whittaker (UCB); Panelists: Jarrod Millman (UCB), Emily Lovell (UCSC), Kristen Ratan (Strategies for Open Science) |
+| 2:40-3:30   | Panel: _Technology Transfer and Impact of Open Source_                                          | Moderator: Karla Padilla (UCSD); Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA |
 | 3:30-4:00   | Break and Networking                                                                            |                                                                                                                                       |
 | 4:00-4:40   | Keynote: _Essential Open Source Software for Science_                                           | Kate Hertweck, Chan Zuckerberg Initiative                                                                                             |
 | 4:40-5:00   | Wrap - up / Day 2 preview                                                                       |                                                                                                                                       |
@@ -48,9 +50,9 @@ If your organization wants to support open source innovation & research in acade
 | Time        | Session                                                                                                        |                                                                                                      |
 | ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | 9:00-9:30   | Breakfast & Registration                                                                                       |                                                                                                      |
-| 9:30-10:20  | Panel: _Technology Transfer and Impact of Open Source_                                                         | Moderator: Karla Padilla (UCSD); Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA |
+| 9:30-10:20  |  Panel: _Open S#####? - Understanding What is Meant by "Open"_                                                 | Moderator: Kirstie Whittaker (UCB); Panelists: Jarrod Millman (UCB), Emily Lovell (UCSC), Kristen Ratan (Strategies for Open Science) |
 | 10:30-11:20 | **Track 1:** BoF - _What You Should Know about OS Licensing at UC_                                             |                                                                                                      |
-|             | **Track 2**: _Discussion of Sustainable Open Source, including Launch of OSPEx, a tool for OSS Sustainability_ | Vladimir Filkov (UCD)                                                                                |
+|             | **Track 2**: _Discussion of Sustainable Open Source, including Launch of OSPEx, a tool for OSS Sustainability_ | Moderator: Vladimir Filkov (UCD)                                                                                |
 | 11:25-12:35 | **Track 1:** _Open Source Software Security—Understanding and Mitigating Risk in Academic Settings_            | Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)                                                 |
 |             | **Track 2:** _Open Source for Agrifood—Perspectives from Academics and Industry_                               | Moderator: Rob Trice (Better Food Ventures); Panelists: Colleen Josephson (UCSC), others TBA         |
 | 12:35-2:00  | Lunch & networking                                                                                             |                                                                                                      |
