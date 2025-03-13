@@ -27,23 +27,65 @@ If your organization wants to support open source innovation & research in acade
 
 ## Agenda
 
-### Wednesday, April 23 2025
-
-| Time        | Session                                                                                         |                                                                                                                    |
-| ----------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 9:00-9:30   | Breakfast & Registration                                                                        |                                                                                                                    |
-| 9:30-9:50   | Opening Session, including welcome from Alexander Wolf, Dean, UCSC Baskin Engineering           |                                                                                                                    |
-| 9:50-10:45  | Panel: _From Idea to Impact—Charting Creation and Adoption of Open Source Coming for Academia_  | Moderator: Stephanie Lieggi (UCSC); panelists: Fernando Perez (UCB and Jupyter), Bin Fang (Alluxio), and other TBA |
-| 10:45-11:10 | Break and Networking                                                                            |                                                                                                                    |
-| 11:10-11:50 | Fireside Chat: _Commercial Open Source Software: How innovators profit by giving software away_ | Heather Meeker, Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community                                |
-| 11:50-12:30 | Keynote                                                                                         | Kenyatta Forbes, GitHub Open Source Programs                                                                       |
-| 12:30-2:00  | Lunch & networking                                                                              |                                                                                                                    |
-| 2:00-2:40   | Keynote                                                                                         | TBA                                                                                                                |
-| 2:40-3:30   | Panel: _Technology Transfer and Impact of Open Source_                                          | Moderator: Karla Padilla (UCSD); Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA               |
-| 3:30-4:00   | Break and Networking                                                                            |                                                                                                                    |
-| 4:00-4:40   | Keynote: _Essential Open Source Software for Science_                                           | Kate Hertweck, Chan Zuckerberg Initiative                                                                          |
-| 4:40-5:00   | Wrap - up / Day 2 preview                                                                       |                                                                                                                    |
-| 5:00 - 6:30 | Reception                                                                                       |                                                                                                                    |
+<table border='1' cellpadding='3' style='border-collapse:collapse'><thead>
+  <tr>
+    <th>Time</th>
+    <th colspan="2">Session</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>9:00-9:30</td>
+    <td colspan="2">Breakfast &amp; Registration</td>
+  </tr>
+  <tr>
+    <td>9:30-9:50</td>
+    <td colspan="2"><b>Opening Session</b>, including welcome from Alexander Wolf, Dean, UCSC Baskin Engineering</td>
+  </tr>
+  <tr>
+    <td>9:50-10:45</td>
+    <td colspan="2"><b>Panel: <em>From Idea to Impact—Charting Creation and Adoption of Open Source Coming for Academia</em></b><br><em>Moderator: Stephanie Lieggi (UCSC); panelists: Fernando Perez (UCB and Jupyter), Bin Fang (Alluxio), and other TBA</em></td>
+  </tr>
+  <tr>
+    <td>10:45-11:10</td>
+    <td colspan="2">Break and Networking</td>
+  </tr>
+  <tr>
+    <td>11:10-11:50</td>
+    <td colspan="2"><b>Fireside Chat: <em>Commercial Open Source Software: How innovators profit by giving software away</em></b><br><em>Heather Meeker, Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community</em></td>
+  </tr>
+  <tr>
+    <td>11:50-12:30</td>
+    <td colspan="2"><b>Keynote</b><br><em>Kenyatta Forbes, GitHub Open Source Programs</em></td>
+  </tr>
+  <tr>
+    <td>12:30-2:00</td>
+    <td colspan="2">Lunch &amp; Networking</td>
+  </tr>
+  <tr>
+    <td>2:00-2:40</td>
+    <td colspan="2"><b>Keynote</b><br><em>TBA</em></td>
+  </tr>
+  <tr>
+    <td>2:40-3:30</td>
+    <td colspan="2"><b>Panel: <em>Technology Transfer and Impact of Open Source</em></b><br><em>Moderator: Karla Padilla (UCSD); Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA</em></td>
+  </tr>
+  <tr>
+    <td>3:30-4:00</td>
+    <td colspan="2">Break and Networking</td>
+  </tr>
+  <tr>
+    <td>4:00-4:40</td>
+    <td colspan="2"><b>Keynote: <em>Essential Open Source Software for Science</em></b><br><em>Kate Hertweck, Chan Zuckerberg Initiative</em></td>
+  </tr>
+  <tr>
+    <td>4:40-5:00</td>
+    <td colspan="2">Wrap-up / Day 2 Preview</td>
+  </tr>
+  <tr>
+    <td>5:00-6:30</td>
+    <td colspan="2">Reception</td>
+  </tr>
+</tbody></table>
 
 ### Thursday, April 24 2025
 
