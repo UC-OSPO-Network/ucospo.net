@@ -47,18 +47,45 @@ If your organization wants to support open source innovation & research in acade
 
 ### Thursday, April 24 2025
 
-| Time        | Session                                                                                                        |                                                                                                                                       |
-| ----------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 9:00-9:30   | Breakfast & Registration                                                                                       |                                                                                                                                       |
-| 9:30-10:20  | Panel: _Open S#####? - Understanding What is Meant by "Open"_                                                  | Moderator: Kirstie Whittaker (UCB); Panelists: Jarrod Millman (UCB), Emily Lovell (UCSC), Kristen Ratan (Strategies for Open Science) |
-| 10:30-11:20 | **Track 1:** BoF - _What You Should Know about OS Licensing at UC_                                             |                                                                                                                                       |
-|             | **Track 2**: _Discussion of Sustainable Open Source, including Launch of OSPEx, a tool for OSS Sustainability_ | Moderator: Vladimir Filkov (UCD)                                                                                                      |
-| 11:25-12:35 | **Track 1:** _Open Source Software Security—Understanding and Mitigating Risk in Academic Settings_            | Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)                                                                                  |
-|             | **Track 2:** _Open Source for Agrifood—Perspectives from Academics and Industry_                               | Moderator: Rob Trice (Better Food Ventures); Panelists: Colleen Josephson (UCSC), others TBA                                          |
-| 12:35-2:00  | Lunch & networking                                                                                             |                                                                                                                                       |
-| 2:00-2:50   | **Track 1:** BoF: _Supporting Open Source Contributions from UC-affiliated Technologists_                      |                                                                                                                                       |
-|             | **Track 2:** _Open Source, AI and the Role of UC Researchers_                                                  |
-| 3:00-3:50   | Closing Session: Building Academic OSPOs at UC                                                                 |                                                                                                                                       |
+<table><thead>
+  <tr>
+    <th>Time</th>
+    <th>Track 1</th>
+    <th>Track 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>9:00-9:30</td>
+    <td colspan="2">Breakfast &amp; Registration</td>
+  </tr>
+  <tr>
+    <td>9:30-10:20</td>
+    <td colspan="2"><b>Open S#####? Understanding What is Meant by “Open”</b><br><em>Moderator: Kirstie Whittaker (UCB)<br>Panelists: Jarrod Millman (UCB), Emily Lovell (UCSC), Kristen Ratan (Strategies for Open Science)</em></td>
+  </tr>
+  <tr>
+    <td>10:30-11:20</td>
+    <td><b>Bird of a Feather: What You Should Know about OS Licensing at UC</b></td>
+    <td><b>Discussion: Sustainable Open Source, including Launch of OSPEx, a tool for OSS Sustainability</b><br><em>Moderator: Vladimir Filkov (UCD)</em></td>
+  </tr>
+  <tr>
+    <td>11:25-12:35</td>
+    <td><b>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
+    <td><b>Open Source for Agrifood – Perspectives from Academia and Industry</b><br>Moderator: Rob Trice (Better Food Ventures)<br><em>Panelists: Colleen Josephson (UCSC), others TBA</em></td>
+  </tr>
+  <tr>
+    <td>12:35-2:00</td>
+    <td colspan="2">Lunch &amp; Networking</td>
+  </tr>
+  <tr>
+    <td>2:00-2:50</td>
+    <td><b>Birds of a Feather: Supporting Open Source Contributions from UC-affiliated Technologists</b></td>
+    <td><b>Open Source, AI and the Role of UC Researchers</b></td>
+  </tr>
+  <tr>
+    <td>3:00-3:50</td>
+    <td colspan="2"><b>Closing Session: Building Academic OSPOs at UC</b></td>
+  </tr>
+</tbody></table>
 
 ## Logistics
 
