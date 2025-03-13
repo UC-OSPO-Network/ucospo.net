@@ -47,7 +47,7 @@ If your organization wants to support open source innovation & research in acade
 
 ### Thursday, April 24 2025
 
-<table><thead>
+<table border='1' style='border-collapse:collapse'><thead>
   <tr>
     <th>Time</th>
     <th>Track 1</th>
