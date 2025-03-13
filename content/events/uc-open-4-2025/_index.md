@@ -146,7 +146,9 @@ Venue reachable through [Valley Transportation Authority (VTA)](https://www.vta.
 
 ### Hotel
 
-Preferred rates are available at the following hotels for UC folks (check back soon for room block details for non-UC folks!):
+We are arranging a room block at the Embassy Suites, Santa Clara Silicon Valley, which is a short walk from the meeting venue. Rate under our block is $269/night. Please contact [our event manager](mailto:ymartyno@ucsc.edu) for more details.
+
+Additionally preferred rates are available at the following hotels for UC-affiliated attendees via [Connexxus](https://travel.ucop.edu/connexxus/):
 
 - AC Hotel San Jose Santa Clara (closest to venue)
 
@@ -172,4 +174,4 @@ Light breakfast and lunch is provided on both days of the event. There will also
 
 ### Travel Grants
 
-We are working with our sponsors to provide travel stipends to UC affiliates interested in joining our event. Please fill out [this form](https://forms.gle/231icFHf4j5C4yWP8) if you would like to request a travel stipend. We expect to be able to provide up to $500 to assist in lodging or other travel costs for a limited number of participants.
+We are working with our sponsors to provide travel stipends to UC affiliates interested in joining our event. Please [fill out this form](https://forms.gle/231icFHf4j5C4yWP8) if you would like to request a travel stipend.
