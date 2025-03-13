@@ -27,6 +27,8 @@ If your organization wants to support open source innovation & research in acade
 
 ## Agenda
 
+### Wednesday, April 23 2025
+
 <table border='1' cellpadding='3' style='border-collapse:collapse'><thead>
   <tr>
     <th>Time</th>
