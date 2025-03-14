@@ -27,7 +27,7 @@ The **UC OSPO Network** is a multi-campus initiative designed to **support open-
 
 Our efforts focus on three key areas:  
 
-- **Discovery** – Identifying and tracking open-source projects within UC to better understand trends, contributions, and opportunities. Tools like the **UC Open Source Repository Browser (UC ORB)** help visualize UC’s OSS footprint.  
+- **Discovery** – Identifying and tracking open-source projects within UC to better understand trends, contributions, and opportunities. Tools like the **UC Open Source Repository Browser (UC ORB)** will help visualize UC’s OSS footprint.  
 - **Education** – Conducting a **gap analysis** of existing open-source training resources (Carpentries, CodeRefinery, Turing Way, and UC-developed materials) and developing new content to address gaps.  
 - **Sustainability** – Creating **best practices, governance models, and community-building strategies** to help ensure long-term viability for UC open-source projects.  
 
@@ -45,11 +45,11 @@ Their responses highlighted some of the most pressing issues:
 - **Need for qualified instructors** – _"Finding qualified instructors to teach tools and techniques for managing, publishing, and reusing data and software assets."_  
 - **From research-grade to production-ready software** – _"As a support staff member, I find there's a big activation energy from 'research grade' to really polished software."_  
 
-These responses align with the **core challenges the UC OSPO Network is working to address**.  
+These responses align with the core challenges the UC OSPO Network is working to address.  
 
 ## OSPOs as a Bridge for Open Source and Open Data  
 
-One of the main takeaways from the discussion was the need for **better integration between open-source software and research data infrastructure**. OSPOs can play a role in addressing these challenges by:  
+One of the main takeaways from the discussion was the need for **better integration between open-source software and research data services and infrastructure**. OSPOs can play a role in addressing these challenges by:  
 
 - Providing **guidance on licensing, governance, and compliance**  
 - Offering **infrastructure and tools** to support open-source development  
@@ -70,8 +70,8 @@ The feedback from Love Data Week reinforced the growing demand for structured **
 
 To learn more about the UC OSPO Network and how to get involved:  
 
-- **Visit the website:** [https://ucospo.net](https://ucospo.net)  
-- **Connect with your campus OSPO lead**  
-- **Follow UC-wide open-source initiatives**  
+- Visit the website: [https://ucospo.net](https://ucospo.net)  
+- Connect with your campus OSPO lead  
+- Follow UC-wide open-source initiatives
 
 The Love Data Week discussion underscored that open-source software is essential for research sustainability. By working together, we can help UC researchers create, share, and sustain impactful open-source projects.
