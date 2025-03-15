@@ -4,7 +4,7 @@ date: 2025-02-19
 description: "The First Annual UC Open celebrating open source throughout the UC system:  23 & 24 April 2025 – Santa Clara, CA"
 ---
 
-![UC Open Banner](Banner_UCOpen2025.png)
+![UC Open Banner](UC_Open_Narrow_Banner.png)
 
 {{< button success >}}
 label: REGISTRATION
