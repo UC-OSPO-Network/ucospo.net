@@ -9,7 +9,7 @@ align = 'right'
 alt = "UCSB OSPO Logo"
 {{< /figure >}}
 
-UC Santa Barbara is one of the six campus partners in the UC Network of Open Source Program Offices (OSPOs) focussed on supporting developers and users of Open Source through the discovery and indexing of UC developed Open Source; development of educational materials, curricula and best practices guidelines; and services and guides in support of Open Source sustainability.
+UC Santa Barbara is one of the six campus partners in the UC Network of Open Source Program Offices (OSPOs) focused on supporting developers and users of Open Source through the discovery and indexing of UC developed Open Source; development of educational materials, curricula and best practices guidelines; and services and guides in support of Open Source sustainability.
 
 ## OSS at UCSB
 
@@ -25,7 +25,7 @@ We foresee an OSPO advising on open source licenses, fostering community engagem
 
 ## Get connected
 
-We are excited to build community among the UCSB population of Open Source practitioners. To stay informed about campus initiatives, learn more about the UC OSPO network, or to support us in the development of a UCSB OSPO, [reach out to us](mailto:ospo@library.ucsb.edu).
+We are excited to build community among the UCSB population of Open Source practitioners. To stay informed about campus initiatives, learn more about the UC OSPO network, or to support us in the development of a UCSB OSPO, [join our mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo). For inquiries, [email us](mailto:ospo@library.ucsb.edu).
 
 ## Resources
 
