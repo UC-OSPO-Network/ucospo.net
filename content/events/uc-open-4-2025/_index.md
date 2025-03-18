@@ -51,7 +51,7 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>9:50-10:45</td>
-    <td colspan="2"><b>Panel: <em>From Idea to Impact—Charting Creation and Adoption of Open Source Coming for Academia</em></b><br><em>Moderator: Stephanie Lieggi (UCSC); panelists: Fernando Perez (UCB and Jupyter), Bin Fang (Alluxio), and other TBA</em></td>
+    <td colspan="2"><b>Panel: <em>From Idea to Impact—Charting Creation and Adoption of Open Source Coming for Academia</em></b><br><em>Moderator: Stephanie Lieggi (UCSC); panelists: Fernando Perez (UCB and Jupyter), Bin Fan (Alluxio), and other TBA</em></td>
   </tr>
   <tr>
     <td>10:45-11:10</td>
@@ -110,7 +110,7 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>9:30-10:20</td>
-    <td colspan="2"><b>Open S#####? Understanding What is Meant by “Open”</b><br><em>Moderator: Kirstie Whittaker (UCB)<br>Panelists: Jarrod Millman (UCB), Emily Lovell (UCSC), Kristen Ratan (Strategies for Open Science)</em></td>
+    <td colspan="2"><b>Open S#####? Understanding What is Meant by “Open”</b><br><em>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Emily Lovell (UCSC), Kristen Ratan (Strategies for Open Science)</em></td>
   </tr>
   <tr>
     <td>10:30-11:20</td>
