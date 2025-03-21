@@ -83,7 +83,7 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>3:50-4:30</td>
-    <td colspan="2"><b>Keynote: <em>EThe impact of open source software - Insights from five cycles of Essential Open Source Software for Science</em></b><br><em>Kate Hertweck, Chan Zuckerberg Initiative</em></td>
+    <td colspan="2"><b>Keynote: <em>The impact of open source software - Insights from five cycles of Essential Open Source Software for Science</em></b><br><em>Kate Hertweck, Chan Zuckerberg Initiative</em></td>
   </tr>
   <tr>
     <td>4:30-5:00</td>
