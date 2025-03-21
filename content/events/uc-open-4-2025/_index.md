@@ -133,7 +133,7 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>3:00-3:50</td>
-    <td colspan="2"><b>Closing Session: Building Academic OSPOs at UC</b><em>Panel Discussion with UC OSPO Network Represenatives</em></td>
+    <td colspan="2"><b>Closing Session: Building Academic OSPOs at UC</b><em>Panel Discussion with UC OSPO Network Representatives</em></td>
   </tr>
 </tbody></table>
 
