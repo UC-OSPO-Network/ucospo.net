@@ -71,7 +71,7 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>2:00-2:40</td>
-    <td colspan="2"><b>Keynote: <em>Business Success with Open Source</em></b><br><em>VM (Vicky) Brasseur, Almanac - Head of Open Collaboration</em></td>
+    <td colspan="2"><b>Keynote: <em>Money for Nothing: Profit from Giving Things Away</em></b><br><em>VM (Vicky) Brasseur, vmbrasseur.com</em></td>
   </tr>
   <tr>
     <td>2:40-3:30</td>
@@ -83,11 +83,11 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>3:50-4:30</td>
-    <td colspan="2"><b>Keynote: <em>Essential Open Source Software for Science</em></b><br><em>Kate Hertweck, Chan Zuckerberg Initiative</em></td>
+    <td colspan="2"><b>Keynote: <em>EThe impact of open source software - Insights from five cycles of Essential Open Source Software for Science</em></b><br><em>Kate Hertweck, Chan Zuckerberg Initiative</em></td>
   </tr>
   <tr>
     <td>4:30-5:00</td>
-    <td colspan="2">Lightning Talks -- including highlights from industry open source reprentatives and UC open source research projects</td>
+    <td colspan="2">Lightning Talks -- including highlights from industry participants and UC open source research projects</td>
   </tr>
   <tr>
     <td>5:00-6:30</td>
