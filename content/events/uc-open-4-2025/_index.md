@@ -120,7 +120,7 @@ If your organization wants to support open source innovation & research in acade
   <tr>
     <td>11:25-12:35</td>
     <td><b>Directed Discussion: Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
-    <td><b>Open Technical Session: Source for Agrifood – Perspectives from Academia and Industry</b><br>Moderator: Rob Trice (Better Food Ventures)<br><em>Panelists: Colleen Josephson (UCSC), others TBA</em></td>
+    <td><b>Open Technical Session: Source for Agrifood – Perspectives from Academia and Industry</b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR)</em></td>
   </tr>
   <tr>
     <td>12:35-2:00</td>
