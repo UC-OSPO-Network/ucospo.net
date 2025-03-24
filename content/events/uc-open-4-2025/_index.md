@@ -47,11 +47,11 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>9:30-9:50</td>
-    <td colspan="2"><b>Opening Session</b>, including welcome from Alexander Wolf, Dean, UCSC Baskin Engineering</td>
+    <td colspan="2"><b>Opening Session</b> <br><em>Featuring remarks from Alexander Wolf (Dean, UCSC Baskin Engineering)</em></td>
   </tr>
   <tr>
     <td>9:50-10:45</td>
-    <td colspan="2"><b>Panel: <em>From Idea to Impact—Charting Creation and Adoption of Open Source Coming for Academia</em></b><br><em>Moderator: Tony Wasserman; panelists: Fernando Perez (UCB and Jupyter), Bin Fan (Alluxio), and Stephanie Lieggi (CROSS / UCSC)</em></td>
+    <td colspan="2"><b>Panel: <em>From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</em></b><br><em>Moderator: Tony Wasserman <br>Panelists: Fernando Perez (UCB and Jupyter), Bin Fan (Alluxio), and Stephanie Lieggi (CROSS / UCSC)</em></td>
   </tr>
   <tr>
     <td>10:45-11:10</td>
@@ -59,11 +59,11 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>11:10-11:50</td>
-    <td colspan="2"><b>Fireside Chat: <em>Commercial Open Source Software: How innovators profit by giving software away</em></b><br><em>Heather Meeker, Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community; moderated by James Davis (UCSC)</em></td>
+    <td colspan="2"><b>Fireside Chat: <em>Commercial Open Source Software: How Innovators Profit by Giving Software Away</em></b><br><em>Heather Meeker (Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community) and James Davis (UCSC)</em></td>
   </tr>
   <tr>
     <td>11:50-12:30</td>
-    <td colspan="2"><b>Keynote: <em>Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead</em></b><br><em>Kenyatta Forbes, GitHub - Open Source Programs</em></td>
+    <td colspan="2"><b>Keynote: <em>Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead</em></b><br><em>Kenyatta Forbes (GitHub - Open Source Programs)</em></td>
   </tr>
   <tr>
     <td>12:30-2:00</td>
@@ -71,11 +71,11 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>2:00-2:40</td>
-    <td colspan="2"><b>Keynote: <em>Money for Nothing: Profit from Giving Things Away</em></b><br><em>VM (Vicky) Brasseur, vmbrasseur.com</em></td>
+    <td colspan="2"><b>Keynote: <em>Money for Nothing: Profit from Giving Things Away</em></b><br><em>VM (Vicky) Brasseur (vmbrasseur.com)</em></td>
   </tr>
   <tr>
     <td>2:40-3:30</td>
-    <td colspan="2"><b>Panel: <em>Technology Transfer and Impact of Open Source</em></b><br><em>Moderator: Karla Padilla (UCSD); Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA</em></td>
+    <td colspan="2"><b>Panel: <em>Technology Transfer and Impact of Open Source</em></b><br><em>Moderator: Karla Padilla (UCSD) <br>Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA</em></td>
   </tr>
   <tr>
     <td>3:30-3:50</td>
@@ -83,11 +83,11 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>3:50-4:30</td>
-    <td colspan="2"><b>Keynote: <em>The impact of open source software - Insights from five cycles of Essential Open Source Software for Science</em></b><br><em>Kate Hertweck, Chan Zuckerberg Initiative</em></td>
+    <td colspan="2"><b>Keynote: <em>The Impact of Open Source Software - Insights from Five Cycles of Essential Open Source Software for Science</em></b><br><em>Kate Hertweck (Chan Zuckerberg Initiative)</em></td>
   </tr>
   <tr>
     <td>4:30-5:00</td>
-    <td colspan="2">Lightning Talks -- including highlights from industry participants and UC open source research projects</td>
+    <td colspan="2"><b>Lightning Talks</b> - featuring highlights from industry and UC open source research projects</td>
   </tr>
   <tr>
     <td>5:00-6:30</td>
@@ -110,17 +110,17 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>9:30-10:20</td>
-    <td colspan="2"><b>Panel: <em>Open S#####? Understanding What is Meant by “Open”</em></b><br><em>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Emily Lovell (UCSC), Kristen Ratan (Strategies for Open Science)</em></td>
+    <td colspan="2"><b>Panel: <em>Open S#####? Understanding What is Meant by “Open”</em></b><br><em>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Tom Callaway (AWS), Kristen Ratan (Strategies for Open Science)</em></td>
   </tr>
   <tr>
     <td>10:30-11:20</td>
-    <td><b>Directed Discussion: OS Licensing in Academic Settings - Figuring out where your project fits</b></td>
-    <td><b>Technical Session: Sustainable Open Source, including Launch of OSPEx, a tool for OSS Sustainability</b><br><em>Moderator: Vladimir Filkov (UCD)</em></td>
+    <td><b>Directed Discussion: <em>OS Licensing in Academic Settings - Figuring Out Where Your Project Fits</em></b></td>
+    <td><b>Technical Session: <em>Sustainable Open Source, including Launch of OSPEx, a tool for OSS Sustainability</em></b><br><em>Moderator: Vladimir Filkov (UCD)</em></td>
   </tr>
   <tr>
     <td>11:25-12:35</td>
-    <td><b>Directed Discussion: Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
-    <td><b>Open Technical Session: Source for Agrifood – Perspectives from Academia and Industry</b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR)</em></td>
+    <td><b>Directed Discussion: <em>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</em></b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
+    <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR)</em></td>
   </tr>
   <tr>
     <td>12:35-2:00</td>
@@ -128,12 +128,12 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>2:00-2:50</td>
-    <td><b>Directed Discussion: Supporting Open Source Contributions from UC-affiliated Technologists</b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
-    <td><b>Technical Session: Open Source, AI and the Role of UC Researchers</b><br><em>Moderator: Paul Lancaster (RedHat)</em></td>
+    <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
+    <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Moderator: Paul Lancaster (RedHat)</em></td>
   </tr>
   <tr>
     <td>3:00-3:50</td>
-    <td colspan="2"><b>Closing Session: Building Academic OSPOs at UC</b><br><em>Panel Discussion with UC OSPO Network Representatives</em></td>
+    <td colspan="2"><b>Closing Session: <em>Building Academic OSPOs at UC</em></b><br><em>Panel Discussion with UC OSPO Network Representatives</em></td>
   </tr>
 </tbody></table>
 
