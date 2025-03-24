@@ -110,7 +110,7 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>9:30-10:20</td>
-    <td colspan="2"><b>Panel: <em>Open S#####? Understanding What is Meant by “Open”</em></b><br><em>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Emily Lovell (UCSC), Kristen Ratan (Strategies for Open Science)</em></td>
+    <td colspan="2"><b>Panel: <em>Open S#####? Understanding What is Meant by “Open”</em></b><br><em>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Tom Callaway (AWS), Kristen Ratan (Strategies for Open Science)</em></td>
   </tr>
   <tr>
     <td>10:30-11:20</td>
