@@ -51,11 +51,13 @@ params:
     link: /
   navbar:
     - title: About
-      url: /about
+      sublinks:
+        - title: About the UC OSPO Network
+          url: /about
+        - title: Guiding Themes
+          url: /guiding-themes
     - title: Events
       url: /events
-    - title: Guiding Themes
-      url: /guiding-themes
     - title: Blog
       url: /posts
     - title: Resources
