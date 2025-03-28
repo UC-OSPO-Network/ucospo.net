@@ -1,5 +1,5 @@
 ---
-title: Name
+title: "Name"
 
 resources:
   - name: featuredImage
