@@ -71,7 +71,7 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>2:00-2:40</td>
-    <td colspan="2"><b>Keynote: <em>Money for Nothing: Profit from Giving Things Away</em></b><br><em>VM (Vicky) Brasseur (vmbrasseur.com)</em></td>
+    <td colspan="2"><b>Keynote: <em>The Wicked Little Problem of Collaboration</em></b><br><em>VM (Vicky) Brasseur (vmbrasseur.com)</em></td>
   </tr>
   <tr>
     <td>2:40-3:30</td>
