@@ -115,12 +115,13 @@ If your organization wants to support open source innovation & research in acade
   <tr>
     <td>10:30-11:20</td>
     <td><b>Directed Discussion: <em>OS Licensing in Academic Settings - Figuring Out Where Your Project Fits</em></b></td>
-    <td><b>Technical Session: <em>Sustainable Open Source, including Launch of OSPEx, a tool for OSS Sustainability</em></b><br><em>Moderator: Vladimir Filkov (UCD)</em></td>
+    td><b>Directed Discussion: <em>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</em></b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
   </tr>
   <tr>
     <td>11:25-12:35</td>
-    <td><b>Directed Discussion: <em>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</em></b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
-    <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR)</em></td>
+    <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR), Drew Zabrock (</em></td>
+    <td><b>Technical Session: <em>Sustainable Open Source, including Launch of OSPEx, a tool for OSS Sustainability</em></b><br><em> Presentor: Vladimir Filkov (UCD)</em></td>
+
   </tr>
   <tr>
     <td>12:35-2:00</td>
@@ -129,7 +130,7 @@ If your organization wants to support open source innovation & research in acade
   <tr>
     <td>2:00-2:50</td>
     <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
-    <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Moderator: Paul Lancaster (RedHat)</em></td>
+    <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Presentor: Nick Hill (RedHat)</em></td>
   </tr>
   <tr>
     <td>3:00-3:50</td>
