@@ -7,7 +7,7 @@ title: Building Inclusive Open Source Communities: What the Data Says & How Acad
 Wednesday, April 23
 9:00 AM
 
-Presented by: [Kenyatta Forbes](../speakers/)
+Presented by: [Kenyatta Forbes](../speakers/kenyatta-forbes.md)
 
 ## Description
 
