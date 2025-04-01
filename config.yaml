@@ -57,7 +57,9 @@ params:
         - title: Guiding Themes
           url: /guiding-themes
     - title: Events
-      url: /events
+      sublinks:
+        title: UC Open 2025
+        url: /events/uc-open-4-2025
     - title: Blog
       url: /posts
     - title: Resources
