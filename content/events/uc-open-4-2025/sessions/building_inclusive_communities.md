@@ -1,5 +1,5 @@
 ---  
-title: Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead
+title: "Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead"
 ---
 
 ## Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead
