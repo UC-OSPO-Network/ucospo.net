@@ -115,7 +115,7 @@ If your organization wants to support open source innovation & research in acade
   <tr>
     <td>10:30-11:20</td>
     <td><b>Directed Discussion: <em>OS Licensing in Academic Settings - Figuring Out Where Your Project Fits</em></b></td>
-    td><b>Directed Discussion: <em>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</em></b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
+    <td><b>Directed Discussion: <em>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</em></b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
   </tr>
   <tr>
     <td>11:25-12:35</td>
