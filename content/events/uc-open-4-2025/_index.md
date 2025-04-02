@@ -119,7 +119,7 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>11:25-12:35</td>
-    <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR), Drew Zabrock (</em></td>
+    <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR), Drew Zabrock (International Fresh Produce Association)</em></td>
     <td><b>Technical Session: <em>Sustainable Open Source, including Launch of OSPEx, a tool for OSS Sustainability</em></b><br><em> Presentor: Vladimir Filkov (UCD)</em></td>
 
   </tr>
