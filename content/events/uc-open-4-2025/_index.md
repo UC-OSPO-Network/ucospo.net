@@ -120,7 +120,7 @@ If your organization wants to support open source innovation & research in acade
   <tr>
     <td>11:25-12:35</td>
     <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR), Drew Zabrock (International Fresh Produce Association)</em></td>
-    <td><b>Technical Session: <em>Sustainable Open Source: Tooling to Support the Health of Growing Projects</em></b><br><em> Presentor/Moderator: Vladimir Filkov (UCD)</em></td>
+    <td><b>Technical Session: <em>Sustainable Open Source: Tooling to Support the Health of Growing Projects</em></b><br><em> Presenter/Moderator: Vladimir Filkov (UCD)</em></td>
 
   </tr>
   <tr>
@@ -130,7 +130,7 @@ If your organization wants to support open source innovation & research in acade
   <tr>
     <td>2:00-2:50</td>
     <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
-    <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Presentor/Moderator: Nick Hill (RedHat)</em></td>
+    <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Presenter/Moderator: Nick Hill (RedHat)</em></td>
   </tr>
   <tr>
     <td>3:00-3:50</td>
