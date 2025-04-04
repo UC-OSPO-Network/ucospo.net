@@ -16,6 +16,11 @@ markup:
       link:
         enableDefault: true
 
+module:
+  mounts:
+    source: calendars
+    target: data/calendars
+
 outputFormats:
   Atom:
     mediaType: "application/atom"
