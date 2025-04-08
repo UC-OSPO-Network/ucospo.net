@@ -27,9 +27,12 @@ _Thanks to the generosity of our sponsors, we are able to make this event **free
 
 **Location: [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/facility/) Santa Clara, CA**
 
-## Sponsorship info
+## Sponsorship
+This event is made possible by generous support from Platinum sponsors Red Hat, the Chan Zuckerberg Initiative, and the Alfred P. Sloan Foundation. Additional support is provided by UCSC's Center for Research in Open Source Software (Silver sponsor) and GitHub (Bronze sponsor). Thank you all!
 
-If your organization wants to support open source innovation & research in academia, and foster collaboration with industry, universities & OS communities, check out our [sponsorship opportunities!](./sponsor/_index.md). Individual participants can also make to donations to support our efforts. [Contact the organizers](mailto:slieggi@ucsc.edu) for more details.
+![Sponsor Logos](Sponsor_Logos.png)
+
+If your organization also wants to support open source innovation & research in academia – and foster collaboration across industry, universities & OS communities – check out our [sponsorship opportunities](./sponsor/_index.md)! Individuals can also make donations to support our efforts. [Contact the organizers](mailto:slieggi@ucsc.edu) for more details. 
 
 ## Agenda
 
