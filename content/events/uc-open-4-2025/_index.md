@@ -32,7 +32,7 @@ This event is made possible by generous support from Platinum sponsors Red Hat, 
 
 ![Sponsor Logos](Sponsor_Logos.png)
 
-If your organization also wants to support open source innovation & research in academia – and foster collaboration across industry, universities & OS communities – check out our [sponsorship opportunities](./sponsor/_index.md)! Individuals can also make donations to support our efforts. [Contact the organizers](mailto:slieggi@ucsc.edu) for more details. 
+If your organization also wants to support open source innovation & research in academia – and foster collaboration across industry, universities & OS communities – check out our [sponsorship opportunities](./sponsor/_index.md). Individuals can also make donations to support our efforts. [Contact the organizers](mailto:slieggi@ucsc.edu) for more details. 
 
 ## Agenda
 
