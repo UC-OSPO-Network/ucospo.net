@@ -120,7 +120,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>10:30-11:20</td>
-    <td><b>Directed Discussion: <em>OS  ABCs of Open Source Licensing, including opening discussion with Jeff Shapiro (Linux Foundation)</em></b></td>
+    <td><b>Directed Discussion: <em>OS  ABCs of Open Source Licensing</em></b><br><em>Including opening discussion with Jeff Shapiro (Linux Foundation)</em></b></td>
     <td><b>Directed Discussion: <em>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</em></b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
   </tr>
   <tr>
