@@ -15,7 +15,7 @@ The University of California Open Summit (UC Open) 2025 will highlight the value
 
 Special attention will be given to common challenges facing open source communities in the UC-system, and ways that collaborating across sectors can help meet these challenges.
 
-We are also excited to announce that the event will include a special meet & greet and **book signing with [Arun Gupta](https://www.linkedin.com/in/arunpgupta/)**, author of [*Fostering Open Source Culture: Increase Innovation and Deliver Faster with Open Source*](https://link.springer.com/book/10.1007/979-8-8688-0977-4). A limited number of copies will be available on a first-come, first-served basis. Attendees are also welcome to bring their own copy for signing. We are excited to provide this opportunity to connect with the author and gain insights into fostering a thriving open source culture.
+We are also excited to announce that the event will include a special meet & greet and **book signing with [Arun Gupta](https://www.linkedin.com/in/arunpgupta/)**, author of [_Fostering Open Source Culture: Increase Innovation and Deliver Faster with Open Source_](https://link.springer.com/book/10.1007/979-8-8688-0977-4). A limited number of copies will be available on a first-come, first-served basis. Attendees are also welcome to bring their own copy for signing. We are excited to provide this opportunity to connect with the author and gain insights into fostering a thriving open source culture.
 
 This isn't just another professional obligation. UC Open promises to be:
 
