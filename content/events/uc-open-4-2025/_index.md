@@ -15,6 +15,8 @@ The University of California Open Summit (UC Open) 2025 will highlight the value
 
 Special attention will be given to common challenges facing open source communities in the UC-system, and ways that collaborating across sectors can help meet these challenges.
 
+We are also excited to announce that the event will include a special meet & greet and **book signing with [Arun Gupta](https://www.linkedin.com/in/arunpgupta/)**, author of [*Fostering Open Source Culture: Increase Innovation and Deliver Faster with Open Source*](https://link.springer.com/book/10.1007/979-8-8688-0977-4). A limited number of copies will be available on a first-come, first-served basis. Attendees are also welcome to bring their own copy for signing. We are excited to provide this opportunity to connect with the author and gain insights into fostering a thriving open source culture.
+
 This isn't just another professional obligation. UC Open promises to be:
 
 - **Genuinely enjoyable**: we’ve made sure to include breaks long enough to recharge your attention span and have meaningful conversations.
@@ -95,7 +97,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>5:00-6:30</td>
-    <td colspan="2">Reception</td>
+    <td colspan="2">Reception and Book Signing/Meet and Greet with Arun Gupta</td>
   </tr>
 </tbody></table>
 
@@ -118,7 +120,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>10:30-11:20</td>
-    <td><b>Directed Discussion: <em>OS Licensing in Academic Settings - Figuring Out Where Your Project Fits</em></b></td>
+    <td><b>Directed Discussion: <em>OS  ABCs of Open Source Licensing, including opening discussion with Jeff Shapiro (Linux Foundation)</em></b></td>
     <td><b>Directed Discussion: <em>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</em></b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
   </tr>
   <tr>
@@ -138,7 +140,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>3:00-3:50</td>
-    <td colspan="2"><b>Closing Session: <em>Building Academic OSPOs at UC</em></b><br><em>Panel Discussion with UC OSPO Network Representatives</em></td>
+    <td colspan="2"><b>Closing Session: <em>How can we help? - Academic OSPOs Making an Impact at UC</em></b><br><em>Discussion moderated by UC OSPO Community Manager Laura Langdon</em></td>
   </tr>
 </tbody></table>
 
