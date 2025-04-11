@@ -15,6 +15,8 @@ The University of California Open Summit (UC Open) 2025 will highlight the value
 
 Special attention will be given to common challenges facing open source communities in the UC-system, and ways that collaborating across sectors can help meet these challenges.
 
+We are also excited to announce that the event will include a special meet & greet and **book signing with [Arun Gupta](https://www.linkedin.com/in/arunpgupta/)**, author of [_Fostering Open Source Culture: Increase Innovation and Deliver Faster with Open Source_](https://link.springer.com/book/10.1007/979-8-8688-0977-4). A limited number of copies will be available on a first-come, first-served basis. Attendees are also welcome to bring their own copy for signing. We are excited to provide this opportunity to connect with the author and gain insights into fostering a thriving open source culture.
+
 This isn't just another professional obligation. UC Open promises to be:
 
 - **Genuinely enjoyable**: we’ve made sure to include breaks long enough to recharge your attention span and have meaningful conversations.
@@ -27,9 +29,13 @@ _Thanks to the generosity of our sponsors, we are able to make this event **free
 
 **Location: [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/facility/) Santa Clara, CA**
 
-## Sponsorship info
+## Sponsorship
 
-If your organization wants to support open source innovation & research in academia, and foster collaboration with industry, universities & OS communities, check out our [sponsorship opportunities!](./sponsor/_index.md). Individual participants can also make to donations to support our efforts. [Contact the organizers](mailto:slieggi@ucsc.edu) for more details.
+This event is made possible by generous support from Platinum sponsors Red Hat, the Chan Zuckerberg Initiative, and the Alfred P. Sloan Foundation. Additional support is provided by UCSC's Center for Research in Open Source Software (Silver sponsor) and GitHub (Bronze sponsor). Thank you all!
+
+![Sponsor Logos](Sponsor_Logos.png)
+
+If your organization also wants to support open source innovation & research in academia – and foster collaboration across industry, universities & OS communities – check out our [sponsorship opportunities](./sponsor/_index.md). Individuals can also make donations to support our efforts. [Contact the organizers](mailto:slieggi@ucsc.edu) for more details.
 
 ## Agenda
 
@@ -75,7 +81,7 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>2:40-3:30</td>
-    <td colspan="2"><b>Panel: <em>Technology Transfer and Impact of Open Source</em></b><br><em>Moderator: Karla Padilla (UCSD) <br>Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA</em></td>
+    <td colspan="2"><b>Panel: <em>Technology Transfer and Impact of Open Source</em></b><br><em>Moderator: Karla Padilla (UCSD) <br>Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), Angus MacDonald (UCOP)</em></td>
   </tr>
   <tr>
     <td>3:30-3:50</td>
@@ -91,7 +97,7 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>5:00-6:30</td>
-    <td colspan="2">Reception</td>
+    <td colspan="2">Reception and Book Signing/Meet and Greet with Arun Gupta</td>
   </tr>
 </tbody></table>
 
@@ -114,13 +120,13 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>10:30-11:20</td>
-    <td><b>Directed Discussion: <em>OS Licensing in Academic Settings - Figuring Out Where Your Project Fits</em></b></td>
-    <td><b>Technical Session: <em>Sustainable Open Source, including Launch of OSPEx, a tool for OSS Sustainability</em></b><br><em>Moderator: Vladimir Filkov (UCD)</em></td>
+    <td><b>Technical Session: <em>Open Source Software Security in AI</em></b><br><em>Presenter: Mihai Maruserac, Google; Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
+    <td><b>Directed Discussion: <em>OS  ABCs of Open Source Licensing</em></b><br><em>Including opening discussion with Jeff Shapiro (Linux Foundation)</em></b></td>
   </tr>
   <tr>
     <td>11:25-12:35</td>
-    <td><b>Directed Discussion: <em>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</em></b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
-    <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR)</em></td>
+    <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR), Drew Zabrock (International Fresh Produce Association)</em></td>
+    <td><b>Technical Session: <em>Sustainable Open Source: Tooling to Support the Health of Growing Projects</em></b><br><em> Presenter/Moderator: Vladimir Filkov (UCD)</em></td>
   </tr>
   <tr>
     <td>12:35-2:00</td>
@@ -128,12 +134,12 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>2:00-2:50</td>
+    <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Presenter/Moderator: Nick Hill (RedHat)</em></td>
     <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
-    <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Moderator: Paul Lancaster (RedHat)</em></td>
   </tr>
   <tr>
     <td>3:00-3:50</td>
-    <td colspan="2"><b>Closing Session: <em>Building Academic OSPOs at UC</em></b><br><em>Panel Discussion with UC OSPO Network Representatives</em></td>
+    <td colspan="2"><b>Closing Session: <em>How can we help? - Academic OSPOs Making an Impact at UC</em></b><br><em>Discussion moderated by UC OSPO Network Community Manager Laura Langdon</em></td>
   </tr>
 </tbody></table>
 
