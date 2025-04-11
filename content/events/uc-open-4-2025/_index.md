@@ -120,14 +120,13 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>10:30-11:20</td>
+    <td><b>Technical Session: <em>Open Source Software Security in AI</em></b><br><em>Presenter: Mihai Maruserac, Google; Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
     <td><b>Directed Discussion: <em>OS  ABCs of Open Source Licensing</em></b><br><em>Including opening discussion with Jeff Shapiro (Linux Foundation)</em></b></td>
-    <td><b>Directed Discussion: <em>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</em></b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
   </tr>
   <tr>
     <td>11:25-12:35</td>
     <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR), Drew Zabrock (International Fresh Produce Association)</em></td>
     <td><b>Technical Session: <em>Sustainable Open Source: Tooling to Support the Health of Growing Projects</em></b><br><em> Presenter/Moderator: Vladimir Filkov (UCD)</em></td>
-
   </tr>
   <tr>
     <td>12:35-2:00</td>
@@ -135,12 +134,12 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>2:00-2:50</td>
-    <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
     <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Presenter/Moderator: Nick Hill (RedHat)</em></td>
+    <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
   </tr>
   <tr>
     <td>3:00-3:50</td>
-    <td colspan="2"><b>Closing Session: <em>How can we help? - Academic OSPOs Making an Impact at UC</em></b><br><em>Discussion moderated by UC OSPO Community Manager Laura Langdon</em></td>
+    <td colspan="2"><b>Closing Session: <em>How can we help? - Academic OSPOs Making an Impact at UC</em></b><br><em>Discussion moderated by UC OSPO Network Community Manager Laura Langdon</em></td>
   </tr>
 </tbody></table>
 
