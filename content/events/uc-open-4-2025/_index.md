@@ -81,7 +81,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>2:40-3:30</td>
-    <td colspan="2"><b>Panel: <em>Technology Transfer and Impact of Open Source</em></b><br><em>Moderator: Karla Padilla (UCSD) <br>Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), Angus MacDonald (UCOP)</em></td>
+    <td colspan="2"><b>Panel: <em>Technology Transfer and Impact of Open Source</em></b><br><em>Moderator: Karla Padilla (UCSD) <br>Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), Joel Kehle (UCLA), Angus MacDonald (UCOP)</em></td>
   </tr>
   <tr>
     <td>3:30-3:50</td>
@@ -116,7 +116,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>9:30-10:20</td>
-    <td colspan="2"><b>Panel: <em>Open S#####? Understanding What is Meant by “Open”</em></b><br><em>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Tom Callaway (AWS), Kristen Ratan (Strategies for Open Science)</em></td>
+    <td colspan="2"><b>Panel: <em>Open S#####? Understanding What is Meant by “Open”</em></b><br><em>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Kristen Ratan (Strategies for Open Science)</em></td>
   </tr>
   <tr>
     <td>10:30-11:20</td>
