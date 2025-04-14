@@ -13,4 +13,4 @@ Kenyatta Forbes is a Senior Program Manager on the Open Source Programs Team at 
 
 ### Session
 
-[Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead ](../sessions/building_inclusive_communities.md)
+[Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead](../sessions/building_inclusive_communities.md)
