@@ -17,7 +17,6 @@ Laleh is a trained scientist and worked for several years in research before pra
 
 Laleh holds a Ph.D. in Biophysics from UC San Francisco and a J.D. from Concord Law School. She is a member of California State Bar and is also registered to practice before the US Patent and Trademark Office.
 
-
 ## Session
 
 [Technology Transfer and Impact of Open Source](../sessions/technology-transfer.md)
