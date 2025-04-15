@@ -1,5 +1,5 @@
 ---
-title: "Money for Nothing: Profit from Giving Things Away"
+title: "The Wicked Little Problem of Collaboration"
 ---
 
 **Wednesday, April 23 2025**

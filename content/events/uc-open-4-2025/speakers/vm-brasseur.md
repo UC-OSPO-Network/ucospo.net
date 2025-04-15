@@ -29,4 +29,4 @@ Currently I live in lovely Oregon with my amazing cats, [Osgood](https://www.fl
 
 ## Session
 
-[Money for Nothing: Profit from Giving Things Away](../sessions/money-for-nothing.md)
+[The Wicked Little Problem of Collaboration](../sessions/wicked-little-problem.md)
