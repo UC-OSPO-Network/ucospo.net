@@ -57,7 +57,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>9:50-10:45</td>
-    <td colspan="2"><b>Panel: <em>[From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia](../uc-open-4-2025/sessions/from-idea-to-impact.md</em></b><br><em>Moderator: Stephanie Lieggi (CROSS / UCSC)<br>Panelists: [Fernando Perez](../uc-open-4-2025/speakers/fernando-perez.md) (UCB and Jupyter), [Bin Fan](../uc-open-4-2025/speakers/bin-fan.md) (Alluxio), and [Tony Wasserman](../uc-open-4-2025/speakers/tony-wasserman.md)</em></td>
+    <td colspan="2"><b>Panel: <em><a href="../uc-open-4-2025/sessions/from-idea-to-impact.md">From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</a></em></b><br><em>Moderator: Stephanie Lieggi (CROSS / UCSC)<br>Panelists: <a href="../uc-open-4-2025/speakers/fernando-perez.md">Fernando Perez (UCB and Jupyter)</a>, <a href="../uc-open-4-2025/speakers/bin-fan.md">Bin Fan) (Alluxio)</a>, and <a href="../uc-open-4-2025/speakers/tony-wasserman.md">Tony Wasserman</a></em></td>
   </tr>
   <tr>
     <td>10:45-11:10</td>
@@ -65,11 +65,11 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>11:10-11:50</td>
-    <td colspan="2"><b>Fireside Chat: <em>[Commercial Open Source Software: How Innovators Profit by Giving Software Away](../uc-open-4-2025/sessions/commercial-open-source.md)</em></b><br><em>[Heather Meeker](../uc-open-4-2025/speakers/heather-meeker.md) (Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community) and James Davis (UCSC)</em></td>
+    <td colspan="2"><b>Fireside Chat: <em><a href="../uc-open-4-2025/sessions/commercial-open-source.md">Commercial Open Source Software: How Innovators Profit by Giving Software Away</a></em></b><br><em><a href="../uc-open-4-2025/speakers/heather-meeker.md">Heather Meeker</a> (Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community) and James Davis (UCSC)</em></td>
   </tr>
   <tr>
     <td>11:50-12:30</td>
-    <td colspan="2"><b>Keynote: <em>[Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead](../uc-open-4-2025/sessions/building_inclusive_communities.md)</em></b><br><em>[Kenyatta Forbes](../uc-open-4-2025/speakers/kenyatta-forbes.md) (GitHub - Open Source Programs)</em></td>
+    <td colspan="2"><b>Keynote: <em><a href="../uc-open-4-2025/sessions/building_inclusive_communities.md">Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead</em></b><br><em><a href="../uc-open-4-2025/speakers/kenyatta-forbes.md">Kenyatta Forbes</a> (GitHub - Open Source Programs)</em></td>
   </tr>
   <tr>
     <td>12:30-2:00</td>
