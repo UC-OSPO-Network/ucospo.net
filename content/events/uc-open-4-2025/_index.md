@@ -57,7 +57,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>9:50-10:45</td>
-    <td colspan="2"><b>Panel: <em>From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</em></b><br><em>Moderator: Tony Wasserman <br>Panelists: Fernando Perez (UCB and Jupyter), Bin Fan (Alluxio), and Stephanie Lieggi (CROSS / UCSC)</em></td>
+    <td colspan="2"><b>Panel: <em>[From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia](../uc-open-4-2025/sessions/from-idea-to-impact.md</em></b><br><em>Moderator: Stephanie Lieggi (CROSS / UCSC)<br>Panelists: [Fernando Perez](../uc-open-4-2025/speakers/fernando-perez.md) (UCB and Jupyter), [Bin Fan](../uc-open-4-2025/speakers/bin-fan.md) (Alluxio), and [Tony Wasserman](../uc-open-4-2025/speakers/tony-wasserman.md)</em></td>
   </tr>
   <tr>
     <td>10:45-11:10</td>
@@ -65,11 +65,11 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>11:10-11:50</td>
-    <td colspan="2"><b>Fireside Chat: <em>Commercial Open Source Software: How Innovators Profit by Giving Software Away</em></b><br><em>Heather Meeker (Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community) and James Davis (UCSC)</em></td>
+    <td colspan="2"><b>Fireside Chat: <em>[Commercial Open Source Software: How Innovators Profit by Giving Software Away](../uc-open-4-2025/sessions/commercial-open-source.md)</em></b><br><em>[Heather Meeker](../uc-open-4-2025/speakers/heather-meeker.md) (Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community) and James Davis (UCSC)</em></td>
   </tr>
   <tr>
     <td>11:50-12:30</td>
-    <td colspan="2"><b>Keynote: <em>Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead</em></b><br><em>Kenyatta Forbes (GitHub - Open Source Programs)</em></td>
+    <td colspan="2"><b>Keynote: <em>[Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead](../uc-open-4-2025/sessions/building_inclusive_communities.md)</em></b><br><em>[Kenyatta Forbes](../uc-open-4-2025/speakers/kenyatta-forbes.md) (GitHub - Open Source Programs)</em></td>
   </tr>
   <tr>
     <td>12:30-2:00</td>
@@ -77,11 +77,11 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>2:00-2:40</td>
-    <td colspan="2"><b>Keynote: <em>The Wicked Little Problem of Collaboration</em></b><br><em>VM (Vicky) Brasseur (vmbrasseur.com)</em></td>
+    <td colspan="2"><b>Keynote: <em>[The Wicked Little Problem of Collaboration](../uc-open-4-2025/sessions/wicked-little-problem.md)</em></b><br><em>[VM (Vicky) Brasseur](../uc-open-4-2025/speakers/vm-brasseur.md) (vmbrasseur.com)</em></td>
   </tr>
   <tr>
     <td>2:40-3:30</td>
-    <td colspan="2"><b>Panel: <em>Technology Transfer and Impact of Open Source</em></b><br><em>Moderator: Karla Padilla (UCSD) <br>Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), Joel Kehle (UCLA), Angus MacDonald (UCOP)</em></td>
+    <td colspan="2"><b>Panel: <em>[Technology Transfer and Impact of Open Source](../uc-open-4-2025/sessions/technology-transfer.md)</em></b><br><em>Moderator: [Karla Padilla](../uc-open-4-2025/speakers/karla-padilla.md) (UCSD) <br>Panelists: [Laleh Shayesteh](../uc-open-4-2025/speakers/laleh-shayesteh.md) (UCB), [Marc Oettinger](../uc-open-4-2025/speakers/marc-oettinger.md) (UCSC), [Joel Kehle](../uc-open-4-2025/speakers/joel-kehle.md) (UCLA), [Angus MacDonald](../uc-open-4-2025/speakers/angus-macdonald.md) (UCOP)</em></td>
   </tr>
   <tr>
     <td>3:30-3:50</td>
@@ -89,7 +89,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>3:50-4:30</td>
-    <td colspan="2"><b>Keynote: <em>The Impact of Open Source Software - Insights from Five Cycles of Essential Open Source Software for Science</em></b><br><em>Kate Hertweck (Chan Zuckerberg Initiative)</em></td>
+    <td colspan="2"><b>Keynote: <em>[The Impact of Open Source Software - Insights from Five Cycles of Essential Open Source Software for Science](../uc-open-4-2025/sessions/impact-open-source.md</em></b><br><em>[Kate Hertweck](../uc-open-4-2025/speakers/kate-hertweck.md) (Chan Zuckerberg Initiative)</em></td>
   </tr>
   <tr>
     <td>4:30-5:00</td>
