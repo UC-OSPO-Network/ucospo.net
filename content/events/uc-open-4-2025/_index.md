@@ -56,11 +56,11 @@ If your organization also wants to support open source innovation & research in 
     <td colspan="2"><b>Opening Session</b> <br><em>Featuring remarks from Alexander Wolf (Dean, UCSC Baskin Engineering)</em></td>
   </tr>
   <tr>
-    <td>9:50-10:45</td>
-    <td colspan="2"><b>Panel: <em>From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</em></b><br><em>Moderator: Tony Wasserman <br>Panelists: Fernando Perez (UCB and Jupyter), Bin Fan (Alluxio), and Stephanie Lieggi (CROSS / UCSC)</em></td>
+    <td>9:50-10:50</td>
+    <td colspan="2"><b>Panel: <em>From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</em></b><br><em>Panelists: Bin Fan (Alluxio), Fernando Perez (UCB and Jupyter), Stephanie Lieggi (CROSS / UCSC), and Tony Wasserman (Software Methods and Tools),</em></td>
   </tr>
   <tr>
-    <td>10:45-11:10</td>
+    <td>10:50-11:10</td>
     <td colspan="2">Break and Networking</td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>5:00-6:30</td>
-    <td colspan="2">Reception and Book Signing/Meet and Greet with Arun Gupta</td>
+    <td colspan="2"><b>Reception and Book Signing/Meet and Greet with Arun Gupta</b></td>
   </tr>
 </tbody></table>
 
@@ -121,7 +121,7 @@ If your organization also wants to support open source innovation & research in 
   <tr>
     <td>10:30-11:20</td>
     <td><b>Technical Session: <em>Open Source Software Security in AI</em></b><br><em>Presenter: Mihai Maruserac, Google; Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
-    <td><b>Directed Discussion: <em>OS  ABCs of Open Source Licensing</em></b><br><em>Including opening discussion with Jeff Shapiro (Linux Foundation)</em></b></td>
+    <td><b>Directed Discussion: <em>ABCs of Open Source Licensing</em></b><br><em>Including opening discussion with Jeff Shapiro (Linux Foundation)</em></b></td>
   </tr>
   <tr>
     <td>11:25-12:35</td>
@@ -134,7 +134,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>2:00-2:50</td>
-    <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Presenter/Moderator: Nick Hill (RedHat)</em></td>
+    <td><b>Technical Session: <em>vLLM: A success story of UC and industry collaboration in Open Source AI </em></b><br><em>Presenter/Moderator: Nick Hill (RedHat)</em></td>
     <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
   </tr>
   <tr>
