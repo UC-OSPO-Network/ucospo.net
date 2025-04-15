@@ -57,7 +57,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>9:50-10:45</td>
-    <td colspan="2"><b>Panel: <em><a href="../uc-open-4-2025/sessions/from-idea-to-impact.md">From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</a></em></b><br><em>Moderator: Stephanie Lieggi (CROSS / UCSC)<br>Panelists: <a href="../uc-open-4-2025/speakers/fernando-perez.md">Fernando Perez (UCB and Jupyter)</a>, <a href="../uc-open-4-2025/speakers/bin-fan.md">Bin Fan) (Alluxio)</a>, and <a href="../uc-open-4-2025/speakers/tony-wasserman.md">Tony Wasserman</a></em></td>
+    <td colspan="2"><b>Panel: <em><a href="../uc-open-4-2025/sessions/from-idea-to-impact">From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</a></em></b><br><em>Moderator: Stephanie Lieggi (CROSS / UCSC)<br>Panelists: <a href="../uc-open-4-2025/speakers/fernando-perez.md">Fernando Perez (UCB and Jupyter)</a>, <a href="../uc-open-4-2025/speakers/bin-fan.md">Bin Fan) (Alluxio)</a>, and <a href="../uc-open-4-2025/speakers/tony-wasserman.md">Tony Wasserman</a></em></td>
   </tr>
   <tr>
     <td>10:45-11:10</td>
