@@ -77,11 +77,11 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>2:00-2:40</td>
-    <td colspan="2"><b>Keynote: <em>[The Wicked Little Problem of Collaboration](../uc-open-4-2025/sessions/wicked-little-problem.md)</em></b><br><em>[VM (Vicky) Brasseur](../uc-open-4-2025/speakers/vm-brasseur.md) (vmbrasseur.com)</em></td>
+    <td colspan="2"><b>Keynote: <em><a href="../uc-open-4-2025/sessions/wicked-little-problem">The Wicked Little Problem of Collaboration</a></em></b><br><em><a href="../uc-open-4-2025/speakers/vm-brasseur">VM (Vicky) Brasseur</a> (vmbrasseur.com)</em></td>
   </tr>
   <tr>
     <td>2:40-3:30</td>
-    <td colspan="2"><b>Panel: <em>[Technology Transfer and Impact of Open Source](../uc-open-4-2025/sessions/technology-transfer.md)</em></b><br><em>Moderator: [Karla Padilla](../uc-open-4-2025/speakers/karla-padilla.md) (UCSD) <br>Panelists: [Laleh Shayesteh](../uc-open-4-2025/speakers/laleh-shayesteh.md) (UCB), [Marc Oettinger](../uc-open-4-2025/speakers/marc-oettinger.md) (UCSC), [Joel Kehle](../uc-open-4-2025/speakers/joel-kehle.md) (UCLA), [Angus MacDonald](../uc-open-4-2025/speakers/angus-macdonald.md) (UCOP)</em></td>
+    <td colspan="2"><b>Panel: <em><a href="../uc-open-4-2025/sessions/technology-transfer">Technology Transfer and Impact of Open Source</a></em></b><br><em>Moderator: <a href="../uc-open-4-2025/speakers/karla-padilla">Karla Padilla</a> (UCSD) <br>Panelists: <a href="../uc-open-4-2025/speakers/laleh-shayesteh">Laleh Shayesteh</a> (UCB), <a href="../uc-open-4-2025/speakers/marc-oettinger">Marc Oettinger</a> (UCSC), <a href="../uc-open-4-2025/speakers/joel-kehle">Joel Kehle</a>) (UCLA), <a href="../uc-open-4-2025/speakers/angus-macdonald">Angus MacDonald</a> (UCOP)</em></td>
   </tr>
   <tr>
     <td>3:30-3:50</td>
@@ -89,7 +89,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>3:50-4:30</td>
-    <td colspan="2"><b>Keynote: <em>[The Impact of Open Source Software - Insights from Five Cycles of Essential Open Source Software for Science](../uc-open-4-2025/sessions/impact-open-source.md</em></b><br><em>[Kate Hertweck](../uc-open-4-2025/speakers/kate-hertweck.md) (Chan Zuckerberg Initiative)</em></td>
+    <td colspan="2"><b>Keynote: <em><a href="../uc-open-4-2025/sessions/impact-open-source">The Impact of Open Source Software - Insights from Five Cycles of Essential Open Source Software for Science</a></em></b><br><em><a href="../uc-open-4-2025/speakers/kate-hertweck">Kate Hertweck</a>(Chan Zuckerberg Initiative)</em></td>
   </tr>
   <tr>
     <td>4:30-5:00</td>
