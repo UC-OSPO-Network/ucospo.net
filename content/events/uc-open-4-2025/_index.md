@@ -106,8 +106,8 @@ If your organization also wants to support open source innovation & research in 
 <table border='1' cellpadding='3' style='border-collapse:collapse'><thead>
   <tr>
     <th>Time</th>
-    <th>Track 1</th>
-    <th>Track 2</th>
+    <th>Track 1 (Event Space 2110)</th>
+    <th>Track 2 (Seminar Room 2225)</th>
   </tr></thead>
 <tbody>
   <tr>
