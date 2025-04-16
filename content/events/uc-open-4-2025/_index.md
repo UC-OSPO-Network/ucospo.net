@@ -123,7 +123,7 @@ If your organization also wants to support open source innovation & research in 
   <tr>
     <td>10:30-11:20</td>
     <td><b>Technical Session: <em>Open Source Software Security in AI</em></b><br><em>Presenter: Mihai Maruserac, Google; Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
-    <td><b>Directed Discussion: <em>OS  ABCs of Open Source Licensing</em></b><br><em>Including opening discussion with Jeff Shapiro (Linux Foundation)</em></b></td>
+    <td><b>Directed Discussion: <em><a href="../uc-open-4-2025/sessions/licensing">ABCs of Open Source Licensing</em></b><br>Including opening discussion with <a href="../uc-open-4-2025/speakers/karla-padilla">Karla Padilla (UCSD)</a> and <a href="../uc-open-4-2025/speakers/jeff-shapiro">Jeff Shapiro</a> (Linux Foundation)</b></td>
   </tr>
   <tr>
     <td>11:25-12:35</td>
