@@ -123,11 +123,11 @@ If your organization also wants to support open source innovation & research in 
   <tr>
     <td>10:30-11:20</td>
     <td><b>Technical Session: <em>Open Source Software Security in AI</em></b><br><em>Presenter: Mihai Maruserac, Google; Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
-    <td><b>Directed Discussion: <em><a href="../uc-open-4-2025/sessions/licensing">ABCs of Open Source Licensing</em></b><br>Including opening discussion with <a href="../uc-open-4-2025/speakers/karla-padilla">Karla Padilla (UCSD)</a> and <a href="../uc-open-4-2025/speakers/jeff-shapiro">Jeff Shapiro</a> (Linux Foundation)</b></td>
+    <td><b>Directed Discussion</b>: <em><a href="../uc-open-4-2025/sessions/licensing">ABCs of Open Source Licensing</a></em><br>Including opening discussion with <a href="../uc-open-4-2025/speakers/karla-padilla">Karla Padilla (UCSD)</a> and <a href="../uc-open-4-2025/speakers/jeff-shapiro">Jeff Shapiro</a> (Linux Foundation)</b></td>
   </tr>
   <tr>
     <td>11:25-12:35</td>
-    <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR), Drew Zabrock (International Fresh Produce Association)</em></td>
+    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/agrifood">Open Source for Agrifood – Perspectives from Academia and Industry</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/rob-trice">Rob Trice (Better Food Ventures)<br>Panelists: <a href="../uc-open-4-2025/speakers/Colleen Josephson">Colleen Josephson</a> (UCSC / Agtech Alliance), <a href="../uc-open-4-2025/speakers/priscilla-koepke">Priscilla Koepke</a> (F3 Innovate), <a href="../uc-open-4-2025/speakers/gabe-youtsey">Gabe Youtsey</a> (UCANR), <a href="../uc-open-4-2025/speakers/drew-zabrocki">Drew Zabrocki</a> (International Fresh Produce Association)</td>
     <td><b>Technical Session: <em>Sustainable Open Source: Tooling to Support the Health of Growing Projects</em></b><br><em> Presenter/Moderator: Vladimir Filkov (UCD)</em></td>
   </tr>
   <tr>
