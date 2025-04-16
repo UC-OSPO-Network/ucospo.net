@@ -1,5 +1,5 @@
 ---
-title: “Technical Session: Open Source Software Security in AI”
+title: "Technical Session: Open Source Software Security in AI"
 ---
 
 **Thursday, April 24 2025**
