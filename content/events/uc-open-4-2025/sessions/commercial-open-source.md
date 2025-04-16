@@ -1,5 +1,5 @@
 ---
-title: "Commercial Open Source Software: How Innovators Profit by Giving Software Away]"
+title: "Commercial Open Source Software: How Innovators Profit by Giving Software Away"
 ---
 
 **Wednesday, April 23 2025**

@@ -66,8 +66,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>11:10-11:50</td>
-    <td colspan="2"><b>Fireside Chat</b>
-: <em><a href="../uc-open-4-2025/sessions/commercial-open-source">Commercial Open Source Software: How Innovators Profit by Giving Software Away</a></em><br><a href="../uc-open-4-2025/speakers/heather-meeker">Heather Meeker</a> (Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community) and James Davis (UCSC)</td>
+    <td colspan="2"><b>Fireside Chat</b>: <em><a href="../uc-open-4-2025/sessions/commercial-open-source">Commercial Open Source Software: How Innovators Profit by Giving Software Away</a></em><br><a href="../uc-open-4-2025/speakers/heather-meeker">Heather Meeker</a> (Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community) and James Davis (UCSC)</td>
   </tr>
   <tr>
     <td>11:50-12:30</td>
@@ -141,7 +140,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>3:00-3:50</td>
-    <td colspan="2"><b>Closing Session: <em>How can we help? - Academic OSPOs Making an Impact at UC</em></b><br><em>Discussion moderated by UC OSPO Network Community Manager Laura Langdon</em></td>
+    <td colspan="2"><b>Closing Session: <em><a href="../uc-open-4-2025/sessions/how-can-we-help">How can we help? - Academic OSPOs Making an Impact at UC</a></em></b><br>Discussion moderated by UC OSPO Network Community Manager <a href="../uc-open-4-2025/speakers/laura-langdon">Laura Langdon</a></em></td>
   </tr>
 </tbody></table>
 

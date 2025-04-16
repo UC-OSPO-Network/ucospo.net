@@ -1,11 +1,12 @@
 ---
 title: "Jeff Shapiro"
-# resources:
-#   - name: featuredImage
-#     src: "./headshots/jeff-shapiro.jpg"
-#     params:
-#        description: "Speaker photo"
-#        showOnTop: true
+
+resources:
+  - name: featuredImage
+    src: "./headshots/jeff-shapiro.jpg"
+    params:
+      description: "Speaker photo"
+      showOnTop: true
 ---
 
 ## Bio
