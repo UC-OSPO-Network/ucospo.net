@@ -56,12 +56,12 @@ If your organization also wants to support open source innovation & research in 
     <td colspan="2"><b>Opening Session</b> <br><em>Featuring remarks from Alexander Wolf (Dean, UCSC Baskin Engineering)</em></td>
   </tr>
   <tr>
-    <td>9:50-10:45</td>
+    <td>9:50-10:50</td>
     <td colspan="2"><b>Panel</b>: <em><a href="../uc-open-4-2025/sessions/from-idea-to-impact">From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</a></em><br>Moderator: Stephanie Lieggi (CROSS / UCSC)<br>Panelists: <a href="../uc-open-4-2025/speakers/fernando-perez">Fernando Perez</a>
  (UCB and Jupyter), <a href="../uc-open-4-2025/speakers/bin-fan">Bin Fan (Alluxio)</a>, and <a href="../uc-open-4-2025/speakers/tony-wasserman">Tony Wasserman</a></td>
   </tr>
   <tr>
-    <td>10:45-11:10</td>
+    <td>10:50-11:10</td>
     <td colspan="2">Break and Networking</td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>5:00-6:30</td>
-    <td colspan="2">Reception and Book Signing/Meet and Greet with Arun Gupta</td>
+    <td colspan="2"><b>Reception and Book Signing/Meet and Greet with Arun Gupta</b></td>
   </tr>
 </tbody></table>
 
@@ -136,7 +136,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>2:00-2:50</td>
-    <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Presenter/Moderator: Nick Hill (RedHat)</em></td>
+    <td><b>Technical Session: <em>vLLM: A success story of UC and industry collaboration in Open Source AI </em></b><br><em>Presenter/Moderator: Nick Hill (RedHat)</em></td>
     <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
   </tr>
   <tr>
