@@ -6,6 +6,6 @@ title: "Commercial Open Source Software: How Innovators Profit by Giving Softwar
 
 **11:10-11:50**
 
-A fireside chat between [Heather Meeker](../speakers/heather-meeker.md) and James Davis (UCSC)
+A fireside chat between [Heather Meeker](../speakers/heather-meeker.md) (Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community) and James Davis (UCSC)
 
 ## Description

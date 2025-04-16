@@ -6,6 +6,6 @@ title: "Building Inclusive Open Source Communities: What the Data Says & How Aca
 
 **11:50-12:30**
 
-Presented by: [Kenyatta Forbes](../speakers/kenyatta-forbes.md)
+Presented by: [Kenyatta Forbes (Senior Manager GitHub - Open Source Programs)](../speakers/kenyatta-forbes.md)
 
 ## Description

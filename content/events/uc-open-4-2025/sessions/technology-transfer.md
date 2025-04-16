@@ -6,13 +6,14 @@ title: "Technology Transfer and Impact of Open Source"
 
 **2:40-3:30**
 
-**Moderator**: [**Karla Padilla** (UCSD)](../speakers/karla-padilla.md)
+**Moderator**: [Karla Padilla (UCSD)](../speakers/karla-padilla.md)
+
 **Panelists**:
 
-- [**Laleh Shayesteh** (UCB)](../speakers/laleh-shayesteh.md)
-- [**Marc Oettinger** (UCSC)](../speakers/marc-oettinger.md)
-- [**Joel Kehle** (UCLA)](../speakers/joel-kehle.md)
-- [**Angus MacDonald** (UCOP)](../speakers/angus-macdonald.md)
+- [Laleh Shayesteh (UCB)](../speakers/laleh-shayesteh.md)
+- [Marc Oettinger (UCSC)](../speakers/marc-oettinger.md)
+- [Joel Kehle (UCLA)](../speakers/joel-kehle.md)
+- [Angus MacDonald (UCOP)](../speakers/angus-macdonald.md)
 
 ## Description
 

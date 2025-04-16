@@ -6,6 +6,6 @@ title: "The Impact of Open Source Software - Insights from Five Cycles of Essent
 
 **3:50-4:30**
 
-Presented by: [Kate Hertweck](../speakers/kate-hertweck.md)
+Presented by: [Kate Hertweck (Chan Zuckerberg Initiative)](../speakers/kate-hertweck.md)
 
 ## Description

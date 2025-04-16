@@ -6,13 +6,13 @@ title: "From Idea to Impact — Charting Creation and Adoption of Open Source Co
 
 **9:50-10:50**
 
-**Moderator**: [Stephanie Lieggi](../speakers/stephanie-lieggi.md) (CROSS / UCSC)
+**Moderator**: [Stephanie Lieggi (CROSS / UCSC)](../speakers/stephanie-lieggi.md)
 
 **Panelists**:
 
-- [**Tony Wasserman** (Software Methods and Tools)](../speakers/tony-wasserman.md)
-- [**Fernando Perez** (Jupyter)](../speakers/fernando-perez.md)
-- [**Bin Fan** (Alluxio)](../speakers/bin-fan.md)
+- [Tony Wasserman (Software Methods and Tools)](../speakers/tony-wasserman.md)
+- [Fernando Perez (Jupyter)](../speakers/fernando-perez.md)
+- [Bin Fan (Alluxio)](../speakers/bin-fan.md)
 
 ## Description
 

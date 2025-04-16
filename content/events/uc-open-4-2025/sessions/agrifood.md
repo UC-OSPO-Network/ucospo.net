@@ -6,13 +6,14 @@ title: "Open Source for Agrifood – Perspectives from Academia and Industry"
 
 **11:25-12:35**
 
-**Moderator**: [**Rob Trice** (Partner, Better Food Ventures)](../speakers/rob-trice.md)
+**Moderator**: [Rob Trice (Partner, Better Food Ventures)](../speakers/rob-trice.md)
+
 **Panelists**:
 
-- [**Priscilla Koepke** (CEO, F3 Innovate)](../speakers/priscilla-koepke.md)
-- [**Colleen Josephson** (Assistant Professor, Dept. of Electrical and Computer Engineering, Co-Director, Agtech Alliance, UCSC)](../speakers/colleen-josephson.md)
-- [**Gabe Youtsey** (CIO, UC Agriculture & Natural Resources)](../speakers/gabe-youtsey.md)
-- [**Drew Zabrocki** (International Fresh Produce Association, Fresh Supply Chain of the Future)](../speakers/drew-zabrocki.md)
+- [Priscilla Koepke (CEO, F3 Innovate)](../speakers/priscilla-koepke.md)
+- [Colleen Josephson (Assistant Professor, Dept. of Electrical and Computer Engineering, Co-Director, Agtech Alliance, UCSC)](../speakers/colleen-josephson.md)
+- [Gabe Youtsey (CIO, UC Agriculture & Natural Resources)](../speakers/gabe-youtsey.md)
+- [Drew Zabrocki (International Fresh Produce Association, Fresh Supply Chain of the Future)](../speakers/drew-zabrocki.md)
 
 ## Description
 
