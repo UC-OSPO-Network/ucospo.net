@@ -5,7 +5,7 @@ title: "Technology Transfer and Impact of Open Source"
 **Wednesday, April 23 2025**
 **2:40-3:30**
 
-**Moderator**: [**Karla Padilla** (UCSD)]()
+**Moderator**: [**Karla Padilla** (UCSD)](../speakers/karla-padilla.md)
 **Panelists**:
 
 - [**Laleh Shayesteh** (UCB)](../speakers/laleh-shayesteh.md)
