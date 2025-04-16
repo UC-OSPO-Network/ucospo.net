@@ -6,7 +6,7 @@ title: "From Idea to Impact — Charting Creation and Adoption of Open Source Co
 
 **9:50-10:50**
 
-**Moderator**: Stephanie Lieggi (CROSS / UCSC)
+**Moderator**: [Stephanie Lieggi](../speakers/stephanie-lieggi.md) (CROSS / UCSC)
 
 **Panelists**:
 
