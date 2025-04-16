@@ -127,7 +127,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>11:25-12:35</td>
-    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/agrifood">Open Source for Agrifood – Perspectives from Academia and Industry</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/rob-trice">Rob Trice (Better Food Ventures)<br>Panelists: <a href="../uc-open-4-2025/speakers/Colleen Josephson">Colleen Josephson</a> (UCSC / Agtech Alliance), <a href="../uc-open-4-2025/speakers/priscilla-koepke">Priscilla Koepke</a> (F3 Innovate), <a href="../uc-open-4-2025/speakers/gabe-youtsey">Gabe Youtsey</a> (UCANR), <a href="../uc-open-4-2025/speakers/drew-zabrocki">Drew Zabrocki</a> (International Fresh Produce Association)</td>
+    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/agrifood">Open Source for Agrifood – Perspectives from Academia and Industry</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/rob-trice">Rob Trice</a> (Better Food Ventures)<br>Panelists: <a href="../uc-open-4-2025/speakers/colleen-josephson">Colleen Josephson</a> (UCSC / Agtech Alliance), <a href="../uc-open-4-2025/speakers/priscilla-koepke">Priscilla Koepke</a> (F3 Innovate), <a href="../uc-open-4-2025/speakers/gabe-youtsey">Gabe Youtsey</a> (UCANR), <a href="../uc-open-4-2025/speakers/drew-zabrocki">Drew Zabrocki</a> (International Fresh Produce Association)</td>
     <td><b>Technical Session: <em>Sustainable Open Source: Tooling to Support the Health of Growing Projects</em></b><br><em> Presenter/Moderator: Vladimir Filkov (UCD)</em></td>
   </tr>
   <tr>
