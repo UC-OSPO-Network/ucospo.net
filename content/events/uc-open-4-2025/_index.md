@@ -93,7 +93,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>4:30-5:00</td>
-    <td colspan="2"><b>Lightning Talks</b> - featuring highlights from industry and UC open source research projects</td>
+    <td colspan="2"><b>Lightning Intros</b><br><em>Email <a href="mailto:elovell@ucsc.edu"> Emily Lovell</a> to learn more or to add your name to the signup list!</em></td>
   </tr>
   <tr>
     <td>5:00-6:30</td>
@@ -120,7 +120,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>10:30-11:20</td>
-    <td><b>Technical Session: <em>Open Source Software Security in AI</em></b><br><em>Presenter: Mihai Maruserac, Google; Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
+    <td><b>Technical Session: <em>Open Source Software Security in AI</em></b><br><em>Presenter: Mihai Maruserac (Google)<br>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
     <td><b>Directed Discussion: <em>ABCs of Open Source Licensing</em></b><br><em>Including opening discussion with Jeff Shapiro (Linux Foundation)</em></b></td>
   </tr>
   <tr>
