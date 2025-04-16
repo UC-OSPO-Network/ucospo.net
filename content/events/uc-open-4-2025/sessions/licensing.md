@@ -5,7 +5,7 @@ title: "ABCs of Open Source Licensing"
 **Thursday, April 24 2025**
 **10:30-11:20**
 
-A Directed Discussion between Karla Padilla (UCSD)](../speakers/karla-padilla.md) and [Jeff Shapiro]()
+A Directed Discussion led by [Karla Padilla (UCSD)](../speakers/karla-padilla.md) and [Jeff Shapiro](../speakers/jeff-shapiro.md)
 
 ## Description
 
