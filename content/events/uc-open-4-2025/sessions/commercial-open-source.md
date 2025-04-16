@@ -3,8 +3,9 @@ title: "Commercial Open Source Software: How Innovators Profit by Giving Softwar
 ---
 
 **Wednesday, April 23 2025**
+
 **11:10-11:50**
 
 A fireside chat between [Heather Meeker](../speakers/heather-meeker.md) and James Davis (UCSC)
 
-Description
+## Description

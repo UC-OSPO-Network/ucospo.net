@@ -3,6 +3,7 @@ title: "Open Source for Agrifood – Perspectives from Academia and Industry"
 ---
 
 **Thursday, April 24 2025**
+
 **11:25-12:35**
 
 **Moderator**: [**Rob Trice** (Partner, Better Food Ventures)](../speakers/rob-trice.md)
