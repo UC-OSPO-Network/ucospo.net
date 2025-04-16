@@ -126,7 +126,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>11:25-12:35</td>
-    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/agrifood">Open Source for Agrifood – Perspectives from Academia and Industry</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/rob-trice">Rob Trice</a> (Better Food Ventures)<br>Panelists: <a href="../uc-open-4-2025/speakers/colleen-josephson">Colleen Josephson</a> (UCSC / Agtech Alliance), <a href="../uc-open-4-2025/speakers/priscilla-koepke">Priscilla Koepke</a> (F3 Innovate), <a href="../uc-open-4-2025/speakers/gabe-youtsey">Gabe Youtsey</a> (UCANR), <a href="../uc-open-4-2025/speakers/drew-zabrocki">Drew Zabrocki</a> (International Fresh Produce Association)</td>
+    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/agrifood">Open Source for Agrifood – Perspectives from Academia and Industry</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/rob-trice">Rob Trice</a> (Better Food Ventures)<br>Panelists: <a href="../uc-open-4-2025/speakers/colleen-josephson">Colleen Josephson</a> (UCSC/Agtech Alliance), <a href="../uc-open-4-2025/speakers/priscilla-koepke">Priscilla Koepke</a> (F3 Innovate), <a href="../uc-open-4-2025/speakers/gabe-youtsey">Gabe Youtsey</a> (UCANR), <a href="../uc-open-4-2025/speakers/drew-zabrocki">Drew Zabrocki</a> (International Fresh Produce Association)</td>
     <td><b>Technical Session</b>: <em>Sustainable Open Source: Tooling to Support the Health of Growing Projects</em><br> Presenter/Moderator: Vladimir Filkov (UCD)</td>
   </tr>
   <tr>
@@ -135,8 +135,8 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>2:00-2:50</td>
-    <td><b>Technical Session: <em>vLLM: A success story of UC and industry collaboration in Open Source AI </em></b><br><em>Presenter/Moderator: Nick Hill (RedHat)</em></td>
-    <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
+    <td><b>Technical Session: <em>vLLM: A success story of UC and industry collaboration in Open Source AI </em></b><br>Presenter/Moderator: Nick Hill (RedHat)</td>
+    <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br>Moderator: Shawn DeArmond (UCD)</td>
   </tr>
   <tr>
     <td>3:00-3:50</td>
