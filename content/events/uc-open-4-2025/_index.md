@@ -136,7 +136,7 @@ If your organization also wants to support open source innovation & research in 
   <tr>
     <td>2:00-2:50</td>
     <td><b>Technical Session: <em>vLLM: A success story of UC and industry collaboration in Open Source AI </em></b><br>Presenter/Moderator: Nick Hill (RedHat)</td>
-    <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br>Moderator: Shawn DeArmond (UCD)</td>
+    <td><b>Directed Discussion</b>: <em><a href="../uc-open-4-2025/sessions/supporting-oss-contributions">Supporting Open Source Contributions from UC-affiliated Technologists</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/shawn-dearmond">Shawn DeArmond</a> (UCD)</td>
   </tr>
   <tr>
     <td>3:00-3:50</td>
