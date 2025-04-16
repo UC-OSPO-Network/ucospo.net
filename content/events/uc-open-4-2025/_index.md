@@ -57,7 +57,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>9:50-10:50</td>
-    <td colspan="2"><b>Panel</b>: <em><a href="../uc-open-4-2025/sessions/from-idea-to-impact">From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</a></em><br>Moderator: Stephanie Lieggi (CROSS / UCSC)<br>Panelists: <a href="../uc-open-4-2025/speakers/fernando-perez">Fernando Perez</a>
+    <td colspan="2"><b>Panel</b>: <em><a href="../uc-open-4-2025/sessions/from-idea-to-impact">From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/stephanie-lieggi">Stephanie Lieggi</a> (CROSS / UCSC)<br>Panelists: <a href="../uc-open-4-2025/speakers/fernando-perez">Fernando Perez</a>
  (UCB and Jupyter), <a href="../uc-open-4-2025/speakers/bin-fan">Bin Fan (Alluxio)</a>, and <a href="../uc-open-4-2025/speakers/tony-wasserman">Tony Wasserman</a></td>
   </tr>
   <tr>
@@ -117,17 +117,17 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>9:30-10:20</td>
-    <td colspan="2"><b>Panel: <em>Open S#####? Understanding What is Meant by “Open”</em></b><br><em>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Kristen Ratan (Strategies for Open Science)</em></td>
+    <td colspan="2"><b>Panel</b>: <em>Open S#####? Understanding What is Meant by “Open”</em><br>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Kristen Ratan (Strategies for Open Science)</td>
   </tr>
   <tr>
     <td>10:30-11:20</td>
-  <td><b>Technical Session: <em>Open Source Software Security in AI</em></b><br><em>Presenter: Mihai Maruserac (Google)<br>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
+  <td><b>Technical Session</b>: <em>Open Source Software Security in AI</em><br>Presenter: Mihai Maruserac (Google)<br>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</td>
   <td><b>Directed Discussion</b>: <em><a href="../uc-open-4-2025/sessions/licensing">ABCs of Open Source Licensing</a></em><br>Including opening discussion with <a href="../uc-open-4-2025/speakers/karla-padilla">Karla Padilla (UCSD)</a> and <a href="../uc-open-4-2025/speakers/jeff-shapiro">Jeff Shapiro</a> (Linux Foundation)</b></td>
   </tr>
   <tr>
     <td>11:25-12:35</td>
     <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/agrifood">Open Source for Agrifood – Perspectives from Academia and Industry</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/rob-trice">Rob Trice</a> (Better Food Ventures)<br>Panelists: <a href="../uc-open-4-2025/speakers/colleen-josephson">Colleen Josephson</a> (UCSC / Agtech Alliance), <a href="../uc-open-4-2025/speakers/priscilla-koepke">Priscilla Koepke</a> (F3 Innovate), <a href="../uc-open-4-2025/speakers/gabe-youtsey">Gabe Youtsey</a> (UCANR), <a href="../uc-open-4-2025/speakers/drew-zabrocki">Drew Zabrocki</a> (International Fresh Produce Association)</td>
-    <td><b>Technical Session: <em>Sustainable Open Source: Tooling to Support the Health of Growing Projects</em></b><br><em> Presenter/Moderator: Vladimir Filkov (UCD)</em></td>
+    <td><b>Technical Session</b>: <em>Sustainable Open Source: Tooling to Support the Health of Growing Projects</em><br> Presenter/Moderator: Vladimir Filkov (UCD)</td>
   </tr>
   <tr>
     <td>12:35-2:00</td>
@@ -140,7 +140,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>3:00-3:50</td>
-    <td colspan="2"><b>Closing Session: <em><a href="../uc-open-4-2025/sessions/how-can-we-help">How can we help? - Academic OSPOs Making an Impact at UC</a></em></b><br>Discussion moderated by UC OSPO Network Community Manager <a href="../uc-open-4-2025/speakers/laura-langdon">Laura Langdon</a></em></td>
+    <td colspan="2"><b>Closing Session</b>: <em><a href="../uc-open-4-2025/sessions/how-can-we-help">How can we help? - Academic OSPOs Making an Impact at UC</a></em><br>Discussion moderated by UC OSPO Network Community Manager <a href="../uc-open-4-2025/speakers/laura-langdon">Laura Langdon</a></td>
   </tr>
 </tbody></table>
 
