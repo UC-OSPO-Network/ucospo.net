@@ -1,15 +1,14 @@
 ---
 title: "Shawn DeArmond"
-
-resources:
-  - name: featuredImage
-    src: "./headshots/shawn-dearmond.jpg"
-    params:
-      description: "Speaker photo"
-      showOnTop: true
 ---
 
-## Bio
+{{< image >}}
+src = '../headshots/shawn-dearmond.jpg'
+alt = 'Speaker photo'
+align = 'left'
+height = 320
+loading = 'lazy'
+{{< /image >}}
 
 Shawn is the Web Architect for Information and Educational Technology at UC Davis. He supervises the Web Development team, which offers custom web development services to campus units, as well as builds and maintains SiteFarm, the web platform service for the UC Davis campus that hosts over 1000 live web sites. SiteFarm is built using Drupal, an open source web CMS framework.
 

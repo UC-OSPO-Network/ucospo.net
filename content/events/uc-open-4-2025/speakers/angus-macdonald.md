@@ -1,15 +1,14 @@
 ---
-title: "Karla Padilla"
-
-resources:
-  - name: featuredImage
-    src: "./headshots/angus-macdonald.jpg"
-    params:
-      description: "Speaker photo"
-      showOnTop: true
+title: "Angus MacDonald"
 ---
 
-## Bio
+{{< image >}}
+src = '../headshots/angus-macdonald.jpg'
+alt = 'Speaker photo'
+align = 'left'
+height = 320
+loading = 'lazy'
+{{< /image >}}
 
 Angus MacDonald is the lead intellectual property lawyer at UC Legal and has been working at UC’s Office of the President since 2013. His practice primarily focuses on copyright and trademark matters throughout the UC system. 
 
