@@ -1,14 +1,14 @@
 ---
 title: "Fernando Perez"
-# resources:
-#   - name: featuredImage
-#     src: "./headshots/"
-#     params:
-#        description: "Speaker photo"
-#        showOnTop: true
 ---
 
-## Bio
+<!-- {{< image >}}
+src = '../headshots/'
+alt = 'Speaker photo'
+align = 'left'
+height = 320
+loading = 'lazy'
+{{< /image >}} -->
 
 ## Session
 

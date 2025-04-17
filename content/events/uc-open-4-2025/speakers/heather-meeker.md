@@ -1,13 +1,14 @@
 ---
 title: "Heather Meeker"
-
-resources:
-  - name: featuredImage
-    src: "./headshots/heather-meeker.jpg"
-    params:
-      description: "Speaker photo"
-      showOnTop: true
 ---
+
+{{< image >}}
+src = '../headshots/heather-meeker.jpg'
+alt = 'Speaker photo'
+align = 'left'
+height = 320
+loading = 'lazy'
+{{< /image >}}
 
 Heather Meeker is a partner at [Tech Law Partners, LLP](https://www.techlawpartners.com), a law firm focused on technology transactions. She is also co-founder of Chinstrap Community, a resource center for investors and founders starting commercial open source businesses.
 

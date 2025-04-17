@@ -1,15 +1,14 @@
 ---
 title: "Laleh  Shayesteh"
-
-resources:
-  - name: featuredImage
-    src: "./headshots/laleh-shayesteh.jpg"
-    params:
-      description: "Speaker photo"
-      showOnTop: true
 ---
 
-## Bio
+{{< image >}}
+src = '../headshots/laleh-shayesteh.png'
+alt = 'Speaker photo'
+align = 'left'
+height = 320
+loading = 'lazy'
+{{< /image >}}
 
 Laleh is the Director of Intellectual Property and Administration for the Office of Technology Licensing where she develops UC Berkeley's IP strategy and oversees licensing for life sciences, chemistry, medical instruments, physical sciences, engineering, and software technologies. Additionally, she handles trademark and copyright matters, open source compliance, and government grant and contract IP matters.
 

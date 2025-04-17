@@ -1,15 +1,14 @@
 ---
 title: "VM Brasseur"
-
-resources:
-  - name: featuredImage
-    src: "./headshots/vm-brasseur,jpg"
-    params:
-       description: "Speaker photo"
-       showOnTop: true
 ---
 
-## Bio
+{{< image >}}
+src = '../headshots/vm-brasseur.jpg'
+alt = 'Speaker photo'
+align = 'left'
+height = 320
+loading = 'lazy'
+{{< /image >}}
 
 I’ve spent much of my twenty-plus years in the tech industry leading software development departments and teams, providing technical management and leadership consulting for small and medium businesses, and helping companies understand, use, release, and contribute to free and open source software in a way that’s good for both their bottom line and for the community.
 
