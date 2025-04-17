@@ -3,7 +3,7 @@ title: "Mihai Maruseac"
 
 resources:
   - name: featuredImage
-    src: "./headshots/mihai-maruseac"
+    src: "./headshots/mihai-maruseac.jpg"
     params:
       description: "Speaker photo"
       showOnTop: true
