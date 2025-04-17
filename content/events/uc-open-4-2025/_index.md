@@ -121,7 +121,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>10:30-11:20</td>
-  <td><b>Technical Session</b>: <em>Open Source Software Security in AI</em><br>Presenter: Mihai Maruserac (Google)<br>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</td>
+  <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/oss-security-ai">Open Source Software Security in AI</a></em><br>Presenter: <a href="../uc-open-4-2025/speakers/mihai-maruseac">Mihai Maruserac</a> (Google)<br>Moderators: <a href="../uc-open-4-2025/speakers/alvaro-cardenas">Alvaro Cardenas</a> (UCSC) and <a href="../uc-open-4-2025/speakers/juanita-gomez">Juanita Gomez</a> (UCSC)</td>
   <td><b>Directed Discussion</b>: <em><a href="../uc-open-4-2025/sessions/licensing">ABCs of Open Source Licensing</a></em><br>Including opening discussion with <a href="../uc-open-4-2025/speakers/karla-padilla">Karla Padilla (UCSD)</a> and <a href="../uc-open-4-2025/speakers/jeff-shapiro">Jeff Shapiro</a> (Linux Foundation)</b></td>
   </tr>
   <tr>
@@ -135,7 +135,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>2:00-2:50</td>
-    <td><b>Technical Session: <em>vLLM: A success story of UC and industry collaboration in Open Source AI </em></b><br>Presenter/Moderator: Nick Hill (RedHat)</td>
+    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/vllm">vLLM: A success story of UC and industry collaboration in Open Source AI</a></em><br>Presenter/Moderator: <a href="../uc-open-4-2025/speakers/nick-hill">Nick Hill</a> (RedHat)</td>
     <td><b>Directed Discussion</b>: <em><a href="../uc-open-4-2025/sessions/supporting-oss-contributions">Supporting Open Source Contributions from UC-affiliated Technologists</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/shawn-dearmond">Shawn DeArmond</a> (UCD)</td>
   </tr>
   <tr>
