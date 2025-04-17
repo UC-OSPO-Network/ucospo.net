@@ -15,7 +15,6 @@ src = '../headshots/laura-langdon.jpeg'
 alt = 'Speaker photo'
 align = 'left'
 height = 320
-<!-- width = 320 -->
 loading = 'lazy'
 {{< /image >}}
 
