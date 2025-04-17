@@ -16,3 +16,7 @@ title: "Technical Session: Open Source Software Security in AI"
 - [Mihai Maruserac )Google)](../speakers/mihai-maruseac.md)
 
 ## Description
+
+In this session, Mihai will introduce the first stable release of an open-source model signing library developed in collaboration with NVIDIA and HiddenLayer.
+
+It is essential to ensure Machine Learning models integrity and provenance as they become more integrated into critical applications. This session will highlight the security challenges of the ML supply chain and demonstrate how cryptographic signatures, leveraging tools like Sigstore, can help users verify that the models they use are exactly those produced by trusted developers.
