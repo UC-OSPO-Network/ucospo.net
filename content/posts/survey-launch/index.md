@@ -2,7 +2,9 @@
 title: "UC OSPO Network Launches Open Source Survey"
 date: 2025-04-16
 draft: false
-description: "The UC OSPO Network is conducting a survey to understand the open source practices and needs of the University of California community."
+description:
+  "The UC OSPO Network is conducting a survey to understand the open source
+  practices and needs of the University of California community."
 tags: [network, survey]
 displayInList: true
 author: ["Virginia Scarlett"]
@@ -11,14 +13,12 @@ resources:
   - name: featuredImage
     src: "firmbee-com-unsplash-small.jpg"
     params:
-      description: "Image courtesy of firmbee.com via Unsplash"
+      description: "Close-up of a pair of hands using a phone beside a computer"
       showOnTop: true
-
 ---
-*Image courtesy of firmbee.com via Unsplash*
 
+_Image courtesy of firmbee.com via Unsplash_
 
-# Announcing the UC Open Source Survey 2025
 The UC OSPO Network is thrilled to announce that our survey, "Challenges and
 Opportunities in Open Source", is underway. Led by a research team at UC Santa
 Barbara and encompassing all campuses in the network, the survey will inform
@@ -31,6 +31,7 @@ academic OSPOs prioritize among the many ways that they can serve their
 communities, providing targeted services with maximum benefit.
 
 ## Uncovering challenges and opportunities
+
 We developed this survey to identify areas of greatest need for open-source
 support. The core questions focus on challenges open source contributors have
 faced and the potential solutions they might find most useful. When combined
@@ -42,6 +43,7 @@ describe further challenges or solutions, which we will use to uncover
 additional opportunities.
 
 ## Integrating repository data
+
 We will also leverage the survey to explore repository characteristics and to
 develop an understanding of UC open source practices. For instance, what
 licenses are people using, if any? Are repositories including a README or "How
@@ -56,6 +58,7 @@ broader set of publicly available UC repositories—always in aggregate and with
 sensitivity to privacy.
 
 ## Reproducibility and looking ahead
+
 The survey was designed by the UC OSPO Network team at UCSB, with input from
 members across the network as well as colleagues outside of UC. Our goal is to
 create a survey instrument that we can implement annually and that other
@@ -70,5 +73,5 @@ Together, we're building a more effective and supportive open source community
 within academia.
 
 For questions or comments about the survey, or to receive a link to take the
-survey, please email ospo@library.ucsb.edu. The survey will be open until May
-2, 2025.
+survey, please email [ospo@library.ucsb.edu](mailto:ospo@library.ucsb.edu). The
+survey will be open until May 2, 2025.
