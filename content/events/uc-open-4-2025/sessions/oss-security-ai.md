@@ -13,7 +13,7 @@ title: "Technical Session: Open Source Software Security in AI"
 
 **Panelist**
 
-- [Mihai Maruserac )Google)](../speakers/mihai-maruseac.md)
+- [Mihai Maruserac (Google)](../speakers/mihai-maruseac.md)
 
 ## Description
 
