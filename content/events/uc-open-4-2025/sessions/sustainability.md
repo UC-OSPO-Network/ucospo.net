@@ -8,7 +8,7 @@ title: "OSS Sustainability"
 
 ## Description
 
-1. **Panel discussion**: What is OSS Sustainability and how can a university OSPO help OSS projects be sustainable?
+### Panel discussion: What is OSS Sustainability and how can a university OSPO help OSS projects be sustainable? (30-45 min)
 
 **Moderator**: Vladimir Filkov (UCD)
 
@@ -19,7 +19,7 @@ title: "OSS Sustainability"
 - Jarrod Millman (UCB (UCSB))
 - Greg Janee
 
-2. **AI for OSS Sustainability Presentation and OSPEx dashboard tool demo** (15min)
+### AI for OSS Sustainability Presentation and OSPEx dashboard tool demo (15min)
 
 **Presenters**:
 
