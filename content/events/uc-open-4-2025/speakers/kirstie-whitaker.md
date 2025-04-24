@@ -3,7 +3,7 @@ title: "Kirstie Whitaker"
 ---
 
 {{< image >}}
-src = '../headshots/kirstie-whitaker.jpeg'
+src = '../headshots/kirstie-whitaker.jpg'
 alt = 'Speaker photo'
 align = 'left'
 height = 320
