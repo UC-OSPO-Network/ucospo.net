@@ -3,7 +3,7 @@ title: "Kristen Ratan"
 ---
 
 {{< image >}}
-src = '../headshots/kristen-ratan.jpeg'
+src = '../headshots/kristen-ratan.jpg'
 alt = 'Speaker photo'
 align = 'left'
 height = 320
