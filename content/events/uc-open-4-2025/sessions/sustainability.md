@@ -10,14 +10,14 @@ title: "OSS Sustainability"
 
 ### Panel discussion: What is OSS Sustainability and how can a university OSPO help OSS projects be sustainable? (30-45 min)
 
-**Moderator**: Vladimir Filkov (UCD)
+**Moderator**: Amber Budden (UCSB)
 
 **Panelists**:
 
 - Laura Langdon (UC OSPO Network)
-- Amber Budden (UCSB)
-- Jarrod Millman (UCB (UCSB))
-- Greg Janee
+- Vladimir Filkov (UCD)
+- Jarrod Millman (UCB (UCSB)
+- Virginia Scarlett (UCSB)
 
 ### AI for OSS Sustainability Presentation and OSPEx dashboard tool demo (15min)
 
