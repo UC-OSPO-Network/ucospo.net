@@ -127,7 +127,7 @@ If your organization also wants to support open source innovation & research in 
   <tr>
     <td>11:25-12:35</td>
     <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/agrifood">Open Source for Agrifood – Perspectives from Academia and Industry</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/rob-trice">Rob Trice</a> (Better Food Ventures)<br>Panelists: <a href="../uc-open-4-2025/speakers/colleen-josephson">Colleen Josephson</a> (UCSC/Agtech Alliance), <a href="../uc-open-4-2025/speakers/priscilla-koepke">Priscilla Koepke</a> (F3 Innovate), <a href="../uc-open-4-2025/speakers/gabe-youtsey">Gabe Youtsey</a> (UCANR), <a href="../uc-open-4-2025/speakers/drew-zabrocki">Drew Zabrocki</a> (International Fresh Produce Association)</td>
-    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/sustainability">OSS Sustainabillity</a></em><br>Moderator: Vladimir Filkov (UCD)</td>
+    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/sustainability">OSS Sustainabillity</a></em><br>Moderator: Amber Budden (UCSB)</td>
   </tr>
   <tr>
     <td>12:35-2:00</td>
