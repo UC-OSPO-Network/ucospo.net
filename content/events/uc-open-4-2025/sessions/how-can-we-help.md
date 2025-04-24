@@ -1,5 +1,5 @@
 ---
-title: "How can we help? - Academic OSPOs Making an Impact at UC"
+title: "Directed Discussion: How can we help? - Academic OSPOs Making an Impact at UC"
 ---
 
 **Thursday, April 24 2025**
@@ -8,6 +8,6 @@ title: "How can we help? - Academic OSPOs Making an Impact at UC"
 
 **Moderator**: [Laura Langdon (Community Manager, UC OSPO Network)](../speakers/laura-langdon.md)
 
-**Panelists**:
-
 ## Description
+
+How can the OSPO Network support your open source work? We can't wait to hear from you!
