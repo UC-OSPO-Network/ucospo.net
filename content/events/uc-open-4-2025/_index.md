@@ -117,7 +117,7 @@ If your organization also wants to support open source innovation & research in 
   </tr>
   <tr>
     <td>9:30-10:20</td>
-    <td colspan="2"><b>Panel</b>: <em>Open S#####? Understanding What is Meant by “Open”</em><br>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Kristen Ratan (Strategies for Open Science)</td>
+    <td colspan="2"><b>Panel</b>: <em><a href="../uc-open-4-2025/sessions/what-is-open">Open S#####? Understanding What is Meant by “Open”</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/kirstie-whitaker"> Kirstie Whitaker (UCB)</a><br>Panelists: <a href="../uc-open-4-2025/speakers/jarrod-millman">Jarrod Millman (UCB)</a>, <a href="../uc-open-4-2025/speakers/kristen-ratan">Kristen Ratan (Strategies for Open Science)</a></td>
   </tr>
   <tr>
     <td>10:30-11:20</td>
