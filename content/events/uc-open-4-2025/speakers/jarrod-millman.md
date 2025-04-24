@@ -3,7 +3,7 @@ title: "Jarrod Millman"
 ---
 
 {{< image >}}
-src = '../headshots/jarrod-millman.jpeg'
+src = '../headshots/jarrod-millman.jpg'
 alt = 'Speaker photo'
 align = 'left'
 height = 320
