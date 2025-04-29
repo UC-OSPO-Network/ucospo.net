@@ -1,5 +1,5 @@
 ---
-title: Speakers
+title: "Speakers"
 ---
 
-Check back soon!
+Coming soon!

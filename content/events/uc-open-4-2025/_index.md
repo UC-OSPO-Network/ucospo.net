@@ -15,6 +15,8 @@ The University of California Open Summit (UC Open) 2025 will highlight the value
 
 Special attention will be given to common challenges facing open source communities in the UC-system, and ways that collaborating across sectors can help meet these challenges.
 
+We are also excited to announce that the event will include a special meet & greet and **book signing with [Arun Gupta](https://www.linkedin.com/in/arunpgupta/)**, author of [_Fostering Open Source Culture: Increase Innovation and Deliver Faster with Open Source_](https://link.springer.com/book/10.1007/979-8-8688-0977-4). A limited number of copies will be available on a first-come, first-served basis. Attendees are also welcome to bring their own copy for signing. We are excited to provide this opportunity to connect with the author and gain insights into fostering a thriving open source culture.
+
 This isn't just another professional obligation. UC Open promises to be:
 
 - **Genuinely enjoyable**: we’ve made sure to include breaks long enough to recharge your attention span and have meaningful conversations.
@@ -27,9 +29,13 @@ _Thanks to the generosity of our sponsors, we are able to make this event **free
 
 **Location: [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/facility/) Santa Clara, CA**
 
-## Sponsorship info
+## Sponsorship
 
-If your organization wants to support open source innovation & research in academia, and foster collaboration with industry, universities & OS communities, check out our [sponsorship opportunities!](./sponsor/_index.md). Individual participants can also make to donations to support our efforts. [Contact the organizers](mailto:slieggi@ucsc.edu) for more details.
+This event is made possible by generous support from Platinum sponsors Red Hat, the Chan Zuckerberg Initiative, and the Alfred P. Sloan Foundation. Additional support is provided by UCSC's Center for Research in Open Source Software (Silver sponsor) and GitHub (Bronze sponsor). Thank you all!
+
+![Sponsor Logos](Sponsor_Logos.png)
+
+If your organization also wants to support open source innovation & research in academia – and foster collaboration across industry, universities & OS communities – check out our [sponsorship opportunities](./sponsor/_index.md). Individuals can also make donations to support our efforts. [Contact the organizers](mailto:slieggi@ucsc.edu) for more details.
 
 ## Agenda
 
@@ -50,20 +56,21 @@ If your organization wants to support open source innovation & research in acade
     <td colspan="2"><b>Opening Session</b> <br><em>Featuring remarks from Alexander Wolf (Dean, UCSC Baskin Engineering)</em></td>
   </tr>
   <tr>
-    <td>9:50-10:45</td>
-    <td colspan="2"><b>Panel: <em>From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</em></b><br><em>Moderator: Tony Wasserman <br>Panelists: Fernando Perez (UCB and Jupyter), Bin Fan (Alluxio), and Stephanie Lieggi (CROSS / UCSC)</em></td>
+    <td>9:50-10:50</td>
+    <td colspan="2"><b>Panel</b>: <em><a href="../uc-open-4-2025/sessions/from-idea-to-impact">From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/stephanie-lieggi">Stephanie Lieggi</a> (CROSS / UCSC)<br>Panelists: <a href="../uc-open-4-2025/speakers/fernando-perez">Fernando Perez</a>
+ (UCB and Jupyter), <a href="../uc-open-4-2025/speakers/bin-fan">Bin Fan (Alluxio)</a>, and <a href="../uc-open-4-2025/speakers/tony-wasserman">Tony Wasserman</a></td>
   </tr>
   <tr>
-    <td>10:45-11:10</td>
+    <td>10:50-11:10</td>
     <td colspan="2">Break and Networking</td>
   </tr>
   <tr>
     <td>11:10-11:50</td>
-    <td colspan="2"><b>Fireside Chat: <em>Commercial Open Source Software: How Innovators Profit by Giving Software Away</em></b><br><em>Heather Meeker (Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community) and James Davis (UCSC)</em></td>
+    <td colspan="2"><b>Fireside Chat</b>: <em><a href="../uc-open-4-2025/sessions/commercial-open-source">Commercial Open Source Software: How Innovators Profit by Giving Software Away</a></em><br><a href="../uc-open-4-2025/speakers/heather-meeker">Heather Meeker</a> (Partner, Tech Law Partners LLP, and co-founder, Chinstrap Community) and James Davis (UCSC)</td>
   </tr>
   <tr>
     <td>11:50-12:30</td>
-    <td colspan="2"><b>Keynote: <em>Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead</em></b><br><em>Kenyatta Forbes (GitHub - Open Source Programs)</em></td>
+    <td colspan="2"><b>Keynote</b>: <em><a href="../uc-open-4-2025/sessions/building_inclusive_communities">Building Inclusive Open Source Communities: What the Data Says & How Academia Can Lead</em><br><a href="../uc-open-4-2025/speakers/kenyatta-forbes">Kenyatta Forbes</a> (GitHub - Open Source Programs)</td>
   </tr>
   <tr>
     <td>12:30-2:00</td>
@@ -71,11 +78,11 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>2:00-2:40</td>
-    <td colspan="2"><b>Keynote: <em>The Wicked Little Problem of Collaboration</em></b><br><em>VM (Vicky) Brasseur (vmbrasseur.com)</em></td>
+    <td colspan="2"><b>Keynote</b>: <em><a href="../uc-open-4-2025/sessions/wicked-little-problem">The Wicked Little Problem of Collaboration</a></em><br><a href="../uc-open-4-2025/speakers/vm-brasseur">VM (Vicky) Brasseur</a> (vmbrasseur.com)</td>
   </tr>
   <tr>
     <td>2:40-3:30</td>
-    <td colspan="2"><b>Panel: <em>Technology Transfer and Impact of Open Source</em></b><br><em>Moderator: Karla Padilla (UCSD) <br>Panelists: Laleh Shayesteh (UCB), Marc Oettinger (UCSC), others TBA</em></td>
+    <td colspan="2"><b>Panel</b>: <em><a href="../uc-open-4-2025/sessions/technology-transfer">Technology Transfer and Impact of Open Source</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/karla-padilla">Karla Padilla</a> (UCSD) <br>Panelists: <a href="../uc-open-4-2025/speakers/laleh-shayesteh">Laleh Shayesteh</a> (UCB), <a href="../uc-open-4-2025/speakers/marc-oettinger">Marc Oettinger</a> (UCSC), <a href="../uc-open-4-2025/speakers/joel-kehle">Joel Kehle</a> (UCLA), <a href="../uc-open-4-2025/speakers/angus-macdonald">Angus MacDonald</a> (UCOP)</td>
   </tr>
   <tr>
     <td>3:30-3:50</td>
@@ -83,15 +90,15 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>3:50-4:30</td>
-    <td colspan="2"><b>Keynote: <em>The Impact of Open Source Software - Insights from Five Cycles of Essential Open Source Software for Science</em></b><br><em>Kate Hertweck (Chan Zuckerberg Initiative)</em></td>
+    <td colspan="2"><b>Keynote</b>: <em><a href="../uc-open-4-2025/sessions/impact-open-source">The Impact of Open Source Software - Insights from Five Cycles of Essential Open Source Software for Science</a></em><br><a href="../uc-open-4-2025/speakers/kate-hertweck">Kate Hertweck</a> (Chan Zuckerberg Initiative)</td>
   </tr>
   <tr>
     <td>4:30-5:00</td>
-    <td colspan="2"><b>Lightning Talks</b> - featuring highlights from industry and UC open source research projects</td>
+    <td colspan="2"><b>Lightning Intros</b><br><em>Email <a href="mailto:elovell@ucsc.edu"> Emily Lovell</a> to learn more or to add your name to the signup list!</em></td>
   </tr>
   <tr>
     <td>5:00-6:30</td>
-    <td colspan="2">Reception</td>
+    <td colspan="2"><b>Reception and Book Signing/Meet and Greet with Arun Gupta</b></td>
   </tr>
 </tbody></table>
 
@@ -100,8 +107,8 @@ If your organization wants to support open source innovation & research in acade
 <table border='1' cellpadding='3' style='border-collapse:collapse'><thead>
   <tr>
     <th>Time</th>
-    <th>Track 1</th>
-    <th>Track 2</th>
+    <th>Track 1 (Event Space 2110)</th>
+    <th>Track 2 (Seminar Room 2225)</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -110,18 +117,17 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>9:30-10:20</td>
-    <td colspan="2"><b>Panel: <em>Open S#####? Understanding What is Meant by “Open”</em></b><br><em>Moderator: Kirstie Whitaker (UCB)<br>Panelists: Jarrod Millman (UCB), Tom Callaway (AWS), Kristen Ratan (Strategies for Open Science)</em></td>
+    <td colspan="2"><b>Panel</b>: <em><a href="../uc-open-4-2025/sessions/what-is-open">Open S#####? Understanding What is Meant by “Open”</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/kirstie-whitaker"> Kirstie Whitaker (UCB)</a><br>Panelists: <a href="../uc-open-4-2025/speakers/amber-budden">Amber Budden (UCSB)</a>, <a href="../uc-open-4-2025/speakers/todd-grappone">Todd Grappone (UCLA)</a>, <a href="../uc-open-4-2025/speakers/jarrod-millman">Jarrod Millman (UCB)</a>, <a href="../uc-open-4-2025/speakers/kristen-ratan">Kristen Ratan (Strategies for Open Science)</a></td>
   </tr>
   <tr>
     <td>10:30-11:20</td>
-    <td><b>Directed Discussion: <em>OS Licensing in Academic Settings - Figuring Out Where Your Project Fits</em></b></td>
-    <td><b>Directed Discussion: <em>Open Source Software Security – Understanding and Mitigating Risk in Academic Settings</em></b><br><em>Moderators: Alvaro Cardenas and Juanita Gomez (UCSC)</em></td>
+  <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/oss-security-ai">Open Source Software Security in AI</a></em><br>Presenter: <a href="../uc-open-4-2025/speakers/mihai-maruseac">Mihai Maruserac</a> (Google)<br>Moderators: <a href="../uc-open-4-2025/speakers/alvaro-cardenas">Alvaro Cardenas</a> (UCSC) and <a href="../uc-open-4-2025/speakers/juanita-gomez">Juanita Gomez</a> (UCSC)</td>
+  <td><b>Directed Discussion</b>: <em><a href="../uc-open-4-2025/sessions/licensing">ABCs of Open Source Licensing</a></em><br>Including opening discussion with <a href="../uc-open-4-2025/speakers/karla-padilla">Karla Padilla (UCSD)</a> and <a href="../uc-open-4-2025/speakers/jeff-shapiro">Jeff Shapiro</a> (Linux Foundation)</b></td>
   </tr>
   <tr>
     <td>11:25-12:35</td>
-    <td><b>Technical Session: <em>Open Source for Agrifood – Perspectives from Academia and Industry</em></b><br><em>Moderator: Rob Trice (Better Food Ventures)<br>Panelists: Colleen Josephson (UCSC / Agtech Alliance), Priscilla Koepke (F3 Innovate), Gabe Youtsey (UCANR), Drew Zabrock (International Fresh Produce Association)</em></td>
-    <td><b>Technical Session: <em>Sustainable Open Source: Tooling to Support the Health of Growing Projects</em></b><br><em> Presenter/Moderator: Vladimir Filkov (UCD)</em></td>
-
+    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/agrifood">Open Source for Agrifood – Perspectives from Academia and Industry</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/rob-trice">Rob Trice</a> (Better Food Ventures)<br>Panelists: <a href="../uc-open-4-2025/speakers/colleen-josephson">Colleen Josephson</a> (UCSC/Agtech Alliance), <a href="../uc-open-4-2025/speakers/priscilla-koepke">Priscilla Koepke</a> (F3 Innovate), <a href="../uc-open-4-2025/speakers/gabe-youtsey">Gabe Youtsey</a> (UCANR), <a href="../uc-open-4-2025/speakers/drew-zabrocki">Drew Zabrocki</a> (International Fresh Produce Association)</td>
+    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/sustainability">OSS Sustainabillity</a></em><br>Moderator: Amber Budden (UCSB)</td>
   </tr>
   <tr>
     <td>12:35-2:00</td>
@@ -129,12 +135,12 @@ If your organization wants to support open source innovation & research in acade
   </tr>
   <tr>
     <td>2:00-2:50</td>
-    <td><b>Directed Discussion: <em>Supporting Open Source Contributions from UC-affiliated Technologists</em></b><br><em>Moderator: Shawn DeArmond (UCD)</em></td>
-    <td><b>Technical Session: <em>Open Source, AI and the Role of UC Researchers</em></b><br><em>Presenter/Moderator: Nick Hill (RedHat)</em></td>
+    <td><b>Technical Session</b>: <em><a href="../uc-open-4-2025/sessions/vllm">vLLM: A success story of UC and industry collaboration in Open Source AI</a></em><br>Presenter/Moderator: <a href="../uc-open-4-2025/speakers/nick-hill">Nick Hill</a> (RedHat)</td>
+    <td><b>Directed Discussion</b>: <em><a href="../uc-open-4-2025/sessions/supporting-oss-contributions">Supporting Open Source Contributions from UC-affiliated Technologists</a></em><br>Moderator: <a href="../uc-open-4-2025/speakers/shawn-dearmond">Shawn DeArmond</a> (UCD)</td>
   </tr>
   <tr>
     <td>3:00-3:50</td>
-    <td colspan="2"><b>Closing Session: <em>Building Academic OSPOs at UC</em></b><br><em>Panel Discussion with UC OSPO Network Representatives</em></td>
+    <td colspan="2"><b>Closing Session</b>: <em><a href="../uc-open-4-2025/sessions/how-can-we-help">How can we help? - Academic OSPOs Making an Impact at UC</a></em><br>Discussion moderated by UC OSPO Network Community Manager <a href="../uc-open-4-2025/speakers/laura-langdon">Laura Langdon</a></td>
   </tr>
 </tbody></table>
 
