@@ -34,11 +34,17 @@ As the first system-wide OSPO network in a large university system, we are setti
 
 ## Team
 
-- Berkeley (contact [Jarrod Millman](mailto:millman@berkeley.edu))
-- Davis (contact [Vessela Ensberg](mailto:vensberg@ucdavis.edu))
-- Los Angeles (contact [Todd Grappone](mailto:grappone@library.ucla.edu))
-- San Diego (contact [David Minor](mailto:dminor@ucsd.edu))
-- Santa Barbara (contact [Amber Budden](mailto:ospo@library.ucsb.edu))
-- Santa Cruz (contact [Stephanie Lieggi](mailto:ospo-info-group@ucsc.edu))
+### OSPO Network Team
 
-More team member details coming! If you don't see your campus listed above [contact us](mailto:ospo-info-group@ucsc.edu) for more details about how the network can help you.
+**Community Manager**: [Laura Langdon](mailto:lalangdon@ucdavis.edu) (if you're not sure who to talk to about something, talk to Laura! 😊)
+
+**Campus contacts**:
+
+- Berkeley ([Jarrod Millman](mailto:millman@berkeley.edu))
+- Davis ([Vessela Ensberg](mailto:vensberg@ucdavis.edu))
+- Los Angeles ([Todd Grappone](mailto:grappone@library.ucla.edu))
+- San Diego ([David Minor](mailto:dminor@ucsd.edu))
+- Santa Barbara ([Amber Budden](mailto:ospo@library.ucsb.edu))
+- Santa Cruz ([Stephanie Lieggi](mailto:ospo-info-group@ucsc.edu))
+
+If you don't see your campus listed above [contact Laura](mailto:lalangdon@ucdavis.edu) for more details about how the network can help you.
