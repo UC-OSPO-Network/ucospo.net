@@ -31,11 +31,6 @@ Here are some resources to help you get started with open source contributions:
       - `origin`, which refers to the `UC-OSPO-Network/ucospo.net` repository
       - `<your-username>`, which refers to your personal fork of `UC-OSPO-Network/ucospo.net`
 
-    - Finally, we recommend that you use a pre-commit hook, which runs code checkers and formatters each time you do a git commit:
-
-          pip install pre-commit
-          pre-commit install
-
 2.  Develop your contribution:
 
     - Pull the latest changes from upstream:
