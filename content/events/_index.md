@@ -8,7 +8,7 @@ title: Events
 
 ## Upcoming Events
 
-###  Davis meetup
+### Davis meetup
 
 **Thursday, May 29 2025**
 
