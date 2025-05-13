@@ -6,7 +6,7 @@ sidebar: false
 
 ## Check out our upcoming events!
 
-For more information, see our [event page](./events/_index.md)).
+For more information, see our [event page](./events/_index.md).
 
 ## 2024--12--03: UC OSPO Network hosts two sessions at UC Tech 2024
 
