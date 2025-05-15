@@ -31,11 +31,6 @@ Here are some resources to help you get started with open source contributions:
       - `origin`, which refers to the `UC-OSPO-Network/ucospo.net` repository
       - `<your-username>`, which refers to your personal fork of `UC-OSPO-Network/ucospo.net`
 
-    - Finally, we recommend that you use a pre-commit hook, which runs code checkers and formatters each time you do a git commit:
-
-          pip install pre-commit
-          pre-commit install
-
 2.  Develop your contribution:
 
     - Pull the latest changes from upstream:
@@ -49,6 +44,13 @@ Here are some resources to help you get started with open source contributions:
           git switch -c bugfix-for-issue-1480
 
     - Commit locally as you progress (`git add` and `git commit`)
+    - To preview your changes:
+      - [Install Hugo](https://gohugo.io/installation/)
+      - [Install Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass)
+      - Run `make serve`
+    - To make sure your code is formatted as the linter expects, you can:
+      - [Run Prettier from your terminal](https://prettier.io/docs/install) or as an extension in your IDE, e.g. the [VS Code Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+      - Wait until you've pushed your code and if the `pre-commit.ci` test fails, you can usually have the pre-commit bot push a fix to your branch by adding a comment on your PR with the text `pre-commit.ci autofix`
 
 3.  Submit your contribution:
 
