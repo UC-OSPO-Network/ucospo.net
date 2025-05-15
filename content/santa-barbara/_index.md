@@ -5,7 +5,9 @@ title: UC Santa Barbara OSPO
 <!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
 <div style="float:right; width:360px; margin:0 0 1em 1em;">
   <img src="library.jpg" alt="UCSB library exterior" style="width:100%; height:auto;" />
-  <figcaption><em>Image courtesy of UCSB</em></figcaption>
+  <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
+  <em>Image courtesy of UCSB</em>
+  </figcaption>
 </div>
 
 UC Santa Barbara is one of the six campus partners in the UC Network of Open
@@ -43,21 +45,27 @@ The current UCSB open source programs team includes staff members at the UCSB
 Library, and we expect that the Library will continue to be the center of
 gravity for this work for the foreseeable future.
 
+<!-- Colored box for current projects -->
 <div style="
-  background-color: #f0f8ff;
-  padding: 1rem;
+  background-color: #D7D2CB;
+  color: black;
+  padding: 0 1rem;     /* 0rem top/bottom, 1rem left/right */
   border-radius: 0.5rem;
   margin: 1.5rem 0;
   overflow: auto;
 ">
 
-<h2 style="text-align: center;">Current projects</h2>
+<h2 style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
+Current projects
+</h2>
 
 ### UCSB Open Source Meetup
 
-<div style="float:right; width:240px; margin:0 0 1em 1em;">
+<div style="float:right; width:360px; margin:0 0 1em 1em;">
   <img src="lunch.png" alt="Stylized picture of lunch foods" style="width:100%; height:auto;" />
-  <figcaption><em>Image courtesy of LumenSt for Getty Images</em></figcaption>
+  <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
+  <em>Image courtesy of LumenSt for Getty Images</em>
+  </figcaption>
 </div>
 
 We are thrilled to be launching the UCSB Open Source Meetup! This group is open
@@ -92,9 +100,11 @@ room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
 
 ### UC Open Source Survey
 
-<div style="float:right; width:240px; margin:0 0 1em 1em;">
+<div style="float:right; width:360px; margin:0 0 1em 1em;">
   <img src="hands.jpg" alt="Close-up of a pair of hands using a phone beside a computer" style="width:100%; height:auto;" />
-  <figcaption><em>Image courtesy of firmbee on Unsplash</em></figcaption>
+  <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
+  <em>Image courtesy of firmbee on Unsplash</em>
+  </figcaption>
 </div>
 
 Our team recently spearheaded a survey of more than 200 open source contributors
@@ -107,6 +117,10 @@ answer questions.
 </div>
 
 ## Get connected
+
+<div style="float:right; width:180px; margin:0 0 1em 1em;">
+  <img src="UCSB-ospo.png" alt="UCSB open source programs logo" style="width:100%; height:auto;" />
+</div>
 
 - To stay informed about our activities,
   [join our mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo).
