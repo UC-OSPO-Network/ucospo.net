@@ -34,9 +34,10 @@ We envision that the UCSB OSPO will:
 
 We also foresee the OSPO advising on open source licenses, promoting best
 practices for creating and utilizing sustainable open source technology, and
-fostering increased community engagement. The OSPO will draw on resources
-developed by the UC OSPO Network, and its priorities will be shaped by both UC
-leadership and the UCSB open source community.
+fostering increased community engagement. Building on the work of the Open
+Source Programs Team, the OSPO will draw on resources developed by the UC OSPO
+Network, and its priorities will be shaped by both UC leadership and the UCSB
+open source community.
 
 The current UCSB open source programs team includes staff members at the UCSB
 Library, and we expect that the Library will continue to be the center of
