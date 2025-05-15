@@ -98,9 +98,11 @@ room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
 - [Add it to your calendar](https://ucospo.net/events/) so you know which
   meetings are in-person and which are virtual.
 
-### UC Open Source Survey
+<h3 style="text-align: center;">
+UC Open Source Survey
+</h3>
 
-<div style="float:right; width:360px; margin:0 0 1em 1em;">
+<div style="float:left; width:360px; margin:0 1em 1em 0;">
   <img src="hands.jpg" alt="Close-up of a pair of hands using a phone beside a computer" style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
   <em>Image courtesy of firmbee on Unsplash</em>
