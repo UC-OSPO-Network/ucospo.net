@@ -3,7 +3,7 @@ title: UC Santa Barbara OSPO
 ---
 
 <!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
-<div style="float:right; width:240px; margin:0 0 1em 1em;">
+<div style="float:right; width:360px; margin:0 0 1em 1em;">
   <img src="library.jpg" alt="UCSB library exterior" style="width:100%; height:auto;" />
   <figcaption><em>Image courtesy of UCSB</em></figcaption>
 </div>
