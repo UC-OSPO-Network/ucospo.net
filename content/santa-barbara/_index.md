@@ -8,22 +8,39 @@ title: UC Santa Barbara OSPO
   <figcaption><em>Image courtesy of UCSB</em></figcaption>
 </div>
 
-UC Santa Barbara is one of the six campus partners in the UC Network of Open Source Program Offices (OSPOs) focused on supporting developers and users of Open Source through the discovery and indexing of UC developed Open Source; development of educational materials, curricula and best practices guidelines; and services and guides in support of Open Source sustainability.
+UC Santa Barbara is one of the six campus partners in the UC Network of Open
+Source Program Offices (OSPOs) focused on supporting developers and users of
+Open Source through the discovery and indexing of UC developed Open Source;
+development of educational materials, curricula and best practices guidelines;
+and services and guides in support of Open Source sustainability.
 
 ## What’s the status of the UCSB OSPO?
 
-At present, UCSB does not have a dedicated Open Source Programs Office. Rather, we have a cross-functional team of UCSB staff with knowledge and expertise in open source who are developing the strategies, know-how, and connections needed to create an OSPO. Through the collaborative [Alfred P. Sloan Foundation grant](https://news.ucsc.edu/2024/04/uc-ospo-network/), our team is conducting a landscape analysis on the state of open source at UCSB to better inform and advocate for future services.
+At present, UCSB does not have a dedicated Open Source Programs Office. Rather,
+we have a cross-functional team of UCSB staff with knowledge and expertise in
+open source who are developing the strategies, know-how, and connections needed
+to create an OSPO. Through the collaborative
+[Alfred P. Sloan Foundation grant](https://news.ucsc.edu/2024/04/uc-ospo-network/),
+our team is conducting a landscape analysis on the state of open source at UCSB
+to better inform and advocate for future services.
 
 ## What would an OSPO at UCSB look like?
 
 We envision that the UCSB OSPO will:
+
 - help students, faculty, and staff to exchange knowledge and build connections,
 - promote open source awareness on campus, and
 - help our campus to leverage the full potential of open source.
 
-We also foresee the OSPO advising on open source licenses, promoting best practices for creating and utilizing sustainable open source technology, and fostering increased community engagement. The OSPO will draw on resources developed by the UC OSPO Network, and its priorities will be shaped by both UC leadership and the UCSB open source community. 
+We also foresee the OSPO advising on open source licenses, promoting best
+practices for creating and utilizing sustainable open source technology, and
+fostering increased community engagement. The OSPO will draw on resources
+developed by the UC OSPO Network, and its priorities will be shaped by both UC
+leadership and the UCSB open source community.
 
-The current UCSB open source programs team includes staff members at the UCSB Library, and we expect that the Library will continue to be the center of gravity for this work for the foreseeable future.
+The current UCSB open source programs team includes staff members at the UCSB
+Library, and we expect that the Library will continue to be the center of
+gravity for this work for the foreseeable future.
 
 <div style="
   background-color: #f0f8ff;
@@ -42,23 +59,35 @@ The current UCSB open source programs team includes staff members at the UCSB Li
   <figcaption><em>Image courtesy of LumenSt for Getty Images</em></figcaption>
 </div>
 
-We are thrilled to be launching the UCSB Open Source Meetup! This group is open to UCSB students, faculty, and staff who are interested in open source, and is designed to help members build skills and connections. We will meet in-person once a month, except a few months a year, in which __we will join other OSPO Network campuses in a combined virtual meeting__. We will rotate between casual discussions and talks from guest speakers (both UCSB and industry). If there is demand, we may also do code reviews or mini-projects! Here are some of the topics we’re thinking of discussing:
-* CI/CD, unit tests
-* Contributing guidelines and code style guides
-* Getting started contributing
-* Forking and branching
-* Licensing
-* Open source security, bug horror stories, bug awards?
-* Building community
-* Funding open source
-* The history of open source
-* Companies that have switched from open to closed licenses
-* Open source AI
+We are thrilled to be launching the UCSB Open Source Meetup! This group is open
+to UCSB students, faculty, and staff who are interested in open source, and is
+designed to help members build skills and connections. We will meet in-person
+once a month, except a few months a year, in which **we will join other OSPO
+Network campuses in a combined virtual meeting**. We will rotate between casual
+discussions and talks from guest speakers (both UCSB and industry). If there is
+demand, we may also do code reviews or mini-projects! Here are some of the
+topics we’re thinking of discussing:
 
-The in-person meetings will be on the first Wednesday of the month at noon in room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library). __Bring your lunch!__
+- CI/CD, unit tests
+- Contributing guidelines and code style guides
+- Getting started contributing
+- Forking and branching
+- Licensing
+- Open source security, bug horror stories, bug awards?
+- Building community
+- Funding open source
+- The history of open source
+- Companies that have switched from open to closed licenses
+- Open source AI
 
-* Join the [mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
-* [Add it to your calendar](https://ucospo.net/events/) so you know which meetings are in-person and which are virtual. 
+The in-person meetings will be on the first Wednesday of the month at noon in
+room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
+**Bring your lunch!**
+
+- Join the
+  [mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
+- [Add it to your calendar](https://ucospo.net/events/) so you know which
+  meetings are in-person and which are virtual.
 
 ### UC Open Source Survey
 
@@ -67,17 +96,24 @@ The in-person meetings will be on the first Wednesday of the month at noon in ro
   <figcaption><em>Image courtesy of firmbee on Unsplash</em></figcaption>
 </div>
 
-Our team recently spearheaded a survey of more than 200 open source contributors as part of the UC OSPO Network’s discovery activities. You can read more about the [structure of the survey here](https://ucospo.net/survey-launch/). We are currently analyzing the data, and will circulate the results once published. Until then, the survey instrument is available upon request, and we are happy to answer questions. 
+Our team recently spearheaded a survey of more than 200 open source contributors
+as part of the UC OSPO Network’s discovery activities. You can read more about
+the [structure of the survey here](https://ucospo.net/survey-launch/). We are
+currently analyzing the data, and will circulate the results once published.
+Until then, the survey instrument is available upon request, and we are happy to
+answer questions.
 
 </div>
 
 ## Get connected
 
-* To stay informed about our activities, [join our mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo). 
-* For inquiries, email us at ospo@library.ucsb.edu.
-* We’re also on Slack in the UC-Tech workspace, on the #open-source channel. If you’d like an invitation, please email us.
-* Our team:
-    * Virginia Scarlett, Open Source Programs Specialist
-    * Amber Budden, Associate University Librarian for Digital Strategies
-    * Jonathan Balkind, Assistant Professor of Computer Science
-    * Greg Janée, Director, Research Data Services, UCSB Library
+- To stay informed about our activities,
+  [join our mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo).
+- For inquiries, email us at ospo@library.ucsb.edu.
+- We’re also on Slack in the UC-Tech workspace, on the #open-source channel. If
+  you’d like an invitation, please email us.
+- Our team:
+  - Virginia Scarlett, Open Source Programs Specialist
+  - Amber Budden, Associate University Librarian for Digital Strategies
+  - Jonathan Balkind, Assistant Professor of Computer Science
+  - Greg Janée, Director, Research Data Services, UCSB Library
