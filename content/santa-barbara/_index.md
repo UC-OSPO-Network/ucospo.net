@@ -4,7 +4,9 @@ title: UC Santa Barbara OSPO
 
 <!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
 <div style="float:right; width:360px; margin:0 0 1em 1em;">
-  <img src="library.jpg" alt="UCSB library exterior" style="width:100%; height:auto;" />
+  <img src="library.jpg" 
+       alt="UCSB library exterior" 
+       style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
   <em>Image courtesy of UCSB</em>
   </figcaption>
@@ -62,7 +64,9 @@ Current projects
 ### UCSB Open Source Meetup
 
 <div style="float:right; width:360px; margin:0 0 1em 1em;">
-  <img src="lunch.png" alt="Stylized picture of lunch foods" style="width:100%; height:auto;" />
+  <img src="lunch.png" 
+       alt="Stylized picture of lunch foods" 
+       style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
   <em>Image courtesy of LumenSt for Getty Images</em>
   </figcaption>
@@ -108,7 +112,9 @@ UC Open Source Survey
 
 <!-- If you change the width of this image, change the header alignment above, too -->
 <div style="float:left; width:360px; margin:0 1em 1em 0;">
-  <img src="hands.jpg" alt="Close-up of a pair of hands using a phone beside a computer" style="width:100%; height:auto;" />
+  <img src="hands.jpg" 
+       alt="Close-up of a pair of hands using a phone beside a computer" 
+       style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
   <em>Image courtesy of firmbee on Unsplash</em>
   </figcaption>
@@ -146,19 +152,31 @@ answer questions.
     }
   }
 
-    /* 3) If the screen is very small, reset the survey header to be left-aligned */
+    /* 3) If screen is smaller than survey image, reset survey header to be left-aligned */
   @media (max-width: 360px) {
     #survey-header {
       margin-left: 0 !important;
       text-align: left !important;
     }
   }
+
+  /* On mobile, center the OSPO logo */
+  @media (max-width: 600px) {
+    .ospo-img {  /* Give the ospo logo container its own class */
+      float: none !important;
+      display: block;           /* make it a block to honor auto margins */
+      margin: 0 auto 1em auto;  /* top 0, sides auto, bottom 1em */
+      width: 180px !important;  /* keep its intended width */
+    }
+  }
 </style>
 
 ## Get connected
 
-<div style="float:right; width:180px; margin:0 0 1em 1em;">
-  <img src="UCSB-ospo.png" alt="UCSB open source programs logo" style="width:100%; height:auto;" />
+<div class="ospo-img" style="float:right; width:180px; margin:0 0 1em 1em;">
+  <img src="UCSB-ospo.png" 
+       alt="UCSB open source programs logo" 
+       style="width:100%; height:auto;" />
 </div>
 
 - To stay informed about our activities,
