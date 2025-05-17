@@ -4,8 +4,8 @@ title: UC Santa Barbara OSPO
 
 <!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
 <div style="float:right; width:360px; margin:0 0 1em 1em;">
-  <img src="library.jpg" 
-       alt="UCSB library exterior" 
+  <img src="library.jpg"
+       alt="UCSB library exterior"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
   <em>Image courtesy of UCSB</em>
@@ -64,8 +64,8 @@ Current projects
 ### UCSB Open Source Meetup
 
 <div style="float:right; width:360px; margin:0 0 1em 1em;">
-  <img src="lunch.png" 
-       alt="Stylized picture of lunch foods" 
+  <img src="lunch.png"
+       alt="Stylized picture of lunch foods"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
   <em>Image courtesy of LumenSt for Getty Images</em>
@@ -112,8 +112,8 @@ UC Open Source Survey
 
 <!-- If you change the width of this image, change the header alignment above, too -->
 <div style="float:left; width:360px; margin:0 1em 1em 0;">
-  <img src="hands.jpg" 
-       alt="Close-up of a pair of hands using a phone beside a computer" 
+  <img src="hands.jpg"
+       alt="Close-up of a pair of hands using a phone beside a computer"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
   <em>Image courtesy of firmbee on Unsplash</em>
@@ -174,8 +174,8 @@ answer questions.
 ## Get connected
 
 <div class="ospo-img" style="float:right; width:180px; margin:0 0 1em 1em;">
-  <img src="UCSB-ospo.png" 
-       alt="UCSB open source programs logo" 
+  <img src="UCSB-ospo.png"
+       alt="UCSB open source programs logo"
        style="width:100%; height:auto;" />
 </div>
 
