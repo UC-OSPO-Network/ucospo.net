@@ -47,7 +47,7 @@ gravity for this work for the foreseeable future.
 
 <!-- Colored box for current projects -->
 <div style="
-  --panel-bg: #D7D2CB; 
+  --panel-bg: #D7D2CB;
   background-color: var(--panel-bg);
   padding: 0 1rem;     /* 0rem top/bottom, 1rem left/right */
   border-radius: 0.5rem;
@@ -98,7 +98,7 @@ room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
 - [Add it to your calendar](https://ucospo.net/events/) so you know which
   meetings are in-person and which are virtual.
 
-<h3 style="
+<h3 id="survey-header" style="
   margin-top: 0;
   margin-left: calc(360px + 1em);  /* image width + its right margin */
   text-align: left;
@@ -143,6 +143,14 @@ answer questions.
     div[style*="--panel-bg"] img {
       max-width: 100% !important;
       height: auto !important;
+    }
+  }
+
+    /* 3) If the screen is very small, reset the survey header to be left-aligned */
+  @media (max-width: 360px) {
+    #survey-header {
+      margin-left: 0 !important;
+      text-align: left !important;
     }
   }
 </style>
