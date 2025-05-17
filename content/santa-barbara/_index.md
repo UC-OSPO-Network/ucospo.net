@@ -98,10 +98,15 @@ room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
 - [Add it to your calendar](https://ucospo.net/events/) so you know which
   meetings are in-person and which are virtual.
 
-<h3 style="text-align: center;">
+<h3 style="
+  margin-top: 0;
+  margin-left: calc(360px + 1em);  /* image width + its right margin */
+  text-align: left;
+">
 UC Open Source Survey
 </h3>
 
+<!-- If you change the width of this image, change the header alignment above, too -->
 <div style="float:left; width:360px; margin:0 1em 1em 0;">
   <img src="hands.jpg" alt="Close-up of a pair of hands using a phone beside a computer" style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
@@ -117,7 +122,6 @@ Until then, the survey instrument is available upon request, and we are happy to
 answer questions.
 
 </div>
-
 
 <style>
   /* 1) For this colored box, override the theme's CSS for mobile, which uses white font */
@@ -142,7 +146,6 @@ answer questions.
     }
   }
 </style>
-
 
 ## Get connected
 
