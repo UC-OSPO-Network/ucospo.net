@@ -47,8 +47,8 @@ gravity for this work for the foreseeable future.
 
 <!-- Colored box for current projects -->
 <div style="
-  background-color: #D7D2CB;
-  color: black;
+  --panel-bg: #D7D2CB; 
+  background-color: var(--panel-bg);
   padding: 0 1rem;     /* 0rem top/bottom, 1rem left/right */
   border-radius: 0.5rem;
   margin: 1.5rem 0;
@@ -117,6 +117,32 @@ Until then, the survey instrument is available upon request, and we are happy to
 answer questions.
 
 </div>
+
+
+<style>
+  /* 1) For this colored box, override the theme's CSS for mobile, which uses white font */
+  div[style*="--panel-bg"] * {
+    color: black !important;
+  }
+
+    /* 2) Restyle images for mobile */
+  @media (max-width: 600px) {
+    /* Stop floats and make image containers full-width */
+    div[style*="--panel-bg"] > div[style*="float:right"],
+    div[style*="--panel-bg"] > div[style*="float:left"] {
+      float: none !important;
+      width: 100% !important;
+      margin: 0 0 1em 0 !important;
+    }
+
+    /* Ensure images never exceed container width */
+    div[style*="--panel-bg"] img {
+      max-width: 100% !important;
+      height: auto !important;
+    }
+  }
+</style>
+
 
 ## Get connected
 
