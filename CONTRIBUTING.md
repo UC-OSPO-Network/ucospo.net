@@ -2,6 +2,31 @@
 
 Thank you for investing your time in contributing to our project!
 
+## Table of contents
+
+- [Quickstart for experienced contributors](#quickstart-for-experienced-contributors)
+- [New contributor guide](#new-contributor-guide)
+  - [Development workflow](#development-workflow)
+  - [Divergence from main](#divergence-from-origin-main)
+
+## Quickstart for experienced contributors
+
+- You can preview your changes to the site either:
+  - Locally, as follows:
+    - [Install Hugo](https://gohugo.io/installation/)
+    - [Install Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass)
+    - Run `make serve`
+  - Via Netlify's "deploy preview":
+    - Create a draft PR
+    - After Netlify finishes running its checks, click "Deploy Preview" in the comment created by the Netlify bot
+- To make sure your code is formatted as the linter expects, please either:
+  - [Run Prettier from your terminal](https://prettier.io/docs/install) or as an extension in your IDE, e.g. the [VS Code Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+    - Make sure to read the docs for whichever option you choose to learn how to format on save or format manually!
+  - Wait until you've pushed your code and if the `pre-commit.ci` test fails, add a comment on your PR with the text `pre-commit.ci autofix`
+    - This will tell the pre-commit bot to push a fix, and should work for common formatting issues
+- Please [use keywords to link relevant issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue) in your PR's description or commit message
+- We squash and merge PRs, so merging vs rebasing is up to you!
+
 ## New contributor guide
 
 Here are some resources to help you get started with open source contributions:
@@ -11,7 +36,7 @@ Here are some resources to help you get started with open source contributions:
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
 
-## Development Workflow
+### Development Workflow
 
 1.  If you are a first-time contributor:
 
@@ -31,11 +56,6 @@ Here are some resources to help you get started with open source contributions:
       - `origin`, which refers to the `UC-OSPO-Network/ucospo.net` repository
       - `<your-username>`, which refers to your personal fork of `UC-OSPO-Network/ucospo.net`
 
-    - Finally, we recommend that you use a pre-commit hook, which runs code checkers and formatters each time you do a git commit:
-
-          pip install pre-commit
-          pre-commit install
-
 2.  Develop your contribution:
 
     - Pull the latest changes from upstream:
@@ -49,6 +69,13 @@ Here are some resources to help you get started with open source contributions:
           git switch -c bugfix-for-issue-1480
 
     - Commit locally as you progress (`git add` and `git commit`)
+    - To preview your changes:
+      - [Install Hugo](https://gohugo.io/installation/)
+      - [Install Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass)
+      - Run `make serve`
+    - To make sure your code is formatted as the linter expects, you can:
+      - [Run Prettier from your terminal](https://prettier.io/docs/install) or as an extension in your IDE, e.g. the [VS Code Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+      - Wait until you've pushed your code and if the `pre-commit.ci` test fails, you can usually have the pre-commit bot push a fix to your branch by adding a comment on your PR with the text `pre-commit.ci autofix`
 
 3.  Submit your contribution:
 
@@ -84,12 +111,12 @@ Here are some resources to help you get started with open source contributions:
       and commit. As soon as those changes are pushed up (to the same
       branch as before) the PR will update automatically.
 
-> **_NOTE:_** If the PR closes an issue, make sure that GitHub knows to
-> automatically close the issue when the PR is merged. For example, if
-> the PR closes issue number 1480, you could use the phrase "Fixes
-> #1480" in the PR description or commit message.
+      > **_NOTE:_** If the PR closes an issue, make sure that GitHub knows to
+      > automatically close the issue when the PR is merged. For example, if
+      > the PR closes issue number 1480, you could use the phrase "Fixes
+      > #1480" in the PR description or commit message.
 
-## Divergence from `origin main`
+### Divergence from `origin main`
 
 If GitHub indicates that the branch of your Pull Request can no longer
 be merged automatically, merge the main branch into yours:
