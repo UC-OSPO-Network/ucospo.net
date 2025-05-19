@@ -11,10 +11,14 @@ Thank you for investing your time in contributing to our project!
 
 ## Quickstart for experienced contributors
 
-- To preview your changes to the site:
-  - [Install Hugo](https://gohugo.io/installation/)
-  - [Install Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass)
-  - Run `make serve`
+- You can preview your changes to the site either:
+  -Locally, as follows:
+    - [Install Hugo](https://gohugo.io/installation/)
+    - [Install Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass)
+    - Run `make serve`
+  - Via Netlify's "deploy preview":
+    - Create a draft PR
+    - After Netlify finishes running its checks, click "Deploy Preview" in the comment created by the Netlify bot
 - To make sure your code is formatted as the linter expects, please either:
   - [Run Prettier from your terminal](https://prettier.io/docs/install) or as an extension in your IDE, e.g. the [VS Code Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - Make sure to read the docs for whichever option you choose to learn how to format on save or format manually!
