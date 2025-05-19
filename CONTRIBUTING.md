@@ -12,7 +12,7 @@ Thank you for investing your time in contributing to our project!
 ## Quickstart for experienced contributors
 
 - You can preview your changes to the site either:
-  -Locally, as follows:
+  - Locally, as follows:
     - [Install Hugo](https://gohugo.io/installation/)
     - [Install Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass)
     - Run `make serve`
