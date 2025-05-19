@@ -1,5 +1,5 @@
 ---
-title: UC Santa Barbara OSPO
+title: UC Santa Barbara Open Source Program
 ---
 
 <!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
