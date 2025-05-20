@@ -80,7 +80,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 #### UCSB Open Source Meetup
 
-**When**: Wednesday, August 4 2025 at noon<br>
+**When**: Wednesday, August 6 2025 at noon<br>
 **Where**: UCSB Library, Room 1411 (in the Sara Miller McCune Arts library)<br>
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
