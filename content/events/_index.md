@@ -74,7 +74,7 @@ Are you experienced with open source software or hardware, or just curious about
 
 In partnership with UC’s new Open Source Program Office (OSPO) Network, the UCSB Open Source Programs Team is starting a casual recurring meetup on June 4th. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NnRibWlmZHVhNnZmM2w3ZG9qamt1czRnZWogY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NnRibWlmZHVhNnZmM2w3ZG9qamt1czRnZWogY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### August
 
@@ -87,7 +87,7 @@ In partnership with UC’s new Open Source Program Office (OSPO) Network, the UC
 
 More details to come!
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmcgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmcgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### September
 
@@ -100,7 +100,7 @@ More details to come!
 
 More details to come!
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHZldm5pMmoyOG83b29mY2FpdTNybWxnNXYgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHZldm5pMmoyOG83b29mY2FpdTNybWxnNXYgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### October
 
@@ -113,7 +113,7 @@ More details to come!
 
 More details to come!
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGZlbTlkaGJvbWNoYTRra3FmNmluOGFiYTggY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGZlbTlkaGJvbWNoYTRra3FmNmluOGFiYTggY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### December
 
@@ -126,7 +126,7 @@ More details to come!
 
 More details to come!
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Nm52b2owbXBoNnFsMGV0dnVuZmQyY3RnNXIgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Nm52b2owbXBoNnFsMGV0dnVuZmQyY3RnNXIgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ## Past Events
 
