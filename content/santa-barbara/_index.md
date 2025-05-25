@@ -110,7 +110,7 @@ room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
   meetings are in-person and which are virtual.
 
 <h3 id="survey-header" style="
-  margin-top: 0;
+  margin-top: 2em;
   margin-left: calc(360px + 1em);  /* image width + its right margin */
   text-align: left;
 ">
