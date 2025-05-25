@@ -3,10 +3,17 @@ title: UC Santa Barbara Open Source Program
 ---
 
 <!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
-<div style="float:right; width:360px; margin:0 0 1em 1em;">
-  <img src="library.jpg"
-       alt="UCSB library exterior"
-       style="width:100%; height:auto;" />
+<div style="float:center">
+  <img src="library_1280.jpg"
+       srcset="library_320_crop.jpg 320w,
+               library_640_crop.jpg 640w,
+               library_1280_crop.jpg 1280w,
+               library_1600_crop.jpg 1600w"
+       sizes="(max-width: 480px) 320px,
+              (max-width: 800px) 640px,
+              (max-width: 1440px) 1280px,
+              1600px"
+       alt="UCSB library exterior"/>
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
   <em>Image courtesy of UCSB</em>
   </figcaption>
