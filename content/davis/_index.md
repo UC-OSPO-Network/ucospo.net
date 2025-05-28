@@ -23,7 +23,7 @@ Do you have questions relating to OSS, your campus OSPO, or the OSPO network? Co
 - Mailing list: https://lists.ucdavis.edu/sympa/info/opensource-announce
 - Slack channel: https://uctech.slack.com/ #open-source
 
- If you have any questions, please [contact our Community Manager Laura](mailto:lalangdon@ucdavis.edu) for more details about how the network can help you!
+If you have any questions, please [contact our Community Manager Laura](mailto:lalangdon@ucdavis.edu) for more details about how the network can help you!
 
 ## Previous posts
 
