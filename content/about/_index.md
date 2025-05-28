@@ -41,7 +41,7 @@ As the first system-wide OSPO network in a large university system, we are setti
 **Campus contacts**:
 
 - Berkeley ([Jarrod Millman](mailto:millman@berkeley.edu))
-- Davis ([Vessela Ensberg](mailto:vensberg@ucdavis.edu))
+- Davis [(Davis OSPO email)](mailto:davis-ospo@ucdavis.edu)
 - Los Angeles ([Todd Grappone](mailto:grappone@library.ucla.edu))
 - San Diego ([David Minor](mailto:dminor@ucsd.edu))
 - Santa Barbara ([Amber Budden](mailto:ospo@library.ucsb.edu))
