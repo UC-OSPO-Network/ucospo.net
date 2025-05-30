@@ -15,7 +15,7 @@ resources:
       showOnTop: true
 ---
 
-[**Full agenda and links to videos**](../../events/uc-open-4-2025/_index.md)!
+**[Full agenda](../../events/uc-open-4-2025/_index.md) and [links to videos](https://youtube.com/playlist?list=PLgEgostMUSe2s4xUSI4iYsr16d1adYyh3&si=6sS-_EUNeXH3qlZD)!**
 
 The University of California Open Summit (UC Open) 2025 was held on April 23–24 at the UCSC Silicon Valley Campus in Santa Clara. This was the first major event organized by the University of California Open Source Program Office (UC OSPO) Network. The summit – which welcomed about 125 participants – provided a unique opportunity to illustrate the value of open source within the UC system and its broader impact on the wider open source community. The UC Open Source Summit included keynotes, panels, directed discussions and technical sessions that covered a wide range of topics and brought together UC researchers, faculty, students and staff, as well as industry and open source communities interested in collaborating in open source. By bringing together a diverse community of contributors, the summit fostered meaningful discussions, collaborations, and a shared vision for the future of open source within the University of California system and beyond. This inaugural event further revealed an energetic, ambitious vision shared among researchers, staff, and industry professionals that greater university engagement with, and support for, open source projects can be a cornerstone of expanded innovation.
 
