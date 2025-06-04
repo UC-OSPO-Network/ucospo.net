@@ -4,9 +4,9 @@ newsHeader: Check out our upcoming events!
 sidebar: false
 ---
 
-## Check out our upcoming events!
+##  UC Open 2025 Report
 
-For more information, see our [event page](./events/_index.md).
+Check out our report on how [UC Open 2025](./posts/uc-open-25-report/) went!
 
 ## 2024--12--03: UC OSPO Network hosts two sessions at UC Tech 2024
 
