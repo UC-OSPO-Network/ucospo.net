@@ -4,7 +4,7 @@ newsHeader: Check out our upcoming events!
 sidebar: false
 ---
 
-##  UC Open 2025 Report
+## UC Open 2025 Report
 
 Check out our report on how [UC Open 2025](./posts/uc-open-25-report/) went!
 
