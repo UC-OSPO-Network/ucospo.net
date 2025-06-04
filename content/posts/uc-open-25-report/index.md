@@ -1,6 +1,6 @@
 ---
 title: "The First Annual UC Open Highlights Open Source Innovation in the UC System"
-date: 05-26-2025
+date: 2025-05-26
 draft: false
 description: "Celebrating Open Source and Open Science throughout the UC system"
 tags: [network]
@@ -19,7 +19,7 @@ resources:
 
 The University of California Open Summit (UC Open) 2025 was held on April 23–24 at the UCSC Silicon Valley Campus in Santa Clara. This was the first major event organized by the University of California Open Source Program Office (UC OSPO) Network. The summit – which welcomed about 125 participants – provided a unique opportunity to illustrate the value of open source within the UC system and its broader impact on the wider open source community. The UC Open Source Summit included keynotes, panels, directed discussions and technical sessions that covered a wide range of topics and brought together UC researchers, faculty, students and staff, as well as industry and open source communities interested in collaborating in open source. By bringing together a diverse community of contributors, the summit fostered meaningful discussions, collaborations, and a shared vision for the future of open source within the University of California system and beyond. This inaugural event further revealed an energetic, ambitious vision shared among researchers, staff, and industry professionals that greater university engagement with, and support for, open source projects can be a cornerstone of expanded innovation.
 
-## Highlights from Day One included:
+## Highlights from Day One
 
 - **Academic Contributions to Open Source:** A panel moderated by Stephanie Lieggi (UC Santa Cruz) highlighted the diverse journeys of open source professionals, each shaped by a combination of support, serendipity, and vision, with insights from panelists Fernando Perez (UC Berkeley and Jupyter), Bin Fan (Alluxio), and Tony Wasserman (Software Methods & Tools, formerly of CMU and UC San Francisco).
 - **Commercial Open Source Models:** A fireside chat with Heather Meeker (Tech Law Partners LLP) and James Davis (UC Santa Cruz) delved into how innovators can profit by giving software away. Meeker believes that open source is a strength, not a weakness, for a business, expanding a product's reach and building trust in one's brand.
@@ -32,7 +32,7 @@ The UC Open made a conscious effort to provide space for meaningful interactions
 
 The second day of the event emphasized practical, community-focused engagement in open source, addressing both technical and institutional challenges. Through interactive panels, technical talks, and directed discussions, attendees explored how UC can lead and innovate in the open source ecosystem, reinforcing the summit’s mission of building a sustainable and inclusive open source culture.
 
-## Highlights from Day Two included:
+## Highlights from Day Two
 
 - **Understanding What is Meant by “Open”:** Moderator Kirstie Whitaker (UC Berkeley) talked with UC OSPO Network members Amber Budden (UCSB), Todd Grappone (UCLA) and Jarrod Millman (UC Berkeley), as well as open science expert Kristen Ratan (Strategies for Open Science) about the definition of "open" in the context of research, science, and technology. Panelists and audience members shared diverse perspectives on openness in data sharing, software, and scientific collaboration.
 - **Open Source in Agriculture and the overlap of academia and industry:** Moderator Rob Trice (Better Food Ventures) brought together a diverse panel of experts from academia and industry to look at the growing effort to leverage open source tools and data to innovate in food production, supply chains, and sustainability. This was the first of its kind cross-sector discussion on open source and AgriFood.
@@ -42,11 +42,11 @@ The second day of the event emphasized practical, community-focused engagement i
 
 The summit concluded with a collaborative discussion, led by UC OSPO Network Community Manager Laura Langdon, on the role of OSPOs in fostering open source across UC campuses and identifying strategies to scale their impact. In this session, participants provided valuable feedback into what they wanted to see from OSPOs on their campuses.
 
-# Sponsors and Support
+## Sponsors and Support
 
 UC Open 2025 was made possible through the generous support of several sponsors:
 
-## Platinum Sponsors: Red Hat, the Chan Zuckerberg Initiative, and Alfred P. Sloan Foundation.
+**🌟 Platinum Sponsors 🌟: Red Hat, the Chan Zuckerberg Initiative, and Alfred P. Sloan Foundation.**
 
 **Silver Sponsor: UCSC’s Center for Research in Open Source Software (CROSS)**
 
@@ -54,6 +54,6 @@ UC Open 2025 was made possible through the generous support of several sponsors:
 
 The event also received significant support from **UCSC’s Baskin Engineering**, which provided the venue and technical support for the entire event.
 
-# Looking to 2026!
+## Looking to 2026!
 
 There will be a UC Open 2026! The UC OSPO Network has tentatively agreed to hold our second summit at one of our Southern California campuses to allow for more participation from campuses, industry and open source communities in that region. Stay tuned for more details on that soon!
