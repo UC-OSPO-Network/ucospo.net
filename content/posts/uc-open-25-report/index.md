@@ -1,6 +1,6 @@
 ---
 title: "The First Annual UC Open Highlights Open Source Innovation in the UC System"
-date: 05-26-2025
+date: 2025-05-26
 draft: false
 description: "Celebrating Open Source and Open Science throughout the UC system"
 tags: [network]
@@ -42,7 +42,7 @@ The second day of the event emphasized practical, community-focused engagement i
 
 The summit concluded with a collaborative discussion, led by UC OSPO Network Community Manager Laura Langdon, on the role of OSPOs in fostering open source across UC campuses and identifying strategies to scale their impact. In this session, participants provided valuable feedback into what they wanted to see from OSPOs on their campuses.
 
-# Sponsors and Support
+## Sponsors and Support
 
 UC Open 2025 was made possible through the generous support of several sponsors:
 
@@ -54,6 +54,6 @@ UC Open 2025 was made possible through the generous support of several sponsors:
 
 The event also received significant support from **UCSC’s Baskin Engineering**, which provided the venue and technical support for the entire event.
 
-# Looking to 2026!
+## Looking to 2026!
 
 There will be a UC Open 2026! The UC OSPO Network has tentatively agreed to hold our second summit at one of our Southern California campuses to allow for more participation from campuses, industry and open source communities in that region. Stay tuned for more details on that soon!
