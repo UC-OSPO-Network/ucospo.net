@@ -1,6 +1,6 @@
 ---
 title: News
-newsHeader: Check out our upcoming events!
+newsHeader: Check out our UC Open 2025 report!
 sidebar: false
 ---
 
