@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250606T205307Z
+UID:1749242783040-17736@ical.marudot.com
+DTSTART;TZID=America/Los_Angeles:20250612T130000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DTEND;TZID=America/Los_Angeles:20250612T133000
+SUMMARY:OSPO Virtual Coffee/Office Hours
+URL:https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1
+DESCRIPTION:Do you have questions relating to OSS\, your campus OSPO\, or the OSPO network? Come have a virtual coffee with Laura\, our community manager!\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078\n\n---\n\nOne tap mobile\n+16699006833\,\,95278484683#\,\,\,\,*572078# US (San Jose)+16694449171\,\,95278484683#\,\,\,\,*572078# US\n\n---\n\nDial by your location\n• +1 669 900 6833 US (San Jose)\n• +1 669 444 9171 US\n• +1 253 215 8782 US (Tacoma)\n• +1 346 248 7799 US (Houston)\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 312 626 6799 US (Chicago)\n• +1 360 209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2000 US\n• +1 646 876 9923 US (New York)\n• +1 646 931 3860 US\n• +1 689 278 1000 US\n• +1 301 715 8592 US (Washington DC)\n• +1 305 224 1968 US\n• +1 309 205 3325 US\n\nFind your local number: https://ucdavis.zoom.us/u/acqISbhFIm
+END:VEVENT
+END:VCALENDAR
