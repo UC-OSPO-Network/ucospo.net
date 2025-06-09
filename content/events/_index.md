@@ -31,7 +31,7 @@ Do you have questions relating to OSS, your campus OSPO, or the OSPO network? Co
 
 Join us for the inaugural UC open source contributors & maintainers virtual meetup, bringing together the vibrant open source community across all UC campuses! Whether you're a seasoned maintainer with years of experience or just thinking about starting your open source journey, this collaborative space is designed for learning, sharing, and connecting with fellow UC community members who are passionate about open source software. We'll exchange insights, discuss challenges and successes, discover new projects, and build meaningful connections with peers from across the UC system. This is the first of three annual meetups where we'll celebrate the incredible open source work happening throughout our universities and support each other in growing as contributors and maintainers.
 
-All roles—students, faculty, staff, researchers—and experience levels are welcome, ass we believe the best learning happens when diverse perspectives come together.
+All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
 
 Add to your calendar: [.ics file](./ics-files/All-Campus%20Meetup.ics)
 or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MjRtbnYzdDlxc2hiOWsxczJrYTdocTlmNzIgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
