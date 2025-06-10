@@ -18,37 +18,9 @@ Open Source through the discovery and indexing of UC developed Open Source;
 development of educational materials, curricula and best practices guidelines;
 and services and guides in support of Open Source sustainability.
 
-## What’s the status of the UCSB OSPO?
-
-At present, UCSB does not have a dedicated Open Source Programs Office. Rather,
-we have a cross-functional team of UCSB staff with knowledge and expertise in
-open source who are developing the strategies, know-how, and connections needed
-to create an OSPO. Through the collaborative
-[Alfred P. Sloan Foundation grant](https://news.ucsc.edu/2024/04/uc-ospo-network/),
-our team is conducting a landscape analysis on the state of open source at UCSB
-to better inform and advocate for future services.
-
-## What would an OSPO at UCSB look like?
-
-We envision that the UCSB OSPO will:
-
-- help students, faculty, and staff to exchange knowledge and build connections,
-- promote open source awareness on campus, and
-- help our campus to leverage the full potential of open source.
-
-We also foresee the OSPO advising on open source licenses, promoting best
-practices for creating and utilizing sustainable open source technology, and
-fostering increased community engagement. Building on the work of the Open
-Source Programs Team, the OSPO will draw on resources developed by the UC OSPO
-Network, and its priorities will be shaped by both UC leadership and the UCSB
-open source community.
-
-The current UCSB open source programs team includes staff members at the UCSB
-Library, and we expect that the Library will continue to be the center of
-gravity for this work for the foreseeable future.
-
 <!-- Colored box for current projects -->
 <div style="
+  clear: both;  /* clear floats */
   --panel-bg: #D7D2CB;
   background-color: var(--panel-bg);
   padding: 0 1rem;     /* 0rem top/bottom, 1rem left/right */
@@ -103,7 +75,7 @@ room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
   meetings are in-person and which are virtual.
 
 <h3 id="survey-header" style="
-  margin-top: 0;
+  margin-top: 2em;
   margin-left: calc(360px + 1em);  /* image width + its right margin */
   text-align: left;
 ">
@@ -170,6 +142,30 @@ answer questions.
     }
   }
 </style>
+
+## What would an OSPO at UCSB look like?
+
+At present, UCSB does not have a dedicated Open Source Programs Office. Rather,
+we have a cross-functional team of UCSB staff with knowledge and expertise in
+open source who are developing the strategies, know-how, and connections needed
+to create an OSPO.
+
+We envision that the UCSB OSPO will:
+
+- help students, faculty, and staff to exchange knowledge and build connections,
+- promote open source awareness on campus, and
+- help our campus to leverage the full potential of open source.
+
+We also foresee the OSPO advising on open source licenses, promoting best
+practices for creating and utilizing sustainable open source technology, and
+fostering increased community engagement. Building on the work of the Open
+Source Programs Team, the OSPO will draw on resources developed by the UC OSPO
+Network, and its priorities will be shaped by both UC leadership and the UCSB
+open source community.
+
+The current UCSB open source programs team includes staff members at the UCSB
+Library, and we expect that the Library will continue to be the center of
+gravity for this work for the foreseeable future.
 
 ## Get connected
 
