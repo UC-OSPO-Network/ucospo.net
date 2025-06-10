@@ -143,7 +143,6 @@ answer questions.
   }
 </style>
 
-
 ## What would an OSPO at UCSB look like?
 
 At present, UCSB does not have a dedicated Open Source Programs Office. Rather,
