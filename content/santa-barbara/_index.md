@@ -18,11 +18,20 @@ title: UC Santa Barbara Open Source Program
   </figcaption>
 </div>
 
-UC Santa Barbara is one of the six campus partners in the UC Network of Open
-Source Program Offices (OSPOs) focused on supporting developers and users of
-Open Source through the discovery and indexing of UC developed Open Source;
-development of educational materials, curricula and best practices guidelines;
-and services and guides in support of Open Source sustainability.
+UC Santa Barbara has a strong history of leadership and innovation in open
+source software development and open science. However, expertise and resources
+have traditionally been distributed across various parts of the campus. The Open
+Source Programs Team at UCSB serves as a central hub, bringing together open
+source activities, expertise, and community connections.
+
+UC Santa Barbara is a proud partner in the UC OSPO Network, collaborating
+alongside five other UC campuses. Our support for both the UCSB community and
+the broader network includes:
+
+- Identifying and cataloging open source projects developed at UC campuses
+- Creating educational materials, curricula, and best practice guidelines
+- Offering services and resources aimed at ensuring the sustainability of open
+  source projects
 
 <!-- Colored box for current projects -->
 <div style="
@@ -136,7 +145,7 @@ answer questions.
   }
 </style>
 
-## What would an OSPO at UCSB look like?
+## What's the status of the UCSB OSPO?
 
 At present, UCSB does not have a dedicated Open Source Programs Office. Rather,
 we have a cross-functional team of UCSB staff with knowledge and expertise in
@@ -145,16 +154,15 @@ to create an OSPO.
 
 We envision that the UCSB OSPO will:
 
-- help students, faculty, and staff to exchange knowledge and build connections,
-- promote open source awareness on campus, and
-- help our campus to leverage the full potential of open source.
+- Help students, faculty, and staff to exchange knowledge and build connections,
+- Promote open source awareness on campus,
+- Advise on open source licenses,
+- Help our campus to leverage the full potential of open source,
+- And more!
 
-We also foresee the OSPO advising on open source licenses, promoting best
-practices for creating and utilizing sustainable open source technology, and
-fostering increased community engagement. Building on the work of the Open
-Source Programs Team, the OSPO will draw on resources developed by the UC OSPO
-Network, and its priorities will be shaped by both UC leadership and the UCSB
-open source community.
+Building on the work of the Open Source Programs Team, the OSPO will draw on
+resources developed by the UC OSPO Network, and its priorities will be shaped by
+both UC leadership and the UCSB open source community.
 
 The current UCSB open source programs team includes staff members at the UCSB
 Library, and we expect that the Library will continue to be the center of
