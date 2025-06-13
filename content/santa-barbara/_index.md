@@ -3,8 +3,14 @@ title: UC Santa Barbara Open Source Program
 ---
 
 <!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
-<div style="float:right; width:360px; margin:0 0 1em 1em;">
-  <img src="library.jpg"
+<div style="float:center">
+  <img src="library2_2560.jpg"
+       srcset="library2_640.jpg 640w,
+               library2_1280.jpg 1280w,
+               library2_2560.jpg 2560w"
+       sizes="(max-width: 800px) 640px,
+              (max-width: 1440px) 1280px,
+              2560px"
        alt="UCSB library exterior"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
@@ -74,16 +80,9 @@ room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
 - [Add it to your calendar](https://ucospo.net/events/) so you know which
   meetings are in-person and which are virtual.
 
-<h3 id="survey-header" style="
-  margin-top: 2em;
-  margin-left: calc(360px + 1em);  /* image width + its right margin */
-  text-align: left;
-">
-UC Open Source Survey
-</h3>
+### UC Open Source Survey
 
-<!-- If you change the width of this image, change the header alignment above, too -->
-<div style="float:left; width:360px; margin:0 1em 1em 0;">
+<div style="float:left; width:360px; margin:1em 1em 1em 0;">
   <img src="hands.jpg"
        alt="Close-up of a pair of hands using a phone beside a computer"
        style="width:100%; height:auto;" />
@@ -121,14 +120,6 @@ answer questions.
     div[style*="--panel-bg"] img {
       max-width: 100% !important;
       height: auto !important;
-    }
-  }
-
-    /* 3) If screen is smaller than survey image, reset survey header to be left-aligned */
-  @media (max-width: 360px) {
-    #survey-header {
-      margin-left: 0 !important;
-      text-align: left !important;
     }
   }
 
