@@ -3,8 +3,14 @@ title: UC Santa Barbara Open Source Program
 ---
 
 <!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
-<div style="float:right; width:360px; margin:0 0 1em 1em;">
-  <img src="library.jpg"
+<div style="float:center">
+  <img src="library2_1600.jpg"
+       srcset="library2_640.jpg 640w,
+               library2_1280.jpg 1280w,
+               library2_1600.jpg 1600w"
+       sizes="(max-width: 800px) 640px,
+              (max-width: 1440px) 1280px,
+              1600px"
        alt="UCSB library exterior"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
@@ -12,11 +18,20 @@ title: UC Santa Barbara Open Source Program
   </figcaption>
 </div>
 
-UC Santa Barbara is one of the six campus partners in the UC Network of Open
-Source Program Offices (OSPOs) focused on supporting developers and users of
-Open Source through the discovery and indexing of UC developed Open Source;
-development of educational materials, curricula and best practices guidelines;
-and services and guides in support of Open Source sustainability.
+UC Santa Barbara has a strong history of leadership and innovation in open
+source software development and open science. However, expertise and resources
+have traditionally been distributed across various parts of the campus. The Open
+Source Programs Team at UCSB serves as a central hub, bringing together open
+source activities, expertise, and community connections.
+
+UC Santa Barbara is a proud partner in the UC OSPO Network, collaborating
+alongside five other UC campuses. Our support for both the UCSB community and
+the broader network includes:
+
+- Identifying and cataloging open source projects developed at UC campuses
+- Creating educational materials, curricula, and best practice guidelines
+- Offering services and resources aimed at ensuring the sustainability of open
+  source projects
 
 <!-- Colored box for current projects -->
 <div style="
@@ -37,6 +52,7 @@ Current projects
 
 <div style="float:right; width:360px; margin:0 0 1em 1em;">
   <img src="lunch.png"
+       loading="lazy"
        alt="Stylized picture of lunch foods"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
@@ -74,17 +90,11 @@ room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
 - [Add it to your calendar](https://ucospo.net/events/) so you know which
   meetings are in-person and which are virtual.
 
-<h3 id="survey-header" style="
-  margin-top: 2em;
-  margin-left: calc(360px + 1em);  /* image width + its right margin */
-  text-align: left;
-">
-UC Open Source Survey
-</h3>
+### UC Open Source Survey
 
-<!-- If you change the width of this image, change the header alignment above, too -->
-<div style="float:left; width:360px; margin:0 1em 1em 0;">
+<div style="float:left; width:360px; margin:1em 1em 1em 0;">
   <img src="hands.jpg"
+       loading="lazy"
        alt="Close-up of a pair of hands using a phone beside a computer"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
@@ -124,14 +134,6 @@ answer questions.
     }
   }
 
-    /* 3) If screen is smaller than survey image, reset survey header to be left-aligned */
-  @media (max-width: 360px) {
-    #survey-header {
-      margin-left: 0 !important;
-      text-align: left !important;
-    }
-  }
-
   /* On mobile, center the OSPO logo */
   @media (max-width: 600px) {
     .ospo-img {  /* Give the ospo logo container its own class */
@@ -143,7 +145,7 @@ answer questions.
   }
 </style>
 
-## What would an OSPO at UCSB look like?
+## What's the status of the UCSB OSPO?
 
 At present, UCSB does not have a dedicated Open Source Programs Office. Rather,
 we have a cross-functional team of UCSB staff with knowledge and expertise in
@@ -152,16 +154,15 @@ to create an OSPO.
 
 We envision that the UCSB OSPO will:
 
-- help students, faculty, and staff to exchange knowledge and build connections,
-- promote open source awareness on campus, and
-- help our campus to leverage the full potential of open source.
+- Help students, faculty, and staff to exchange knowledge and build connections,
+- Promote open source awareness on campus,
+- Advise on open source licenses,
+- Help our campus to leverage the full potential of open source,
+- And more!
 
-We also foresee the OSPO advising on open source licenses, promoting best
-practices for creating and utilizing sustainable open source technology, and
-fostering increased community engagement. Building on the work of the Open
-Source Programs Team, the OSPO will draw on resources developed by the UC OSPO
-Network, and its priorities will be shaped by both UC leadership and the UCSB
-open source community.
+Building on the work of the Open Source Programs Team, the OSPO will draw on
+resources developed by the UC OSPO Network, and its priorities will be shaped by
+both UC leadership and the UCSB open source community.
 
 The current UCSB open source programs team includes staff members at the UCSB
 Library, and we expect that the Library will continue to be the center of
