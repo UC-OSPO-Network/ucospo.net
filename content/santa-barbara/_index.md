@@ -43,6 +43,7 @@ Current projects
 
 <div style="float:right; width:360px; margin:0 0 1em 1em;">
   <img src="lunch.png"
+       loading="lazy"
        alt="Stylized picture of lunch foods"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
@@ -84,6 +85,7 @@ room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
 
 <div style="float:left; width:360px; margin:1em 1em 1em 0;">
   <img src="hands.jpg"
+       loading="lazy"
        alt="Close-up of a pair of hands using a phone beside a computer"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
