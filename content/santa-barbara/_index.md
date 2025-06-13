@@ -7,7 +7,7 @@ title: UC Santa Barbara Open Source Program
   <img src="library2_1600.jpg"
        srcset="library2_640.jpg 640w,
                library2_1280.jpg 1280w,
-               library2_2560.jpg 2560w"
+               library2_1600.jpg 1600w"
        sizes="(max-width: 800px) 640px,
               (max-width: 1440px) 1280px,
               1600px"
