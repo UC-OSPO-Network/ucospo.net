@@ -39,7 +39,6 @@ Here are some resources to help you get started with open source contributions:
 ### Development Workflow
 
 1.  If you are a first-time contributor:
-
     - Go to <https://github.com/UC-OSPO-Network/ucospo.net/> and click the
       "fork" button to create your own copy of the project.
 
@@ -52,12 +51,10 @@ Here are some resources to help you get started with open source contributions:
           git remote add <your-username> git@github.com:<your-username>/ucospo.net.git
 
     - Now, you have remote repositories named:
-
       - `origin`, which refers to the `UC-OSPO-Network/ucospo.net` repository
       - `<your-username>`, which refers to your personal fork of `UC-OSPO-Network/ucospo.net`
 
 2.  Develop your contribution:
-
     - Pull the latest changes from upstream:
 
           git switch main
@@ -78,7 +75,6 @@ Here are some resources to help you get started with open source contributions:
       - Wait until you've pushed your code and if the `pre-commit.ci` test fails, you can usually have the pre-commit bot push a fix to your branch by adding a comment on your PR with the text `pre-commit.ci autofix`
 
 3.  Submit your contribution:
-
     - Push your changes back to your fork on GitHub:
 
           git push <your-username> bugfix-for-issue-1480
@@ -86,7 +82,6 @@ Here are some resources to help you get started with open source contributions:
     - Go to GitHub. The new branch will show up with a green Pull Request button---click it.
 
 4.  Review process:
-
     - Every Pull Request (PR) update triggers a set of [continuous
       integration](https://en.wikipedia.org/wiki/Continuous_integration)
       services that check that it is up to standards and passes
