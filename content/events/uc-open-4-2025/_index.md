@@ -158,12 +158,10 @@ We are arranging a room block at the Embassy Suites, Santa Clara Silicon Valley,
 Additionally preferred rates are available at the following hotels for UC-affiliated attendees via [Connexxus](https://travel.ucop.edu/connexxus/):
 
 - AC Hotel San Jose Santa Clara (closest to venue)
-
   - 2970 Lakeside Dr Santa Clara, CA 95054
   - 0.8 miles from SVC, 12 minute walk
 
 - Santa Clara Marriott
-
   - 2700 Mission College Boulevard Santa Clara, California 95054
   - 1.6 miles from SVC, 34 min walk
 
