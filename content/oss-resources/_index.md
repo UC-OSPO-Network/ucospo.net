@@ -1,65 +1,78 @@
 ---
-title: "Growing a Community Around a Project"
-date: 2024-12-11
-draft: false
-description: "How to start a community around an open source project"
-tags: [davis]
-displayInList: true
-author: ["Laura Langdon <laura-langdon>"]
+title: OSS Resources
 ---
 
-If you maintain an open source and want to attract contributors to it but don't know where to start, the OSPO is here to help! This guide will walk you through setting up the essential documentation and infrastructure a contributor-friendly project needs.
+These are guides we've come across and recommend (with a few we've written ourselves 😊)!
 
-Every OSS project seeking contributors needs to have the following files in the root directory of the project's repo:
+**Table of Contents**:
 
-## README
+- [Getting Started with Open Source](#getting-started-with-open-source)
+- [Contributing to a Project](#contributing-to-a-project)
+- [Software Development and Best Practices](#software-development-and-best-practices)
+- [Maintaining and Sustaining Software](#maintaining-and-sustaining-software)
+- [Building Community for Your Project](#building-community-for-your-project)
+- [Software Packaging](#software-packaging)
+- [Licensing and Compliance](#understanding-licensing--compliance)
 
-The first page a potential new user will see when investigating your project will be its `README.md` file, which is usually written in [Markdown](https://www.markdownguide.org/).
+## Getting Started with Open Source
 
-Your README should definitely contain:
+- [Introduction to Git](https://coderefinery.github.io/git-intro/)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
-- The name of your project
-- An overview of the problem your project solves
-- Instructions for how to set up and use the project
-- Links to your project's:
-  - [Contributing guidelines](#contributing-guidelines)
-  - [Code of Conduct](#code-of-conduct)
-  - [Open source license](#open-source-license)
-  - Community discussion space, if you have one (like Discord, GitHub Discussions, or forum)
-- Contact info: maybe a name and email address, or even just a brief note to communicate by opening an issue (whatever you prefer!)
-- Citation info, if applicable
-- Acknowledgements, if applicable
+## Contributing to a Project
 
-And if you have a bit more time, you could add:
+- [Social Coding and Open Source Collaboration](https://coderefinery.github.io/social-coding/)
+- [Writing Documentation for Software Projects](https://intersect-training.org/Documentation/)
+- [Making Good Pull Requests](https://intersect-training.org/Making-Good-PRs/)
+- [Issue Tracking with GitHub](https://intersect-training.org/Issue-Tracking/)
+- [Collaborative Git for Teams](https://coderefinery.github.io/git-collaborative/)
+- [Collaboration in Open Research Projects](https://book.the-turing-way.org/collaboration/collaboration)
+- [Forge Your Future with Open Source](https://pragprog.com/titles/a-vbopens/forge-your-future-with-open-source/)
 
-- A brief discussion of your project's non-goals, which will:
-  - Save you and your potential contributing users time by avoiding creating pull requests that won't be accepted
-  - Help all potential users (contributing or not!) understand your project better!
-- Screenshots or GIFs of your project
-- Code examples
+## Software Development and Best Practices
 
-## Contributing guidelines
+- [Continuous Integration and Delivery with GitHub Actions](https://intersect-training.org/CI-CD/)
+- [CI/CD for Research Software with GitLab CI](https://hsf-training.github.io/hsf-training-cicd/)
+- [Unit Testing and TDD in Python](https://intersect-training.org/testing-lesson/)
+- [Tools and practices for FAIR research software](https://carpentries-incubator.github.io/fair-research-software/)
+- [Reproducible Research](https://book.the-turing-way.org/reproducible-research/reproducible-research)
+- [Intermediate Research Software Development Skills (Python) Lesson Material](https://carpentries-incubator.github.io/python-intermediate-development/)
+- [Introduction to Docker for Research](https://hsf-training.github.io/hsf-training-docker/index.html)
+- [Research Software Engineering Course](https://alan-turing-institute.github.io/rse-course/html/index.html)
+- [Intermediate Python Development](https://carpentries-incubator.github.io/python-intermediate-development/)
+- [Modular Programming with Python](https://coderefinery.github.io/modular-type-along/)
+- [Testing and Test-Driven Development](https://coderefinery.github.io/testing/)
+- [Reproducible Computational Environments using Containers](https://carpentries-incubator.github.io/docker-introduction/)
 
-Users considering contributing to your project will look for its `CONTRIBUTING.md` file to find guidelines on:
+## Maintaining and Sustaining Software
 
-- How to set up a development environment
-- How to run tests
-- Creating issues
-- How to identify issues they might work on
-- Communication
-- Code and style conventions
-- Commit conventions
-- Creating pull requests
+- [OpenSauced's guide to becoming a maintainer](https://opensauced.pizza/learn/becoming-a-maintainer)
+- [GitHub's Guides](https://opensource.guide/)
+- [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
+- [Finding Users for Your Project](https://opensource.guide/finding-users/)
+- [Best Practices for Maintainers](https://opensource.guide/best-practices/)
+- [Solving the Maker-Taker problem | Dries Buytaert](https://dri.es/solving-the-maker-taker-problem)
+- [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/)
+- [Effective Code Review](https://intersect-training.org/Code-Review/)
+- [PsyArXiv Preprints | “My code is s\*\*t”: Negative automatic thoughts and outcomes of a behavioral experiment for code review anxiety](https://osf.io/preprints/psyarxiv/hz3et)
+- [Example Contribution Ladder](https://github.com/withastro/.github/blob/main/GOVERNANCE.md)
+- [Metrics](https://opensource.guide/metrics/)
 
-You might also like to set up templates for contributors to use when creating issues and pull requests:
+## Building Community for Your Project
 
-- [GitHub issue/PR templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
-- [GitLab issue/PR templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates)
+- (Our own!) [Growing Community Around Open Source Projects](./growing-community.md)
+- [Building Community](https://opensource.guide/building-community/)
+- [Leadership and Governance](https://opensource.guide/leadership-and-governance/)
+- [Building Welcoming Communities](https://opensource.guide/building-community/)
 
-## Code of Conduct
+## Software Packaging
 
-All OSS projects need a Code of Conduct (COC) to establish expectations of behavior, and there's no shortage of templates to use for ideas. The [Contributor Covenant](https://www.contributor-covenant.org/) is a great place to start!
+- [Python Packaging for Beginners](https://intersect-training.org/packaging/)
+- [Python Packaging](https://carpentries-incubator.github.io/python_packaging)
+- [Python Package Development Best Practices](https://education.molssi.org/python-package-best-practices/)
+- [R Packaging](https://carpentries-incubator.github.io/lesson-R-packaging/)
 
-## Open source license
+## Understanding Licensing & Compliance
 
-A project can't be open source without a license, and the Office of the President has created a [guide to choosing a license](https://security.ucop.edu/files/documents/resources/oss-chart-companion.pdf) that makes sense for your project and meets UC requirements.
+- (UC-specific!) [UCoP's guide to choosing a license](https://security.ucop.edu/resources/open-source-software-licensing.html)
+- (General) [Understanding Software Licensing](https://intersect-training.org/software-licensing/)
