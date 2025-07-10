@@ -61,7 +61,11 @@ params:
     - title: Blog
       url: /posts
     - title: Resources
-      url: /oss-resources
+      sublinks:
+        - title: OSS Resources
+          url: /oss-resources
+        - title: Growing a Community Around Your Project
+          url: /oss-resources/growing-community
   footer:
     logo: uc-ospo-network-logo.svg
     socialmediatitle: ""
