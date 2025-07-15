@@ -25,11 +25,13 @@ Do you have questions relating to OSS, your campus OSPO, or the OSPO network? Co
 #### UCSB Open Source Meetup
 
 **When**: Wednesday, August 6 2025 at noon<br>
-**Where**: UCSB Library, Room 1312 (in the Sara Miller McCune Arts library)<br>
+**Where**: UCSB Library, Room 1312 (1st Floor Mountain Side, adjacent to the Learning Commons)<br>
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
-More details to come!
+At this month's UCSB Open Source Meetup, we'll be sharing "origin stories" of how we got into open source, and discussing the challenges and successes we've encountered along the way. There are plenty of getting started guides online, but there's nothing like hearing from real colleagues first-hand.
+
+This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
 
 Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmcgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
@@ -38,7 +40,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 #### UCSB Open Source Meetup
 
 **When**: Wednesday, September 3 2025 at noon<br>
-**Where**: UCSB Library, Room1312 (in the Sara Miller McCune Arts library)<br>
+**Where**: UCSB Library, Room 1312 (1st Floor Mountain Side, adjacent to the Learning Commons)<br>
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
@@ -51,7 +53,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 #### UCSB Open Source Meetup
 
 **When**: Wednesday, October 1 2025 at noon<br>
-**Where**: UCSB Library, Room 1411 (in the Sara Miller McCune Arts library)<br>
+**Where**: UCSB Library, Room 1312 (1st Floor Mountain Side, adjacent to the Learning Commons.)<br>
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
@@ -64,7 +66,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 #### UCSB Open Source Meetup
 
 **When**: Wednesday, December 3 2025 at noon<br>
-**Where**: UCSB Library, Room 1312 (in the Sara Miller McCune Arts library)<br>
+**Where**: UCSB Library, Room 1312 (1st Floor Mountain Side, adjacent to the Learning Commons)<br>
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
