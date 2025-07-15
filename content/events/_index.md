@@ -40,7 +40,7 @@ or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TE
 #### UCSB Open Source Meetup
 
 **When**: Wednesday, August 6 2025 at noon<br>
-**Where**: UCSB Library, Room 1411 (in the Sara Miller McCune Arts library)<br>
+**Where**: UCSB Library, Room 1312 (in the Sara Miller McCune Arts library)<br>
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
@@ -53,7 +53,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 #### UCSB Open Source Meetup
 
 **When**: Wednesday, September 3 2025 at noon<br>
-**Where**: UCSB Library, Room 1411 (in the Sara Miller McCune Arts library)<br>
+**Where**: UCSB Library, Room1312 (in the Sara Miller McCune Arts library)<br>
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
@@ -79,7 +79,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 #### UCSB Open Source Meetup
 
 **When**: Wednesday, December 3 2025 at noon<br>
-**Where**: UCSB Library, Room 1411 (in the Sara Miller McCune Arts library)<br>
+**Where**: UCSB Library, Room 1312 (in the Sara Miller McCune Arts library)<br>
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
