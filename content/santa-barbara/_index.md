@@ -60,30 +60,19 @@ Current projects
   </figcaption>
 </div>
 
-We are thrilled to be launching the UCSB Open Source Meetup! This group is open
-to UCSB students, faculty, and staff who are interested in open source, and is
-designed to help members build skills and connections. We will meet in-person
-once a month, except a few months a year, in which **we will join other OSPO
-Network campuses in a combined virtual meeting**. We will rotate between casual
-discussions and talks from guest speakers (both UCSB and industry). If there is
-demand, we may also do code reviews or mini-projects! Here are some of the
-topics we’re thinking of discussing:
+Once a month, the UCSB Open Source Programs Team hosts a casual, in-person, open
+source meetup. The meetup is open to UCSB students, faculty, and staff of all
+backgrounds and experience levels. The format will rotate between casual
+discussions and talks from guest speakers (both UCSB and industry). This is a
+great opportunity to meet others interested in open source, share tips and
+experiences, and be a part of a larger open source community at UCSB.
 
-- CI/CD, unit tests
-- Contributing guidelines and code style guides
-- Getting started contributing
-- Forking and branching
-- Licensing
-- Open source security, bug horror stories, bug awards?
-- Building community
-- Funding open source
-- The history of open source
-- Companies that have switched from open to closed licenses
-- Open source AI
+Please note that three months a year, our monthly in-person gathering is
+**replaced by a combined virtual meeting open to all UC campuses**.
 
-The in-person meetings will be on the first Wednesday of the month at noon in
-room 1411 in the UCSB Library (inside the Sara Miller McCune Arts Library).
-**Bring your lunch!**
+The in-person meetings are on the first Wednesday of the month at noon in room
+1312 in the UCSB Library (1st Floor Mountain Side, adjacent to the Learning
+Commons). **Bring your lunch!**
 
 - Join the
   [mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
