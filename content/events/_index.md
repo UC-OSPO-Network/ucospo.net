@@ -13,27 +13,13 @@ title: Events
 Do you have questions relating to OSS, your campus OSPO, or the OSPO network? Come have a virtual coffee with Laura, our community manager:
 
 - **Tuesdays** at **10am** Pacific
+
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1)
   - Add to your calendar: [.ics file](./ics-files/OSPO-Virtual-Coffee-Tuesdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Y2c3cTUzY2k0dnRpamlsb2NrbmI5ZWhyOG9fMjAyNTA1MjdUMTcwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 - **Thursdays** at **1pm** Pacific
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1)
   - Add to your calendar: [.ics file](./ics-files/OSPO-Virtual-Coffee-Thursdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXA1M2Y4dG1pZGR2djNob2NkcnYwaXV0bTNfMjAyNTA1MTVUMjAwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
-
-### July
-
-#### All-Campus Virtual Meetup
-
-**When**: Thursday, July 10, 2025 at noon<br>
-**Where**: [Zoom link](https://ucdavis.zoom.us/j/94131081913?pwd=TUujo3NUWymYNfbUkiQUeqvfo7FX6y.1)<br>
-**Who**: Anyone (including students and staff!)<br>
-
-Join us for the inaugural UC open source contributors & maintainers virtual meetup, bringing together the vibrant open source community across all UC campuses! Whether you're a seasoned maintainer with years of experience or just thinking about starting your open source journey, this collaborative space is designed for learning, sharing, and connecting with fellow UC community members who are passionate about open source software. We'll exchange insights, discuss challenges and successes, discover new projects, and build meaningful connections with peers from across the UC system. This is the first of three annual meetups where we'll celebrate the incredible open source work happening throughout our universities and support each other in growing as contributors and maintainers.
-
-All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
-
-Add to your calendar: [.ics file](./ics-files/All-Campus%20Meetup.ics)
-or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MjRtbnYzdDlxc2hiOWsxczJrYTdocTlmNzIgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### August
 
@@ -89,7 +75,20 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 ## Past Events
 
-**UCSB Open Source Meetup**
+### All-Campus Virtual Meetup
+
+**When**: Thursday, July 10, 2025 at noon<br>
+**Where**: [Zoom link](https://ucdavis.zoom.us/j/94131081913?pwd=TUujo3NUWymYNfbUkiQUeqvfo7FX6y.1)<br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us for the inaugural UC open source contributors & maintainers virtual meetup, bringing together the vibrant open source community across all UC campuses! Whether you're a seasoned maintainer with years of experience or just thinking about starting your open source journey, this collaborative space is designed for learning, sharing, and connecting with fellow UC community members who are passionate about open source software. We'll exchange insights, discuss challenges and successes, discover new projects, and build meaningful connections with peers from across the UC system. This is the first of three annual meetups where we'll celebrate the incredible open source work happening throughout our universities and support each other in growing as contributors and maintainers.
+
+All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
+
+Add to your calendar: [.ics file](./ics-files/All-Campus%20Meetup.ics)
+or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MjRtbnYzdDlxc2hiOWsxczJrYTdocTlmNzIgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+
+### UCSB Open Source Meetup
 
 **When**: Wednesday, Jun 4, 2025 at noon<br>
 **Where**: UCSB Library, Room 1411 (in the Sara Miller McCune Arts library)<br>
@@ -100,7 +99,7 @@ Are you experienced with open source software or hardware, or just curious about
 
 In partnership with UC’s new Open Source Program Office (OSPO) Network, the UCSB Open Source Programs Team is starting a casual recurring meetup on June 4th. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
 
-**Collaborate and Grow: Open Source for Research Coders (Davis)**
+### Collaborate and Grow: Open Source for Research Coders (Davis)
 
 **When**: Thursday, May 29 2025 at 3pm<br>
 **Where**: Peter J. Shields Library (room 360) at UC Davis<br>
@@ -112,7 +111,7 @@ Whether you're a biologist analyzing genomic data, a sociologist processing surv
 
 Join us for refreshments and conversation with others who, like you, use computation to advance their research. No technical expertise required—just register below and bring your curiosity!
 
-**OS SlugFest (Santa Cruz)**
+### OS SlugFest (Santa Cruz)
 
 **When**: Tuesday, May 27 2025 at 5pm<br>
 **Where**: Baskin Courtyard and E2-180 at UCSC<br>
