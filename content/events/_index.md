@@ -6,6 +6,10 @@ title: Events
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+{{< admonition tip >}}
+Please note: if you add an event from the embedded calendar above, it will default to 'Does not repeat'". If you'd like to add all instances of a recurring event, please use the .ics file or the "Add to your Google calendar" button for the event below.
+{{< /admonition >}}
+
 ## Upcoming Events
 
 ### Virtual Coffee/Office Hours (ongoing)
