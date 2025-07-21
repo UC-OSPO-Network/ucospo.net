@@ -37,7 +37,7 @@ At this month's UCSB Open Source Meetup, we'll be sharing "origin stories" of ho
 
 This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
 
-Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmcgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### September
 
@@ -50,7 +50,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 More details to come!
 
-Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHZldm5pMmoyOG83b29mY2FpdTNybWxnNXYgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 #### UCLA Open Source Meetup
 
@@ -76,7 +76,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 More details to come!
 
-Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGZlbTlkaGJvbWNoYTRra3FmNmluOGFiYTggY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 #### UCSD Open Source Meetup
 
@@ -102,7 +102,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 More details to come!
 
-Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Nm52b2owbXBoNnFsMGV0dnVuZmQyY3RnNXIgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ## Past Events
 
