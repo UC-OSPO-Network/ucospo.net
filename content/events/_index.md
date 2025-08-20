@@ -17,7 +17,6 @@ Please note: if you add an event from the embedded calendar above, it will defau
 Do you have questions relating to OSS, your campus OSPO, or the OSPO network? Come have a virtual coffee with Laura, our community manager:
 
 - **Tuesdays** at **10am** Pacific
-
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1)
   - Add to your calendar: [.ics file](./ics-files/OSPO-Virtual-Coffee-Tuesdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Y2c3cTUzY2k0dnRpamlsb2NrbmI5ZWhyOG9fMjAyNTA1MjdUMTcwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
