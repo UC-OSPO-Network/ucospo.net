@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250820T203811Z
+UID:1755722230962-87659@ical.marudot.com
+DTSTART;TZID=America/Los_Angeles:20250903T120000
+DTEND;TZID=America/Los_Angeles:20250903T133000
+SUMMARY:UCSB Open Source Meetup
+URL:https://ucsb.zoom.us/j/83473017071
+DESCRIPTION:This month\, we'll be joined by a special guest: Pasquale Ferrari\, Senior Licensing Officer at UCSB's Office of Technology & Industry Alliances (TIA). Pasquale will tell us about how TIA supports open source projects at UCSB\, and you can ask questions about licensing and pathways for open source development. Note that this meetup will be held over Zoom.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UCSB Open Source Meetup
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

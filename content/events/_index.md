@@ -7,7 +7,7 @@ title: Events
 <iframe src="https://calendar.google.com/calendar/embed?src=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 {{< admonition tip >}}
-Please note: if you add an event from the embedded calendar above, it will default to 'Does not repeat'". If you'd like to add all instances of a recurring event, please use the .ics file or the "Add to your Google calendar" button for the event below.
+Please note: if you add an event from the embedded calendar above, it will default to "Does not repeat". If you'd like to add all instances of a recurring event, please use the .ics file or the "Add to your Google calendar" button for the event below.
 {{< /admonition >}}
 
 ## Upcoming Events
@@ -24,19 +24,6 @@ Do you have questions relating to OSS, your campus OSPO, or the OSPO network? Co
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1)
   - Add to your calendar: [.ics file](./ics-files/OSPO-Virtual-Coffee-Thursdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXA1M2Y4dG1pZGR2djNob2NkcnYwaXV0bTNfMjAyNTA1MTVUMjAwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
-### August
-
-#### UCSB Open Source Meetup
-
-**When**: Wednesday, August 6 2025 at noon<br>
-**Where**: UCSB Library, Room 1312 (1st Floor Mountain Side, adjacent to the Learning Commons)<br>
-**Who**: Anyone (including students and staff!)<br>
-**Bring**: Your lunch 😋
-
-At this month's UCSB Open Source Meetup, we'll be sharing "origin stories" of how we got into open source, and discussing the challenges and successes we've encountered along the way. There are plenty of getting started guides online, but there's nothing like hearing from real colleagues first-hand.
-
-This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
-
 Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### September
@@ -50,12 +37,12 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 This month, we'll be joined by a special guest: Pasquale Ferrari, Senior Licensing Officer at UCSB's Office of Technology & Industry Alliances (TIA). Pasquale will tell us about how TIA supports open source projects at UCSB, and you can ask questions about licensing and pathways for open source development. Note that this meetup will be held over Zoom.
 
-Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: [.ics file](./ics-files/ucsb-meetup-sept-2025.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHZldm5pMmoyOG83b29mY2FpdTNybWxnNXYgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 #### UCLA Open Source Meetup
 
 **When**: Tuesday, September 30 2025 at noon<br>
-**Where**: TBD<br>
+**Where**: Charles E. Young Research Library, West Classroom 23167<br>
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
@@ -63,7 +50,7 @@ Are you experienced with open source software or hardware, or just curious about
 
 In partnership with UC’s new Open Source Program Office (OSPO) Network, the UCLA OSPO is hosting a casual meetup on September 30th. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
 
-Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Nmh0cm03Y2hhZXZ0bDhsMDUwaHRyOGw3cjcgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+[Register here for UCLA's September Meetup!](https://www.library.ucla.edu/visit/events-exhibitions/ucla-open-source-program-office-meetup-09-30-25/)
 
 ### October
 
@@ -81,7 +68,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 #### UCSD Open Source Meetup
 
 **When**: Thursday, October 2nd 2025 at noon<br>
-**Where**: TBD<br>
+**Where**: Geisel Meeting Room (Geisel Library, 1st floor East)<br>
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
@@ -89,7 +76,7 @@ Are you experienced with open source software or hardware, or just curious about
 
 In partnership with UC’s new Open Source Program Office (OSPO) Network, the UCSD OSPO is hosting a casual meetup on October 2nd. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
 
-Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M2d1OW1pc3Nib3QwZ3NjMTd1MWZxb2dzYzMgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Add to your calendar: [.ics file](./ics-files/ucsd-meetup-oct-2025.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M2d1OW1pc3Nib3QwZ3NjMTd1MWZxb2dzYzMgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### December
 
@@ -106,6 +93,17 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 ## Past Events
 
+### UCSB Open Source Meetup
+
+**When**: Wednesday, August 6 2025 at noon<br>
+**Where**: UCSB Library, Room 1312 (1st Floor Mountain Side, adjacent to the Learning Commons)<br>
+**Who**: Anyone (including students and staff!)<br>
+**Bring**: Your lunch 😋
+
+At this month's UCSB Open Source Meetup, we'll be sharing "origin stories" of how we got into open source, and discussing the challenges and successes we've encountered along the way. There are plenty of getting started guides online, but there's nothing like hearing from real colleagues first-hand.
+
+This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
+
 ### All-Campus Virtual Meetup
 
 **When**: Thursday, July 10, 2025 at noon<br>
@@ -115,9 +113,6 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 Join us for the inaugural UC open source contributors & maintainers virtual meetup, bringing together the vibrant open source community across all UC campuses! Whether you're a seasoned maintainer with years of experience or just thinking about starting your open source journey, this collaborative space is designed for learning, sharing, and connecting with fellow UC community members who are passionate about open source software. We'll exchange insights, discuss challenges and successes, discover new projects, and build meaningful connections with peers from across the UC system. This is the first of three annual meetups where we'll celebrate the incredible open source work happening throughout our universities and support each other in growing as contributors and maintainers.
 
 All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
-
-Add to your calendar: [.ics file](./ics-files/All-Campus%20Meetup.ics)
-or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MjRtbnYzdDlxc2hiOWsxczJrYTdocTlmNzIgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### UCSB Open Source Meetup
 
