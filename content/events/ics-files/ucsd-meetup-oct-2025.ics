@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250820T205454Z
+UID:1755723268311-66983@ical.marudot.com
+DTSTART;TZID=America/Los_Angeles:20251002T120000
+DTEND;TZID=America/Los_Angeles:20251002T133000
+SUMMARY:UCSD Open Source Meetup
+DESCRIPTION:Are you experienced with open source software or hardware\, or just curious about open source? \n\nIn partnership with UC’s new Open Source Program Office (OSPO) Network\, the UCSD OSPO is hosting a casual meetup on October 2nd. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event\, so bring your lunch and we’ll bring cookies!
+LOCATION:Geisel Meeting Room (Geisel Library\, 1st floor East)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UCSD Open Source Meetup
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
