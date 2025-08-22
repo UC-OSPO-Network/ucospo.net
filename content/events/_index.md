@@ -17,6 +17,7 @@ Please note: if you add an event from the embedded calendar above, it will defau
 Do you have questions relating to OSS, your campus OSPO, or the OSPO network? Come have a virtual coffee with Laura, our community manager:
 
 - **Tuesdays** at **10am** Pacific
+
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1)
   - Add to your calendar: [.ics file](./ics-files/OSPO-Virtual-Coffee-Tuesdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Y2c3cTUzY2k0dnRpamlsb2NrbmI5ZWhyOG9fMjAyNTA1MjdUMTcwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
@@ -38,6 +39,16 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 This month, we'll be joined by a special guest: Pasquale Ferrari, Senior Licensing Officer at UCSB's Office of Technology & Industry Alliances (TIA). Pasquale will tell us about how TIA supports open source projects at UCSB, and you can ask questions about licensing and pathways for open source development. Note that this meetup will be held over Zoom.
 
 Add to your calendar: [.ics file](./ics-files/ucsb-meetup-sept-2025.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHZldm5pMmoyOG83b29mY2FpdTNybWxnNXYgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+
+#### Hacktoberfest Prep Session (All-Campus)
+
+**When**: Thursday, September 11 2025 at noon<br>
+**Where**: Zoom [(Join the meeting)](https://ucdavis.zoom.us/j/92061926934?pwd=uwBKaqbE9jfR10ZMPdZsQpWa51yHND.1)<br>
+**Who**: Anyone (including students and staff!) who maintains an open source project<br>
+
+Hacktoberfest is a global October celebration that encourages people to contribute to open source projects, making it a perfect time to welcome new contributors to your project! Join us for a coworking session designed specifically for open source maintainers who want to make their projects more contributor-friendly. We’ll provide templates and examples for essential docs like README files, CONTRIBUTING guides, and issue templates, plus we'll be available to answer questions and review your repositories. Whether you need help crafting welcoming documentation or just want dedicated time to tackle those important-but-often-postponed admin tasks, this session will help you prepare your project to shine during Hacktoberfest and beyond!
+
+Add to your calendar: [.ics file](./ics-files/hacktoberfest-maintaining.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=dWhxNmlza284cjE4NmtjZzhjbDlmOTFpcTggY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 #### UCLA Open Source Meetup
 
@@ -77,6 +88,16 @@ Are you experienced with open source software or hardware, or just curious about
 In partnership with UC’s new Open Source Program Office (OSPO) Network, the UCSD OSPO is hosting a casual meetup on October 2nd. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
 
 Add to your calendar: [.ics file](./ics-files/ucsd-meetup-oct-2025.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M2d1OW1pc3Nib3QwZ3NjMTd1MWZxb2dzYzMgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+
+#### Get started contributing to OSS (All-Campus)
+
+**When**: Thursday, October 9th 2025 at noon<br>
+**Where**: Zoom [(Join the meeting)](https://ucdavis.zoom.us/j/98994580428?pwd=QFzaIY6Eh5baJbtycXJqMDwoMYm9mM.1)<br>
+**Who**: Anyone (including students and staff!) who's interesting in learning how to contribute to OSS<br>
+
+Hacktoberfest is a global October celebration that encourages people to make their first contributions to open source projects—and this session is here to help you jump in with confidence! If you've been wanting to contribute to open source but don't know where to start, join us for a supportive workshop where we'll cover the basics together. We'll share strategies for identifying beginner-friendly projects, understanding community norms, and navigating the contribution process, then stick around to help you explore potential projects and take your first steps. No experience required; just bring your curiosity and any questions you have about getting involved in the open source community!
+
+Add to your calendar: [.ics file](./ics-files/hacktoberfest-contributing.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGxyYTNrdmZlNTI5ZHJodGUxajlubnVqb28gY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### December
 
