@@ -12,9 +12,13 @@ Please note: if you add an event from the embedded calendar above, it will defau
 
 ## Upcoming Events
 
-### Virtual Coffee/Office Hours (ongoing)
+### Coworking/Office Hours (ongoing)
 
-Do you have questions relating to OSS, your campus OSPO, or the OSPO network? Come have a virtual coffee with Laura, our community manager:
+We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: 
+
+- Ask questions relating to OSS, your campus OSPO, or the OSPO network
+- Get help finding a project to work on, or getting more contributors for your own project
+- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks
 
 - **Tuesdays** at **10am** Pacific
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1)
