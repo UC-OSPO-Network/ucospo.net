@@ -14,7 +14,7 @@ Please note: if you add an event from the embedded calendar above, it will defau
 
 ### Coworking/Office Hours (ongoing)
 
-We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: 
+We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:
 
 - Ask questions relating to OSS, your campus OSPO, or the OSPO network
 - Get help finding a project to work on, or getting more contributors for your own project
