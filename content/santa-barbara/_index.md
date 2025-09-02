@@ -18,6 +18,8 @@ title: UC Santa Barbara Open Source Program
   </figcaption>
 </div>
 
+### About us
+
 UC Santa Barbara has a strong history of leadership and innovation in open
 source software development and open science. However, expertise and resources
 have traditionally been distributed across various parts of the campus. The Open
@@ -35,6 +37,7 @@ the broader network includes:
 
 If you'd like to keep up with our activities, please consider joining our
 mailing list, which includes a monthly newsletter and occasional announcements.
+You can unsubscribe at any time.
 
 <!-- Button to join our mailing list -->
 <div style="
@@ -58,7 +61,7 @@ mailing list, which includes a monthly newsletter and occasional announcements.
     onmouseover="this.style.backgroundColor='#005799'"
     onmouseout="this.style.backgroundColor='#003660'"
   >
-    Subscribe to our mailing list
+    Join our mailing list
   </a>
 </div>
 
