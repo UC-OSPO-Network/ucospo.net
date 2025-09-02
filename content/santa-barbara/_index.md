@@ -18,6 +18,8 @@ title: UC Santa Barbara Open Source Program
   </figcaption>
 </div>
 
+### About us
+
 UC Santa Barbara has a strong history of leadership and innovation in open
 source software development and open science. However, expertise and resources
 have traditionally been distributed across various parts of the campus. The Open
@@ -32,6 +34,36 @@ the broader network includes:
 - Creating educational materials, curricula, and best practice guidelines
 - Offering services and resources aimed at ensuring the sustainability of open
   source projects
+
+If you'd like to keep up with our activities, please consider joining our
+mailing list, which includes a monthly newsletter and occasional announcements.
+You can unsubscribe at any time.
+
+<!-- Button to join our mailing list -->
+<div style="
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+">
+  <a href="https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo" style="
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: #003660;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.25rem;
+    border-radius: 8px;
+    font-family: sans-serif;
+  "
+    target = "_blank"
+    onmouseover="this.style.backgroundColor='#005799'"
+    onmouseout="this.style.backgroundColor='#003660'"
+  >
+    Join our mailing list
+  </a>
+</div>
 
 <!-- Colored box for current projects -->
 <div style="
@@ -74,10 +106,8 @@ The in-person meetings are on the first Wednesday of the month at noon in room
 1312 in the UCSB Library (1st Floor Mountain Side, adjacent to the Learning
 Commons). **Bring your lunch!**
 
-- Join the
-  [mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
-- [Add it to your calendar](https://ucospo.net/events/) so you know which
-  meetings are in-person and which are virtual.
+[Add it to your calendar](https://ucospo.net/events/) so you know which meetings
+are in-person and which are virtual.
 
 ### UC Open Source Survey
 
