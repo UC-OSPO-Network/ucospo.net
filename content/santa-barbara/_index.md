@@ -33,6 +33,35 @@ the broader network includes:
 - Offering services and resources aimed at ensuring the sustainability of open
   source projects
 
+If you'd like to keep up with our activities, please consider joining our
+mailing list, which includes a monthly newsletter and occasional announcements.
+
+<!-- Button to join our mailing list -->
+<div style="
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+">
+  <a href="https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo" style="
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: #003660;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.25rem;
+    border-radius: 8px;
+    font-family: sans-serif;
+  "
+    target = "_blank"
+    onmouseover="this.style.backgroundColor='#005799'"
+    onmouseout="this.style.backgroundColor='#003660'"
+  >
+    Subscribe to our mailing list
+  </a>
+</div>
+
 <!-- Colored box for current projects -->
 <div style="
   clear: both;  /* clear floats */
@@ -74,10 +103,8 @@ The in-person meetings are on the first Wednesday of the month at noon in room
 1312 in the UCSB Library (1st Floor Mountain Side, adjacent to the Learning
 Commons). **Bring your lunch!**
 
-- Join the
-  [mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
-- [Add it to your calendar](https://ucospo.net/events/) so you know which
-  meetings are in-person and which are virtual.
+[Add it to your calendar](https://ucospo.net/events/) so you know which meetings
+are in-person and which are virtual.
 
 ### UC Open Source Survey
 
