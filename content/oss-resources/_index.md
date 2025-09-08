@@ -60,7 +60,7 @@ These are guides we've come across and recommend (with a few we've written ourse
 
 ## Building Community for Your Project
 
-- (Our own!) [Growing Community Around Open Source Projects](./growing-community.md)
+- (Our own!) [Growing Community Around Open Source Projects](./guides/growing-community.md)
 - [Building Community](https://opensource.guide/building-community/)
 - [Leadership and Governance](https://opensource.guide/leadership-and-governance/)
 - [Building Welcoming Communities](https://opensource.guide/building-community/)
