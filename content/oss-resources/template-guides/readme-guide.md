@@ -7,8 +7,7 @@ displayInList: true
 author: ["Laura Langdon <laura-langdon>"]
 ---
 
-This guide accompanies our 🚧 README template.
-🚧 Instructions for use (write after setting up template repo)
+This guide accompanies our [README template](🚧). Instructions for use (🚧 write after setting up template repo)
 
 What is your project, and why did you create it? You can help potential users—and contributors, if your project accepts contributions—understand the problem your project solves, and perhaps a bit of why you chose to the solve the problem in this way. This section should be fairly short (you'll go into more detail below). For inspiration, check out [Lazygit's "Elevator pitch" section](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#elevator-pitch). You might also like to include a screenshot of your project in use!
 
