@@ -19,14 +19,12 @@ Your contributing guide is the first place that new contributors will look to un
 
 - [Ways to Contribute](#ways-to-contribute)
 - [Come to Community Calls](#come-to-community-calls)
-- [Creating Issues](#creating-issues)
 - [Finding an Issue](#finding-an-issue)
 - [Setting Up a Dev Environment](#setting-up-a-dev-environment)
 - [Running Tests](#running-tests)
 - [Asking for Help](#asking-for-help)
 - [Norms for Commits](#norms-for-commits)
 - [Pull Request Lifecycle](#pull-request-lifecycle)
-- [Pull Request Checklist](#pull-request-checklist)
 - [Code of Conduct](#code-of-conduct)
 
 ## Ways to Contribute
@@ -43,18 +41,14 @@ Often security-related contributions, such as reporting security issues, are han
 
 If your project has open [community calls](https://opensource.com/open-organization/16/1/community-calls-will-increase-participation-your-open-organization), encourage contributors to attend and customize the template with your meeting information. The more contributors interact with your project, the more likely they are to find meaningful ways to contribute and stick around.
 
-## Creating Issues
-
-🚧
-
-You might also like to create an issue template:
-
-- [GitHub issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
-- [GitLab issue templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates)
-
 ## Finding an Issue
 
 Often contributors want to help out but don’t know where to start. If you have an issue labeling strategy, explain it here. For example, “good first issue” or “help wanted” for new contributors.
+
+You might also like to create an issue template to help new contributors know what information you need in an issue:
+
+- [GitHub issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
+- [GitLab issue templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates)
 
 Let contributors know how they should indicate that they want to work on an issue, such as commenting with “I would like to work on this”.
 
@@ -96,14 +90,14 @@ If your projects expects contributors to sign their commits, provide instruction
 
 ## Pull Request Lifecycle
 
-We encourage you to think about your pull request process and set expectations for both contributors and reviewers.
+We encourage you to think about your pull request process and set expectations for both contributors and reviewers. We've included an extensive section in our template, but you don't need to adopt every aspect! Pick and choose what makes sense for *your* project.
 
 You might like to create a PR template:
 
 - [GitHub PR templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
 - [GitLab PR templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates)
 
-Use the questions below as an exercise to uncover the unwritten rules and norms your project has for both reviewers and contributors. Use your answers, to create your template, and in your guide you might also write a description of what a contributor can expect during their pull request.
+Use the questions below as an exercise to uncover the unwritten rules and norms your project has for both reviewers and contributors. Use your answers to create your template:
 
 - When should contributors start to submit a PR—when it’s ready for review or as a work-in-progress? Should they use draft PRs to indicate that a PR isn't yet ready for review?
 - How do contributors signal that a PR is ready for review or that it’s not complete and still a work-in-progress?
@@ -114,22 +108,9 @@ Use the questions below as an exercise to uncover the unwritten rules and norms 
 - What kind of pull requests do you prefer: small scope, incremental value or feature complete?
 - Do you use feature branches?
 - What should contributors do if they no longer want to follow-through with the PR? Do maintainers sometimes commit to the PR directly to help get it merged? Or do maintainers close a PR if the contributor hasn’t responded in a specific time frame?
+- Give contributors an idea of how their pull request is evaluated and how to run checks locally before submitting the pull request. Include both the automated and any manual checks performed by reviewers.
 - Once a PR is merged, what is the process for it getting into the next release?
 - When does a merged pull request end up in a release?
-
-### Pull Request Checklist
-
-Give contributors an idea of how their pull request is evaluated and how to run those checks locally before submitting the pull request. Include both the automated and any manual checks performed by reviewers.
-
-Providing a script in the repository and instructions for how to validate a pull request before submitting is extremely helpful to all contributors.
-
-Below is an example project checklist and we encourage you to not only document the checklist in the CONTRIBUTING.md file but also in the GitHub pull request template.
-
-- It passes tests:
-    - Run the following command to run all of the tests locally: `make build test lint`
-- Impacted code has new or updated tests
-- Documentation created/updated
-- All tests succeed when run by the CI build on a pull request before it is merged
 
 ## Code of Conduct
 

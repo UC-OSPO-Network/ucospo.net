@@ -9,7 +9,7 @@ We have a [repo template](🚧 you can use to scaffold the writing of essential 
 - [README Template Guide](./template-guides/readme-guide.md)
 - [Contributing Template Guide](./template-guides/contributing-guide.md)
 - [Code of Conduct Template Guide](./template-guides/code-of-conduct-guide.md)
-- [License Template Guide](./template-guides/)
+- [License Template Guide](./template-guides/license-guide.md)
 
 ## Tutorials
 
