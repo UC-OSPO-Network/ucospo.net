@@ -1,5 +1,5 @@
 ---
-title: CONTRIBUTING Guide
+title: CODE_OF_CONDUCT Guide
 date: 2025-09-08
 draft: false
 description: "How to Write a Code of Conduct for your OSS project"
