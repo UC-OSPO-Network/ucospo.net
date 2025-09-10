@@ -116,8 +116,6 @@ How is your software deployed?
 
 Use this space to document how to use your project. You might show additional screenshots, code samples, demos or link to other resources. If this section starts getting very long, consider setting up a dedicated wiki or docs site!
 
-![Grey box with the text "Your screenshot here"](screenshot.svg)
-
 ```python
 print("Hello, world!")
 ```
@@ -161,13 +159,13 @@ Both users of and potential contributors to your project are likely to have idea
 
 If you'd appreciate contributions to your project, you might say something like:
 
-Contributions are always welcome! Please see [CONTRIBUTING.md](/CONTRIBUTING-template.md) for tips to get started.
+Contributions are always welcome! Please see [CONTRIBUTING.md](./contributing-guide.md) for tips to get started.
 
 ### Code of Conduct
 
 If you'll be accepting contributions to your project, you'll need to consider how you'll ensure a good experience for you and your contributors.
 
-Please read check out the [Code of Conduct for more detail!](/CODE_OF_CONDUCT-template.md)
+Please read check out the [Code of Conduct for more detail!](./code-of-conduct-guide.md)
 
 ## FAQ (optional)
 
@@ -185,7 +183,7 @@ Answer 2
 
 Your license file should be in the root of your project's repo, and you can link to it directly like this:
 
-Distributed under the [insert your license name]. See [LICENSE.txt](/LICENSE) for more information.
+Distributed under the [insert your license name]. See [LICENSE.txt](./license-guide.md) for more information.
 
 ## Contact (optional)
 
