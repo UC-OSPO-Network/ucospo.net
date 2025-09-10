@@ -7,9 +7,7 @@ displayInList: true
 author: ["Laura Langdon <laura-langdon>"]
 ---
 
-This guide accompanies our [CONTRIBUTING template](🚧). Please refer to these [instructions for using the template](🚧).
-
-Search for the word `TODO` in the template for links that need to be customized. When you finish editing 🚧 the template, remove the `TODO` bits.
+This guide accompanies our [CONTRIBUTING template](https://github.com/UC-OSPO-Network/templates/blob/d8ba9301beb523c10a7195ddf0fb70a068312022/CONTRIBUTING-template.md). Please refer to these [instructions for using the template](https://github.com/UC-OSPO-Network/templates#how-to-use-the-templates).
 
 ## Welcome!
 

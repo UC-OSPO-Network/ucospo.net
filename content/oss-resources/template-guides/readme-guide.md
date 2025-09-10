@@ -7,9 +7,7 @@ displayInList: true
 author: ["Laura Langdon <laura-langdon>"]
 ---
 
-This guide accompanies our [README template](🚧). Please refer to these [instructions for using the template](🚧).
-
-Search for the word `TODO` in the template for links that need to be customized. When you finish editing 🚧 the template, remove the `TODO` bits.
+This guide accompanies our [README template](https://github.com/UC-OSPO-Network/templates/blob/d8ba9301beb523c10a7195ddf0fb70a068312022/README-template.md). Please refer to these [instructions for using the template](https://github.com/UC-OSPO-Network/templates#how-to-use-the-templates).
 
 What is your project, and why did you create it? You can help potential users—and contributors, if your project accepts contributions—understand the problem your project solves, and perhaps a bit of why you chose to the solve the problem in this way. This section should be fairly short (you'll go into more detail below). For inspiration, check out [Lazygit's "Elevator pitch" section](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#elevator-pitch). You might also like to include a screenshot of your project in use!
 
