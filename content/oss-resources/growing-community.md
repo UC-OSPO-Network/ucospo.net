@@ -9,7 +9,11 @@ author: ["Laura Langdon <laura-langdon>"]
 
 If you maintain an open source project and want to attract contributors to it but don't know where to start, the OSPO network is here to help! This guide will walk you through setting up the essential documentation and infrastructure a contributor-friendly project needs.
 
-Every OSS project seeking contributors needs to have the following files in the root directory of the project's repo:
+Every OSS project seeking contributors needs to have the following files in the root directory of the project's repo.
+
+{{< admonition tip >}}
+We have a [repo template](https://github.com/UC-OSPO-Network) you can use to scaffold the writing of these docs!
+{{< /admonition >}}
 
 ## README
 

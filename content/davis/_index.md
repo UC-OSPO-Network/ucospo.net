@@ -4,7 +4,7 @@ title: UC Davis OSPO
 
 ## Events
 
-Check out our [events page]( https://ucospo.net/events/)
+Check out our [events page](https://ucospo.net/events/)
 
 ## Contact
 

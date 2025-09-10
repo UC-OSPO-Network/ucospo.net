@@ -2,9 +2,20 @@
 title: OSS Resources
 ---
 
-These are guides we've come across and recommend (with a few we've written ourselves 😊)!
+## Templates
 
-**Table of Contents**:
+We have a [repo template](🚧 you can use to scaffold the writing of essential project docs, and guides below for using our templates:
+
+- [README Template Guide](./template-guides/readme-guide.md)
+- [Contributing Template Guide](./template-guides/contributing-guide.md)
+- [Code of Conduct Template Guide](./template-guides/code-of-conduct-guide.md)
+- [License Template Guide](./template-guides/license-guide.md)
+
+## Tutorials
+
+These are tutorials we've come across and recommend (with a few we've written ourselves 😊)!
+
+## Topics
 
 - [Getting Started with Open Source](#getting-started-with-open-source)
 - [Contributing to a Project](#contributing-to-a-project)
