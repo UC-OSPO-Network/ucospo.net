@@ -45,10 +45,7 @@ If your project has open [community calls](https://opensource.com/open-organizat
 
 Often contributors want to help out but don’t know where to start. If you have an issue labeling strategy, explain it here. For example, “good first issue” or “help wanted” for new contributors.
 
-You might also like to create an issue template to help new contributors know what information you need in an issue:
-
-- [GitHub issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
-- [GitLab issue templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates)
+If you copied our template repo, your repo came with a few issue templates to help new contributors know what information you need in an issue, and you can find them in the `.github/ISSUE_TEMPLATE` directory at the project root. Check out GitHub's [instructions for creating/editing/removing issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates).
 
 Let contributors know how they should indicate that they want to work on an issue, such as commenting with “I would like to work on this”.
 
@@ -92,10 +89,7 @@ If your projects expects contributors to sign their commits, provide instruction
 
 We encourage you to think about your pull request process and set expectations for both contributors and reviewers. We've included an extensive section in our template, but you don't need to adopt every aspect! Pick and choose what makes sense for *your* project.
 
-You might like to create a PR template:
-
-- [GitHub PR templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
-- [GitLab PR templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates)
+If you copied our template repo, your repo came with a PR template and you can find it in the `.github` directory at the project root. Check out GitHub's [instructions for creating/editing/removing issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates).
 
 Use the questions below as an exercise to uncover the unwritten rules and norms your project has for both reviewers and contributors. Use your answers to create your template:
 
@@ -114,7 +108,7 @@ Use the questions below as an exercise to uncover the unwritten rules and norms 
 
 ## Code of Conduct
 
-All OSS projects need a Code of Conduct (COC) to establish expectations of behavior for all members of the community, and here you can either link to the template (after you've edited to match your project!), or delete it and use the wonderful [interactive CoC tool](https://www.contributor-covenant.org/adopt) by the Contributor Covenant to create a CoC that's customized for your community (with support for over 40 languages!).
+All OSS projects need a Code of Conduct (COC) to establish expectations of behavior for all members of the community, and here you can either link to the template (after you've edited to match your project!) or create a new one ([check out our Code of Conduct Guide](code-of-conduct-guide.md))
 
 ## Attribution
 
