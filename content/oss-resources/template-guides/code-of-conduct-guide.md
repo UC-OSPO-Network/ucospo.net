@@ -7,7 +7,7 @@ displayInList: true
 author: ["Laura Langdon <laura-langdon>"]
 ---
 
-This guide accompanies our [CODE OF CONDUCT template](🚧). Instructions for use (🚧 write after setting up template repo)
+This guide accompanies our [CODE OF CONDUCT template](🚧). Please refer to these [instructions for using the template](🚧).
 
 All OSS projects need a Code of Conduct (COC) to establish expectations of behavior for all members of the community, and you can either:
 - Edit the template we included in our template repo, or

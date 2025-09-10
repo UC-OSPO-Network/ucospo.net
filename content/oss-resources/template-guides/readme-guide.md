@@ -7,7 +7,7 @@ displayInList: true
 author: ["Laura Langdon <laura-langdon>"]
 ---
 
-This guide accompanies our [README template](🚧). Instructions for use (🚧 write after setting up template repo)
+This guide accompanies our [README template](🚧). Please refer to these [instructions for using the template](🚧).
 
 Search for the word `TODO` in the template for links that need to be customized. When you finish editing 🚧 the template, remove the `TODO` bits.
 
