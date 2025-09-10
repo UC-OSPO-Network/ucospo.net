@@ -12,7 +12,7 @@ If you maintain an open source project and want to attract contributors to it bu
 Every OSS project seeking contributors needs to have the following files in the root directory of the project's repo.
 
 {{< admonition tip >}}
-We have a [repo template](https://github.com/UC-OSPO-Network) you can use to scaffold the writing of these docs, and [guides for using our templates](./_index.md/#templates)!
+We have a [repo template](https://github.com/UC-OSPO-Network) you can use to scaffold the writing of these docs!
 {{< /admonition >}}
 
 ## README
