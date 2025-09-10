@@ -85,7 +85,7 @@ If your projects expects contributors to sign their commits, provide instruction
 
 ## Pull Request Lifecycle
 
-We encourage you to think about your pull request process and set expectations for both contributors and reviewers. We've included an extensive section in our template, but you don't need to adopt every aspect! Pick and choose what makes sense for *your* project.
+We encourage you to think about your pull request process and set expectations for both contributors and reviewers. We've included an extensive section in our template, but you don't need to adopt every aspect! Pick and choose what makes sense for _your_ project.
 
 If you copied our template repo, your repo came with a PR template and you can find it in the `.github` directory at the project root. Check out GitHub's [instructions for creating/editing/removing issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates).
 
@@ -110,4 +110,4 @@ All OSS projects need a Code of Conduct (COC) to establish expectations of behav
 
 ## Attribution
 
-We're grateful to the team at CNCF for creating an [excellent guide](https://contribute.cncf.io/maintainers/templates/contributing/) we've referred to *extensively* in writing this one!
+We're grateful to the team at CNCF for creating an [excellent guide](https://contribute.cncf.io/maintainers/templates/contributing/) we've referred to _extensively_ in writing this one!
