@@ -32,7 +32,7 @@ A Table of Contents makes it easier for readers to find the information they're 
 - [FAQ (optional)](#faq-optional)
 - [License](#license)
 - [Contact (optional)](#contact-optional)
-- [Acknowledgements (optional)](#acknowledgements-optional)
+- [Attribution (optional)](#attribution-optional)
 
 ### Features
 
@@ -198,7 +198,7 @@ It's up to you to decide how you'd like to be contacted with questions about you
 - Link to your project's forum, Slack channel, Discord server, etc.
 - Asking people to open an issue to ask their question
 
-## Acknowledgements (optional)
+## Attribution (optional)
 
 Use this section to mention useful resources and libraries that you've leaned on in building your project. For example, we're grateful to have built this template with inspiration from:
 

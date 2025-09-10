@@ -116,6 +116,6 @@ Use the questions below as an exercise to uncover the unwritten rules and norms 
 
 All OSS projects need a Code of Conduct (COC) to establish expectations of behavior for all members of the community, and here you can either link to the template (after you've edited to match your project!), or delete it and use the wonderful [interactive CoC tool](https://www.contributor-covenant.org/adopt) by the Contributor Covenant to create a CoC that's customized for your community (with support for over 40 languages!).
 
-## Acknowledgements
+## Attribution
 
 We're grateful to the team at CNCF for creating an [excellent guide](https://contribute.cncf.io/maintainers/templates/contributing/) we've referred to *extensively* in writing this one!
