@@ -59,7 +59,7 @@ Don’t let project burnout or declining engagement catch you off guard. With OS
 
 Getting started is straightforward: register for a free account and sign in with your credentials to access the OSSPREY dashboard. At present, both registration and usage are completely free.
 
-[**Try OSSPREY Now**](https://oss-prey.github.io/OSSPREY-Website/)  
+[**Try OSSPREY Now**](https://oss-prey.github.io/OSSPREY-Website/)
 [🎥 Watch the Dashboard Demo](https://www.youtube.com/watch?v=N7a0v4hPylU)
 
 ## Future Directions
