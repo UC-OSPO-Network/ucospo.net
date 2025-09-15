@@ -3,7 +3,7 @@ title: "Introducing OSSPREY: AI-Powered Forecasting and Actionable Insights for 
 date: 2025-09-11T10:00:00-07:00
 draft: false
 summary: "OSSPREY delivers AI-powered sustainability forecasting and evidence-based recommendations to help maintainers keep projects healthy."
-tags: ["sustainability", "open source", "forecasting", "AI"]
+tags: ["sustainability", "forecasting", "AI"]
 authors: ["Nafiz Imtiaz Khan", "Priyal Soni", "Arjun Ashok", "Vladimir Filkov"]
 featuredImage: "https://raw.githubusercontent.com/OSS-PREY/OSSPREY-Website/refs/heads/main/static/images/ossprey-dashboard.png"
 ---
@@ -12,13 +12,13 @@ Open Source Software (OSS) powers everything from academic research to mission-c
 
 ## Meet OSSPREY
 
-The OSSPREY paper has been accepted in the [Automated Software Engineering 2025 Tool Demonstration Track](https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track).
+**[OSSPREY](https://oss-prey.github.io/OSSPREY-Website/) (Open Source Software PRoject sustainabilitY tracker)** is an intelligent, modular, and research-backed platform that enables open source maintainers to anticipate and address project health issues before they become critical. Developed by the Davis Excellent/Eclectic/Extreme Computational Analytics Lab ([DECAL Lab](https://decallab.cs.ucdavis.edu/)) at UC Davis, OSSPREY uniquely combines real-time GitHub data scraping, socio-technical network modeling, machine learning forecasting, and a curated knowledge base of interventions grounded in software engineering research.
+
+The OSSPREY paper has also been accepted in the [Automated Software Engineering 2025 Tool Demonstration Track](https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track).
 
 ![OSSPREY Icon](https://oss-prey.github.io/OSSPREY-Website/static/images/favicon.ico)
 
-**OSSPREY (Open Source Software PRoject sustainabilitY tracker)** is an intelligent, modular, and research-backed platform that enables open source maintainers to anticipate and address project health issues before they become critical. Developed by the DECAL Lab at UC Davis, OSSPREY uniquely combines real-time GitHub data scraping, socio-technical network modeling, machine learning forecasting, and a curated knowledge base of interventions grounded in software engineering research.
-
-By analyzing both technical contributions (e.g., commits, file changes) and social signals (e.g., issue discussions, collaboration patterns), OSSPREY delivers comprehensive month-by-month sustainability forecasts. What truly sets it apart is its ReACT recommendation engine, which maps empirical research findings to tailored, actionable strategies maintainers can deploy to counteract emerging risks—such as declining contributor activity, fragmented communication, or stagnant issue resolution.
+By analyzing both technical contributions (e.g., commits, file changes) and social signals (e.g., issue discussions, collaboration patterns), OSSPREY delivers comprehensive month-by-month sustainability forecasts. What truly sets it apart is its **ReACT (Researched ACTionable) recommendation engine**, which maps empirical research findings to tailored, actionable strategies maintainers can deploy to counteract emerging risks—such as declining contributor activity, fragmented communication, or stagnant issue resolution.
 
 > “OSSPREY bridges the gap between academic sustainability metrics and real-world decision making by providing both forecasts and evidence-based recommendations.”
 
@@ -40,7 +40,7 @@ OSSPREY’s pipeline includes four key modules:
 - **Forecaster:** Transformer model forecasts future sustainability based on historical network features.
 - **ReACT-Recommender:** Suggests empirically validated strategies when sustainability dips.
 
-![OSSPREY dashboard with forecast trajectories, socio-technical networks, and actionable suggestions](https://raw.githubusercontent.com/OSS-PREY/OSSPREY-Website/refs/heads/main/static/images/ossprey-dashboard.png)
+![OSSPREY dashboard with forecast trajectories, socio-technical networks, and actionable suggestions](https://raw.githubusercontent.com/OSS-PREY/OSSPREY-Website/refs/heads/main/static/images/ossprey-dashboard-2.PNG)
 
 ## Dashboard Highlights
 
@@ -59,14 +59,14 @@ Don’t let project burnout or declining engagement catch you off guard. With OS
 
 Getting started is straightforward: register for a free account and sign in with your credentials to access the OSSPREY dashboard. At present, both registration and usage are completely free.
 
-[**Try OSSPREY Now**](https://oss-prey.github.io/OSSPREY-Website/)
+[**Try OSSPREY Now**](https://oss-prey.github.io/OSSPREY-Website/)  
 [🎥 Watch the Dashboard Demo](https://www.youtube.com/watch?v=N7a0v4hPylU)
 
 ## Future Directions
 
 We’re working on integrating dependency-aware forecasting, personalized suggestions using LLMs, and parallelism upgrades for large-scale project scraping. OSSPREY is open-source and actively maintained—contributions and feedback are welcome!
 
-### Resources
+## Resources
 
 - [Project Website](https://oss-prey.github.io/OSSPREY-Website/)
 - [API Documentation](https://oss-prey.github.io/OSSPREY-Website/#API)
