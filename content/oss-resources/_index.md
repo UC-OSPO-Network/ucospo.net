@@ -2,9 +2,9 @@
 title: OSS Resources
 ---
 
-## Templates
+## Repo Templates
 
-We have a [repo template](https://github.com/UC-OSPO-Network/templates) you can use to scaffold the writing of essential project docs, and guides below for using our templates:
+**We have a [repo template](https://github.com/UC-OSPO-Network/templates) you can use to scaffold the writing of essential project docs, and guides below for using our templates:**
 
 - [README Template Guide](./template-guides/readme-guide.md)
 - [Contributing Template Guide](./template-guides/contributing-guide.md)
