@@ -61,7 +61,7 @@ Don’t let project burnout or declining engagement catch you off guard. With OS
 
 Getting started is straightforward: register for a free account and sign in with your credentials to access the OSSPREY dashboard. At present, both registration and usage are completely free.
 
-<a href="https://oss-prey.github.io/OSSPREY-Website/" target="_blank"><strong>Try OSSPREY Now</strong></a>  
+<a href="https://oss-prey.github.io/OSSPREY-Website/" target="_blank"><strong>Try OSSPREY Now</strong></a>
 <a href="https://www.youtube.com/watch?v=N7a0v4hPylU" target="_blank">🎥 Watch the Dashboard Demo</a>
 
 ## Future Directions
@@ -70,9 +70,8 @@ We’re working on integrating dependency-aware forecasting, personalized sugges
 
 ## Resources
 
-- <a href="https://oss-prey.github.io/OSSPREY-Website/" target="_blank">Project Website</a>  
-- <a href="https://oss-prey.github.io/OSSPREY-Website/#API" target="_blank">API Documentation</a>  
-- <a href="https://oss-prey.github.io/OSSPREY-Website/#Features" target="_blank">Feature Set</a>  
+- <a href="https://oss-prey.github.io/OSSPREY-Website/" target="_blank">Project Website</a>
+- <a href="https://oss-prey.github.io/OSSPREY-Website/#API" target="_blank">API Documentation</a>
+- <a href="https://oss-prey.github.io/OSSPREY-Website/#Features" target="_blank">Feature Set</a>
 
 Built by the DECAL Lab at UC Davis, OSSPREY is paving the way for data-driven, evidence-based OSS sustainability. Empower your project with proactive insights today.
-
