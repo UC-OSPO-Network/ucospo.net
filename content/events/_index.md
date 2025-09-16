@@ -75,7 +75,9 @@ In partnership with UC’s new Open Source Program Office (OSPO) Network, the UC
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
-More details to come!
+This month, we'll be joined by a panel of special guests: Trissalyn Nelson (Geography), Rich Wolski (Computer Science), and Chrissy Rissmeyer (Library) will tell us about their experiences building healthy, inclusive open source communities.
+
+We'll be back in room 1312 in the UCSB Library.
 
 Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
