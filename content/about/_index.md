@@ -6,7 +6,7 @@ The UC OSPO Network launched in May 2024 enabled by a grant from the Alfred P. S
 
 {{< admonition note >}}
 Join our [Slack workspace](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3c6yw4l11-WU2PB4jUwAtXTDK09h8orQ)!
- {{< /admonition >}}
+{{< /admonition >}}
 
 ## Our Mission
 
