@@ -71,8 +71,6 @@ params:
         icon: github
       - link: https://ucospo.net/atom.xml
         icon: rss-feed
-      - link: https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3c6yw4l11-WU2PB4jUwAtXTDK09h8orQ
-        icon: slack
     quicklinks:
       column1:
         title: ""
