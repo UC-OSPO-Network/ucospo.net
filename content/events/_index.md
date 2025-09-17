@@ -40,13 +40,13 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
 
-→ Attend in person: [Register here for Berkeley's September meetup](https://events.berkeley.edu/BIDS/event/306145-ospo-monthly-meetup-what-can-your-ospo-do-for-you). Drinks and snacks provided.
-→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).
+→ Attend in person: [Register here for Berkeley's September meetup](https://events.berkeley.edu/BIDS/event/306145-ospo-monthly-meetup-what-can-your-ospo-do-for-you). Drinks and snacks provided.<br>
+→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).<br>
 
 This month, meet the Berkeley OSPO Executive Director Jarrod Millman and BIDS Executive Director Kirstie Whitaker – together, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Drinks and snacks provided!
 
-Speaker: Jarrod Millman, Executive Director, Berkeley OSPO
-Speaker: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Speaker: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Speaker: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
@@ -88,8 +88,8 @@ Join us in shaping the future of open source at UC Berkeley, building on its ric
 
 At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
 [Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306317-ospo-monthly-knowledge-exchange-october-2025)
 
@@ -126,11 +126,11 @@ Add to your calendar: [.ics file](./ics-files/hacktoberfest-contributing.ics) or
 
 Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
-→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306419-ospo-monthly-meetup-october-2025). Drinks and snacks provided.
-→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).
+→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306419-ospo-monthly-meetup-october-2025). Drinks and snacks provided.<br>
+→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).<br>
 
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
@@ -172,8 +172,8 @@ Join us in shaping the future of open source at UC Berkeley, building on its ric
 
 At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
 [Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306416-ospo-monthly-knowledge-exchange-november-2025)
 
@@ -187,11 +187,11 @@ Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
 Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
-→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306420-ospo-monthly-meetup-november-2025). Drinks and snacks provided.
-→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).
+→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306420-ospo-monthly-meetup-november-2025). Drinks and snacks provided.<br>
+→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).<br>
 
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
@@ -218,8 +218,8 @@ Join us in shaping the future of open source at UC Berkeley, building on its ric
 
 At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
 [Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306418-ospo-monthly-knowledge-exchange-december-2025)
 
