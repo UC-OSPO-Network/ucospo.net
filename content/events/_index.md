@@ -32,26 +32,23 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 ### September
 
-#### UCSB Open Source Meetup
+#### UC Berkeley "What Can Your OSPO Do for You?"
 
-**When**: Wednesday, September 3 2025 at noon<br>
-**Where**: Zoom: [Join the meeting](https://ucsb.zoom.us/j/83473017071)<br>
+**When**: Thursday, September 16 2025 3:30-5:00pm<br>
+**Where**: 2120 University Ave, 7th Floor, Berkeley, CA 94704 <br>
 **Who**: Anyone (including students and staff!)<br>
-**Bring**: Your lunch 😋
 
-This month, we'll be joined by a special guest: Pasquale Ferrari, Senior Licensing Officer at UCSB's Office of Technology & Industry Alliances (TIA). Pasquale will tell us about how TIA supports open source projects at UCSB, and you can ask questions about licensing and pathways for open source development. Note that this meetup will be held over Zoom.
+Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
 
-Add to your calendar: [.ics file](./ics-files/ucsb-meetup-sept-2025.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHZldm5pMmoyOG83b29mY2FpdTNybWxnNXYgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+→ Attend in person: [Register here for Berkeley's September meetup](https://events.berkeley.edu/BIDS/event/306145-ospo-monthly-meetup-what-can-your-ospo-do-for-you). Drinks and snacks provided.
+→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).
 
-#### Hacktoberfest Prep Session (All-Campus)
+This month, meet the Berkeley OSPO Executive Director Jarrod Millman and BIDS Executive Director Kirstie Whitaker – together, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Drinks and snacks provided!
 
-**When**: Thursday, September 11 2025 at noon<br>
-**Where**: Zoom [(Join the meeting)](https://ucdavis.zoom.us/j/92061926934?pwd=uwBKaqbE9jfR10ZMPdZsQpWa51yHND.1)<br>
-**Who**: Anyone (including students and staff!) who maintains an open source project<br>
+Speaker: Jarrod Millman, Executive Director, Berkeley OSPO
+Speaker: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
 
-Hacktoberfest is a global October celebration that encourages people to contribute to open source projects, making it a perfect time to welcome new contributors to your project! Join us for a UC-wide coworking session designed specifically for open source maintainers who want to make their projects more contributor-friendly. We’ll provide templates and examples for essential docs like README files, CONTRIBUTING guides, and issue templates, plus we'll be available to answer questions and review your repositories. Whether you need help crafting welcoming documentation or just want dedicated time to tackle those important-but-often-postponed admin tasks, this session will help you prepare your project to shine during Hacktoberfest and beyond!
-
-Add to your calendar: [.ics file](./ics-files/hacktoberfest-maintaining.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=dWhxNmlza284cjE4NmtjZzhjbDlmOTFpcTggY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
 #### UCLA Open Source Meetup
 
@@ -81,6 +78,23 @@ We'll be back in room 1312 in the UCSB Library.
 
 Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
+#### UC Berkeley OSPO Monthly Knowledge exchange
+
+**When**: Thursday, October 2 2025 10:00-11:00am<br>
+**Where**: Zoom <br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!
+
+At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
+
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+
+[Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306317-ospo-monthly-knowledge-exchange-october-2025)
+
+Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
+
 #### UCSD Open Source Meetup
 
 **When**: Thursday, October 2nd 2025 at noon<br>
@@ -104,6 +118,57 @@ Hacktoberfest is a global October celebration that encourages people to make the
 
 Add to your calendar: [.ics file](./ics-files/hacktoberfest-contributing.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGxyYTNrdmZlNTI5ZHJodGUxajlubnVqb28gY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
+#### UC Berkeley Monthly Meetup
+
+**When**: Thursday, October 16 2025 3:30-5:00pm<br>
+**Where**: 2120 University Ave, 7th Floor, Berkeley, CA 94704 <br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
+
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+
+→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306419-ospo-monthly-meetup-october-2025). Drinks and snacks provided.
+→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).
+
+Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
+
+### November
+
+#### UC Berkeley OSPO Monthly Knowledge exchange
+
+**When**: Thursday, November 6 2025 10:00-11:00am<br>
+**Where**: Zoom <br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!
+
+At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
+
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+
+[Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306416-ospo-monthly-knowledge-exchange-november-2025)
+
+Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
+
+#### UC Berkeley Monthly Meetup
+
+**When**: Thursday, November 20 2025 3:30-5:00pm<br>
+**Where**: 2120 University Ave, 7th Floor, Berkeley, CA 94704 <br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
+
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+
+→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306420-ospo-monthly-meetup-november-2025). Drinks and snacks provided.
+→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).
+
+Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
+
 ### December
 
 #### UCSB Open Source Meetup
@@ -117,7 +182,41 @@ More details to come!
 
 Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
+#### UC Berkeley OSPO Monthly Knowledge exchange
+
+**When**: Thursday, December 4 2025 10:00-11:00am<br>
+**Where**: Zoom <br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!
+
+At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
+
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+
+[Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306418-ospo-monthly-knowledge-exchange-december-2025)
+
+Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
+
 ## Past Events
+
+### Hacktoberfest Prep Session (All-Campus)
+
+**When**: Thursday, September 11 2025 at noon<br>
+**Where**: Zoom [(Join the meeting)](https://ucdavis.zoom.us/j/92061926934?pwd=uwBKaqbE9jfR10ZMPdZsQpWa51yHND.1)<br>
+**Who**: Anyone (including students and staff!) who maintains an open source project<br>
+
+Hacktoberfest is a global October celebration that encourages people to contribute to open source projects, making it a perfect time to welcome new contributors to your project! Join us for a UC-wide coworking session designed specifically for open source maintainers who want to make their projects more contributor-friendly. We’ll provide templates and examples for essential docs like README files, CONTRIBUTING guides, and issue templates, plus we'll be available to answer questions and review your repositories. Whether you need help crafting welcoming documentation or just want dedicated time to tackle those important-but-often-postponed admin tasks, this session will help you prepare your project to shine during Hacktoberfest and beyond!
+
+### UCSB Open Source Meetup
+
+**When**: Wednesday, September 3 2025 at noon<br>
+**Where**: Zoom: [Join the meeting](https://ucsb.zoom.us/j/83473017071)<br>
+**Who**: Anyone (including students and staff!)<br>
+**Bring**: Your lunch 😋
+
+This month, we'll be joined by a special guest: Pasquale Ferrari, Senior Licensing Officer at UCSB's Office of Technology & Industry Alliances (TIA). Pasquale will tell us about how TIA supports open source projects at UCSB, and you can ask questions about licensing and pathways for open source development. Note that this meetup will be held over Zoom.
 
 ### UCSB Open Source Meetup
 
