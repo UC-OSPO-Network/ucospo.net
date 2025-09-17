@@ -34,7 +34,7 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 #### UC Berkeley "What Can Your OSPO Do for You?"
 
-**When**: Thursday, September 16 2025 3:30-5:00pm<br>
+**When**: Thursday, September 18 2025 3:30-5:00pm<br>
 **Where**: 2120 University Ave, 7th Floor, Berkeley, CA 94704 <br>
 **Who**: Anyone (including students and staff!)<br>
 
