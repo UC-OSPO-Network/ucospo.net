@@ -28,8 +28,6 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1)
   - Add to your calendar: [.ics file](./ics-files/OSPO-Virtual-Coffee-Thursdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXA1M2Y4dG1pZGR2djNob2NkcnYwaXV0bTNfMjAyNTA1MTVUMjAwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
-Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
-
 ### September
 
 #### UC Berkeley "What Can Your OSPO Do for You?"
@@ -40,13 +38,13 @@ Add to your calendar: <a target="_blank" href="https://calendar.google.com/calen
 
 Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
 
-→ Attend in person: [Register here for Berkeley's September meetup](https://events.berkeley.edu/BIDS/event/306145-ospo-monthly-meetup-what-can-your-ospo-do-for-you). Drinks and snacks provided.
-→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).
+→ Attend in person: [Register here for Berkeley's September meetup](https://events.berkeley.edu/BIDS/event/306145-ospo-monthly-meetup-what-can-your-ospo-do-for-you). Drinks and snacks provided.<br>
+→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).<br>
 
 This month, meet the Berkeley OSPO Executive Director Jarrod Millman and BIDS Executive Director Kirstie Whitaker – together, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Drinks and snacks provided!
 
-Speaker: Jarrod Millman, Executive Director, Berkeley OSPO
-Speaker: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Speaker: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Speaker: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
@@ -88,8 +86,8 @@ Join us in shaping the future of open source at UC Berkeley, building on its ric
 
 At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
 [Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306317-ospo-monthly-knowledge-exchange-october-2025)
 
@@ -126,13 +124,39 @@ Add to your calendar: [.ics file](./ics-files/hacktoberfest-contributing.ics) or
 
 Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
-→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306419-ospo-monthly-meetup-october-2025). Drinks and snacks provided.
-→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).
+→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306419-ospo-monthly-meetup-october-2025). Drinks and snacks provided.<br>
+→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).<br>
 
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
+
+#### Getting Started with Better Research Software (all-campus)
+
+**When**: Tuesday, October 21 2025 12:00-2:00pm<br>
+**Where**: Zoom<br>
+**Who**: This workshop is designed for researchers, graduate students, and early-career Research Software Engineers (RSEs) who already have some experience with Python, Git, and the shell<br>
+
+Topics covered:
+
+- Why open and reproducible practices matter
+- Hands-on with Git version control and Python environments
+
+[Register here for the "Getting Started with Better Research Software" workshop](https://ucla.zoom.us/meeting/register/H8mm-16jTlek7Et7zaB3uA)
+
+#### Writing Clearer, Better-Structured Code (all-campus)
+
+**When**: Wednesday, Oct 22 12:00–2:00 PM<br>
+**Where**: Zoom<br>
+**Who**: This workshop is designed for researchers, graduate students, and early-career Research Software Engineers (RSEs) who already have some experience with Python, Git, and the shell<br>
+
+Topics covered:
+
+- Improve readability and documentation in your projects
+- Organize code, data, and results with common patterns
+
+[Register here for the "Writing Clearer, Better-Structured Code" workshop](https://ucla.zoom.us/meeting/register/ffG30PhZSVSSMPg-04y2dw)
 
 ### November
 
@@ -146,8 +170,8 @@ Join us in shaping the future of open source at UC Berkeley, building on its ric
 
 At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
 [Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306416-ospo-monthly-knowledge-exchange-november-2025)
 
@@ -161,11 +185,11 @@ Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
 Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
-→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306420-ospo-monthly-meetup-november-2025). Drinks and snacks provided.
-→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).
+→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306420-ospo-monthly-meetup-november-2025). Drinks and snacks provided.<br>
+→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).<br>
 
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
@@ -192,8 +216,8 @@ Join us in shaping the future of open source at UC Berkeley, building on its ric
 
 At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
 [Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306418-ospo-monthly-knowledge-exchange-december-2025)
 
