@@ -100,7 +100,7 @@ Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
-Are you experienced with open source software or hardware, or just curious about open source? 
+Are you experienced with open source software or hardware, or just curious about open source? Join us as we discuss the OSPO and what it can do for you.
 
 In partnership with UC’s new Open Source Program Office (OSPO) Network, the UCSD OSPO is hosting a casual meetup on October 2nd. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
 
