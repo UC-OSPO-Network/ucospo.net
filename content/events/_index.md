@@ -143,7 +143,7 @@ Topics covered:
 - Why open and reproducible practices matter
 - Hands-on with Git version control and Python environments
 
-[Register here for the "Getting Started with Better Research Software" workshop](https://ucla.zoom.us/meeting/register/H8mm-16jTlek7Et7zaB3uA)
+[Register here for the "Getting Started with Better Research Software" workshop](https://ucla.zoom.us/meeting/register/ffG30PhZSVSSMPg-04y2dw)
 
 #### Writing Clearer, Better-Structured Code (all-campus)
 
@@ -156,7 +156,7 @@ Topics covered:
 - Improve readability and documentation in your projects
 - Organize code, data, and results with common patterns
 
-[Register here for the "Writing Clearer, Better-Structured Code" workshop](https://ucla.zoom.us/meeting/register/ffG30PhZSVSSMPg-04y2dw)
+[Register here for the "Writing Clearer, Better-Structured Code" workshop](https://ucla.zoom.us/meeting/register/H8mm-16jTlek7Et7zaB3uA)
 
 ### November
 
