@@ -190,8 +190,6 @@ This month, we'll be joined by a panel of special guests: Trissalyn Nelson (Geog
 
 We'll be back in room 1312 in the UCSB Library.
 
-Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
-
 ### UCLA Open Source Meetup
 
 **When**: Tuesday, September 30 2025 at noon<br>
@@ -203,8 +201,6 @@ Are you experienced with open source software or hardware, or just curious about
 
 In partnership with UC’s new Open Source Program Office (OSPO) Network, the UCLA OSPO is hosting a casual meetup on September 30th. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
 
-[Register here for UCLA's September Meetup!](https://www.library.ucla.edu/visit/events-exhibitions/ucla-open-source-program-office-meetup-09-30-25/)
-
 ### UC Berkeley "What Can Your OSPO Do for You?"
 
 **When**: Thursday, September 18 2025 3:30-5:00pm<br>
@@ -212,9 +208,6 @@ In partnership with UC’s new Open Source Program Office (OSPO) Network, the UC
 **Who**: Anyone (including students and staff!)<br>
 
 Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
-
-→ Attend in person: [Register here for Berkeley's September meetup](https://events.berkeley.edu/BIDS/event/306145-ospo-monthly-meetup-what-can-your-ospo-do-for-you). Drinks and snacks provided.<br>
-→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).<br>
 
 This month, meet the Berkeley OSPO Executive Director Jarrod Millman and BIDS Executive Director Kirstie Whitaker – together, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Drinks and snacks provided!
 
