@@ -4,7 +4,7 @@ title: "About"
 
 The UC OSPO Network launched in May 2024 enabled by a grant from the Alfred P. Sloan Foundation.
 
-## Our Community Space
+## Community
 
 {{< admonition note >}}
 Join our [Slack workspace](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg)!
