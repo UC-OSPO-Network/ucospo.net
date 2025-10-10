@@ -3,7 +3,7 @@
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: cef0300fd0fc4d2a87a85fa2093c6b283ea36f4b # frozen: v5.0.0
+    rev: 3e8a8703264a2f4a69428a0aa4dcb512790b2c8c # frozen: v6.0.0
     hooks:
       - id: check-added-large-files
       - id: check-ast
@@ -25,13 +25,13 @@ repos:
         files: \.(css|md|yml|yaml)
         args: [--prose-wrap=preserve]
 
-  - repo: https://github.com/psf/black
-    rev: 8a737e727ac5ab2f1d4cf5876720ed276dc8dc4b # frozen: 25.1.0
+  - repo: https://github.com/psf/black-pre-commit-mirror
+    rev: fe95161893684893d68b1225356702ca71f8d388 # frozen: 25.9.0
     hooks:
       - id: black
 
   - repo: https://github.com/asottile/blacken-docs
-    rev: 78a9dcbecf4f755f65d1f3dec556bc249d723600 # frozen: 1.19.1
+    rev: dda8db18cfc68df532abf33b185ecd12d5b7b326 # frozen: 1.20.0
     hooks:
       - id: blacken-docs
 
