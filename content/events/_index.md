@@ -30,46 +30,6 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 
 ### October
 
-#### UC Berkeley OSPO Monthly Knowledge exchange
-
-**When**: Thursday, October 2 2025 10:00-11:00am<br>
-**Where**: Zoom <br>
-**Who**: Anyone (including students and staff!)<br>
-
-Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!
-
-At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
-
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
-
-[Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306317-ospo-monthly-knowledge-exchange-october-2025)
-
-Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
-
-#### UCSD Open Source Meetup
-
-**When**: Thursday, October 2nd 2025 at noon<br>
-**Where**: Geisel Meeting Room (Geisel Library, 1st floor East)<br>
-**Who**: Anyone (including students and staff!)<br>
-**Bring**: Your lunch 😋
-
-Are you experienced with open source software or hardware, or just curious about open source? Join us as we discuss the OSPO and what it can do for you.
-
-In partnership with UC’s new Open Source Program Office (OSPO) Network, the UCSD OSPO is hosting a casual meetup on October 2nd. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
-
-Add to your calendar: [.ics file](./ics-files/ucsd-meetup-oct-2025.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M2d1OW1pc3Nib3QwZ3NjMTd1MWZxb2dzYzMgY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
-
-#### Get started contributing to OSS (All-Campus)
-
-**When**: Thursday, October 9th 2025 at noon<br>
-**Where**: Zoom [(Join the meeting)](https://ucdavis.zoom.us/j/98994580428?pwd=QFzaIY6Eh5baJbtycXJqMDwoMYm9mM.1)<br>
-**Who**: Anyone (including students and staff!) who's interesting in learning how to contribute to OSS<br>
-
-Hacktoberfest is a global October celebration that encourages people to make their first contributions to open source projects—and this session is here to help you jump in with confidence! If you've been wanting to contribute to open source but don't know where to start, join us for a UC-wide supportive workshop where we'll cover the basics together. We'll share strategies for identifying beginner-friendly projects, understanding community norms, and navigating the contribution process, then stick around to help you explore potential projects and take your first steps. No experience required; just bring your curiosity and any questions you have about getting involved in the open source community!
-
-Add to your calendar: [.ics file](./ics-files/hacktoberfest-contributing.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGxyYTNrdmZlNTI5ZHJodGUxajlubnVqb28gY19lY2FhMWUwMjBmYWQwNzA1YzcyYmYxOWFjOTUwMmIwZmI3ZDlkYmMyZmZkOWYwNTdkNzlmNWJiZmRlY2E5NzExQGc&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
-
 #### UC Berkeley Monthly Meetup
 
 **When**: Thursday, October 16 2025 3:30-5:00pm<br>
@@ -111,6 +71,30 @@ Topics covered:
 - Organize code, data, and results with common patterns
 
 [Register here for the "Writing Clearer, Better-Structured Code" workshop](https://ucla.zoom.us/meeting/register/H8mm-16jTlek7Et7zaB3uA)
+
+#### UC Davis Open Source Symposium
+
+**When**: Friday, October 24 2025 8:45am-4:30pm<br>
+**Where**: Peter J. Shields Library Room 167, 100 N Quad, Davis, CA 95616, USA <br>
+**Who**: Anyone (including students and staff!)<br>
+
+**Open Source Symposium**, a free, one-day event at UC Davis focused on advancing open source software development for research, is happening on October 24 in Shields Library, Room 167.
+
+Held during Open Access Week, this event is sponsored by the UC Davis Open Source Program Office (OSPO) with support from the UC Davis Library and DataLab to broaden participation in open source.
+
+This event is an opportunity for all members of the university community—including graduate students, postdocs, faculty, researchers, and undergraduates—to connect and build practical skills. Whether you are new to open source or looking to expand your contributions, this symposium will provide actionable ways to engage.
+
+The day-long program features:
+
+- A panel of UC Davis faculty speaking on **Establishing and Growing Open Source Ecosystems**
+- A dedicated networking lunch to foster collaboration and community.
+- Hands-on workshops:
+  - **Discovering OS Projects and How to get Involved**
+  - **Introduction to Git for Collaborative Coding and Software Development**
+
+Join us to learn how to leverage and contribute to open source software, and to attract contributors to your OS research projects.
+
+[Register for the UC Open Source Symposium!](https://events.library.ucdavis.edu/event/open-source-symposium-2025)
 
 ### November
 
@@ -178,6 +162,38 @@ Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data S
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
 ## Past Events
+
+### Get started contributing to OSS (All-Campus)
+
+**When**: Thursday, October 9th 2025 at noon<br>
+**Where**: Zoom [(Join the meeting)](https://ucdavis.zoom.us/j/98994580428?pwd=QFzaIY6Eh5baJbtycXJqMDwoMYm9mM.1)<br>
+**Who**: Anyone (including students and staff!) who's interesting in learning how to contribute to OSS<br>
+
+Hacktoberfest is a global October celebration that encourages people to make their first contributions to open source projects—and this session is here to help you jump in with confidence! If you've been wanting to contribute to open source but don't know where to start, join us for a UC-wide supportive workshop where we'll cover the basics together. We'll share strategies for identifying beginner-friendly projects, understanding community norms, and navigating the contribution process, then stick around to help you explore potential projects and take your first steps. No experience required; just bring your curiosity and any questions you have about getting involved in the open source community!
+
+### UCSD Open Source Meetup
+
+**When**: Thursday, October 2nd 2025 at noon<br>
+**Where**: Geisel Meeting Room (Geisel Library, 1st floor East)<br>
+**Who**: Anyone (including students and staff!)<br>
+**Bring**: Your lunch 😋
+
+Are you experienced with open source software or hardware, or just curious about open source? Join us as we discuss the OSPO and what it can do for you.
+
+In partnership with UC’s new Open Source Program Office (OSPO) Network, the UCSD OSPO is hosting a casual meetup on October 2nd. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event, so bring your lunch and we’ll bring cookies!
+
+### UC Berkeley OSPO Monthly Knowledge exchange
+
+**When**: Thursday, October 2 2025 10:00-11:00am<br>
+**Where**: Zoom <br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!
+
+At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
+
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
 
 ### UCSB Open Source Meetup
 
