@@ -48,7 +48,7 @@ As the first system-wide OSPO network in a large university system, we are setti
 
 - Berkeley ([Jarrod Millman](mailto:millman@berkeley.edu))
 - Davis [(Davis OSPO email)](mailto:davis-ospo@ucdavis.edu)
-- Los Angeles ([Todd Grappone](mailto:grappone@library.ucla.edu))
+- Los Angeles ([Tim Dennis](mailto:tdennis@library.ucla.edu))
 - San Diego ([David Minor](mailto:dminor@ucsd.edu))
 - Santa Barbara ([Amber Budden](mailto:ospo@library.ucsb.edu))
 - Santa Cruz ([Stephanie Lieggi](mailto:ospo-info-group@ucsc.edu))
