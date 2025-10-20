@@ -30,22 +30,6 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 
 ### October
 
-#### UC Berkeley Monthly Meetup
-
-**When**: Thursday, October 16 2025 3:30-5:00pm<br>
-**Where**: 2120 University Ave, 7th Floor, Berkeley, CA 94704 <br>
-**Who**: Anyone (including students and staff!)<br>
-
-Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
-
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
-
-→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306419-ospo-monthly-meetup-october-2025). Drinks and snacks provided.<br>
-→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).<br>
-
-Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
-
 #### Getting Started with Better Research Software (all-campus)
 
 **When**: Tuesday, October 21 2025 12:00-2:00pm<br>
@@ -115,6 +99,18 @@ Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data S
 
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
+#### Fall All-Campus Virtual Meetup
+
+**When**: Thursday, November 13, 2025 at noon<br>
+**Where**: Zoom<br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us for the Fall edition of the UC open source contributors & maintainers virtual meetup, bringing together our vibrant open source community across all UC campuses! Whether you're a seasoned maintainer or just starting your open source journey, this collaborative space is for learning, sharing, and connecting with fellow UC community members. This time we'll explore project funding strategies—from grants and sponsorships to institutional support—but as always, we'll follow the conversation wherever it naturally leads. Come exchange insights, discuss challenges and successes, discover new projects, and build meaningful connections with peers from across the UC system.
+
+All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
+
+[Register here for the Fall All-Campus Virtual Meetup!](https://ucdavis.zoom.us/meeting/register/pBqXmCb-SUqs9SajFvyMDQ)
+
 #### UC Berkeley Monthly Meetup
 
 **When**: Thursday, November 20 2025 3:30-5:00pm<br>
@@ -162,6 +158,19 @@ Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data S
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
 ## Past Events
+
+### UC Berkeley Monthly Meetup
+
+**When**: Thursday, October 16 2025 3:30-5:00pm<br>
+**Where**: 2120 University Ave, 7th Floor, Berkeley, CA 94704 <br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
+
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
+
+Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
 ### Get started contributing to OSS (All-Campus)
 
