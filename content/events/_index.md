@@ -4,7 +4,7 @@ title: Events
 
 ## Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://teamup.com/ksm2uwujdk3osj73h9?tz=Calendar%20default&showProfileAndInfo=0&showSidepanel=1&showViewHeader=1&showAgendaDetails=0&showDateControls=1&showDateRange=1" style="width: 100%; height: 600px; border: 1px solid #cccccc" loading="lazy" frameborder="0"></iframe>
 
 {{< admonition tip >}}
 Please note: if you add an event from the embedded calendar above, it will default to "Does not repeat". If you'd like to add all instances of a recurring event, please use the .ics file or the "Add to your Google calendar" button for the event below.
@@ -29,32 +29,6 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
   - Add to your calendar: [.ics file](./ics-files/OSPO-Virtual-Coffee-Thursdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXA1M2Y4dG1pZGR2djNob2NkcnYwaXV0bTNfMjAyNTA1MTVUMjAwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 ### October
-
-#### Getting Started with Better Research Software (all-campus)
-
-**When**: Tuesday, October 21 2025 12:00-2:00pm<br>
-**Where**: Zoom<br>
-**Who**: This workshop is designed for researchers, graduate students, and early-career Research Software Engineers (RSEs) who already have some experience with Python, Git, and the shell<br>
-
-Topics covered:
-
-- Why open and reproducible practices matter
-- Hands-on with Git version control and Python environments
-
-[Register here for the "Getting Started with Better Research Software" workshop](https://ucla.zoom.us/meeting/register/ffG30PhZSVSSMPg-04y2dw)
-
-#### Writing Clearer, Better-Structured Code (all-campus)
-
-**When**: Wednesday, Oct 22 12:00–2:00 PM<br>
-**Where**: Zoom<br>
-**Who**: This workshop is designed for researchers, graduate students, and early-career Research Software Engineers (RSEs) who already have some experience with Python, Git, and the shell<br>
-
-Topics covered:
-
-- Improve readability and documentation in your projects
-- Organize code, data, and results with common patterns
-
-[Register here for the "Writing Clearer, Better-Structured Code" workshop](https://ucla.zoom.us/meeting/register/H8mm-16jTlek7Et7zaB3uA)
 
 #### UC Davis Open Source Symposium
 
@@ -158,6 +132,28 @@ Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data S
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
 ## Past Events
+
+### Writing Clearer, Better-Structured Code (all-campus)
+
+**When**: Wednesday, Oct 22 12:00–2:00 PM<br>
+**Where**: Zoom<br>
+**Who**: This workshop is designed for researchers, graduate students, and early-career Research Software Engineers (RSEs) who already have some experience with Python, Git, and the shell<br>
+
+Topics covered:
+
+- Improve readability and documentation in your projects
+- Organize code, data, and results with common patterns
+
+### Getting Started with Better Research Software (all-campus)
+
+**When**: Tuesday, October 21 2025 12:00-2:00pm<br>
+**Where**: Zoom<br>
+**Who**: This workshop is designed for researchers, graduate students, and early-career Research Software Engineers (RSEs) who already have some experience with Python, Git, and the shell<br>
+
+Topics covered:
+
+- Why open and reproducible practices matter
+- Hands-on with Git version control and Python environments
 
 ### UC Berkeley Monthly Meetup
 
