@@ -30,32 +30,6 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 
 ### October
 
-#### Getting Started with Better Research Software (all-campus)
-
-**When**: Tuesday, October 21 2025 12:00-2:00pm<br>
-**Where**: Zoom<br>
-**Who**: This workshop is designed for researchers, graduate students, and early-career Research Software Engineers (RSEs) who already have some experience with Python, Git, and the shell<br>
-
-Topics covered:
-
-- Why open and reproducible practices matter
-- Hands-on with Git version control and Python environments
-
-[Register here for the "Getting Started with Better Research Software" workshop](https://ucla.zoom.us/meeting/register/ffG30PhZSVSSMPg-04y2dw)
-
-#### Writing Clearer, Better-Structured Code (all-campus)
-
-**When**: Wednesday, Oct 22 12:00–2:00 PM<br>
-**Where**: Zoom<br>
-**Who**: This workshop is designed for researchers, graduate students, and early-career Research Software Engineers (RSEs) who already have some experience with Python, Git, and the shell<br>
-
-Topics covered:
-
-- Improve readability and documentation in your projects
-- Organize code, data, and results with common patterns
-
-[Register here for the "Writing Clearer, Better-Structured Code" workshop](https://ucla.zoom.us/meeting/register/H8mm-16jTlek7Et7zaB3uA)
-
 #### UC Davis Open Source Symposium
 
 **When**: Friday, October 24 2025 8:45am-4:30pm<br>
@@ -158,6 +132,28 @@ Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data S
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
 ## Past Events
+
+### Writing Clearer, Better-Structured Code (all-campus)
+
+**When**: Wednesday, Oct 22 12:00–2:00 PM<br>
+**Where**: Zoom<br>
+**Who**: This workshop is designed for researchers, graduate students, and early-career Research Software Engineers (RSEs) who already have some experience with Python, Git, and the shell<br>
+
+Topics covered:
+
+- Improve readability and documentation in your projects
+- Organize code, data, and results with common patterns
+
+### Getting Started with Better Research Software (all-campus)
+
+**When**: Tuesday, October 21 2025 12:00-2:00pm<br>
+**Where**: Zoom<br>
+**Who**: This workshop is designed for researchers, graduate students, and early-career Research Software Engineers (RSEs) who already have some experience with Python, Git, and the shell<br>
+
+Topics covered:
+
+- Why open and reproducible practices matter
+- Hands-on with Git version control and Python environments
 
 ### UC Berkeley Monthly Meetup
 
