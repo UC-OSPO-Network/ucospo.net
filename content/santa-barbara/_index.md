@@ -83,31 +83,50 @@ Current projects
 ### UCSB Open Source Meetup
 
 <div style="float:right; width:360px; margin:0 0 1em 1em;">
-  <img src="lunch.png"
+  <img src="ucsb_meetup.png"
        loading="lazy"
-       alt="Stylized picture of lunch foods"
+       alt="UCSB students working on laptops in a group setting"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
-  <em>Image courtesy of LumenSt for Getty Images</em>
   </figcaption>
 </div>
 
 Once a month, the UCSB Open Source Programs Team hosts a casual, in-person, open
 source meetup. The meetup is open to UCSB students, faculty, and staff of all
-backgrounds and experience levels. The format will rotate between casual
-discussions and talks from guest speakers (both UCSB and industry). This is a
-great opportunity to meet others interested in open source, share tips and
-experiences, and be a part of a larger open source community at UCSB.
+backgrounds and experience levels. The format rotates between attendee-led
+discussions and the "Open Source Lounge", a coworking group where we tackle our
+individual open source goals. This is a great opportunity to meet others
+interested in open source, share tips and experiences, and be a part of a larger
+open source community at UCSB.
 
-Please note that three months a year, our monthly in-person gathering is
-**replaced by a combined virtual meeting open to all UC campuses**.
-
-The in-person meetings are on the first Wednesday of the month at noon in room
-1312 in the UCSB Library (1st Floor Mountain Side, adjacent to the Learning
-Commons). **Bring your lunch!**
-
-[Add it to your calendar](https://ucospo.net/events/) so you know which meetings
-are in-person and which are virtual.
+<!-- Text color is ignored due to !important override above, due to mobile template issues -->
+<div style="
+  height: 20vh;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+">
+<!-- Container for link/button allows for outer padding -->
+  <div style="padding-left: 10vw;">
+  <a href="/santa-barbara/ucsb-projects/meetup/" style="
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: #f4f3f1;
+    color: hotpink;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.25rem;
+    border-radius: 8px;
+    border: 2px solid #003660;
+    font-family: sans-serif;
+  "
+    onmouseover="this.style.backgroundColor='#ffffff'"
+    onmouseout="this.style.backgroundColor='#f4f3f1'"
+  >
+    Visit the meetup webpage
+  </a>
+  </div>
+</div>
 
 ### UC Open Source Survey
 
