@@ -217,8 +217,7 @@ gravity for this work for the foreseeable future.
 - To stay informed about our activities,
   [join our mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo).
 - For inquiries, email us at ospo@library.ucsb.edu.
-- We’re also on Slack in the UC-Tech workspace, on the #open-source channel. If
-  you’d like an invitation, please email us.
+- We’re also on Slack! If you’d like an invitation, please email us.
 - Our team:
   - Virginia Scarlett, Open Source Programs Specialist
   - Amber Budden, Associate University Librarian for Digital Strategies

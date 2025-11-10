@@ -77,26 +77,12 @@ Interested in helping co-organize the meetup? Let us know! Send us an email at
 ospo@library.ucsb.edu.
 
 <div style="
-  height: 20vh;
+  padding-top: 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
 ">
-  <a href="/santa-barbara/" style="
-    display: inline-block;
-    padding: 1rem 2rem;
-    background-color: #003660;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    font-size: 1.25rem;
-    border-radius: 8px;
-    border: 2px solid #003660;
-    font-family: sans-serif;
-  "
-    onmouseover="this.style.backgroundColor='#005799'"
-    onmouseout="this.style.backgroundColor='#003660'"
-  >
+  <a href="/santa-barbara/">
     Back to UCSB Open Source Program Page
   </a>
 </div>
