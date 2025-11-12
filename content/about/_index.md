@@ -40,17 +40,28 @@ As the first system-wide OSPO network in a large university system, we are setti
 
 ## Team
 
-### OSPO Network Team
+### Contact Us
 
 **Community Manager**: [Laura Langdon](mailto:lalangdon@ucdavis.edu) (if you're not sure who to talk to about something, talk to Laura! 😊)
 
 **Campus contacts**:
 
-- Berkeley ([Jarrod Millman](mailto:millman@berkeley.edu))
-- Davis [(Davis OSPO email)](mailto:davis-ospo@ucdavis.edu)
-- Los Angeles ([Tim Dennis](mailto:tdennis@library.ucla.edu))
-- San Diego ([David Minor](mailto:dminor@ucsd.edu))
-- Santa Barbara ([Amber Budden](mailto:ospo@library.ucsb.edu))
-- Santa Cruz ([Stephanie Lieggi](mailto:ospo-info-group@ucsc.edu))
+- Berkeley
+  - For questions related to the UCB OSPO, [contact Jarrod Millman](mailto:millman@berkeley.edu)
+  - [Send an email to ospo+subscribe@lists.berkeley.edu](mailto:ospo+subscribe@lists.berkeley.edu) to join the UCB OSPO mailing list
+- Davis
+  - For questions related to the UCD OSPO, [contact davis-ospo@ucdavis.edu](mailto:davis-ospo@ucdavis.edu)
+  - Click here to [join the UCD OSPO mailing list](https://lists.ucdavis.edu/sympa/info/opensource-announce)
+- Los Angeles
+  - For questions related to the UCLA OSPO, [contact Tim Dennis](mailto:tdennis@library.ucla.edu)
+  - Click here to [join the UCLA OSPO mailing list](https://groups.google.com/g/ucla-ospo)
+- San Diego
+  - For questions related to the UCSD OSPO, [contact David Minor](mailto:dminor@ucsd.edu)
+- Santa Barbara
+  - For questions related to the UCSB OSPO, [contact Amber Budden](mailto:ospo@library.ucsb.edu)
+  - Click here to [join the UCSB OSPO mailing list](mailto:https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
+- Santa Cruz
+  - For questions related to the UCSC OSPO, [contact Stephanie Lieggi](mailto:ospo-info-group@ucsc.edu)
+  - Click here to [join the UCSC OSPO mailing list](https://groups.google.com/u/0/a/ucsc.edu/g/ucsc-open-source-news-group/about)
 
 If you don't see your campus listed above [contact Laura](mailto:lalangdon@ucdavis.edu) for more details about how the network can help you.
