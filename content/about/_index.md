@@ -57,7 +57,6 @@ As the first system-wide OSPO network in a large university system, we are setti
   - Click here to [join the UCLA OSPO mailing list](https://groups.google.com/g/ucla-ospo)
  - San Diego
     - For questions related to the UCSD OSPO, [contact David Minor](mailto:dminor@ucsd.edu)
-    <!-- - Click here to [join the UCSD OSPO mailing list](mailto:open-source-g@ucsd.edu) -->
 - Santa Barbara
   - For questions related to the UCSB OSPO, [contact Amber Budden](mailto:ospo@library.ucsb.edu)
   - Click here to [join the UCSB OSPO mailing list](mailto:https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
