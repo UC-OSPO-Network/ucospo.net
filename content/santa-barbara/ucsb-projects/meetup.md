@@ -29,7 +29,7 @@ Get meetup reminders and our newsletter by
 
 ## Meeting format
 
-Starting in 2026, we will meet every two weeks, and we'll alternate between two
+Starting in 2026, we'll meet every two weeks, and we'll alternate between two
 formats:
 
 **Standard meetings:** the format is up to the organizer. The organizer may give
