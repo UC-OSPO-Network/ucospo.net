@@ -4,10 +4,10 @@ title: UC Santa Barbara Open Source Program
 
 <!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
 <div style="float:center">
-  <img src="library2_1600.jpg"
-       srcset="library2_640.jpg 640w,
-               library2_1280.jpg 1280w,
-               library2_1600.jpg 1600w"
+  <img src="/images/ucsb/library2_1600.jpg"
+       srcset="/images/ucsb/library2_640.jpg 640w,
+               /images/ucsb/library2_1280.jpg 1280w,
+               /images/ucsb/library2_1600.jpg 1600w"
        sizes="(max-width: 800px) 640px,
               (max-width: 1440px) 1280px,
               1600px"
@@ -83,7 +83,7 @@ Current projects
 ### UCSB Open Source Meetup
 
 <div style="float:right; width:360px; margin:0 0 1em 1em;">
-  <img src="ucsb_meetup.png"
+  <img src="/images/ucsb/ucsb_meetup.png"
        loading="lazy"
        alt="UCSB students working on laptops in a group setting"
        style="width:100%; height:auto;" />
@@ -131,7 +131,7 @@ open source community at UCSB.
 ### UC Open Source Survey
 
 <div style="float:left; width:360px; margin:1em 1em 1em 0;">
-  <img src="hands.jpg"
+  <img src="/images/ucsb/hands.jpg"
        loading="lazy"
        alt="Close-up of a pair of hands using a phone beside a computer"
        style="width:100%; height:auto;" />
@@ -209,7 +209,7 @@ gravity for this work for the foreseeable future.
 ## Get connected
 
 <div class="ospo-img" style="float:right; width:180px; margin:0 0 1em 1em;">
-  <img src="UCSB-ospo.png"
+  <img src="/images/ucsb/UCSB-ospo.png"
        alt="UCSB open source programs logo"
        style="width:100%; height:auto;" />
 </div>

@@ -10,7 +10,7 @@ h1 {
 }
 </style>
 
-<img src="/images/ucsb_meetup_image2.png" alt="Decorative banner for Open Source at UCSB"/>
+<img src="/images/ucsb/ucsb_meetup_image2.png" alt="Decorative banner for Open Source at UCSB"/>
 
 <div style="margin-top: 2rem;"></div>
 
@@ -68,8 +68,8 @@ We meet at noon in room 1312 in the UCSB Library. Standard meetings are
 12-12:50pm, and Open Source Lounge sessions are 12-2pm. The lounge sessions are
 like office hours--come and go as your schedule allows!
 
-We are actively working to secure funding for snacks and refreshments at future
-meetups. In the meantime, all are encouraged to bring their own lunch! 🥗 🥪 🍪
+We will offer light refreshments, but all are encouraged to bring their own
+lunch! 🥗 🥪 🍪
 
 ### Get involved!
 
