@@ -4,10 +4,10 @@ title: UC Santa Barbara Open Source Program
 
 <!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
 <div style="float:center">
-  <img src="library2_1600.jpg"
-       srcset="library2_640.jpg 640w,
-               library2_1280.jpg 1280w,
-               library2_1600.jpg 1600w"
+  <img src="/images/ucsb/library2_1600.jpg"
+       srcset="/images/ucsb/library2_640.jpg 640w,
+               /images/ucsb/library2_1280.jpg 1280w,
+               /images/ucsb/library2_1600.jpg 1600w"
        sizes="(max-width: 800px) 640px,
               (max-width: 1440px) 1280px,
               1600px"
@@ -83,36 +83,55 @@ Current projects
 ### UCSB Open Source Meetup
 
 <div style="float:right; width:360px; margin:0 0 1em 1em;">
-  <img src="lunch.png"
+  <img src="/images/ucsb/ucsb_meetup.png"
        loading="lazy"
-       alt="Stylized picture of lunch foods"
+       alt="UCSB students working on laptops in a group setting"
        style="width:100%; height:auto;" />
   <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
-  <em>Image courtesy of LumenSt for Getty Images</em>
   </figcaption>
 </div>
 
 Once a month, the UCSB Open Source Programs Team hosts a casual, in-person, open
 source meetup. The meetup is open to UCSB students, faculty, and staff of all
-backgrounds and experience levels. The format will rotate between casual
-discussions and talks from guest speakers (both UCSB and industry). This is a
-great opportunity to meet others interested in open source, share tips and
-experiences, and be a part of a larger open source community at UCSB.
+backgrounds and experience levels. The format rotates between attendee-led
+discussions and the "Open Source Lounge", a coworking group where we tackle our
+individual open source goals. This is a great opportunity to meet others
+interested in open source, share tips and experiences, and be a part of a larger
+open source community at UCSB.
 
-Please note that three months a year, our monthly in-person gathering is
-**replaced by a combined virtual meeting open to all UC campuses**.
-
-The in-person meetings are on the first Wednesday of the month at noon in room
-1312 in the UCSB Library (1st Floor Mountain Side, adjacent to the Learning
-Commons). **Bring your lunch!**
-
-[Add it to your calendar](https://ucospo.net/events/) so you know which meetings
-are in-person and which are virtual.
+<!-- Text color is ignored due to !important override above, due to mobile template issues -->
+<div style="
+  height: 20vh;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+">
+<!-- Container for link/button allows for outer padding -->
+  <div style="padding-left: 10vw;">
+  <a href="/santa-barbara/ucsb-projects/meetup/" style="
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: #f4f3f1;
+    color: hotpink;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.25rem;
+    border-radius: 8px;
+    border: 2px solid #003660;
+    font-family: sans-serif;
+  "
+    onmouseover="this.style.backgroundColor='#ffffff'"
+    onmouseout="this.style.backgroundColor='#f4f3f1'"
+  >
+    Visit the meetup webpage
+  </a>
+  </div>
+</div>
 
 ### UC Open Source Survey
 
 <div style="float:left; width:360px; margin:1em 1em 1em 0;">
-  <img src="hands.jpg"
+  <img src="/images/ucsb/hands.jpg"
        loading="lazy"
        alt="Close-up of a pair of hands using a phone beside a computer"
        style="width:100%; height:auto;" />
@@ -190,7 +209,7 @@ gravity for this work for the foreseeable future.
 ## Get connected
 
 <div class="ospo-img" style="float:right; width:180px; margin:0 0 1em 1em;">
-  <img src="UCSB-ospo.png"
+  <img src="/images/ucsb/UCSB-ospo.png"
        alt="UCSB open source programs logo"
        style="width:100%; height:auto;" />
 </div>
@@ -198,8 +217,7 @@ gravity for this work for the foreseeable future.
 - To stay informed about our activities,
   [join our mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo).
 - For inquiries, email us at ospo@library.ucsb.edu.
-- We’re also on Slack in the UC-Tech workspace, on the #open-source channel. If
-  you’d like an invitation, please email us.
+- We’re also on Slack! If you’d like an invitation, please email us.
 - Our team:
   - Virginia Scarlett, Open Source Programs Specialist
   - Amber Budden, Associate University Librarian for Digital Strategies
