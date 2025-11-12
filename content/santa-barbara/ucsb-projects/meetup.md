@@ -29,7 +29,8 @@ Get meetup reminders and our newsletter by
 
 ## Meeting format
 
-We meet every two weeks, and we alternate between two formats:
+Starting in 2026, we'll meet every two weeks, and we'll alternate between two
+formats:
 
 **Standard meetings:** the format is up to the organizer. The organizer may give
 a talk about their own project, show their code for code review, facilitate a
