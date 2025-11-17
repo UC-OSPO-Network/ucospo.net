@@ -28,78 +28,27 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1)
   - Add to your calendar: [.ics file](./ics-files/OSPO-Virtual-Coffee-Thursdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXA1M2Y4dG1pZGR2djNob2NkcnYwaXV0bTNfMjAyNTA1MTVUMjAwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
-### October
-
-#### UC Davis Open Source Symposium
-
-**When**: Friday, October 24 2025 8:45am-4:30pm<br>
-**Where**: Peter J. Shields Library Room 167, 100 N Quad, Davis, CA 95616, USA <br>
-**Who**: Anyone (including students and staff!)<br>
-
-**Open Source Symposium**, a free, one-day event at UC Davis focused on advancing open source software development for research, is happening on October 24 in Shields Library, Room 167.
-
-Held during Open Access Week, this event is sponsored by the UC Davis Open Source Program Office (OSPO) with support from the UC Davis Library and DataLab to broaden participation in open source.
-
-This event is an opportunity for all members of the university community—including graduate students, postdocs, faculty, researchers, and undergraduates—to connect and build practical skills. Whether you are new to open source or looking to expand your contributions, this symposium will provide actionable ways to engage.
-
-The day-long program features:
-
-- A panel of UC Davis faculty speaking on **Establishing and Growing Open Source Ecosystems**
-- A dedicated networking lunch to foster collaboration and community.
-- Hands-on workshops:
-  - **Discovering OS Projects and How to get Involved**
-  - **Introduction to Git for Collaborative Coding and Software Development**
-
-Join us to learn how to leverage and contribute to open source software, and to attract contributors to your OS research projects.
-
-[Register for the UC Open Source Symposium!](https://events.library.ucdavis.edu/event/open-source-symposium-2025)
-
 ### November
-
-#### UC Berkeley OSPO Monthly Knowledge exchange
-
-**When**: Thursday, November 6 2025 10:00-11:00am<br>
-**Where**: Zoom <br>
-**Who**: Anyone (including students and staff!)<br>
-
-Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!
-
-At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
-
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
-
-[Register here for the Zoom link](https://events.berkeley.edu/BIDS/event/306416-ospo-monthly-knowledge-exchange-november-2025)
-
-Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
-
-#### Fall All-Campus Virtual Meetup
-
-**When**: Thursday, November 13, 2025 at noon<br>
-**Where**: Zoom<br>
-**Who**: Anyone (including students and staff!)<br>
-
-Join us for the Fall edition of the UC open source contributors & maintainers virtual meetup, bringing together our vibrant open source community across all UC campuses! Whether you're a seasoned maintainer or just starting your open source journey, this collaborative space is for learning, sharing, and connecting with fellow UC community members. This time we'll explore project funding strategies—from grants and sponsorships to institutional support—but as always, we'll follow the conversation wherever it naturally leads. Come exchange insights, discuss challenges and successes, discover new projects, and build meaningful connections with peers from across the UC system.
-
-All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
-
-[Register here for the Fall All-Campus Virtual Meetup!](https://ucdavis.zoom.us/meeting/register/pBqXmCb-SUqs9SajFvyMDQ)
 
 #### UC Berkeley Monthly Meetup
 
-**When**: Thursday, November 20 2025 3:30-5:00pm<br>
-**Where**: 2120 University Ave, 7th Floor, Berkeley, CA 94704 <br>
-**Who**: Anyone (including students and staff!)<br>
+This event is in person and online and all are welcome. (You don’t have to work at UC Berkeley to attend.)
 
-Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time!
+We’re delighted to welcome Dr Monica Bobra as our guest speaker at the UC Berkeley Open Source Program Office monthly meetup on 20 November 2025 at 3:30pm.
 
-Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
-Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
+Dr Bobra serves as the Principal Data Scientist at the California Office of Data and Innovation, as appointed by Governor Newsom. In conversation with UC Berkeley OSPO executive director Jarrod Millman, she will be sharing the open approach to data science taken by the State of California.
 
-→ Attend in person: [Register here for Berkeley's October meetup](https://events.berkeley.edu/BIDS/event/306420-ospo-monthly-meetup-november-2025). Drinks and snacks provided.<br>
-→ Attend online: [Sign up here to receive a Zoom link](https://forms.gle/fKjzxbKFScfAMxks5).<br>
+Monica leads data science teams with partner departments across the state to develop novel approaches to improving safety, sustainability, and decision-making. She also helps academic institutions effectively translate advances in research to improvements in operations across the State of California. 
 
-Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
+Join us at the AI Futures Lab - a partnership between Berkeley Institute for Data Science and UC Investments - to explore how we can harness the collective intelligence and creativity of the global open source ecosystem to meaningfully transform how knowledge is created and shared.
+
+Date: 20 November 2025
+Time: 3:30pm - 5pm
+In person: 2120 University Ave, 7th Floor, Berkeley, CA 94707
+Online: Zoom (link sent once you register)
+Registration page: https://events.berkeley.edu/BIDS/event/306420-ospo-monthly-meetup-an-open-approach-to-data-science-
+
+We look forward to seeing you soon!
 
 ### December
 
@@ -132,6 +81,51 @@ Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data S
 Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
 ## Past Events
+
+### Fall All-Campus Virtual Meetup
+
+**When**: Thursday, November 13, 2025 at noon<br>
+**Where**: Zoom<br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us for the Fall edition of the UC open source contributors & maintainers virtual meetup, bringing together our vibrant open source community across all UC campuses! Whether you're a seasoned maintainer or just starting your open source journey, this collaborative space is for learning, sharing, and connecting with fellow UC community members. This time we'll explore project funding strategies—from grants and sponsorships to institutional support—but as always, we'll follow the conversation wherever it naturally leads. Come exchange insights, discuss challenges and successes, discover new projects, and build meaningful connections with peers from across the UC system.
+
+All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
+
+### UC Berkeley OSPO Monthly Knowledge exchange
+
+**When**: Thursday, November 6 2025 10:00-11:00am<br>
+**Where**: Zoom <br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!
+
+At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
+
+Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO<br>
+Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)<br>
+
+### UC Davis Open Source Symposium
+
+**When**: Friday, October 24 2025 8:45am-4:30pm<br>
+**Where**: Peter J. Shields Library Room 167, 100 N Quad, Davis, CA 95616, USA <br>
+**Who**: Anyone (including students and staff!)<br>
+
+**Open Source Symposium**, a free, one-day event at UC Davis focused on advancing open source software development for research, is happening on October 24 in Shields Library, Room 167.
+
+Held during Open Access Week, this event is sponsored by the UC Davis Open Source Program Office (OSPO) with support from the UC Davis Library and DataLab to broaden participation in open source.
+
+This event is an opportunity for all members of the university community—including graduate students, postdocs, faculty, researchers, and undergraduates—to connect and build practical skills. Whether you are new to open source or looking to expand your contributions, this symposium will provide actionable ways to engage.
+
+The day-long program features:
+
+- A panel of UC Davis faculty speaking on **Establishing and Growing Open Source Ecosystems**
+- A dedicated networking lunch to foster collaboration and community.
+- Hands-on workshops:
+  - **Discovering OS Projects and How to get Involved**
+  - **Introduction to Git for Collaborative Coding and Software Development**
+
+Join us to learn how to leverage and contribute to open source software, and to attract contributors to your OS research projects.
 
 ### Writing Clearer, Better-Structured Code (all-campus)
 
