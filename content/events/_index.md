@@ -38,7 +38,7 @@ We’re delighted to welcome Dr Monica Bobra as our guest speaker at the UC Berk
 
 Dr Bobra serves as the Principal Data Scientist at the California Office of Data and Innovation, as appointed by Governor Newsom. In conversation with UC Berkeley OSPO executive director Jarrod Millman, she will be sharing the open approach to data science taken by the State of California.
 
-Monica leads data science teams with partner departments across the state to develop novel approaches to improving safety, sustainability, and decision-making. She also helps academic institutions effectively translate advances in research to improvements in operations across the State of California. 
+Monica leads data science teams with partner departments across the state to develop novel approaches to improving safety, sustainability, and decision-making. She also helps academic institutions effectively translate advances in research to improvements in operations across the State of California.
 
 Join us at the AI Futures Lab - a partnership between Berkeley Institute for Data Science and UC Investments - to explore how we can harness the collective intelligence and creativity of the global open source ecosystem to meaningfully transform how knowledge is created and shared.
 
