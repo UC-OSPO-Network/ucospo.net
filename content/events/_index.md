@@ -61,7 +61,7 @@ We look forward to seeing you soon!
 
 Topic: Our favorite lesser-known open source tools
 
-Want to discover new open source tools and share your favorites? Join us for this discussion where we'll celebrate lesser-known open source tools we love. Your tool doesn't have to be obscure, but try to avoid the ultra-famous ones. No presentation required, but come prepared to tell us about a tool you love!
+Want to discover new open source tools and share your favorites? Join us for this discussion where we'll celebrate lesser-known open source tools. Your tool doesn't have to be obscure, but try to avoid the ultra-famous ones. No presentation required, but come prepared to tell us about a tool you love!
 
 <a target="_blank" href="https://teamup.com/event/show/id/Pps3ya29FjTSTt4UTfu5wU1kAeKawB/add-to-calendar">
 Add to your calendar
