@@ -59,9 +59,13 @@ We look forward to seeing you soon!
 **Who**: Anyone (including students and staff!)<br>
 **Bring**: Your lunch 😋
 
-More details to come!
+Topic: Our favorite lesser-known open source tools
 
-Add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2tzaGwyaDRoZnRhOW9kcTcwM2hsYnBuMmdfMjAyNTA4MDZUMTkwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+Want to discover new open source tools and share your favorites? Join us for this discussion where we'll celebrate lesser-known open source tools. Your tool doesn't have to be obscure, but try to avoid the ultra-famous ones. No presentation required, but come prepared to tell us about a tool you love!
+
+<a target="_blank" href="https://teamup.com/event/show/id/Pps3ya29FjTSTt4UTfu5wU1kAeKawB/add-to-calendar">
+Add to your calendar
+</a>
 
 #### UC Berkeley OSPO Monthly Knowledge exchange
 
