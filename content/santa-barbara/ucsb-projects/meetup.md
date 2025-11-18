@@ -10,16 +10,16 @@ h1 {
 }
 </style>
 
-<img src="/images/ucsb/ucsb_meetup_image2.png" alt="Decorative banner for Open Source at UCSB"/>
+<img src="/images/ucsb/ucsb_meetup_image.png" alt="Decorative banner for Open Source at UCSB"/>
 
 <div style="margin-top: 2rem;"></div>
 
 ## Join us at the UCSB Open Source Meetup!
 
-The UCSB Open Source meetup is a casual, in-person, monthly meeting where UCSB
-students, faculty, and staff can come together over an interest in open source.
-All backgrounds and experience levels are welcome. This is a great opportunity
-to learn from others and be a part of a larger open source community at UCSB!
+The UCSB Open Source meetup is a casual in-person meeting where UCSB students,
+faculty, and staff can come together over an interest in open source. All
+backgrounds and experience levels are welcome. This is a great opportunity to
+learn from others and be a part of a larger open source community at UCSB!
 
 All our meetings are on the
 [UC OSPO events calendar](https://ucospo.net/events).
@@ -32,40 +32,96 @@ Get meetup reminders and our newsletter by
 Starting in 2026, we'll meet every two weeks, and we'll alternate between two
 formats:
 
-**Standard meetings:** the format is up to the organizer. The organizer may give
-a talk about their own project, show their code for code review, facilitate a
-group discussion on a topic of interest, or do something else. Meetings are
+🙋🏽**Topical Discussions:** the format is up to the organizer. The organizer may
+give a talk about their own project, show their code for code review, facilitate
+a group discussion on a topic of interest, or do something else. Meetings are
 casual and shouldn't require too much formal preparation.
 
-**"Open Source Lounge":** These are co-working sessions where attendees can work
-on their open source goals. Bring your laptop and some work to do such as
+👩🏻‍💻**"Open Source Lounge":** These are co-working sessions where attendees can
+work on their open source goals. Bring your laptop and some work to do such as
 documentation cleanup, a bug to work on, or learning exercises to hone your
 coding skills.
 
-### Past topics:
-
-- October 1, 2025: Community-building with Chrissy Rissmeyer, Prof. Rich Wolski,
-  and Prof. Trissalyn Nelson
-- September 3, 2025: Open Source Licensing with TIA's Pasquale Ferrari
-- August 6, 2025: Getting started in open source
-- June 4, 2025: Introducing the UCSB Library's Open Source Program
-
 ### Upcoming meetings:
 
-2025:
+<!-- Button to sign up sheet -->
+<div style="
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+">
+  <a href="https://docs.google.com/spreadsheets/d/19SdbFZwA4JrZBf5GsVqIYkOeVkieI-xvy2NJnR7kFeE/edit?usp=sharing" style="
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: #003660;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.25rem;
+    border-radius: 8px;
+    font-family: sans-serif;
+  "
+    target = "_blank"
+    onmouseover="this.style.backgroundColor='#005799'"
+    onmouseout="this.style.backgroundColor='#003660'"
+  >
+    Sign up to lead a meeting here!
+  </a>
+</div>
 
-- November 13, 2025: Fall All-Campus Virtual Meetup
-  [Register here](https://ucdavis.zoom.us/meeting/register/pBqXmCb-SUqs9SajFvyMDQ)
-- December 3, 2025: Our favorite lesser-known open source tools
-  [Add to calendar](https://teamup.com/event/show/id/dbhfXg1FJXyZv2pjwcP8Zfxia36AXj/add-to-calendar)
+<table style="width:70%">
+  <tr>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Link</th>
+    <th>Other notes</th>
+  </tr>
+  <tr>
+    <td>December 3, 2025</td>
+    <td>Our favorite lesser-known open source tools</td>
+    <td><a
+    href="https://teamup.com/event/show/id/Pps3ya29FjTSTt4UTfu5wU1kAeKawB/add-to-calendar"
+    target="_blank">
+    Add to calendar
+    </a>
+    </td>
+    <td>Room 1312</td>
+  </tr>
+  <tr>
+    <td>January 21, 2026</td>
+    <td>TBD</td>
+    <td><a
+    href="https://teamup.com/event/show/id/voYDAfHnJRrocg8Y9opmcJfvvUSp5e/add-to-calendar"
+    target="_blank">
+    Add to calendar
+    </a>
+    </td>
+    <td>Room 1312</td>
+  </tr>
+    <tr>
+    <td>February 4, 2026</td>
+    <td>Open source lounge</td>
+    <td><a
+    href="https://teamup.com/event/show/id/EYgu7a7ScJYBpBNWt4SpjghbsQZxg2/add-to-calendar"
+    target="_blank">
+    Add to calendar
+    </a></td>
+    <td>Room 1312</td>
+  </tr>
+</table>
 
-2026:
+### Past topics:
 
-- <span style="font-size: larger;">_[Sign up to lead a meeting here!](https://docs.google.com/spreadsheets/d/19SdbFZwA4JrZBf5GsVqIYkOeVkieI-xvy2NJnR7kFeE/edit?usp=sharing)_</span>
+- Community-building with Chrissy Rissmeyer, Prof. Rich Wolski, and Prof.
+  Trissalyn Nelson
+- Open Source Licensing with TIA's Pasquale Ferrari
+- Getting started in open source
+- Introducing the UCSB Library's Open Source Program
 
 ### Logistics
 
-We meet at noon in room 1312 in the UCSB Library. Standard meetings are
+We meet at noon in room 1312 in the UCSB Library. Topical discussions are
 12-12:50pm, and Open Source Lounge sessions are 12-2pm. The lounge sessions are
 like office hours--come and go as your schedule allows!
 
