@@ -8,80 +8,84 @@ authors: ["Sankalp Kashyap", "Arjun Ashok", "Nafiz Imtiaz Khan", "Vladimir Filko
 featuredImage: "https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-answer.png"
 ---
 
-Understanding an open source project shouldn't require navigating scattered documentation, querying multiple APIs, or interpreting abstract metrics. Yet for newcomers and maintainers alike, answering simple questions—*"How do I start contributing?"*, *"Who are the most active contributors?"*, *"How do I report a bug?"*—often demands hours of manual exploration across README files, CONTRIBUTING guides, issue trackers, and commit histories.
+Understanding an open source project shouldn't require navigating scattered documentation, querying multiple APIs, or deciphering abstract metrics. Yet for newcomers and maintainers alike, answering simple questions like *"How do I start contributing?"*, *"Who are the most active contributors?"*, or *"How do I report a bug?"* often demands hours of manual exploration across README files, CONTRIBUTING guides, issue trackers, and commit histories.
 
-On the heels of **[OSSPREY](https://oss-prey.github.io/OSSPREY-Website/)**—our AI-powered sustainability forecasting tool—the [Davis Excellent/Eclectic/Extreme Computational Analytics Lab (DECAL Lab)](https://decallab.cs.ucdavis.edu/) at UC Davis introduces **RepoWise**, extending our mission to make open source more accessible, transparent, and sustainable.
+On the heels of **[OSSPREY](https://oss-prey.github.io/OSSPREY-Website/)** - our AI-powered sustainability forecasting tool - the Davis Excellent/Eclectic/Extreme Computational Analytics Lab [(DECAL Lab)](https://decallab.cs.ucdavis.edu/) at UC Davis unveils **[RepoWise](https://repowise.netlify.app)** with a mission to make open source more accessible, transparent, and sustainable.
 
 ## Meet RepoWise
 
-**[RepoWise](https://repowise.netlify.app)** is a  domain-specialized conversational AI framework that transforms how you interact with GitHub repositories. Instead of manually searching through documentation or writing complex queries, you can simply ask questions in natural language and receive evidence-grounded answers with inline citations and provenance metadata.
+**[RepoWise](https://repowise.netlify.app)** is a purpose-built conversational AI framework that transforms how you interact with GitHub repositories. Instead of manually searching through documentation or crafting complex queries, you can simply ask questions in natural language and receive evidence-grounded answers with inline citations and provenance metadata.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-icon.png" alt="RepoWise Icon" width="150"/>
 </p>
 
-The RepoWise paper has been submitted to the **[MSR 2026 Tool Demonstration Track](https://2026.msrconf.org/)**.
+We have submitted the RepoWise paper to the **[MSR 2026 Tool Demonstration Track](https://2026.msrconf.org/)**.
 
-> "RepoWise redefines repository analysis as an interactive, evidence-driven process—bridging the gap between human inquiry and software artifacts."
+> "RepoWise redefines repository analysis as an interactive, evidence-driven process, bridging the gap between human inquiry and software artifacts."
 
-## Why RepoWise Matters:
+## Why RepoWise Matters
 
-Traditional Open-Source Software (OSS) analytics tools show you metrics—stars, forks, commit counts—but they lack **interpretability** and **interactivity**. You get numbers, charts, dashboards but not answers. RepoWise changes this by offering:
+Traditional Open-Source Software (OSS) analytics tools show you metrics (stars, forks, commit counts) but they lack **interpretability** and **interactivity**. You get numbers, charts, and dashboards - but not answers. RepoWise changes this by offering:
 
 - **Natural language queries** over repository documentation and metadata.
-- **Dual retrieval architecture** combines semantic search (RAG-based) for documentation with structured queries (CSV-based) for commit and issue metadata to ensure you get both qualitative insights and quantitative evidence.
+- **Dual retrieval architecture** that pairs semantic search over documentation with structured queries for commit and issue data, giving you both qualitative insights and quantitative evidence.
 - **Evidence-grounded responses** with inline citations and confidence scores.
-- **Privacy-preserving inference** using local LLMs (Mistral 7B via Ollama) for on-premises LLM processing, ensuring your repository data never leaves your infrastructure.
+- **Privacy-preserving inference** using local LLMs for on-premises LLM processing, ensuring your repository data never leaves your infrastructure.
 
 ## How It Works
 
 RepoWise employs a modular [architecture](https://repowise.github.io/RepoWise-website/#architecture) with intelligent query routing:
 
-- **Intent Router:** A five-stage classification pipeline determines whether your question is about documentation, commits, issues, or something else—routing it to the appropriate retrieval engine.
+- **Intent Router:** A five-stage classification pipeline determines whether your question is about documentation, commits, issues, or something else, then routes it to the appropriate retrieval engine.
 
-- **RAG Pipeline:** For governance and documentation queries, semantic search over ChromaDB retrieves relevant passages from README, CONTRIBUTING, GOVERNANCE, and other project files using hybrid re-ranking.
+- **RAG Pipeline:** For queries about project governance, contribution guidelines, and community policies, semantic search over a vector database retrieves relevant passages from key repository documents (README, CONTRIBUTING, GOVERNANCE, CODE_OF_CONDUCT, etc.) using hybrid re-ranking.
 
-- **CSV Data Pipeline:** For contributor and activity questions, structured queries fetch commit and issue metadata from the GitHub API with local caching to avoid rate limits.
+- **CSV Data Pipeline:** For contributor and activity questions, structured queries fetch commit and issue metadata from the GitHub API, with local caching to avoid rate limits.
 
 - **Prompt Assembly:** Retrieved context is combined with task-specific reasoning instructions and anti-hallucination rules to construct grounded prompts. All [prompt templates](https://repowise.github.io/RepoWise-website/#prompt-templates) are publicly accessible.
 
-- **LLM Generation:** Prompts are passed to a locally-hosted Mistral 7B model (temperature: 0) for deterministic, factual response generation with markdown formatting and inline citations.
+- **LLM Generation:** Prompts are passed to a locally-hosted Mistral 7B model via Ollama (temperature 0) for deterministic, factual response generation with markdown formatting and inline citations.
 
 ![RepoWise in action: evidence-grounded answers with inline citations and source provenance](https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-answer1.png)
 
 ## Use Cases
 
 ### Contributor Onboarding
-New contributors can ask *"How do I submit a pull request?"* or *"What coding standards should I follow?"* and receive step-by-step guidance extracted directly from project documentation—no more hunting through markdown files.
+
+New contributors can ask *"How do I submit a pull request?"* or *"What coding standards should I follow?"* and receive step-by-step guidance extracted directly from project documentation. No more hunting through Markdown files.
 
 ### Governance & Community Health
+
 Maintainers and auditors can query *"Who are the most active contributors?"*, *"Who are the project maintainers?"*, or *"Does this project have a documented governance structure?"* to quickly assess transparency and contributor engagement.
 
-### Repository Forensics
-Researchers can investigate licensing consistency, detect outdated contribution guidelines, trace decision-making evolution, and identify sustainability risks—all through conversational queries that surface evidence from multiple sources.
+### Repository Exploration
+
+Researchers can query licensing information, review contribution guidelines, identify current maintainers, and explore how governance is documented across a project. All through conversational queries that surface evidence directly from project files.
 
 ## Who Should Use RepoWise?
 
-Whether you're a **contributor** trying to onboard quickly, a **maintainer** auditing community health, an **OSS foundation lead** evaluating governance practices, or a **researcher** studying software ecosystems—RepoWise gives you interpretable, evidence-backed insights through simple conversation.
+Whether you're a **contributor** trying to onboard quickly, a **maintainer** auditing community health, an **OSS foundation lead** evaluating governance practices, or a **researcher** studying software ecosystems, RepoWise gives you interpretable, evidence-backed insights through simple conversation.
 
 ## Ready to Explore?
 
 Stop digging through documentation. Start asking questions.
 
-<a href="https://repowise.netlify.app" target="_blank"><strong>Try RepoWise Now</strong></a>
+Getting started is easy: select a featured repository or add any GitHub URL, and start asking questions. Sign-up is available but not mandatory.
+
+**[Try RepoWise Now](https://repowise.netlify.app)**
 
 ## Future Directions
 
-We're working on extending RepoWise with agentic multi-turn reasoning, code-level analysis, dependency forensics, and automatic sustainability scoring. Integration with OSSPREY's forecasting capabilities is also on our roadmap—imagine asking *"What are the sustainability risks for this project?"* and receiving both a forecast trajectory and actionable recommendations.
+We plan to extend RepoWise into a fully agentic framework with autonomous query refinement, where the system can proactively gather evidence across multiple sources to answer complex questions. Future iterations will also include code summarization, dependency analysis, and automatic sustainability scoring.
 
 RepoWise is open source and actively maintained. Contributions and feedback are welcome!
 
 ## Resources
 
-- <a href="https://repowise.netlify.app" target="_blank">RepoWise App</a>
-- <a href="https://github.com/RepoWise" target="_blank">GitHub Organization</a>
-- <a href="https://repowise.github.io/RepoWise-website/" target="_blank">Project Website</a>
-- <a href="https://repowise.github.io/RepoWise-website/#prompt-templates" target="_blank">Prompt Templates</a>
+- [RepoWise App](https://repowise.netlify.app)
+- [Project Website](https://repowise.github.io/RepoWise-website/)
+- [RepoWise GitHub Organization](https://github.com/RepoWise)
 
 ## Acknowledgments
 
@@ -89,4 +93,4 @@ This research was supported by the National Science Foundation under Grant No. 2
 
 ---
 
-Built by the DECAL Lab at UC Davis, RepoWise is making open source intelligence conversational—one question at a time.
+Built by the DECAL Lab at UC Davis, RepoWise is making open source intelligence conversational, one question at a time.
