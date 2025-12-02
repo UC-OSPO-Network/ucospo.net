@@ -1,5 +1,5 @@
 ---
-title: "Introducing RepoWise: A Conversational AI Tool for Mining and Reasoning About OSS Repositories"
+title: "Introducing RepoWise: A Conversational AI Tool for OSS Repositories"
 date: 2025-11-25T10:00:00-07:00
 draft: false
 summary: "RepoWise enables natural-language dialogue with Open-Source Software repositories, transforming how developers, maintainers, and researchers explore governance, contributions, and community health."
@@ -10,7 +10,7 @@ featuredImage: "https://raw.githubusercontent.com/RepoWise/RepoWise-website/main
 
 Understanding an open source project shouldn't require navigating scattered documentation, querying multiple APIs, or deciphering abstract metrics. Yet for newcomers and maintainers alike, answering simple questions like *"How do I start contributing?"*, *"Who are the most active contributors?"*, or *"How do I report a bug?"* often demands hours of manual exploration across README files, CONTRIBUTING guides, issue trackers, and commit histories.
 
-On the heels of **[OSSPREY](https://oss-prey.github.io/OSSPREY-Website/)** - our AI-powered sustainability forecasting tool - the Davis Excellent/Eclectic/Extreme Computational Analytics Lab [(DECAL Lab)](https://decallab.cs.ucdavis.edu/) at UC Davis unveils **[RepoWise](https://repowise.netlify.app)** with a mission to make open source more accessible, transparent, and sustainable.
+We are happy to present **[RepoWise](https://repowise.netlify.app)** with a mission to make interacting with open source repositories more human, transparent, and sustainable.
 
 ## Meet RepoWise
 
@@ -19,8 +19,6 @@ On the heels of **[OSSPREY](https://oss-prey.github.io/OSSPREY-Website/)** - our
 <p align="center">
   <img src="https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-icon.png" alt="RepoWise Icon" width="150"/>
 </p>
-
-We have submitted the RepoWise paper to the **[MSR 2026 Tool Demonstration Track](https://2026.msrconf.org/)**.
 
 > "RepoWise redefines repository analysis as an interactive, evidence-driven process, bridging the gap between human inquiry and software artifacts."
 
@@ -36,6 +34,8 @@ Traditional Open-Source Software (OSS) analytics tools show you metrics (stars, 
 ## How It Works
 
 RepoWise employs a modular [architecture](https://repowise.github.io/RepoWise-website/#architecture) with intelligent query routing:
+
+![RepoWise Architecture](https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-architecture.png)
 
 - **Intent Router:** A five-stage classification pipeline determines whether your question is about documentation, commits, issues, or something else, then routes it to the appropriate retrieval engine.
 
@@ -93,4 +93,4 @@ This research was supported by the National Science Foundation under Grant No. 2
 
 ---
 
-Built by the DECAL Lab at UC Davis, RepoWise is making open source intelligence conversational, one question at a time.
+Built by the DECAL Lab at UC Davis, RepoWise is making open-source intelligence conversational, one question at a time.
