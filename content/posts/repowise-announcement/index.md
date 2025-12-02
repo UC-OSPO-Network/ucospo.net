@@ -4,11 +4,12 @@ date: 2025-11-25T10:00:00-07:00
 draft: false
 summary: "RepoWise enables natural-language dialogue with Open-Source Software repositories, transforming how developers, maintainers, and researchers explore governance, contributions, and community health."
 tags: ["sustainability", "conversational-ai", "LLM", "repository-mining", "RAG"]
-authors: ["Sankalp Kashyap", "Arjun Ashok", "Nafiz Imtiaz Khan", "Vladimir Filkov"]
+authors:
+  ["Sankalp Kashyap", "Arjun Ashok", "Nafiz Imtiaz Khan", "Vladimir Filkov"]
 featuredImage: "https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-answer.png"
 ---
 
-Understanding an open source project shouldn't require navigating scattered documentation, querying multiple APIs, or deciphering abstract metrics. Yet for newcomers and maintainers alike, answering simple questions like *"How do I start contributing?"*, *"Who are the most active contributors?"*, or *"How do I report a bug?"* often demands hours of manual exploration across README files, CONTRIBUTING guides, issue trackers, and commit histories.
+Understanding an open source project shouldn't require navigating scattered documentation, querying multiple APIs, or deciphering abstract metrics. Yet for newcomers and maintainers alike, answering simple questions like _"How do I start contributing?"_, _"Who are the most active contributors?"_, or _"How do I report a bug?"_ often demands hours of manual exploration across README files, CONTRIBUTING guides, issue trackers, and commit histories.
 
 We are happy to present **[RepoWise](https://repowise.netlify.app)** with a mission to make interacting with open source repositories more human, transparent, and sustainable.
 
@@ -53,11 +54,11 @@ RepoWise employs a modular [architecture](https://repowise.github.io/RepoWise-we
 
 ### Contributor Onboarding
 
-New contributors can ask *"How do I submit a pull request?"* or *"What coding standards should I follow?"* and receive step-by-step guidance extracted directly from project documentation. No more hunting through Markdown files.
+New contributors can ask _"How do I submit a pull request?"_ or _"What coding standards should I follow?"_ and receive step-by-step guidance extracted directly from project documentation. No more hunting through Markdown files.
 
 ### Governance & Community Health
 
-Maintainers and auditors can query *"Who are the most active contributors?"*, *"Who are the project maintainers?"*, or *"Does this project have a documented governance structure?"* to quickly assess transparency and contributor engagement.
+Maintainers and auditors can query _"Who are the most active contributors?"_, _"Who are the project maintainers?"_, or _"Does this project have a documented governance structure?"_ to quickly assess transparency and contributor engagement.
 
 ### Repository Exploration
 
