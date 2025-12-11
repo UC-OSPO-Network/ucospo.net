@@ -57,7 +57,7 @@ params:
         - title: Guiding Themes
           url: /guiding-themes
         - title: Network Services
-          url: /services
+          url: /about/services
     - title: Events
       url: /events
     - title: Blog
