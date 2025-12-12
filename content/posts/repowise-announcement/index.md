@@ -11,7 +11,7 @@ featuredImage: "https://raw.githubusercontent.com/RepoWise/RepoWise-website/main
 
 Understanding an open source project shouldn't require navigating scattered documentation, querying multiple APIs, or deciphering abstract metrics. Yet for newcomers and maintainers alike, answering simple questions like _"How do I start contributing?"_, _"Who are the most active contributors?"_, or _"How do I report a bug?"_ often demands hours of manual exploration across README files, CONTRIBUTING guides, issue trackers, and commit histories.
 
-We are happy to present **[RepoWise](https://repowise.netlify.app)** with a mission to make interacting with open source repositories more human, transparent, and sustainable.
+The DECAL (Davis Excellent/Eclectic/Extreme Computational Analytics Lab) is happy to present **[RepoWise](https://repowise.netlify.app)** with a mission to make interacting with open source repositories more human, transparent, and sustainable.
 
 ## Meet RepoWise
 
