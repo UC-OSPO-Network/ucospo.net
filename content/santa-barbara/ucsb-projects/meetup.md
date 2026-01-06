@@ -24,8 +24,9 @@ learn from others and be a part of a larger open source community at UCSB!
 All our meetings are on the
 [UC OSPO events calendar](https://ucospo.net/events).
 
-Get meetup reminders and our newsletter by
-[joining our mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo).
+Get meetup reminders and our newsletter by <a
+  href="https://signup.e2ma.net/signup/2045162/1984731/"
+  target="_blank">joining our mailing list</a>!
 
 ## Meeting format
 
@@ -78,30 +79,35 @@ coding skills.
     <th>Other notes</th>
   </tr>
   <tr>
-    <td>December 3, 2025</td>
-    <td>Our favorite lesser-known open source tools</td>
+    <td>January 21, 2026</td>
+    <td>Journal club: open-washing in AI</td>
     <td><a
     href="https://teamup.com/event/show/id/Pps3ya29FjTSTt4UTfu5wU1kAeKawB/add-to-calendar"
     target="_blank">
     Add to calendar
     </a>
     </td>
-    <td>Room 1312</td>
+    <td>Room 1312; <a
+    href="https://doi.org/10.1145/3630106.3659005"
+    target="_blank">
+    ARTICLE HERE
+    </a>
+    </td>
   </tr>
   <tr>
-    <td>January 21, 2026</td>
-    <td>TBD</td>
+    <td>February 4, 2026</td>
+    <td>Open source lounge</td>
     <td><a
     href="https://teamup.com/event/show/id/voYDAfHnJRrocg8Y9opmcJfvvUSp5e/add-to-calendar"
     target="_blank">
     Add to calendar
     </a>
     </td>
-    <td>Room 1312</td>
+    <td>Room 1411 and Zoom</td>
   </tr>
     <tr>
-    <td>February 4, 2026</td>
-    <td>Open source lounge</td>
+    <td>February 18, 2026</td>
+    <td>Topical discussion: TBD</td>
     <td><a
     href="https://teamup.com/event/show/id/EYgu7a7ScJYBpBNWt4SpjghbsQZxg2/add-to-calendar"
     target="_blank">
@@ -113,6 +119,7 @@ coding skills.
 
 ### Past topics:
 
+- Our favorite lesser-known open source tools
 - Community-building with Chrissy Rissmeyer, Prof. Rich Wolski, and Prof.
   Trissalyn Nelson
 - Open Source Licensing with TIA's Pasquale Ferrari
@@ -121,12 +128,17 @@ coding skills.
 
 ### Logistics
 
-We meet at noon in room 1312 in the UCSB Library. Topical discussions are
-12-12:50pm, and Open Source Lounge sessions are 12-2pm. The lounge sessions are
-like office hours--come and go as your schedule allows!
+We meet every other Wednesday at noon.
 
-We will offer light refreshments, but all are encouraged to bring their own
-lunch! 🥗 🥪 🍪
+**Topical discussions** are 12-12:50pm in room 1312 in the UCSB Library.
+
+**Open Source Lounge** sessions are 12-2pm and are hybrid format: join us in
+room 1411 in the Sara Miller McCune Arts Library (which is inside the UCSB
+library), or on Zoom (click on calendar invitation for Zoom link). The lounge
+sessions are like office hours--come and go as your schedule allows!
+
+We will offer light refreshments, but feel free to bring your own lunch! 🥗 🥪
+🍪
 
 ### Get involved!
 
