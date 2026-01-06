@@ -46,7 +46,7 @@ You can unsubscribe at any time.
   justify-content: center;
   align-items: center;
 ">
-  <a href="https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo" style="
+  <a href="https://signup.e2ma.net/signup/2045162/1984731/" style="
     display: inline-block;
     padding: 1rem 2rem;
     background-color: #003660;
@@ -214,8 +214,9 @@ gravity for this work for the foreseeable future.
        style="width:100%; height:auto;" />
 </div>
 
-- To stay informed about our activities,
-  [join our mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo).
+- To stay informed about our activities, <a
+    href="https://signup.e2ma.net/signup/2045162/1984731/"
+    target="_blank"> join our mailing list </a>.
 - For inquiries, email us at ospo@library.ucsb.edu.
 - We’re also on Slack! If you’d like an invitation, please email us.
 - Our team:
