@@ -4,7 +4,7 @@ date: 2026-01-06
 description: "The Second Annual UC Open celebrating open source throughout the UC system:  22 & 23 April 2026 – UC Berkeley"
 ---
 
-![UC Open 2026 logo](./2026openinnovationimpact.png)
+![UC Open 2026 logo](./flexblue2026openinnovationimpact.png)
 
 ## Save the Date: April 22–23, 2026 | UC Berkeley - [The Brouwer Center](https://browercenter.org/)
 
