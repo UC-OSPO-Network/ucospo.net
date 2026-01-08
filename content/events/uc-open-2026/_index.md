@@ -43,9 +43,7 @@ Influence early-stage projects with real-world applications
 
 ## Sponsor UC Open 2026
 
-Support open source innovation and gain visibility with top academic and industry talent. Sponsorship tiers: $2,500–$10,000. Contact us to learn more.
-
-<!-- TODO: add link to sponsorship page -->
+Support open source innovation and gain visibility with top academic and industry talent. [Sponsorship tiers: $2,500–$10,000](./sponsor.md).
 
 ## About the Venue
 
