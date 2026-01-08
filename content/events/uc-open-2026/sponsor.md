@@ -12,4 +12,4 @@ Sponsorship tiers include:
 - **Bronze ($2,500)**: Recognition + networking opportunities
 - **Hospitality Sponsorships ($1,000–$2,000)**: Support meals, coffee breaks, and receptions
 
-All sponsors are prominently recognized on signage, the website, and promotional materials. Let’s build the future of open source together—[contact us](maito:slieggi@ucsc.edu) to explore how sponsorship can align with your organization’s goals.
+All sponsors are prominently recognized on signage, the website, and promotional materials. Let’s build the future of open source together—[contact us](mailto:slieggi@ucsc.edu) to explore how sponsorship can align with your organization’s goals.
