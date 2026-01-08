@@ -1,5 +1,5 @@
 ---
-title: Sponsorship Opportunities
+title: "Sponsorship Opportunities"
 ---
 
 Support open source collaboration and connect with top academic and industry talent by sponsoring UC Open 2026. Sponsorship provides visibility, networking, and alignment with a community driving innovation for public benefit.
