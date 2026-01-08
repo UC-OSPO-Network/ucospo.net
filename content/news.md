@@ -1,8 +1,12 @@
 ---
 title: News
-newsHeader: Check out our UC Open 2025 report!
+newsHeader: Our CfP is open for UC Open 2026 (22-23 April)!
 sidebar: false
 ---
+
+## UC Open 2026 CfP
+
+Our CfP is open for [UC Open 2026](./events/uc-open-2026/_index.md) (22-23 April)!
 
 ## UC Open 2025 Report
 

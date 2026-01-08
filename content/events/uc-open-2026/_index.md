@@ -6,7 +6,7 @@ description: "The Second Annual UC Open celebrating open source throughout the U
 
 ![UC Open 2026 logo](./flexblue2026openinnovationimpact.png)
 
-## Save the Date: April 22–23, 2026 | UC Berkeley - [The Brouwer Center](https://browercenter.org/)
+## Save the Date: April 22–23, 2026 | UC Berkeley - [The Brower Center](https://browercenter.org/)
 
 Open source is reshaping research, infrastructure, and how academia connects with industry. The UC Open Source Summit 2026 is two days of collaboration and partnership. Researchers, developers, students, and industry leaders from across the University of California system will explore what's next, from AI's impact on academia to building sustainable research infrastructure.
 
@@ -49,4 +49,4 @@ Support open source innovation and gain visibility with top academic and industr
 
 ## About the Venue
 
-The [Brouwer Center](https://browercenter.org/) is located in downtown Berkeley, steps from BART and easily accessible by public transit. The venue features a theater space for keynotes and plenary sessions, plus an open atrium perfect for breakout discussions, networking, and meals.
+The [Brower Center](https://browercenter.org/) is located in downtown Berkeley, steps from BART and easily accessible by public transit. The venue features a theater space for keynotes and plenary sessions, plus an open atrium perfect for breakout discussions, networking, and meals.
