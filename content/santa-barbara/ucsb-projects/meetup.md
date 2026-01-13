@@ -82,7 +82,7 @@ coding skills.
     <td>January 21, 2026</td>
     <td>Journal club: open-washing in AI</td>
     <td><a
-    href="https://teamup.com/event/show/id/Pps3ya29FjTSTt4UTfu5wU1kAeKawB/add-to-calendar"
+    href="https://teamup.com/event/show/id/9NWBBVJjNBPQvTWZEbJvvynmkskEmZ/add-to-calendar"
     target="_blank">
     Add to calendar
     </a>
@@ -98,7 +98,7 @@ coding skills.
     <td>February 4, 2026</td>
     <td>Open source lounge</td>
     <td><a
-    href="https://teamup.com/event/show/id/voYDAfHnJRrocg8Y9opmcJfvvUSp5e/add-to-calendar"
+    href="https://teamup.com/event/show/id/aWv3mhXdcLcqSdNKzCY2xLAd3PdfZT/add-to-calendar"
     target="_blank">
     Add to calendar
     </a>
@@ -109,7 +109,7 @@ coding skills.
     <td>February 18, 2026</td>
     <td>Topical discussion: TBD</td>
     <td><a
-    href="https://teamup.com/event/show/id/EYgu7a7ScJYBpBNWt4SpjghbsQZxg2/add-to-calendar"
+    href="https://teamup.com/event/show/id/BRxexksT7NkHp9PrTCv9xQsnq1EML6/add-to-calendar"
     target="_blank">
     Add to calendar
     </a></td>
