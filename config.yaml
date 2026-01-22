@@ -67,9 +67,9 @@ params:
     - title: Resources
       sublinks:
         - title: OSS resources
-          url: /resources/oss-resources
+          url: /osresources/oss-resources
         - title: 2025 Survey
-          url: /resources/survey
+          url: /osresources/survey
 
   footer:
     logo: uc-ospo-network-logo.svg
