@@ -34,6 +34,15 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 
 ### February
 
+#### UCSB Open Source Lounge
+
+**When**: Wednesday, February 4 2026 12pm-2pm
+**Where:** UCSB Library, Room 1411 (in the Sara Miller McCune Arts Library) AND Zoom
+**Who**: Anyone (including students and staff!)
+**Bring**: Your lunch 😋
+
+The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-working group where attendees can work on their open source goals. Bring your laptop and some work to do such as documentation cleanup, a feature to work on, or learning exercises to hone your coding skills.
+
 #### Making Research Software Citable and Discoverable: Practical FAIR4RS Wins
 
 **When**: Wednesday, February 11 2026 12:00-12:50pm<br>
