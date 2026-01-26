@@ -50,9 +50,9 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 **Who**: Anyone (including students and staff!)<br>
 
 This workshop is part of UC Love Data Week 2026, and is intended for researchers, graduate students, and librarians who work with research code and want practical ways to make software easier to find, cite, and reuse.
- 
+
 Speakers: Tim Dennis (UCLA) - Laura Langdon (UC OSPO Network) - Reid Otsuji (UC San Diego) - Leigh Phan (UCLA)
- 
+
 [Register here](https://www.google.com/url?q=https://ucla.zoom.us/meeting/register/k47lNtROR2KNaP7SPvOaIQ&sa=D&source=calendar&ust=1769900193384207&usg=AOvVaw0SCdxbGQ4vFu-FdiibP59o)!
 
 ## Past Events
