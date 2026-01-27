@@ -2,6 +2,7 @@
 title: 2025 UC Open Source Contributor Survey
 ---
 
+
 <style>
 /* As usual, I am using html and css because I'm already familiar with them, and this is easier for me than learning Hugo syntax.*/
     .infographic-preview {
@@ -9,6 +10,9 @@ title: 2025 UC Open Source Contributor Survey
         height: auto;
         margin-left: 12vw;
         margin-right: auto;
+    }
+    .infographic-preview:hover {
+        opacity: 0.7;
     }
     /* .survey-infographic {
         max-width: 600px;
@@ -51,6 +55,54 @@ title: 2025 UC Open Source Contributor Survey
             max-width: 200px;
         }
     } */
+
+    .modal {
+    display: none; /* Hidden by default */
+    justify-content: center;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+    }
+
+    .modal-content {
+    margin-top: 25vh;
+    max-width: 600px;
+    }
+
+    @media screen and (min-width: 611px) and (max-width: 713px) {
+    .modal-content {
+        max-width: 500px;
+    }
+}
+    @media screen and (min-width: 521px) and (max-width: 610px) {
+        .modal-content {
+            max-width: 400px;
+        }
+    }
+    @media screen and (min-width: 441px) and (max-width: 520px) {
+        .modal-content {
+        max-width: 320px;
+    }
+}
+    @media screen and (min-width: 368px) and (max-width: 440px) {
+        .modal-content {
+            max-width: 250px;
+        }
+    }
+    @media screen and (max-width: 367px) {
+        .modal-content {
+            max-width: 200px;
+        }
+    }
+
+
+
     .screen-reader-only {
     position: absolute;
     width: 1px;
@@ -72,8 +124,16 @@ all about, and updates on our ongoing research.
 
 Check out the study's key findings in our infographic! Click on the preview for a closer look.
 
-<div>
+<!-- Preview/thumbnail image -->
 <img src="infog_preview.png" alt="Infographic about the survey" class="infographic-preview">
+
+<!-- Modal -->
+<div id="myModal" class="modal">
+
+<!-- Modal Image -->
+<div class="modal-content">
+    <img src="infographic.png">
+</div>
 </div>
 
 <div style="
@@ -157,3 +217,21 @@ effort, please reach out to us at ospo@library.ucsb.edu.
   formats in the Dryad dataset.
 - **Lessons learned**, a retrospective on the survey instrument:
   https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md
+
+
+<script>
+const previewImg = document.querySelector('.infographic-preview');
+previewImg.addEventListener('click', (e) => {
+    // modal.style.display = "block";
+    modal.style.display = "flex";
+
+})
+
+const modal = document.getElementById("myModal");
+
+window.onclick = function(event) {
+if (event.target == modal) {
+modal.style.display = "none";
+}
+}
+</script>
