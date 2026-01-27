@@ -62,7 +62,7 @@ Welcome to the homepage for the 2025 UC Open Source Contributor Survey! Here
 you'll find all the artifacts associated with this study, a summary of what it's
 all about, and updates on our ongoing research.
 
-# Links to research products
+## Links to research products
 
 - **Preprint:** https://doi.org/10.31235/osf.io/p8bx6_v1
   - To find the preprint's supplementary materials, you have to go the 'Project'
@@ -81,7 +81,7 @@ all about, and updates on our ongoing research.
 - **Lessons learned**, a retrospective on the survey instrument:
   https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md
 
-# Infographic
+## Infographic
 
 <img src="/images/survey/infographic.png" alt="Infographic about the survey" class="survey-infographic">
 <span class="screen-reader-only">
@@ -113,7 +113,7 @@ all about, and updates on our ongoing research.
   </a>
 </div>
 
-# Advice for OSPOs
+## Advice for OSPOs
 
 - The most common challenges that emerged from our study were **time and
   funding**. As such, OSPOs should consider either directly funding open source
@@ -137,7 +137,7 @@ all about, and updates on our ongoing research.
     <!-- add some padding -->
 </div>
 
-# Project status
+## Project status
 
 We intend to continue deploying improved versions of this survey at UC again in
 the future, perhaps every two years. If you deploy an open source survey at your
