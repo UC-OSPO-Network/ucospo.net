@@ -4,7 +4,13 @@ title: 2025 UC Open Source Contributor Survey
 
 <style>
 /* As usual, I am using html and css because I'm already familiar with them, and this is easier for me than learning Hugo syntax.*/
-    .survey-infographic {
+    .infographic-preview {
+        max-width: 100px;
+        height: auto;
+        margin-left: 12vw;
+        margin-right: auto;
+    }
+    /* .survey-infographic {
         max-width: 600px;
         height: auto;
         margin-left: 12vw;
@@ -44,7 +50,7 @@ title: 2025 UC Open Source Contributor Survey
         .survey-infographic {
             max-width: 200px;
         }
-    }
+    } */
     .screen-reader-only {
     position: absolute;
     width: 1px;
@@ -62,34 +68,32 @@ Welcome to the homepage for the 2025 UC Open Source Contributor Survey! Here
 you'll find all the artifacts associated with this study, a summary of what it's
 all about, and updates on our ongoing research.
 
-## Links to research products
+## Key findings
 
-- **Preprint:** https://doi.org/10.31235/osf.io/p8bx6_v1
-  - To find the preprint's supplementary materials, you have to go the 'Project'
-    in OSF that has the same title as the preprint. Find it here:
-    https://osf.io/m5ft6/overview
-- The **data** will be here\*: https://doi.org/10.5061/dryad.2280gb662
-- An archived snapshot of the **code** will be here\*:
-  https://doi.org/10.5281/zenodo.17783102
-  - \*These two DOIs will be functional after peer review. Please contact the
-    authors if access is needed sooner.
-- **Living code** repository:
-  https://github.com/UC-OSPO-Network/ospo-survey-analysis
-- **Survey instrument** is available as a PDF in the preprint's supplementary
-  materials and in the GitHub repo. It will also available in .docx and .qsf
-  formats in the Dryad dataset.
-- **Lessons learned**, a retrospective on the survey instrument:
-  https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md
+Check out the study's key findings in our infographic! Click on the preview for a closer look.
 
-## Infographic
+<div>
+<img src="infog_preview.png" alt="Infographic about the survey" class="infographic-preview">
+</div>
 
-<img src="/images/survey/infographic.png" alt="Infographic about the survey" class="survey-infographic">
+<div style="
+  display: flex;
+  font-size: 1.5rem;
+  margin-left: 6vw;
+">
+<!-- Download link -->
+  <a href="infographic.png"
+    download="survey_infographic.png">
+    Download the infographic
+  </a>
+</div>
+
 <span class="screen-reader-only">
     <p>Here is the content of the infographic.</p>
     <p>The University of California Open Source Survey 2025. Brought to you by the UC OSPO Network.</p>
     <p>In May 2025, the UC OSPO Network Surveyed 294 experienced or aspiring open source contributors. Respondents included students, faculty, and staff from ten UC Campuses. This study aims to characterize the challenges faced by UC's open source contributors and identify opportunities for increased support.</p>
-    <p>Key results. 92% of students and 93% of researchers report that open source is important for their work. 58% of UC open source contributors are project maintainers. What percent of UC contributors occasionally or frequently contribute to large projects? 27% of academics and 43% of non-research staff occasionally or frequently contribute to large projects. The number one challenge, that is, the most frequent challenge for experienced contributors, was finding time for documentation.</p>
-    <p>A venn diagram shows the top three solutions preferred by experienced contributors and aspiring contributors. These two groups have one preferred solution in common, which is access to free, feature-rich computing environments. Experienced contributors also preferred grants for open source sustainability and help finding funding. Aspiring contributors also preferred a learning community and educational materials.</p>
+    <p>Key results. 92% of students and 93% of researchers report that open source is important for their work. 58% of UC open source contributors are project maintainers. Who contributes to large projects? 27% of academics and 43% of non-research staff occasionally or frequently contribute to large projects. The number one challenge, that is, the most frequent challenge for experienced contributors, was finding time for documentation.</p>
+    <p>A diagram shows the top three solutions preferred by experienced contributors and aspiring contributors. The order of the solutions is indicated by their position on a podium, in either first place, second place, or third place. The top three solutions preferred by experienced contributors were, in order: grants for open source sustainability, access to free, feature-rich computing environments, and a learning community. The top three solutions preferred by aspiring contributors were access to free, feature-rich computing environments, a learning community, and educational materials. Some text beside the first podium says that nearly one in three experienced contributors said that sustainability grants would be the most helpful solution the university could offer. Some text beside the second podium says that two out of three aspiring contributors said that accessible computing environments would help them get started contributing.</p>
     <p>Other forms of support proposed by survey participants include the following:
         <ul>
             <li>Personnel: centralized maintenance help</li>
@@ -99,19 +103,6 @@ all about, and updates on our ongoing research.
         </ul>
     </p>
 </span>
-
-<div style="
-  height: 20vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 1.5rem;
-">
-  <a href="/images/survey/infographic.png"
-    download="survey_infographic.png">
-    Download the infographic
-  </a>
-</div>
 
 ## Advice for OSPOs
 
@@ -133,10 +124,6 @@ all about, and updates on our ongoing research.
   are not merely monitored or regulated, but also supported, celebrated, and
   rewarded.
 
-<div style="margin-top: 2rem;">
-    <!-- add some padding -->
-</div>
-
 ## Project status
 
 We intend to continue deploying improved versions of this survey at UC again in
@@ -151,3 +138,22 @@ open source repos. This may happen in the second half of 2026.
 
 If you are interested in collaborating with us on this or on another research
 effort, please reach out to us at ospo@library.ucsb.edu.
+
+## Links to research products
+
+- **Preprint:** https://doi.org/10.31235/osf.io/p8bx6_v1
+  - To find the preprint's supplementary materials, you have to go the 'Project'
+    in OSF that has the same title as the preprint. Find it here:
+    https://osf.io/m5ft6/overview
+- The **data** will be here\*: https://doi.org/10.5061/dryad.2280gb662
+- An archived snapshot of the **code** will be here\*:
+  https://doi.org/10.5281/zenodo.17783102
+  - \*These two DOIs will be functional after peer review. Please contact the
+    authors if access is needed sooner.
+- **Living code** repository:
+  https://github.com/UC-OSPO-Network/ospo-survey-analysis
+- **Survey instrument** is available as a PDF in the preprint's supplementary
+  materials and in the GitHub repo. It will also available in .docx and .qsf
+  formats in the Dryad dataset.
+- **Lessons learned**, a retrospective on the survey instrument:
+  https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md

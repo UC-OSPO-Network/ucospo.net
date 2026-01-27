@@ -69,7 +69,7 @@ params:
         - title: Resources
           url: /resources/oss-resources
         - title: 2025 Survey
-          url: /oss-resources/survey
+          url: /resources/oss-resources/survey
 
   footer:
     logo: uc-ospo-network-logo.svg
