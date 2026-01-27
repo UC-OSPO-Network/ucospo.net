@@ -2,7 +2,6 @@
 title: 2025 UC Open Source Contributor Survey
 ---
 
-
 <style>
 /* As usual, I am using html and css because I'm already familiar with them, and this is easier for me than learning Hugo syntax.*/
     .infographic-preview {
@@ -14,47 +13,6 @@ title: 2025 UC Open Source Contributor Survey
     .infographic-preview:hover {
         opacity: 0.7;
     }
-    /* .survey-infographic {
-        max-width: 600px;
-        height: auto;
-        margin-left: 12vw;
-        margin-right: auto;
-    }
-    @media screen and (min-width:781px) and (max-width: 870px) {
-        .survey-infographic {
-            margin-left: 5vw;
-        }
-    }
-    @media screen and (max-width: 780px) {
-        .survey-infographic {
-            margin-left: 0vw;
-        }
-    }
-    @media screen and (min-width: 611px) and (max-width: 713px) {
-        .survey-infographic {
-            max-width: 500px;
-        }
-    }
-    @media screen and (min-width: 521px) and (max-width: 610px) {
-        .survey-infographic {
-            max-width: 400px;
-        }
-    }
-    @media screen and (min-width: 441px) and (max-width: 520px) {
-        .survey-infographic {
-            max-width: 320px;
-        }
-    }
-    @media screen and (min-width: 368px) and (max-width: 440px) {
-        .survey-infographic {
-            max-width: 250px;
-        }
-    }
-    @media screen and (max-width: 367px) {
-        .survey-infographic {
-            max-width: 200px;
-        }
-    } */
 
     .modal {
     display: none; /* Hidden by default */
@@ -66,6 +24,7 @@ title: 2025 UC Open Source Contributor Survey
     width: 100%;
     height: 100%;
     overflow: auto; /* Enable scroll if needed */
+    -webkit-overflow-scrolling: touch; /* smooth scrolling on iOS */
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
     }
@@ -83,28 +42,28 @@ title: 2025 UC Open Source Contributor Survey
 }
     @media screen and (min-width: 521px) and (max-width: 610px) {
         .modal-content {
-            margin-top: 10vh;
+            margin-top: 20vh;
             margin-bottom: 10vh;
             max-width: 400px;
         }
     }
     @media screen and (min-width: 441px) and (max-width: 520px) {
         .modal-content {
-        margin-top: 10vh;
+        margin-top: 20vh;
         margin-bottom: 10vh;
         max-width: 320px;
     }
 }
     @media screen and (min-width: 368px) and (max-width: 440px) {
         .modal-content {
-            margin-top: 5vh;
+            margin-top: 10vh;
             margin-bottom: 5vh;
             max-width: 250px;
         }
     }
     @media screen and (max-width: 367px) {
         .modal-content {
-            margin-top: 5vh;
+            margin-top: 10vh;
             margin-bottom: 5vh;
             max-width: 200px;
         }
@@ -131,7 +90,8 @@ all about, and updates on our ongoing research.
 
 ## Key findings
 
-Check out the study's key findings in our infographic! Click on the preview for a closer look.
+Check out the study's key findings in our infographic! Click on the preview for
+a closer look.
 
 <!-- Preview/thumbnail image -->
 <img src="infog_preview.png" alt="Infographic about the survey" class="infographic-preview">
@@ -226,7 +186,6 @@ effort, please reach out to us at ospo@library.ucsb.edu.
   formats in the Dryad dataset.
 - **Lessons learned**, a retrospective on the survey instrument:
   https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md
-
 
 <script>
 const previewImg = document.querySelector('.infographic-preview');
