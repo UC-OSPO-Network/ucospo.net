@@ -75,6 +75,7 @@ title: 2025 UC Open Source Contributor Survey
     max-width: 600px;
     }
 
+
     @media screen and (min-width: 611px) and (max-width: 713px) {
     .modal-content {
         max-width: 500px;
@@ -82,21 +83,29 @@ title: 2025 UC Open Source Contributor Survey
 }
     @media screen and (min-width: 521px) and (max-width: 610px) {
         .modal-content {
+            margin-top: 10vh;
+            margin-bottom: 10vh;
             max-width: 400px;
         }
     }
     @media screen and (min-width: 441px) and (max-width: 520px) {
         .modal-content {
+        margin-top: 10vh;
+        margin-bottom: 10vh;
         max-width: 320px;
     }
 }
     @media screen and (min-width: 368px) and (max-width: 440px) {
         .modal-content {
+            margin-top: 5vh;
+            margin-bottom: 5vh;
             max-width: 250px;
         }
     }
     @media screen and (max-width: 367px) {
         .modal-content {
+            margin-top: 5vh;
+            margin-bottom: 5vh;
             max-width: 200px;
         }
     }
