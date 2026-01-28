@@ -26,7 +26,7 @@ Connect with next-generation open source talent from across the UC system
 Build collaborations on production-ready academic technologies
 Influence early-stage projects with real-world applications
 
-## Call for Proposals Open from January 8 - February 1, 2026
+## Call for Proposals Open from January 8 - February 15, 2026 _DEADLINE EXTENDED_
 
 [We invite proposals](https://docs.google.com/forms/d/e/1FAIpQLSfh5orXB5EFp7JCQAec7ynHN9FkyHszkAmKAioKlOsKVVwuEA/viewform) for panels (45 min), presentations (15 min), workshops (75 min), directed discussions (45 min), or posters on topics including:
 
@@ -37,7 +37,7 @@ Influence early-stage projects with real-world applications
 - Research software infrastructure
 - Cross-campus shared practice
 
-**Deadline: February 1, 2026** | Notifications by February 23
+**Deadline: February 15, 2026** | Notifications by March 3
 
 (Full schedule in development. Registration details coming soon.)
 
