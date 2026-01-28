@@ -98,7 +98,7 @@ Check out the study's key findings in our infographic! Click on the preview for
 a closer look.
 
 <!-- Preview/thumbnail image -->
-<img src="infog_preview.png" alt="Infographic about the survey" class="infographic-preview">
+<img src="infographic_400x1174.png" alt="Infographic about the survey" class="infographic-preview">
 
 <!-- Modal -->
 <div id="myModal" class="modal">
@@ -115,8 +115,8 @@ a closer look.
   margin-left: 6vw;
 ">
 <!-- Download link -->
-  <a href="infographic.png"
-    download="survey_infographic.png">
+  <a href="infographic.pdf"
+    download="infographic.pdf">
     Download the infographic
   </a>
 </div>
