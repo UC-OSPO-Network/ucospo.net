@@ -5,7 +5,7 @@
 
 # Hugo
 .hugo*
-resources/
+/resources/
 public/
 
 # Byte-compiled / optimized / DLL files
