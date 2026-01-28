@@ -23,8 +23,10 @@ title: 2025 UC Open Source Contributor Survey
     top: 0;
     width: 100%;
     height: 100%;
-    overflow: auto; /* Enable scroll if needed */
-    -webkit-overflow-scrolling: touch; /* smooth scrolling on iOS */
+    /*
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    /*
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
     }
@@ -32,6 +34,8 @@ title: 2025 UC Open Source Contributor Survey
     .modal-content {
     margin-top: 25vh;
     max-width: 600px;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
     }
 
 
@@ -189,10 +193,12 @@ effort, please reach out to us at ospo@library.ucsb.edu.
 
 <script>
 const previewImg = document.querySelector('.infographic-preview');
+const docBody = document.body
 previewImg.addEventListener('click', (e) => {
-    // modal.style.display = "block";
     modal.style.display = "flex";
-
+    docBody.style.overflow = "hidden";
+    // ^prevent scrolling of background webpage
+    // while modal is open
 })
 
 const modal = document.getElementById("myModal");
@@ -200,6 +206,7 @@ const modal = document.getElementById("myModal");
 window.onclick = function(event) {
 if (event.target == modal) {
 modal.style.display = "none";
+docBody.style.overflow = "visible";
 }
 }
 </script>
