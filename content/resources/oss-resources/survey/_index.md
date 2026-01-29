@@ -3,42 +3,61 @@ title: 2025 UC Open Source Contributor Survey
 ---
 
 <style>
-/* As usual, I am using html and css because I'm already familiar with them, and this is easier for me than learning Hugo syntax.*/
+/* As usual, I am using html and css because
+    I'm already familiar with them, and this is easier
+    for me than learning Hugo syntax and/or
+    meddling with the template files. */
+
+/* The container that holds the infog preview
+    and the download link */
+    .infographic-preview-container {
+        display: flex;
+        justify-content: start;
+    }
+    /* Allow wrapping only on very small screens */
+    @media screen and (max-width: 300px) {
+    .infographic-preview-container {
+        flex-wrap: wrap;
+    }
+}
     .infographic-preview {
         max-width: 100px;
         height: auto;
-        margin-left: 12vw;
-        margin-right: auto;
+        /* 0 = don't grow, 0 = don't shrink, auto = size based on content */
+        flex: 0 0 auto;
     }
     .infographic-preview:hover {
         opacity: 0.7;
     }
 
+
+/* The container that holds the modal content,
+    black background */
     .modal {
     display: none; /* Hidden by default */
     justify-content: center;
     position: fixed;
-    z-index: 1;
+    z-index: 1000; /* This minimizes the chances
+    of a component from the hugo template sneaking
+    to the middle or top of the stack */
     left: 0;
     top: 0;
     width: 100%;
     height: 100%;
-    /*
-    overflow: auto;
-    -webkit-overflow-scrolling: touch;
-    /*
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+    background-color: rgba(0,0,0,0.9);
+    /* ^Black w transparency */
     }
 
     .modal-content {
-    margin-top: 25vh;
+    margin-top: 7vh;
+    margin-bottom: 7vh;
     max-width: 600px;
-    overflow: auto;
+    overflow: auto; /* create a scrollbar if needed */
     -webkit-overflow-scrolling: touch;
+    /* ^Allow scrolling on iOS */
     }
 
-
+    /* Make modal content responsive to screen size */
     @media screen and (min-width: 611px) and (max-width: 713px) {
     .modal-content {
         max-width: 500px;
@@ -46,35 +65,22 @@ title: 2025 UC Open Source Contributor Survey
 }
     @media screen and (min-width: 521px) and (max-width: 610px) {
         .modal-content {
-            margin-top: 20vh;
-            margin-bottom: 10vh;
             max-width: 400px;
         }
     }
     @media screen and (min-width: 441px) and (max-width: 520px) {
         .modal-content {
-        margin-top: 20vh;
-        margin-bottom: 10vh;
         max-width: 320px;
     }
 }
-    @media screen and (min-width: 368px) and (max-width: 440px) {
+    @media screen and (max-width: 440px) {
         .modal-content {
-            margin-top: 10vh;
-            margin-bottom: 5vh;
             max-width: 250px;
         }
     }
-    @media screen and (max-width: 367px) {
-        .modal-content {
-            margin-top: 10vh;
-            margin-bottom: 5vh;
-            max-width: 200px;
-        }
-    }
 
 
-
+    /* For accessibility */
     .screen-reader-only {
     position: absolute;
     width: 1px;
@@ -84,7 +90,7 @@ title: 2025 UC Open Source Contributor Survey
     overflow: hidden;
     clip: rect(0, 0, 0, 0);
     border: 0;
-    white-space: nowrap; /* Ensures the text is not wrapped */
+    white-space: nowrap;
 }
 </style>
 
@@ -98,29 +104,35 @@ Check out the study's key findings in our infographic! Click on the preview for
 a closer look.
 
 <!-- Preview/thumbnail image -->
-<img src="infographic_400x1174.png" alt="Infographic about the survey" class="infographic-preview">
+<div class="infographic-preview-container">
+    <div style="width: 100px">
+        <img
+        src="infographic_small.png"
+        alt="Infographic about the survey"
+        class="infographic-preview"
+        width="100"
+        >
+    </div>
+    <!-- Padding -->
+    <div style="width: 1rem"></div>
+    <!-- Download link -->
+    <a href="infographic.pdf"
+        download="infographic.pdf">
+        Download the infographic
+    </a>
+</div>
 
-<!-- Modal -->
+<!-- Modal (hidden by default) -->
 <div id="myModal" class="modal">
 
 <!-- Modal Image -->
 <div class="modal-content">
     <img src="infographic.png">
 </div>
+
 </div>
 
-<div style="
-  display: flex;
-  font-size: 1.5rem;
-  margin-left: 6vw;
-">
-<!-- Download link -->
-  <a href="infographic.pdf"
-    download="infographic.pdf">
-    Download the infographic
-  </a>
-</div>
-
+<!-- Text that is hidden from view but will be read by screen readers -->
 <span class="screen-reader-only">
     <p>Here is the content of the infographic.</p>
     <p>The University of California Open Source Survey 2025. Brought to you by the UC OSPO Network.</p>
@@ -140,22 +152,19 @@ a closer look.
 ## Advice for OSPOs
 
 - The most common challenges that emerged from our study were **time and
-  funding**. As such, OSPOs should consider either directly funding open source
-  development, or coming up with creative ways to “give back” time or money.
-  Examples might include facilitating co-working groups, promoting AI tools for
-  documentation, or providing support for external grant acquisition.
+  funding**. As such, OSPOs should consider either directly funding open source,
+  or consider creative ways to “give back” time or money. Examples might include
+  facilitating co-working groups, promoting AI tools for documentation, or
+  providing support for external grant acquisition.
 
 - We encountered high demand for affordable, accessible, feature-rich computing
   environments. This suggests an opportunity for academic OSPOs to help secure
   the **technical infrastructure** needed for open source development.
 
 - Comments revealed three broad categories of concern: **Resources,
-  Infrastructure, and Culture**. Areas of concern within culture included
-  availability of clear policies and expectations regarding open source work,
-  support for teaching open source, and recognition of the value of open source.
-  OSPOs should foster an **institutional culture** where open source activities
-  are not merely monitored or regulated, but also supported, celebrated, and
-  rewarded.
+  Infrastructure, and Culture**. OSPOs should foster an **institutional
+  culture** where open source activities are not merely monitored or regulated,
+  but also supported, celebrated, and rewarded.
 
 ## Project status
 
@@ -192,21 +201,26 @@ effort, please reach out to us at ospo@library.ucsb.edu.
   https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md
 
 <script>
+
 const previewImg = document.querySelector('.infographic-preview');
 const docBody = document.body
+
+// When the preview image is clicked, change
+    // 'display' from 'none' to 'flex'
 previewImg.addEventListener('click', (e) => {
     modal.style.display = "flex";
     docBody.style.overflow = "hidden";
-    // ^prevent scrolling of background webpage
-    // while modal is open
+    // ^prevent scrolling of background webpage while modal is open
 })
 
 const modal = document.getElementById("myModal");
 
+// When user clicks on the black background,
+    // revert modal 'display' back to 'none'
 window.onclick = function(event) {
 if (event.target == modal) {
-modal.style.display = "none";
-docBody.style.overflow = "visible";
-}
+    modal.style.display = "none";
+    docBody.style.overflow = "visible";
+    }
 }
 </script>
