@@ -10,21 +10,26 @@ h1 {
 }
 </style>
 
-<img src="/images/ucsb/ucsb_meetup_image.png" alt="Decorative banner for Open Source at UCSB"/>
+<img src="/images/ucsb/ucsb_banner.png" alt="Decorative banner for Open Source at UCSB"/>
 
 <div style="margin-top: 2rem;"></div>
 
 ## Join us at the UCSB Open Source Meetup!
 
-The UCSB Open Source meetup is a casual in-person meeting where UCSB students,
+The UCSB Open Source meetup is a casual gathering where UCSB students,
 faculty, and staff can come together over an interest in open source. All
 backgrounds and experience levels are welcome. This is a great opportunity to
 learn from others and be a part of a larger open source community at UCSB!
 
-All our meetings are on the
-[UC OSPO events calendar](https://ucospo.net/events).
+## Stay informed
 
-Get meetup reminders and our newsletter by <a
+**Google calendar:** You can [subscribe to our Google calendar here](https://calendar.google.com/calendar/u/0?cid=Y185OWU0NTZlMWQzZDFkNWQzMjBmYjM1MzY0NzYxN2ZiNzJkOWQ5YzAxZmM5MzY4ZWQ3NmU4MzBjN2U1OTEwOGU2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+For instructions, see
+[this Google help page](https://support.google.com/calendar/answer/37100), under
+the section "Use a link to add a public calendar".
+
+**Email reminders:** Get meetup reminders and our newsletter by <a
   href="https://signup.e2ma.net/signup/2045162/1984731/"
   target="_blank">joining our mailing list</a>!
 
@@ -79,46 +84,39 @@ coding skills.
     <th>Other notes</th>
   </tr>
   <tr>
-    <td>January 21, 2026</td>
-    <td>Journal club: open-washing in AI</td>
+    <td>February 18, 2026</td>
+    <td>A new project from the UCSB Library: The OSS Sustainability Playbook</td>
     <td><a
-    href="https://teamup.com/event/show/id/9NWBBVJjNBPQvTWZEbJvvynmkskEmZ/add-to-calendar"
+    href="https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw"
     target="_blank">
-    Add to calendar
+    Register
     </a>
     </td>
-    <td>Room 1312; <a
-    href="https://doi.org/10.1145/3630106.3659005"
-    target="_blank">
-    ARTICLE HERE
-    </a>
+    <td>Zoom meeting
     </td>
   </tr>
   <tr>
-    <td>February 4, 2026</td>
+    <td>March 4, 2026</td>
     <td>Open source lounge</td>
-    <td><a
-    href="https://teamup.com/event/show/id/aWv3mhXdcLcqSdNKzCY2xLAd3PdfZT/add-to-calendar"
-    target="_blank">
-    Add to calendar
-    </a>
+    <td><a href="https://ucsb.zoom.us/j/87499258423">Join the meeting now</a>
     </td>
     <td>Room 1411 and Zoom</td>
   </tr>
     <tr>
-    <td>February 18, 2026</td>
+    <td>March 18, 2026</td>
     <td>Topical discussion: TBD</td>
     <td><a
-    href="https://teamup.com/event/show/id/BRxexksT7NkHp9PrTCv9xQsnq1EML6/add-to-calendar"
+    href="https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw"
     target="_blank">
-    Add to calendar
+    Register
     </a></td>
-    <td>Room 1312</td>
+    <td>Zoom meeting</td>
   </tr>
 </table>
 
 ### Past topics:
 
+- Open-washing and the EU AI Act
 - Our favorite lesser-known open source tools
 - Community-building with Chrissy Rissmeyer, Prof. Rich Wolski, and Prof.
   Trissalyn Nelson
@@ -130,15 +128,13 @@ coding skills.
 
 We meet every other Wednesday at noon.
 
-**Topical discussions** are 12-12:50pm in room 1312 in the UCSB Library.
+**Topical discussions** are 12-12:50pm on Zoom. (Formerly in room 1312 in the
+UCSB Library, our discussions have moved to Zoom for greater accessibility.)
 
 **Open Source Lounge** sessions are 12-2pm and are hybrid format: join us in
 room 1411 in the Sara Miller McCune Arts Library (which is inside the UCSB
-library), or on Zoom (click on calendar invitation for Zoom link). The lounge
-sessions are like office hours--come and go as your schedule allows!
-
-We will offer light refreshments, but feel free to bring your own lunch! 🥗 🥪
-🍪
+library), or on Zoom. The lounge sessions are like office hours--come and go as
+your schedule allows!
 
 ### Get involved!
 
