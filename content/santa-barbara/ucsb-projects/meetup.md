@@ -23,14 +23,16 @@ learn from others and be a part of a larger open source community at UCSB!
 
 <h2 id=stay-informed>Stay informed</h2>
 
-**Teamup calendar:** All our meetings are on the
-[UC OSPO events calendar](https://ucospo.net/events).
-
-**Google calendar:** You can also subscribe to our Google calendar using
+**Google calendar:** You can subscribe to our Google calendar using
 [this URL](https://calendar.google.com/calendar/u/0?cid=Y185OWU0NTZlMWQzZDFkNWQzMjBmYjM1MzY0NzYxN2ZiNzJkOWQ5YzAxZmM5MzY4ZWQ3NmU4MzBjN2U1OTEwOGU2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 For instructions, see
 [this Google help page](https://support.google.com/calendar/answer/37100), under
 the section "Use a link to add a public calendar".
+
+**Teamup calendar:** All our meetings are on the
+[UC OSPO events calendar](https://ucospo.net/events). However, since this method
+requires downloading the .ics file, which does not reflect updates, we recommend
+using the Google calendar above.
 
 **Email reminders:** Get meetup reminders and our newsletter by <a
   href="https://signup.e2ma.net/signup/2045162/1984731/"
