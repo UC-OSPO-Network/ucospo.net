@@ -25,7 +25,6 @@ learn from others and be a part of a larger open source community at UCSB!
 
 **Google calendar:** You can [subscribe to our Google calendar here](https://calendar.google.com/calendar/u/0?cid=Y185OWU0NTZlMWQzZDFkNWQzMjBmYjM1MzY0NzYxN2ZiNzJkOWQ5YzAxZmM5MzY4ZWQ3NmU4MzBjN2U1OTEwOGU2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) using
 
-[this URL](https://calendar.google.com/calendar/u/0?cid=Y185OWU0NTZlMWQzZDFkNWQzMjBmYjM1MzY0NzYxN2ZiNzJkOWQ5YzAxZmM5MzY4ZWQ3NmU4MzBjN2U1OTEwOGU2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 For instructions, see
 [this Google help page](https://support.google.com/calendar/answer/37100), under
 the section "Use a link to add a public calendar".
