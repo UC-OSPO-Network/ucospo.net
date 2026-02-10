@@ -34,32 +34,6 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 
 ### February
 
-#### Open Source Meetup @ Davis
-
-**When**: Thursday, February 19 2026 12:30-2pm<br>
-**Where:** Shields Library, room 360 (DataLab)<br>
-**Who**: Anyone (including students and staff!)<br>
-**Bring**: Your lunch 😋<br>
-
-Join us for a bring-your-own-lunch open source meetup—an informal hangout for maintainers, contributors, and anyone curious about open source. There’s no set topic on purpose: bring a project, a question, a “how do I start?” moment, or just yourself. We’ll do quick intros, then break into whatever discussions people actually want.
-
-Learn more about the [Open Source Program Office at UC Davis](https://library.ucdavis.edu/ospo).
-
-#### UCSB Open Source Lounge
-
-**When**: Wednesday, February 4 2026 12pm-2pm<br>
-**Where:** UCSB Library, Room 1411 (in the Sara Miller McCune Arts Library) AND Zoom<br>
-**Who**: Anyone (including students and staff!)<br>
-**Bring**: Your lunch 😋<br>
-
-The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-working group where attendees can work on their open source goals. Bring your laptop and some work to do such as documentation cleanup, a feature to work on, or learning exercises to hone your coding skills.
-
-#### Open Source Meetup @ Davis
-
-Join us for a bring-your-own-lunch open source meetup—an informal hangout for maintainers, contributors, and anyone curious about open source. There’s no set topic on purpose: bring a project, a question, a “how do I start?” moment, or just yourself. We’ll do quick intros, then break into whatever discussions people actually want.
-
-Learn more about the Open Source Program Office at UC Davis.
-
 #### Making Research Software Citable and Discoverable: Practical FAIR4RS Wins
 
 **When**: Wednesday, February 11 2026 12:00-12:50pm<br>
@@ -72,7 +46,27 @@ Speakers: Tim Dennis (UCLA) - Laura Langdon (UC OSPO Network) - Reid Otsuji (UC 
 
 [Register here](https://www.google.com/url?q=https://ucla.zoom.us/meeting/register/k47lNtROR2KNaP7SPvOaIQ&sa=D&source=calendar&ust=1769900193384207&usg=AOvVaw0SCdxbGQ4vFu-FdiibP59o)!
 
+#### Open Source Meetup @ Davis
+
+**When**: Thursday, February 19 2026 12:30-2pm<br>
+**Where:** Shields Library, room 360 (DataLab)<br>
+**Who**: Anyone (including students and staff!)<br>
+**Bring**: Your lunch 😋<br>
+
+Join us for a bring-your-own-lunch open source meetup—an informal hangout for maintainers, contributors, and anyone curious about open source. There’s no set topic on purpose: bring a project, a question, a “how do I start?” moment, or just yourself. We’ll do quick intros, then break into whatever discussions people actually want.
+
+Learn more about the [Open Source Program Office at UC Davis](https://library.ucdavis.edu/ospo).
+
 ## Past Events
+
+### UCSB Open Source Lounge
+
+**When**: Wednesday, February 4 2026 12pm-2pm<br>
+**Where:** UCSB Library, Room 1411 (in the Sara Miller McCune Arts Library) AND Zoom<br>
+**Who**: Anyone (including students and staff!)<br>
+**Bring**: Your lunch 😋<br>
+
+The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-working group where attendees can work on their open source goals. Bring your laptop and some work to do such as documentation cleanup, a feature to work on, or learning exercises to hone your coding skills.
 
 ### UC Berkeley OSPO Monthly Knowledge exchange
 
