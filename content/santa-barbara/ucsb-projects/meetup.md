@@ -16,7 +16,7 @@ h1 {
 
 ## Join us at the UCSB Open Source Meetup!
 
-The UCSB Open Source meetup is a casual in-person meeting where UCSB students,
+The UCSB Open Source meetup is a casual gathering where UCSB students,
 faculty, and staff can come together over an interest in open source. All
 backgrounds and experience levels are welcome. This is a great opportunity to
 learn from others and be a part of a larger open source community at UCSB!
