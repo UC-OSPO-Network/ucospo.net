@@ -21,18 +21,13 @@ faculty, and staff can come together over an interest in open source. All
 backgrounds and experience levels are welcome. This is a great opportunity to
 learn from others and be a part of a larger open source community at UCSB!
 
-<h2 id=stay-informed>Stay informed</h2>
+## Stay informed
 
 **Google calendar:** You can subscribe to our Google calendar using
 [this URL](https://calendar.google.com/calendar/u/0?cid=Y185OWU0NTZlMWQzZDFkNWQzMjBmYjM1MzY0NzYxN2ZiNzJkOWQ5YzAxZmM5MzY4ZWQ3NmU4MzBjN2U1OTEwOGU2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 For instructions, see
 [this Google help page](https://support.google.com/calendar/answer/37100), under
 the section "Use a link to add a public calendar".
-
-**Teamup calendar:** All our meetings are on the
-[UC OSPO events calendar](https://ucospo.net/events). However, since this method
-requires downloading the .ics file, which does not reflect updates, we recommend
-using the Google calendar above.
 
 **Email reminders:** Get meetup reminders and our newsletter by <a
   href="https://signup.e2ma.net/signup/2045162/1984731/"
@@ -103,7 +98,7 @@ coding skills.
   <tr>
     <td>March 4, 2026</td>
     <td>Open source lounge</td>
-    <td><a href="#stay-informed">See calendar for Zoom link</a>
+    <td><a href="https://ucsb.zoom.us/j/87499258423">Join the meeting now</a>
     </td>
     <td>Room 1411 and Zoom</td>
   </tr>
