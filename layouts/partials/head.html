@@ -1,0 +1,10 @@
+<!-- Bugfix: ensure navbar dropdown is always on top of all other content -->
+<style>
+  .navbar {
+    position: relative;
+    z-index: 1000 !important;
+  }
+  .navbar-dropdown {
+    z-index: 2000 !important;
+  }
+</style>
