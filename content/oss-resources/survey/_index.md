@@ -8,19 +8,22 @@ title: 2025 UC Open Source Contributor Survey
     for me than learning Hugo syntax and/or
     meddling with the template files. */
 
-/* The container that holds the infog preview
+/* The container that holds the summary text, infog preview,
     and the download link */
     .infographic-preview-container {
         display: flex;
         justify-content: start;
     }
-    /* Allow wrapping only on very small screens */
-    @media screen and (max-width: 300px) {
-    .infographic-preview-container {
-        flex-wrap: wrap;
+
+    .summary-text {
+        max-width: 70%;
+        flex: 1 1 auto;
     }
-}
+    .infographic-spacer {
+        width: 100px
+    }
     .infographic-preview {
+        padding-top: 10px;
         max-width: 100px;
         height: auto;
         /* 0 = don't grow, 0 = don't shrink, auto = size based on content */
@@ -29,6 +32,18 @@ title: 2025 UC Open Source Contributor Survey
     .infographic-preview:hover {
         opacity: 0.7;
     }
+        /* Allow wrapping only on small screens */
+    @media screen and (max-width: 650px) {
+    .infographic-preview-container {
+        flex-wrap: wrap;
+    }
+    .infographic-spacer {
+        display: none;
+    }
+    .summary-text {
+        max-width: 100%;
+    }
+}
 
 
 /* The container that holds the modal content,
@@ -95,16 +110,45 @@ title: 2025 UC Open Source Contributor Survey
 </style>
 
 Welcome to the homepage for the 2025 UC Open Source Contributor Survey! Here
-you'll find all the artifacts associated with this study, a summary of what it's
-all about, and updates on our ongoing research.
+you'll find all the <a href="#links-to-research-products">artifacts associated
+with this study</a>, a summary of what it's all about, and updates on our
+ongoing research.
 
-## Key findings
+## Summary and key findings
 
-Check out the study's key findings in our infographic! Click on the preview for
-a closer look.
+Open source is an approach to software development that allows others to reuse
+the source code and build their own program from it. Many open source projects
+also welcome community contributions to the codebase. Much if not most academic
+software is open source, but universities have historically prioritized other
+types of research products. As a result, university policies, services, and
+impact metrics often overlook the needs and accomplishments of open source
+developers.
+
+In May 2025, the UC OSPO Network conducted a survey to shed light on open source
+activity at the University of California and to identify opportunities for
+increased support. We received 294 responses from experienced or aspiring open
+source contributors across ten UC campuses, a group that included students,
+faculty, and staff.
 
 <!-- Preview/thumbnail image -->
 <div class="infographic-preview-container">
+    <div class="summary-text">
+    <p>We found that the vast majority of students and researchers consider open source
+software to be important for their work. We also found that the majority of open
+source contributors at UC are project maintainers, meaning they are the primary stewards of a project.
+Despite the importance and prevalence of open source software, about one-third
+of respondents reported that they have shared their code on custom websites,
+indicating that a large body of academic software is not located in standard
+repositories. Contributors face many challenges in terms of resources, computing
+infrastructure, and institutional culture. At the same time, the abundance of
+maintainers and the prevalence of time and funding-related challenges underscore a critical need for support for
+maintenance costs and overall sustainability of open source software.
+    </p>
+    <p>Check out the study's key findings in our infographic! Click on the preview for
+a closer look.
+    </p>
+    </div>
+    <div class="infographic-spacer"></div>
     <div style="width: 100px">
         <img
         src="infographic_small.png"
@@ -116,7 +160,7 @@ a closer look.
     <!-- Padding -->
     <div style="width: 1rem"></div>
     <!-- Download link -->
-    <a href="infographic.pdf"
+    <a style="padding-top: 10px; display: inline;" href="infographic.pdf"
         download="infographic.pdf">
         Download the infographic
     </a>
@@ -136,7 +180,6 @@ a closer look.
 <span class="screen-reader-only">
     <p>Here is the content of the infographic.</p>
     <p>The University of California Open Source Survey 2025. Brought to you by the UC OSPO Network.</p>
-    <p>In May 2025, the UC OSPO Network Surveyed 294 experienced or aspiring open source contributors. Respondents included students, faculty, and staff from ten UC Campuses. This study aims to characterize the challenges faced by UC's open source contributors and identify opportunities for increased support.</p>
     <p>Key results. 92% of students and 93% of researchers report that open source is important for their work. 58% of UC open source contributors are project maintainers. Who contributes to large projects? 27% of academics and 43% of non-research staff occasionally or frequently contribute to large projects. The number one challenge, that is, the most frequent challenge for experienced contributors, was finding time for documentation.</p>
     <p>A diagram shows the top three solutions preferred by experienced contributors and aspiring contributors. The order of the solutions is indicated by their position on a podium, in either first place, second place, or third place. The top three solutions preferred by experienced contributors were, in order: grants for open source sustainability, access to free, feature-rich computing environments, and a learning community. The top three solutions preferred by aspiring contributors were access to free, feature-rich computing environments, a learning community, and educational materials. Some text beside the first podium says that nearly one in three experienced contributors said that sustainability grants would be the most helpful solution the university could offer. Some text beside the second podium says that two out of three aspiring contributors said that accessible computing environments would help them get started contributing.</p>
     <p>Other forms of support proposed by survey participants include the following:
@@ -149,7 +192,7 @@ a closer look.
     </p>
 </span>
 
-## Advice for OSPOs
+## Advice for Open Source Program Offices (OSPOs)
 
 - The most common challenges that emerged from our study were **time and
   funding**. As such, OSPOs should consider either directly funding open source,
@@ -181,7 +224,7 @@ open source repos. This may happen in the second half of 2026.
 If you are interested in collaborating with us on this or on another research
 effort, please reach out to us at ospo@library.ucsb.edu.
 
-## Links to research products
+<h2 id=links-to-research-products> Links to research products </h2>
 
 - **Preprint:** https://doi.org/10.31235/osf.io/p8bx6_v1
   - To find the preprint's supplementary materials, you have to go the 'Project'
