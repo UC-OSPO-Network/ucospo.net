@@ -6,11 +6,6 @@ description: "The First Annual UC Open celebrating open source throughout the UC
 
 ![UC Open Banner](UC_Open_Narrow_Banner.png)
 
-{{< button success >}}
-label: REGISTRATION
-link: https://www.eventbrite.com/e/uc-open-2025-tickets-1253650846429?aff=ebdssbdestsearch
-{{< /button >}}
-
 The University of California Open Summit (UC Open) 2025 will highlight the value open source has to the UC system and how UC contributions are a benefit to open source communities. This event welcomes UC faculty, technical staff, and students, as well as the industry and open source community interested in collaborating with UC researchers. The UC Open aims to leverage participants' experience, knowledge, and expertise in order to increase the impact of the research and education on UC campuses. Our keynotes, panels, directed discussions and technical sessions will cover a wide range of issue relevant to open source communities inside and outside academia.
 
 Special attention will be given to common challenges facing open source communities in the UC-system, and ways that collaborating across sectors can help meet these challenges.
