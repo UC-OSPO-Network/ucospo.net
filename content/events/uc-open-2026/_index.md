@@ -26,21 +26,6 @@ Connect with next-generation open source talent from across the UC system
 Build collaborations on production-ready academic technologies
 Influence early-stage projects with real-world applications
 
-## Call for Proposals Open from January 8 - February 15, 2026 _DEADLINE EXTENDED_
-
-[We invite proposals](https://docs.google.com/forms/d/e/1FAIpQLSfh5orXB5EFp7JCQAec7ynHN9FkyHszkAmKAioKlOsKVVwuEA/viewform) for panels (45 min), presentations (15 min), workshops (75 min), directed discussions (45 min), or posters on topics including:
-
-- UC research in open source and open scholarship
-- Industry-academic collaboration models
-- Digital public goods and public benefit
-- AI's impact on open source
-- Research software infrastructure
-- Cross-campus shared practice
-
-**Deadline: February 15, 2026** | Notifications by March 3
-
-(Full schedule in development. Registration details coming soon.)
-
 ## Sponsor UC Open 2026
 
 Support open source innovation and gain visibility with top academic and industry talent. [Sponsorship tiers: $2,500–$10,000](./sponsor.md).
