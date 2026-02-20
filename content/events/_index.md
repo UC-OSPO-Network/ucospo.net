@@ -14,7 +14,7 @@ Please note: if you add an event from the embedded calendar above, it will defau
 
 ### UC Open 2026
 
-Join researchers, developers, students, and industry leaders at [UC Open Source Summit 2026](./uc-open-2026/_index.md) for two days exploring how open source is reshaping academia and connecting university innovation with real-world application. [Our CfP](https://docs.google.com/forms/d/e/1FAIpQLSfh5orXB5EFp7JCQAec7ynHN9FkyHszkAmKAioKlOsKVVwuEA/viewform) is open until February 1st!
+Join researchers, developers, students, and industry leaders at [UC Open Source Summit 2026](./uc-open-2026/_index.md) for two days exploring how open source is reshaping academia and connecting university innovation with real-world application.
 
 ### Coworking/Office Hours (ongoing)
 

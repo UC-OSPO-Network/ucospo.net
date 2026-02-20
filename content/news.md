@@ -1,12 +1,12 @@
 ---
 title: News
-newsHeader: Our CfP is open for UC Open 2026 (22-23 April)!
+newsHeader: Save the date! UC Open 2026 will be held 22-23 April at Berkeley
 sidebar: false
 ---
 
 ## UC Open 2026 CfP
 
-Our CfP is open for [UC Open 2026](./events/uc-open-2026/_index.md) (22-23 April)!
+Save the date! [UC Open 2026](./events/uc-open-2026/_index.md) will be held 22-23 April at Berkeley.
 
 ## UC Open 2025 Report
 
