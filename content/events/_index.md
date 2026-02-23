@@ -46,6 +46,20 @@ Speakers: Tim Dennis (UCLA) - Laura Langdon (UC OSPO Network) - Reid Otsuji (UC 
 
 [Register here](https://www.google.com/url?q=https://ucla.zoom.us/meeting/register/k47lNtROR2KNaP7SPvOaIQ&sa=D&source=calendar&ust=1769900193384207&usg=AOvVaw0SCdxbGQ4vFu-FdiibP59o)!
 
+### March
+
+#### All-Campus Virtual Meetup
+
+**When**: Wednesday, March 18 2026 12:00-1:30pm<br>
+**Where:** Zoom<br>
+**Who**: Anyone (including students and staff!)<br>
+
+Join us for the winter edition of our all-campus open source meetups! We'll start with a fireside chat with Matthias Köppe of UCD, maintainer of SageMath, followed by a very casual open discussion about whatever folks have on their minds about open source.
+
+All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
+
+[Register here!](https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw) 
+
 #### Open Source Meetup @ Davis
 
 **When**: Thursday, February 19 2026 12:30-2pm<br>
