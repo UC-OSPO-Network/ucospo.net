@@ -11,6 +11,11 @@ h1 {
 tr:nth-child(odd) {
     background-color: #f8f8f8;
 }
+@media (prefers-color-scheme: dark) {
+  tr:nth-child(odd) {
+  background-color: #3e3636;
+}
+  }
 </style>
 
 <img src="/images/ucsb/ucsb_banner.png" alt="Decorative banner for Open Source at UCSB"/>
@@ -100,7 +105,7 @@ coding skills.
   </tr>
     <tr>
     <td>March 18, 2026</td>
-    <td>12pm-1pm</td>
+    <td>12pm-1pm (scheduled program) + 1-1:30pm (unprogrammed hangout)</td>
     <td>A conversation with Matthias Köppe, maintainer of SageMath</td>
     <td><a
     href="https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw"
