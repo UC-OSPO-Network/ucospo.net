@@ -32,20 +32,6 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1)
   - Add to your calendar: [.ics file](./ics-files/OSPO-Virtual-Coffee-Thursdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXA1M2Y4dG1pZGR2djNob2NkcnYwaXV0bTNfMjAyNTA1MTVUMjAwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
-### February
-
-#### Making Research Software Citable and Discoverable: Practical FAIR4RS Wins
-
-**When**: Wednesday, February 11 2026 12:00-12:50pm<br>
-**Where**: Zoom <br>
-**Who**: Anyone (including students and staff!)<br>
-
-This workshop is part of UC Love Data Week 2026, and is intended for researchers, graduate students, and librarians who work with research code and want practical ways to make software easier to find, cite, and reuse.
-
-Speakers: Tim Dennis (UCLA) - Laura Langdon (UC OSPO Network) - Reid Otsuji (UC San Diego) - Leigh Phan (UCLA)
-
-[Register here](https://www.google.com/url?q=https://ucla.zoom.us/meeting/register/k47lNtROR2KNaP7SPvOaIQ&sa=D&source=calendar&ust=1769900193384207&usg=AOvVaw0SCdxbGQ4vFu-FdiibP59o)!
-
 ### March
 
 #### All-Campus Virtual Meetup
@@ -58,9 +44,11 @@ Join us for the winter edition of our all-campus open source meetups! We'll star
 
 All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
 
-[Register here!](https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw) 
+[Register here!](https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw)
 
-#### Open Source Meetup @ Davis
+## Past Events
+
+### Open Source Meetup @ Davis
 
 **When**: Thursday, February 19 2026 12:30-2pm<br>
 **Where:** Shields Library, room 360 (DataLab)<br>
@@ -71,7 +59,15 @@ Join us for a bring-your-own-lunch open source meetup—an informal hangout for 
 
 Learn more about the [Open Source Program Office at UC Davis](https://library.ucdavis.edu/ospo).
 
-## Past Events
+### Making Research Software Citable and Discoverable: Practical FAIR4RS Wins
+
+**When**: Wednesday, February 11 2026 12:00-12:50pm<br>
+**Where**: Zoom <br>
+**Who**: Anyone (including students and staff!)<br>
+
+This workshop is part of UC Love Data Week 2026, and is intended for researchers, graduate students, and librarians who work with research code and want practical ways to make software easier to find, cite, and reuse.
+
+Speakers: Tim Dennis (UCLA) - Laura Langdon (UC OSPO Network) - Reid Otsuji (UC San Diego) - Leigh Phan (UCLA)
 
 ### UCSB Open Source Lounge
 
@@ -112,7 +108,7 @@ This event is in person and online and all are welcome. (You don’t have to wor
 
 We’re delighted to welcome Dr Monica Bobra as our guest speaker at the UC Berkeley Open Source Program Office monthly meetup on 20 November 2025 at 3:30pm.
 
-Dr Bobra serves as the Principal Data Scientist at the California Office of Data and Innovation, as appointed by Governor Newsom. In conversation with UC Berkeley OSPO executive director Jarrod Millman, she will be sharing the open approach to data science taken by the State of California.
+Dr Bobra serves as the Principal Data Scientist at the California Office of Data and Innovation, as appointed by Governor Newson. In conversation with UC Berkeley OSPO executive director Jarrod Millman, she will be sharing the open approach to data science taken by the State of California.
 
 Monica leads data science teams with partner departments across the state to develop novel approaches to improving safety, sustainability, and decision-making. She also helps academic institutions effectively translate advances in research to improvements in operations across the State of California.
 
