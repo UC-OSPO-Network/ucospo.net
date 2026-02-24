@@ -22,12 +22,14 @@ tr:nth-child(odd) {
 
 <div style="margin-top: 2rem;"></div>
 
-## Join us at the UCSB Open Source Meetup!
+## Join us at the Open Source Meetup!
 
-The UCSB Open Source meetup is a casual gathering where UCSB students, faculty,
-and staff can come together over an interest in open source. All backgrounds and
-experience levels are welcome. This is a great opportunity to learn from others
-and be a part of a larger open source community at UCSB!
+The Open Source meetup is a casual gathering where students, faculty, and staff
+can come together over an interest in open source. **While the meetup was
+formerly limited to UCSB, we now encourage UC affiliates from any campus to
+join.** All backgrounds and experience levels are welcome. This is a great
+opportunity to learn from others and be a part of a larger open source community
+at UC!
 
 ## Stay informed
 
@@ -44,8 +46,7 @@ the section "Use a link to add a public calendar".
 
 ## Meeting format
 
-Starting in 2026, we'll meet every two weeks, and we'll alternate between two
-formats:
+We meet every two weeks, alternating between two formats:
 
 🙋🏽**Topical Discussions:** the format is up to the organizer. The organizer may
 give a talk about their own project, show their code for code review, facilitate
@@ -53,9 +54,11 @@ a group discussion on a topic of interest, or do something else. Meetings are
 casual and shouldn't require too much formal preparation.
 
 👩🏻‍💻**"Open Source Lounge":** These are co-working sessions where attendees can
-work on their open source goals. Bring your laptop and some work to do such as
-documentation cleanup, a bug to work on, or learning exercises to hone your
-coding skills.
+work on their open source goals in a quiet, supportive environment. Bring your
+laptop and some work to do such as documentation cleanup, a bug to work on, or
+learning exercises to hone your coding skills. The meeting is two hours, but
+drop by for as much or as little time as you like. You might be surprised by how
+much you can get done in just half an hour.
 
 ### Upcoming meetings:
 
@@ -128,6 +131,7 @@ coding skills.
 
 ### Past topics:
 
+- A new project from the UCSB Library: The OSS Sustainability Playbook
 - Open-washing and the EU AI Act
 - Our favorite lesser-known open source tools
 - Community-building with Chrissy Rissmeyer, Prof. Rich Wolski, and Prof.
@@ -140,8 +144,8 @@ coding skills.
 
 We meet every other Wednesday at noon.
 
-**Topical discussions** are 12-12:50pm on Zoom. (Formerly in room 1312 in the
-UCSB Library, our discussions have moved to Zoom for greater accessibility.)
+**Topical discussions** are 12-1pm on Zoom. (Formerly in room 1312 in the UCSB
+Library, our discussions have moved to Zoom for greater accessibility.)
 
 **Open Source Lounge** sessions are 12-2pm and are hybrid format: join us in
 room 1411 in the Sara Miller McCune Arts Library (which is inside the UCSB
