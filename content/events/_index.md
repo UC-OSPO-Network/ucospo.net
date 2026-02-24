@@ -36,7 +36,7 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 
 #### All-Campus Virtual Meetup
 
-**When**: Wednesday, March 18 2026 12:00-1:30pm<br>
+**When**: Wednesday, March 18 2026 12pm<br>
 **Where:** Zoom<br>
 **Who**: Anyone (including students and staff!)<br>
 
