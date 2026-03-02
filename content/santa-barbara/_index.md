@@ -27,9 +27,8 @@ title: UC Santa Barbara Open Source Program
   </figcaption>
 </div>
 
-
-
 <!-- ABOUT SECTION -->
+
 ### About us
 
 UC Santa Barbara has a strong history of leadership and innovation in open
@@ -50,8 +49,6 @@ the broader network includes:
 If you'd like to keep up with our activities, please consider joining our
 mailing list, which includes a monthly newsletter and occasional announcements.
 You can unsubscribe at any time.
-
-
 
 <!-- BUTTON: JOIN OUR MAILING LIST -->
 <div style="
@@ -78,8 +75,6 @@ You can unsubscribe at any time.
     Join our mailing list
   </a>
 </div>
-
-
 
 <!-- CURRENT PROJECTS -->
 <div class="curr-projs-container" style="
@@ -146,7 +141,7 @@ open source community at UCSB.
 
 <div class="project-row" style="display: flex; margin-bottom: 2rem">
 
-  <img class="suspb-image"
+<img class="suspb-image"
         src="/images/ucsb/susPB_logo.png"
         loading="lazy"
         alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text"
@@ -156,8 +151,6 @@ open source community at UCSB.
 
 </div>
 </div>
-
-
 
 <!-- PAST PROJECTS -->
 
@@ -187,7 +180,6 @@ as part of the UC OSPO Network’s discovery activities. You can
 preprint is available now, and the paper is undergoing peer review.</p>
 </div>
 </div>
-
 
 <!-- MEDIA QUERIES -->
 <style>
@@ -251,8 +243,8 @@ the HTML and a separate style section. */
   }
 </style>
 
-
 <!-- STATUS AND CONTACTS -->
+
 ## What's the status of the UCSB OSPO?
 
 At present, UCSB does not have a dedicated Open Source Programs Office. Rather,
