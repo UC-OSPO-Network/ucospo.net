@@ -68,7 +68,7 @@ You can unsubscribe at any time.
 <!-- Colored box for current projects -->
 <div style="
   clear: both;  /* clear floats */
-  --panel-bg: #D7D2CB;
+  --panel-bg: #e9e6e2;
   background-color: var(--panel-bg);
   padding: 0 1rem;     /* 0rem top/bottom, 1rem left/right */
   border-radius: 0.5rem;
@@ -111,7 +111,7 @@ open source community at UCSB.
   <a href="/santa-barbara/ucsb-projects/meetup/" style="
     display: inline-block;
     padding: 1rem 2rem;
-    background-color: #f4f3f1;
+    background-color: #ffffff;
     color: hotpink;
     text-align: center;
     text-decoration: none;
@@ -120,34 +120,28 @@ open source community at UCSB.
     border: 2px solid #003660;
     font-family: sans-serif;
   "
-    onmouseover="this.style.backgroundColor='#ffffff'"
-    onmouseout="this.style.backgroundColor='#f4f3f1'"
+    onmouseover="this.style.backgroundColor='#dce1e5'"
+    onmouseout="this.style.backgroundColor='#ffffff'"
   >
-    Visit the meetup webpage
+    Visit the meetup webpage!
   </a>
   </div>
 </div>
 
-### UC Open Source Survey
+### Sustainability Playbook
 
-<div style="float:left; width:360px; margin:1em 1em 1em 0;">
-  <img src="/images/ucsb/hands.jpg"
-       loading="lazy"
-       alt="Close-up of a pair of hands using a phone beside a computer"
-       style="width:100%; height:auto;" />
-  <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
-  <em>Image courtesy of firmbee on Unsplash</em>
-  </figcaption>
+<div class="project-row" style="display: flex; margin-bottom: 2rem">
+  <div style="min-width: 280px; display: flex; justify-content: center">
+    <img src="/images/ucsb/susPB_logo.png"
+        loading="lazy"
+        alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text"
+        style="overflow: hidden; width: 300px; height: 150px; margin:10px"/>
 </div>
-
-Our team recently spearheaded a survey of more than 200 open source contributors
-as part of the UC OSPO Network’s discovery activities. You can read more about
-the [structure of the survey here](https://ucospo.net/survey-launch/). We are
-currently analyzing the data, and will circulate the results once published.
-Until then, the survey instrument is available upon request, and we are happy to
-answer questions.
+<p style="margin-left: 1em">Since our recent survey showed that many open source contributors are struggling with project sustainability, we plan to create a website with resources on the topic. We are calling it the "Sustainability Playbook". It will be tailored to UC throughout, pointing readers to the relevant staff offices that can help, with tips and tricks for navigating UC's administrative channels. The playbook will be rich with interviews from UC developers and project stewards discussing how they have so far succeeded in sustaining an open source project.</p>
 
 </div>
+</div>
+
 
 <style>
   /* 1) For this colored box, override the theme's CSS for mobile, which uses white font */
@@ -181,6 +175,45 @@ answer questions.
       width: 180px !important;  /* keep its intended width */
     }
   }
+</style>
+
+<!-- Colored box for past projects -->
+
+<div class="past-projs-container" style="
+  background-color: #dcd6cc;
+  color: black !important;
+  padding: 0 1rem;     /* 0rem top/bottom, 1rem left/right */
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
+  overflow: auto;
+">
+
+<h2 style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
+Past projects
+</h2>
+
+<h3>UC Open Source Survey</h3>
+<div class="project-row" style="display: flex; margin-bottom: 2rem">
+  <div style="min-width: 280px; display: flex; justify-content: center">
+    <img src="/images/ucsb/infographic_small_crop.png"
+        loading="lazy"
+        alt="Thumbnail preview of an infographic"
+        style="width:150px; height:249px; margin:1em 1em 1em 0"/>
+    </div>
+<p style="margin-left: 1em; color: black !important;">Our team recently spearheaded a survey of nearly 300 open source contributors
+as part of the UC OSPO Network’s discovery activities. You can
+<a href="https://ucospo.net/oss-resources/survey/">read more about the survey here</a>. The
+preprint is available now, and the paper is undergoing peer review.</p>
+</div>
+</div>
+
+<style>
+  /* Allow wrapping only on small screens */
+    @media screen and (max-width: 650px) {
+    .project-row {
+        flex-wrap: wrap;
+    }
+    }
 </style>
 
 ## What's the status of the UCSB OSPO?
