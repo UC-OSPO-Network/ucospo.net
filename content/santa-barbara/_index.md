@@ -2,7 +2,16 @@
 title: UC Santa Barbara Open Source Program
 ---
 
-<!-- Using HTML since Hugo {{figure}} shortcode wasn't working for me -->
+<!-- Using HTML and CSS since Hugo {{figure}} shortcode wasn't working for me -->
+
+<style>
+  :root {
+    --panel1-bg: #e9e6e2;
+    --panel2-bg: #dcd6cc;
+  }
+</style>
+
+<!-- HERO IMAGE -->
 <div style="float:center">
   <img src="/images/ucsb/library2_1600.jpg"
        srcset="/images/ucsb/library2_640.jpg 640w,
@@ -18,6 +27,9 @@ title: UC Santa Barbara Open Source Program
   </figcaption>
 </div>
 
+
+
+<!-- ABOUT SECTION -->
 ### About us
 
 UC Santa Barbara has a strong history of leadership and innovation in open
@@ -39,7 +51,9 @@ If you'd like to keep up with our activities, please consider joining our
 mailing list, which includes a monthly newsletter and occasional announcements.
 You can unsubscribe at any time.
 
-<!-- Button to join our mailing list -->
+
+
+<!-- BUTTON: JOIN OUR MAILING LIST -->
 <div style="
   height: 20vh;
   display: flex;
@@ -65,11 +79,12 @@ You can unsubscribe at any time.
   </a>
 </div>
 
-<!-- Colored box for current projects -->
-<div style="
+
+
+<!-- CURRENT PROJECTS -->
+<div class="curr-projs-container" style="
   clear: both;  /* clear floats */
-  --panel-bg: #e9e6e2;
-  background-color: var(--panel-bg);
+  background-color: var(--panel1-bg);
   padding: 0 1rem;     /* 0rem top/bottom, 1rem left/right */
   border-radius: 0.5rem;
   margin: 1.5rem 0;
@@ -99,20 +114,19 @@ individual open source goals. This is a great opportunity to meet others
 interested in open source, share tips and experiences, and be a part of a larger
 open source community at UCSB.
 
-<!-- Text color is ignored due to !important override above, due to mobile template issues -->
 <div style="
   height: 20vh;
   display: flex;
   justify-content: left;
   align-items: center;
 ">
-<!-- Container for link/button allows for outer padding -->
+
   <div style="padding-left: 10vw;">
   <a href="/santa-barbara/ucsb-projects/meetup/" style="
     display: inline-block;
     padding: 1rem 2rem;
     background-color: #ffffff;
-    color: hotpink;
+    color: black;
     text-align: center;
     text-decoration: none;
     font-size: 1.25rem;
@@ -131,57 +145,24 @@ open source community at UCSB.
 ### Sustainability Playbook
 
 <div class="project-row" style="display: flex; margin-bottom: 2rem">
-  <div style="min-width: 280px; display: flex; justify-content: center">
-    <img src="/images/ucsb/susPB_logo.png"
+
+  <img class="suspb-image"
+        src="/images/ucsb/susPB_logo.png"
         loading="lazy"
         alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text"
-        style="overflow: hidden; width: 300px; height: 150px; margin:10px"/>
-</div>
-<p style="margin-left: 1em">Since our recent survey showed that many open source contributors are struggling with project sustainability, we plan to create a website with resources on the topic. We are calling it the "Sustainability Playbook". It will be tailored to UC throughout, pointing readers to the relevant staff offices that can help, with tips and tricks for navigating UC's administrative channels. The playbook will be rich with interviews from UC developers and project stewards discussing how they have so far succeeded in sustaining an open source project.</p>
+        style="overflow: hidden; min-width: 250px; height: 150px; margin:10px"/>
+
+<p style="margin-left: 3rem">Since our recent survey showed that many open source contributors are struggling with project sustainability, we plan to create a website with resources on the topic. We are calling it the "Sustainability Playbook". It will be tailored to UC throughout, pointing readers to the relevant staff offices that can help, with tips and tricks for navigating UC's administrative channels. The playbook will be rich with interviews from UC developers and project stewards discussing how they have so far succeeded in sustaining an open source project.</p>
 
 </div>
 </div>
 
 
-<style>
-  /* 1) For this colored box, override the theme's CSS for mobile, which uses white font */
-  div[style*="--panel-bg"] * {
-    color: black !important;
-  }
 
-    /* 2) Restyle images for mobile */
-  @media (max-width: 600px) {
-    /* Stop floats and make image containers full-width */
-    div[style*="--panel-bg"] > div[style*="float:right"],
-    div[style*="--panel-bg"] > div[style*="float:left"] {
-      float: none !important;
-      width: 100% !important;
-      margin: 0 0 1em 0 !important;
-    }
-
-    /* Ensure images never exceed container width */
-    div[style*="--panel-bg"] img {
-      max-width: 100% !important;
-      height: auto !important;
-    }
-  }
-
-  /* On mobile, center the OSPO logo */
-  @media (max-width: 600px) {
-    .ospo-img {  /* Give the ospo logo container its own class */
-      float: none !important;
-      display: block;           /* make it a block to honor auto margins */
-      margin: 0 auto 1em auto;  /* top 0, sides auto, bottom 1em */
-      width: 180px !important;  /* keep its intended width */
-    }
-  }
-</style>
-
-<!-- Colored box for past projects -->
+<!-- PAST PROJECTS -->
 
 <div class="past-projs-container" style="
-  background-color: #dcd6cc;
-  color: black !important;
+  background-color: var(--panel2-bg);
   padding: 0 1rem;     /* 0rem top/bottom, 1rem left/right */
   border-radius: 0.5rem;
   margin: 1.5rem 0;
@@ -200,22 +181,78 @@ Past projects
         alt="Thumbnail preview of an infographic"
         style="width:150px; height:249px; margin:1em 1em 1em 0"/>
     </div>
-<p style="margin-left: 1em; color: black !important;">Our team recently spearheaded a survey of nearly 300 open source contributors
+<p style="margin-left: 1em;">Our team recently spearheaded a survey of nearly 300 open source contributors
 as part of the UC OSPO Network’s discovery activities. You can
 <a href="https://ucospo.net/oss-resources/survey/">read more about the survey here</a>. The
 preprint is available now, and the paper is undergoing peer review.</p>
 </div>
 </div>
 
+
+<!-- MEDIA QUERIES -->
 <style>
+/* I am using a lot of !important tags because a lot of this is
+adjusting inline styling, which takes priority by default.
+I have been using inline styling because this page is long and
+complicated and it would be pretty annoying to jump between
+the HTML and a separate style section. */
+
   /* Allow wrapping only on small screens */
     @media screen and (max-width: 650px) {
     .project-row {
         flex-wrap: wrap;
     }
+    .project-row p {
+      margin-left: 1rem !important;
     }
+    }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --panel1-bg: #3e3636;
+    --panel2-bg: #1B2B34;
+    --text-color: blue;
+}
+}
+    /* 2) Restyle images for mobile */
+  @media (max-width: 600px) {
+    /* Stop floats and make image containers full-width */
+    .curr-projs-container > div[style*="float:right"],
+    .curr-projs-container > div[style*="float:right"] {
+      float: none !important;
+      width: 100% !important;
+      margin: 0 0 1em 0 !important;
+    }
+
+    /* Ensure images never exceed container width */
+    .panel-container img {
+      max-width: 100% !important;
+      height: auto !important;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    .suspb-image {
+      min-width: 100px !important;
+      width: 100% !important;
+      height: auto !important;
+      margin-left: 0 !important;
+    }
+  }
+
+  /* On mobile, center the OSPO logo */
+  @media (max-width: 600px) {
+    .ospo-img {  /* Give the ospo logo container its own class */
+      float: none !important;
+      display: block;           /* make it a block to honor auto margins */
+      margin: 0 auto 1em auto;  /* top 0, sides auto, bottom 1em */
+      width: 180px !important;  /* keep its intended width */
+    }
+  }
 </style>
 
+
+<!-- STATUS AND CONTACTS -->
 ## What's the status of the UCSB OSPO?
 
 At present, UCSB does not have a dedicated Open Source Programs Office. Rather,
