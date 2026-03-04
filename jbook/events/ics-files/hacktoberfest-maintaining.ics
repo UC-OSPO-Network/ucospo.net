@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250822T192418Z
+UID:1755890630578-27158@ical.marudot.com
+DTSTART;TZID=America/Los_Angeles:20250911T120000
+DTEND;TZID=America/Los_Angeles:20250911T123000
+SUMMARY:Hacktoberfest Prep Session
+URL:https://ucdavis.zoom.us/j/92061926934?pwd=uwBKaqbE9jfR10ZMPdZsQpWa51yHND.1
+DESCRIPTION:Hacktoberfest is a global October celebration that encourages people to contribute to open source projects\, making it a perfect time to welcome new contributors to your project! Join us for a coworking session designed specifically for open source maintainers who want to make their projects more contributor-friendly. We’ll provide templates and examples for essential docs like README files\, CONTRIBUTING guides\, and issue templates\, plus we'll be available to answer questions and review your repositories. Whether you need help crafting welcoming documentation or just want dedicated time to tackle those important-but-often-postponed admin tasks\, this session will help you prepare your project to shine during Hacktoberfest and beyond!
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hacktoberfest Prep Session
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

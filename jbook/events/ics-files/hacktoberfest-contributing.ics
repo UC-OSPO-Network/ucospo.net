@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250822T192223Z
+UID:1755890521105-54101@ical.marudot.com
+DTSTART;TZID=America/Los_Angeles:20251009T120000
+DTEND;TZID=America/Los_Angeles:20251009T123000
+SUMMARY:Contributing to OSS
+URL:https://ucdavis.zoom.us/j/98994580428?pwd=QFzaIY6Eh5baJbtycXJqMDwoMYm9mM.1
+DESCRIPTION:Hacktoberfest is a global October celebration that encourages people to make their first contributions to open source projects—and this session is here to help you jump in with confidence! If you've been wanting to contribute to open source but don't know where to start\, join us for a supportive workshop where we'll cover the basics together. We'll share strategies for identifying beginner-friendly projects\, understanding community norms\, and navigating the contribution process\, then stick around to help you explore potential projects and take your first steps. No experience required\; just bring your curiosity and any questions you have about getting involved in the open source community!
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Contributing to OSS
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
