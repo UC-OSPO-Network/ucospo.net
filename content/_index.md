@@ -1,5 +1,5 @@
 ---
-title:
+title: Home
 ---
 
 {{< grid columns="1 1 2 2" >}}
