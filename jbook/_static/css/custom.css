@@ -1,0 +1,12 @@
+/* UC brand colors */
+:root {
+  --pst-color-primary: #005581;
+  --pst-color-link: #005581;
+  --pst-color-link-hover: #ffd200;
+}
+
+/* Ensure navbar dropdowns appear above page content */
+.navbar {
+  position: relative;
+  z-index: 1000;
+}

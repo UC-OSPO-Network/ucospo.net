@@ -1,0 +1,56 @@
+title: UC OSPO Network
+author: UC OSPO Network
+copyright: "2024"
+logo: _static/images/logo.svg
+
+execute:
+  execute_notebooks: 'off'
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - html_image
+    - attrs_inline
+
+html:
+  favicon: _static/images/favicon.ico
+  use_repository_button: false
+  home_page_in_navbar: false
+  extra_css:
+    - _static/css/custom.css
+
+sphinx:
+  extra_extensions:
+    - ablog
+    - sphinx_design
+  config:
+    html_theme: pydata_sphinx_theme
+    html_theme_options:
+      logo:
+        image_light: _static/images/logo.svg
+        text: UC OSPO Network
+      navbar_align: left
+      navbar_start:
+        - navbar-logo
+      navbar_center:
+        - navbar-nav
+      navbar_end:
+        - navbar-icon-links
+      icon_links:
+        - name: GitHub
+          url: https://github.com/UC-OSPO-Network/
+          icon: fa-brands fa-github
+          type: fontawesome
+      footer_start:
+        - copyright
+      footer_end:
+        - theme-version
+    # ablog blog settings
+    blog_path: posts
+    blog_post_pattern:
+      - "posts/**/*.md"
+      - "posts/*.md"
+    blog_title: Blog
+    blog_baseurl: https://ucospo.net
+    blog_feed_archives: true
+    fontawesome_included: true

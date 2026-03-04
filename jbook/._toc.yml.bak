@@ -1,0 +1,35 @@
+format: jb-book
+root: index
+parts:
+  - caption: About
+    chapters:
+      - file: about
+      - file: guiding-themes/index
+        sections:
+          - file: guiding-themes/discovery
+          - file: guiding-themes/education
+          - file: guiding-themes/sustainability
+  - caption: Events
+    chapters:
+      - file: events/index
+      - file: events/uc-open-2026/index
+      - file: events/uc-open-2026/sponsor
+  - caption: Blog
+    chapters:
+      - file: posts/index
+  - caption: Resources
+    chapters:
+      - file: oss-resources/index
+      - file: oss-resources/growing-community
+      - file: oss-resources/template-guides/readme-guide
+      - file: oss-resources/template-guides/contributing-guide
+      - file: oss-resources/template-guides/code-of-conduct-guide
+      - file: oss-resources/template-guides/license-guide
+      - file: oss-resources/survey/index
+  - caption: Campuses
+    chapters:
+      - file: campus/davis
+      - file: campus/los-angeles
+      - file: campus/san-diego
+      - file: campus/santa-barbara
+      - file: campus/ucsb-meetup

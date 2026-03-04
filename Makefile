@@ -19,3 +19,11 @@ serve: themes
 clean: ## Remove built files
 clean:
 	rm -rf public
+
+jbook-html: ## Build Jupyter Book site in jbook/_build/site
+jbook-html:
+	cd jbook && jupyter-book build --site
+
+jbook-serve: ## Serve Jupyter Book locally (live reload)
+jbook-serve:
+	cd jbook && jupyter-book start
