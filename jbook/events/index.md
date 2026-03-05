@@ -25,6 +25,7 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 - Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks
 
 - **Tuesdays** at **10am** Pacific
+
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1)
   - Add to your calendar: [.ics file](/_static/ics-files/OSPO-Virtual-Coffee-Tuesdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Y2c3cTUzY2k0dnRpamlsb2NrbmI5ZWhyOG9fMjAyNTA1MjdUMTcwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
@@ -339,3 +340,7 @@ Do you want do a lightning talk about what you are working on? We have set aside
 We will have representatives from the UCSC OSPO (and other offices) to talk with you about how we can support and promote your open source endeavors. We will end the evening with a raffle for those in attendance!
 
 More information and updated event schedule can be found on the [UCSC OSPO website](https://ucsc-ospo.github.io/event/slugfest2025/).
+
+### UC Open 4 (2025)
+
+View the full [UC Open 4 (2025) conference page](uc-open-4-2025/index.md) for session recordings, speaker bios, and more.
