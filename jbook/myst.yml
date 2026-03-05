@@ -4,7 +4,7 @@ project:
   description: UC OSPO Network Website
   authors:
     - name: UC OSPO Network
-  copyright: '2024'
+  copyright: "2024"
   github: https://github.com/UC-OSPO-Network/ucospo.net
   toc:
     - file: index.md
