@@ -24,7 +24,7 @@ A Table of Contents makes it easier for readers to find the information they're 
 - [Usage](#usage)
 - [Roadmap (optional)](#roadmap-optional)
 - [Contributing (optional)](#contributing-optional)
-  - [Code of Conduct](#code-of-conduct)
+  - [Code of Conduct](#readme-code-of-conduct)
 - [FAQ (optional)](#faq-optional)
 - [License](#license)
 - [Contact (optional)](#contact-optional)
@@ -158,6 +158,10 @@ Both users of and potential contributors to your project are likely to have idea
 If you'd appreciate contributions to your project, you might say something like:
 
 Contributions are always welcome! Please see [CONTRIBUTING.md](contributing-guide.md) for tips to get started.
+
+<!-- This is here to differentiate between this Code of Conduct heading and the one in the README guide -->
+
+(readme-code-of-conduct)=
 
 ### Code of Conduct
 

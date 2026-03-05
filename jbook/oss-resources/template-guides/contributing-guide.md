@@ -21,7 +21,7 @@ Your contributing guide is the first place that new contributors will look to un
 - [Asking for Help](#asking-for-help)
 - [Norms for Commits](#norms-for-commits)
 - [Pull Request Lifecycle](#pull-request-lifecycle)
-- [Code of Conduct](#code-of-conduct)
+- [Code of Conduct](#contributing-code-of-conduct)
 
 ## Ways to Contribute
 
@@ -101,6 +101,10 @@ Use the questions below as an exercise to uncover the unwritten rules and norms 
 - Give contributors an idea of how their pull request is evaluated and how to run checks locally before submitting the pull request. Include both the automated and any manual checks performed by reviewers.
 - Once a PR is merged, what is the process for it getting into the next release?
 - When does a merged pull request end up in a release?
+
+<!-- This is here to differentiate between this Code of Conduct heading and the one in the README guide -->
+
+(contributing-code-of-conduct)=
 
 ## Code of Conduct
 

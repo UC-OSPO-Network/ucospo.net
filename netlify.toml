@@ -9,3 +9,9 @@
 
 [context.deploy-preview]
   ignore = "false"
+
+[[plugins]]
+  package = "netlify-plugin-checklinks"
+  [plugins.inputs]
+    # mermaid.core-*.js causes a parse error in checklinks' JS analyzer (not a broken link)
+    skipPatterns = ["mermaid"]
