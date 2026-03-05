@@ -25,7 +25,6 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 - Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks
 
 - **Tuesdays** at **10am** Pacific
-
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1)
   - Add to your calendar: [.ics file](/_static/ics-files/OSPO-Virtual-Coffee-Tuesdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Y2c3cTUzY2k0dnRpamlsb2NrbmI5ZWhyOG9fMjAyNTA1MjdUMTcwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
