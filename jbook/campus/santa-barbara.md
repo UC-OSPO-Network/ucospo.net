@@ -117,7 +117,7 @@ open source community at UCSB.
 ">
 
   <div style="padding-left: 10vw;">
-  <a href="ucsb-meetup.html" style="
+  <a href="/campus/ucsb-meetup" style="
     display: inline-block;
     padding: 1rem 2rem;
     background-color: #ffffff;

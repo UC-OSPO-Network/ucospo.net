@@ -161,7 +161,7 @@ ospo@library.ucsb.edu.
   justify-content: center;
   align-items: center;
 ">
-  <a href="santa-barbara.html">
+  <a href="/campus/santa-barbara">
     Back to UCSB Open Source Program Page
   </a>
 </div>
