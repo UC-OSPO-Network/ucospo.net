@@ -14,4 +14,4 @@
   package = "netlify-plugin-checklinks"
   [plugins.inputs]
     # mermaid.core-*.js causes a parse error in checklinks' JS analyzer (not a broken link)
-    skipPatterns = ["mermaid"]
+    skipPatterns = ["mermaid", "cdnjs.cloudflare.com"]
