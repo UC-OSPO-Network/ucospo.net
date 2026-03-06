@@ -11,6 +11,38 @@
   z-index: 1000;
 }
 
+/* Match Hugo pydata-sphinx-theme body/prose styles */
+html {
+  line-height: 1.65;
+}
+
+/* Override Tailwind Typography prose variables to match Hugo */
+.article {
+  --tw-prose-links: #005581;
+  --tw-prose-body: #222832;
+}
+
+/* Link color and weight (.article a beats .article :where(a) in specificity) */
+.article a {
+  font-weight: 400;
+  color: #005581;
+}
+
+.article a:hover {
+  color: #ffd200;
+}
+
+/* Strong weight: Hugo/browser default 700, book-theme Tailwind uses 600 */
+.article strong {
+  font-weight: 700;
+}
+
+/* List indentation: Hugo uses 2rem, book-theme Tailwind uses 1.625em */
+.article ul,
+.article ol {
+  padding-inline-start: 2rem;
+}
+
 /* ── UCSB campus pages ─────────────────────────────────────────── */
 
 /* Panel background variables */
