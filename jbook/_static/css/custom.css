@@ -54,7 +54,7 @@ html {
 @media (prefers-color-scheme: dark) {
   :root {
     --ucsb-panel1-bg: #3e3636;
-    --ucsb-panel2-bg: #1B2B34;
+    --ucsb-panel2-bg: #1b2b34;
   }
 }
 
