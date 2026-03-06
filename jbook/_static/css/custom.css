@@ -73,7 +73,6 @@
 
 .suspb-image {
   object-fit: contain;
-  flex-shrink: 0;
 }
 
 @media screen and (max-width: 480px) {

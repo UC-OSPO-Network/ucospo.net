@@ -69,18 +69,19 @@ open source community at UCSB.</p>
   <a href="/campus/ucsb-meetup" class="btn-ucsb-secondary">Visit the meetup webpage!</a>
 </div>
 <h3>Sustainability Playbook</h3>
-<div class="project-row">
-  <img class="suspb-image"
-       src="../_static/images/ucsb/susPB_logo.png"
-       loading="lazy"
-       alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text"
-       style="width: 250px; height: 150px; margin:10px"/>
-  <div style="margin-left: 1rem; flex: 1; min-width: 0; overflow-wrap: break-word;">Since our recent survey showed that many open source contributors are struggling
-with project sustainability, we plan to create a website with resources on the topic. We are calling it
-the &#8220;Sustainability Playbook&#8221;. It will be tailored to UC throughout, pointing readers to the relevant
-staff offices that can help, with tips and tricks for navigating UC&#8217;s administrative channels. The
-playbook will be rich with interviews from UC developers and project stewards discussing how they have
-so far succeeded in sustaining an open source project.</div>
+<div style="overflow: auto; margin-bottom: 2rem;">
+<img class="suspb-image"
+     src="../_static/images/ucsb/susPB_logo.png"
+     loading="lazy"
+     alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text"
+     style="float: left; width: 250px; height: auto; margin: 0 1rem 1rem 0;"/>
+<p>Since our recent survey showed that many open source contributors are struggling
+with project sustainability, we plan to create a website with resources on the topic.
+We are calling it the &#8220;Sustainability Playbook&#8221;. It will be tailored to UC throughout,
+pointing readers to the relevant staff offices that can help, with tips and tricks for
+navigating UC&#8217;s administrative channels. The playbook will be rich with interviews
+from UC developers and project stewards discussing how they have so far succeeded in
+sustaining an open source project.</p>
 </div>
 </div>
 
@@ -88,17 +89,17 @@ so far succeeded in sustaining an open source project.</div>
 <div class="past-projs-container ucsb-panel-dark">
 <h2>Past projects</h2>
 <h3>UC Open Source Survey</h3>
-<div class="project-row">
-  <div style="min-width: 280px; flex-shrink: 0; display: flex; justify-content: center">
-    <img src="../_static/images/ucsb/infographic_small_crop.png"
-         loading="lazy"
-         alt="Thumbnail preview of an infographic"
-         style="width:150px; height:249px; margin:1em 1em 1em 0"/>
-  </div>
-  <div style="margin-left: 1em; flex: 1; min-width: 0; overflow-wrap: break-word;">Our team recently spearheaded a survey of nearly 300 open source contributors
+<div style="overflow: auto; margin-bottom: 2rem;">
+<div style="float: left; width: 170px; text-align: center; margin: 0 1rem 1rem 0;">
+<img src="../_static/images/ucsb/infographic_small_crop.png"
+     loading="lazy"
+     alt="Thumbnail preview of an infographic"
+     style="width: 150px; height: 249px; display: block; margin: 0 auto;"/>
+</div>
+<p>Our team recently spearheaded a survey of nearly 300 open source contributors
 as part of the UC OSPO Network&#8217;s discovery activities. You can
 <a href="https://ucospo.net/oss-resources/survey/">read more about the survey here</a>. The
-preprint is available now, and the paper is undergoing peer review.</div>
+preprint is available now, and the paper is undergoing peer review.</p>
 </div>
 </div>
 
