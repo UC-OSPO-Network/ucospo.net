@@ -1,8 +1,8 @@
 /* UC brand colors */
 :root {
-  --pst-color-primary: #005581;
-  --pst-color-link: #005581;
-  --pst-color-link-hover: #ffd200;
+  --pst-color-primary: #003cb3;
+  --pst-color-link: #003cb3;
+  --pst-color-link-hover: #ff9100;
 }
 
 /* Ensure navbar dropdowns appear above page content */
@@ -18,18 +18,18 @@ html {
 
 /* Override Tailwind Typography prose variables to match Hugo */
 .article {
-  --tw-prose-links: #005581;
+  --tw-prose-links: #003cb3;
   --tw-prose-body: #222832;
 }
 
 /* Link color and weight (.article a beats .article :where(a) in specificity) */
 .article a {
   font-weight: 400;
-  color: #005581;
+  color: #003cb3;
 }
 
 .article a:hover {
-  color: #ffd200;
+  color: #ff9100;
 }
 
 /* Strong weight: Hugo/browser default 700, book-theme Tailwind uses 600 */
