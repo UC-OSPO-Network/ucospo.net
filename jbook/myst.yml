@@ -57,4 +57,5 @@ site:
     logo: _static/images/logo.svg
     favicon: _static/images/favicon.ico
     folders: true
+    style: _static/css/custom.css
   template: book-theme

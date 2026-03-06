@@ -16,9 +16,7 @@ tr:nth-child(odd) {
 }
 </style>
 
-<img src="../_static/images/ucsb/ucsb_banner.png" alt="Decorative banner for Open Source at UCSB"/>
-
-<div style="margin-top: 2rem;"></div>
+![Decorative banner for Open Source at UCSB](../_static/images/ucsb/ucsb_banner.png)
 
 ## Join us at the Open Source Meetup!
 
@@ -60,72 +58,19 @@ much you can get done in just half an hour.
 
 ### Upcoming meetings:
 
-<!-- Button to sign up sheet -->
-<div style="
-  height: 20vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-">
-  <a href="https://docs.google.com/spreadsheets/d/19SdbFZwA4JrZBf5GsVqIYkOeVkieI-xvy2NJnR7kFeE/edit?usp=sharing" style="
-    display: inline-block;
-    padding: 1rem 2rem;
-    background-color: #003660;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    font-size: 1.25rem;
-    border-radius: 8px;
-    font-family: sans-serif;
-  "
-    target = "_blank"
-    onmouseover="this.style.backgroundColor='#005799'"
-    onmouseout="this.style.backgroundColor='#003660'"
-  >
+<div class="btn-center-wrapper">
+  <a href="https://docs.google.com/spreadsheets/d/19SdbFZwA4JrZBf5GsVqIYkOeVkieI-xvy2NJnR7kFeE/edit?usp=sharing"
+     class="btn-ucsb-primary"
+     target="_blank">
     Sign up to lead a meeting here!
   </a>
 </div>
 
-<table style="width:70%">
-  <tr>
-    <th>Date</th>
-    <th>Time</th>
-    <th>Topic</th>
-    <th>Link</th>
-    <th>Other notes</th>
-  </tr>
-  <tr>
-    <td>March 4, 2026</td>
-    <td>12pm-2pm</td>
-    <td>Open Source Lounge</td>
-    <td><a href="https://ucsb.zoom.us/j/87499258423"
-    target="_blank">
-    Join the meeting now</a>
-    </td>
-    <td>Hybrid meeting: Library room 1411 and Zoom</td>
-  </tr>
-    <tr>
-    <td>March 18, 2026</td>
-    <td>12pm-1pm (scheduled program) + 1-1:30pm (unprogrammed hangout)</td>
-    <td>A conversation with Matthias Köppe, maintainer of SageMath</td>
-    <td><a
-    href="https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw"
-    target="_blank">
-    Register</a>
-    </td>
-    <td>Zoom meeting</td>
-  </tr>
-    <tr>
-    <td>April 1, 2026</td>
-    <td>12pm-2pm</td>
-    <td>Open Source Lounge</td>
-    <td><a href="https://ucsb.zoom.us/j/87499258423"
-    target="_blank">
-    Join the meeting now</a>
-    </td>
-    <td>Hybrid meeting: Library room 1411 and Zoom</td>
-  </tr>
-</table>
+| Date | Time | Topic | Link | Other notes |
+|---|---|---|---|---|
+| March 4, 2026 | 12pm-2pm | Open Source Lounge | <a href="https://ucsb.zoom.us/j/87499258423" target="_blank">Join the meeting now</a> | Hybrid meeting: Library room 1411 and Zoom |
+| March 18, 2026 | 12pm-1pm (scheduled program) + 1-1:30pm (unprogrammed hangout) | A conversation with Matthias Köppe, maintainer of SageMath | <a href="https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw" target="_blank">Register</a> | Zoom meeting |
+| April 1, 2026 | 12pm-2pm | Open Source Lounge | <a href="https://ucsb.zoom.us/j/87499258423" target="_blank">Join the meeting now</a> | Hybrid meeting: Library room 1411 and Zoom |
 
 ### Past topics:
 
@@ -155,13 +100,4 @@ your schedule allows!
 Interested in helping co-organize the meetup? Let us know! Send us an email at
 ospo@library.ucsb.edu.
 
-<div style="
-  padding-top: 2rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-">
-  <a href="/campus/santa-barbara">
-    Back to UCSB Open Source Program Page
-  </a>
-</div>
+[Back to UCSB Open Source Program Page](/campus/santa-barbara)

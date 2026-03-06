@@ -2,15 +2,6 @@
 title: UC Santa Barbara Open Source Program
 ---
 
-<!-- Using HTML and CSS since Hugo {{figure}} shortcode wasn't working for me -->
-
-<style>
-  :root {
-    --panel1-bg: #e9e6e2;
-    --panel2-bg: #dcd6cc;
-  }
-</style>
-
 <!-- HERO IMAGE -->
 <div style="float:center">
   <img src="../_static/images/ucsb/library2_1600.jpg"
@@ -27,9 +18,7 @@ title: UC Santa Barbara Open Source Program
   </figcaption>
 </div>
 
-<!-- ABOUT SECTION -->
-
-### About us
+## About us
 
 UC Santa Barbara has a strong history of leadership and innovation in open
 source software development and open science. However, expertise and resources
@@ -51,187 +40,67 @@ mailing list, which includes a monthly newsletter and occasional announcements.
 You can unsubscribe at any time.
 
 <!-- BUTTON: JOIN OUR MAILING LIST -->
-<div style="
-  height: 20vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-">
-  <a href="https://signup.e2ma.net/signup/2045162/1984731/" style="
-    display: inline-block;
-    padding: 1rem 2rem;
-    background-color: #003660;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    font-size: 1.25rem;
-    border-radius: 8px;
-    font-family: sans-serif;
-  "
-    target = "_blank"
-    onmouseover="this.style.backgroundColor='#005799'"
-    onmouseout="this.style.backgroundColor='#003660'"
-  >
+<div class="btn-center-wrapper">
+  <a href="https://signup.e2ma.net/signup/2045162/1984731/"
+     class="btn-ucsb-primary"
+     target="_blank">
     Join our mailing list
   </a>
 </div>
 
 <!-- CURRENT PROJECTS -->
-<div class="curr-projs-container" style="
-  clear: both;
-  background-color: var(--panel1-bg);
-  padding: 0 1rem;
-  border-radius: 0.5rem;
-  margin: 1.5rem 0;
-  overflow: auto;
-">
-
-<h2 style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
-Current projects
-</h2>
-
-### UCSB Open Source Meetup
-
-<div style="float:right; width:360px; margin:0 0 1em 1em;">
+<div class="curr-projs-container ucsb-panel-light">
+<h2>Current projects</h2>
+<h3>UCSB Open Source Meetup</h3>
+<div class="ucsb-float-right">
   <img src="../_static/images/ucsb/ucsb_meetup.png"
        loading="lazy"
        alt="UCSB students working on laptops in a group setting"
        style="width:100%; height:auto;" />
-  <figcaption style="font-size: 0.5rem; margin-top: 0rem;">
-  </figcaption>
 </div>
-
-Once a month, the UCSB Open Source Programs Team hosts a casual, in-person, open
+<p>Once a month, the UCSB Open Source Programs Team hosts a casual, in-person, open
 source meetup. The meetup is open to UCSB students, faculty, and staff of all
 backgrounds and experience levels. The format rotates between attendee-led
-discussions and the "Open Source Lounge", a coworking group where we tackle our
+discussions and the &#8220;Open Source Lounge&#8221;, a coworking group where we tackle our
 individual open source goals. This is a great opportunity to meet others
 interested in open source, share tips and experiences, and be a part of a larger
-open source community at UCSB.
-
-<div style="
-  height: 20vh;
-  display: flex;
-  justify-content: left;
-  align-items: center;
-">
-
-  <div style="padding-left: 10vw;">
-  <a href="/campus/ucsb-meetup" style="
-    display: inline-block;
-    padding: 1rem 2rem;
-    background-color: #ffffff;
-    color: black;
-    text-align: center;
-    text-decoration: none;
-    font-size: 1.25rem;
-    border-radius: 8px;
-    border: 2px solid #003660;
-    font-family: sans-serif;
-  "
-    onmouseover="this.style.backgroundColor='#dce1e5'"
-    onmouseout="this.style.backgroundColor='#ffffff'"
-  >
-    Visit the meetup webpage!
-  </a>
-  </div>
+open source community at UCSB.</p>
+<div class="btn-left-wrapper">
+  <a href="/campus/ucsb-meetup" class="btn-ucsb-secondary">Visit the meetup webpage!</a>
 </div>
-
-### Sustainability Playbook
-
-<div class="project-row" style="display: flex; margin-bottom: 2rem">
-
-<img class="suspb-image"
-        src="../_static/images/ucsb/susPB_logo.png"
-        loading="lazy"
-        alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text"
-        style="overflow: hidden; min-width: 250px; height: 150px; margin:10px"/>
-
-<p style="margin-left: 3rem">Since our recent survey showed that many open source contributors are struggling with project sustainability, we plan to create a website with resources on the topic. We are calling it the "Sustainability Playbook". It will be tailored to UC throughout, pointing readers to the relevant staff offices that can help, with tips and tricks for navigating UC's administrative channels. The playbook will be rich with interviews from UC developers and project stewards discussing how they have so far succeeded in sustaining an open source project.</p>
-
+<h3>Sustainability Playbook</h3>
+<div class="project-row">
+  <img class="suspb-image"
+       src="../_static/images/ucsb/susPB_logo.png"
+       loading="lazy"
+       alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text"
+       style="width: 250px; height: 150px; margin:10px"/>
+  <div style="margin-left: 1rem; flex: 1; min-width: 0; overflow-wrap: break-word;">Since our recent survey showed that many open source contributors are struggling
+with project sustainability, we plan to create a website with resources on the topic. We are calling it
+the &#8220;Sustainability Playbook&#8221;. It will be tailored to UC throughout, pointing readers to the relevant
+staff offices that can help, with tips and tricks for navigating UC&#8217;s administrative channels. The
+playbook will be rich with interviews from UC developers and project stewards discussing how they have
+so far succeeded in sustaining an open source project.</div>
 </div>
 </div>
 
 <!-- PAST PROJECTS -->
-
-<div class="past-projs-container" style="
-  background-color: var(--panel2-bg);
-  padding: 0 1rem;
-  border-radius: 0.5rem;
-  margin: 1.5rem 0;
-  overflow: auto;
-">
-
-<h2 style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
-Past projects
-</h2>
-
+<div class="past-projs-container ucsb-panel-dark">
+<h2>Past projects</h2>
 <h3>UC Open Source Survey</h3>
-<div class="project-row" style="display: flex; margin-bottom: 2rem">
-  <div style="min-width: 280px; display: flex; justify-content: center">
+<div class="project-row">
+  <div style="min-width: 280px; flex-shrink: 0; display: flex; justify-content: center">
     <img src="../_static/images/ucsb/infographic_small_crop.png"
-        loading="lazy"
-        alt="Thumbnail preview of an infographic"
-        style="width:150px; height:249px; margin:1em 1em 1em 0"/>
-    </div>
-<p style="margin-left: 1em;">Our team recently spearheaded a survey of nearly 300 open source contributors
-as part of the UC OSPO Network's discovery activities. You can
+         loading="lazy"
+         alt="Thumbnail preview of an infographic"
+         style="width:150px; height:249px; margin:1em 1em 1em 0"/>
+  </div>
+  <div style="margin-left: 1em; flex: 1; min-width: 0; overflow-wrap: break-word;">Our team recently spearheaded a survey of nearly 300 open source contributors
+as part of the UC OSPO Network&#8217;s discovery activities. You can
 <a href="https://ucospo.net/oss-resources/survey/">read more about the survey here</a>. The
-preprint is available now, and the paper is undergoing peer review.</p>
+preprint is available now, and the paper is undergoing peer review.</div>
 </div>
 </div>
-
-<!-- MEDIA QUERIES -->
-<style>
-  @media screen and (max-width: 650px) {
-    .project-row {
-        flex-wrap: wrap;
-    }
-    .project-row p {
-      margin-left: 1rem !important;
-    }
-  }
-
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --panel1-bg: #3e3636;
-      --panel2-bg: #1B2B34;
-    }
-  }
-
-  @media (max-width: 600px) {
-    .curr-projs-container > div[style*="float:right"],
-    .curr-projs-container > div[style*="float:right"] {
-      float: none !important;
-      width: 100% !important;
-      margin: 0 0 1em 0 !important;
-    }
-    .panel-container img {
-      max-width: 100% !important;
-      height: auto !important;
-    }
-  }
-
-  @media screen and (max-width: 480px) {
-    .suspb-image {
-      min-width: 100px !important;
-      width: 100% !important;
-      height: auto !important;
-      margin-left: 0 !important;
-    }
-  }
-
-  @media (max-width: 600px) {
-    .ospo-img {
-      float: none !important;
-      display: block;
-      margin: 0 auto 1em auto;
-      width: 180px !important;
-    }
-  }
-</style>
-
-<!-- STATUS AND CONTACTS -->
 
 ## What's the status of the UCSB OSPO?
 

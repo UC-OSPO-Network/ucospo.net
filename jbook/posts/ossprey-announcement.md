@@ -20,9 +20,11 @@ Open Source Software (OSS) powers everything from academic research to mission-c
 
 The OSSPREY paper has also been accepted in the <a href="https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track" target="_blank">Automated Software Engineering 2025 Tool Demonstration Track</a>.
 
-<p align="center">
-  <img src="https://oss-prey.github.io/OSSPREY-Website/static/images/favicon.ico" alt="OSSPREY Icon" width="150"/>
-</p>
+:::{figure} https://oss-prey.github.io/OSSPREY-Website/static/images/favicon.ico
+:alt: OSSPREY Icon
+:width: 150px
+:align: center
+:::
 
 By analyzing both technical contributions (e.g., commits, file changes) and social signals (e.g., issue discussions, collaboration patterns), OSSPREY delivers comprehensive month-by-month sustainability forecasts. What truly sets it apart is its **ReACT (Researched ACTionable) recommendation engine**, which maps empirical research findings to tailored, actionable strategies maintainers can deploy to counteract emerging risks—such as declining contributor activity, fragmented communication, or stagnant issue resolution.
 

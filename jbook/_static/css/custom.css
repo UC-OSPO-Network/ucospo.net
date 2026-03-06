@@ -10,3 +10,153 @@
   position: relative;
   z-index: 1000;
 }
+
+/* ── UCSB campus pages ─────────────────────────────────────────── */
+
+/* Panel background variables */
+:root {
+  --ucsb-panel1-bg: #e9e6e2;
+  --ucsb-panel2-bg: #dcd6cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ucsb-panel1-bg: #3e3636;
+    --ucsb-panel2-bg: #1B2B34;
+  }
+}
+
+.ucsb-panel-light {
+  clear: both;
+  background-color: var(--ucsb-panel1-bg);
+  padding: 0 1rem;
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
+  overflow: auto;
+}
+
+.ucsb-panel-dark {
+  background-color: var(--ucsb-panel2-bg);
+  padding: 0 1rem;
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
+  overflow: auto;
+}
+
+.ucsb-panel-light h2,
+.ucsb-panel-dark h2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+/* Flex project rows */
+.project-row {
+  display: flex;
+  margin-bottom: 2rem;
+  align-items: flex-start;
+}
+
+.project-row p {
+  flex: 1;
+  min-width: 0;
+}
+
+@media screen and (max-width: 650px) {
+  .project-row {
+    flex-wrap: wrap;
+  }
+  .project-row p {
+    margin-left: 1rem !important;
+  }
+}
+
+.suspb-image {
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+@media screen and (max-width: 480px) {
+  .suspb-image {
+    min-width: 100px !important;
+    width: 100% !important;
+    height: auto !important;
+    margin-left: 0 !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .ospo-img {
+    float: none !important;
+    display: block;
+    margin: 0 auto 1em auto;
+    width: 180px !important;
+  }
+}
+
+/* UC brand buttons */
+.btn-ucsb-primary {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #003660;
+  color: white !important;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  font-family: sans-serif;
+}
+
+.btn-ucsb-primary:hover {
+  background-color: #005799;
+  color: white !important;
+  text-decoration: none;
+}
+
+.btn-ucsb-secondary {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #ffffff;
+  color: black !important;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  border: 2px solid #003660;
+  font-family: sans-serif;
+}
+
+.btn-ucsb-secondary:hover {
+  background-color: #dce1e5;
+  color: black !important;
+  text-decoration: none;
+}
+
+.btn-center-wrapper {
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-left-wrapper {
+  height: 20vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 10vw;
+}
+
+.ucsb-float-right {
+  float: right;
+  width: 360px;
+  margin: 0 0 1em 1em;
+}
+
+@media (max-width: 600px) {
+  .ucsb-float-right {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 0 1em 0 !important;
+  }
+}

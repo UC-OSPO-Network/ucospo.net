@@ -20,9 +20,11 @@ The DECAL (Davis Excellent/Eclectic/Extreme Computational Analytics Lab) is happ
 
 **[RepoWise](https://repowise.netlify.app)** is a purpose-built conversational AI framework that transforms how you interact with GitHub repositories. Instead of manually searching through documentation or crafting complex queries, you can simply ask questions in natural language and receive evidence-grounded answers with inline citations and provenance metadata.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-icon.png" alt="RepoWise Icon" width="150"/>
-</p>
+:::{figure} https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-icon.png
+:alt: RepoWise Icon
+:width: 150px
+:align: center
+:::
 
 > "RepoWise redefines repository analysis as an interactive, evidence-driven process, bridging the gap between human inquiry and software artifacts."
 
