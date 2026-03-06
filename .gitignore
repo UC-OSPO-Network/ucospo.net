@@ -8,6 +8,9 @@
 /resources/
 public/
 
+# Jupyter Book
+jbook/_build/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

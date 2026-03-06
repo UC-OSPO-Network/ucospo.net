@@ -1,0 +1,61 @@
+version: 1
+project:
+  title: UC OSPO Network
+  description: UC OSPO Network Website
+  authors:
+    - name: UC OSPO Network
+  copyright: "2024"
+  github: https://github.com/UC-OSPO-Network/ucospo.net
+  toc:
+    - file: index.md
+    - title: About
+      children:
+        - file: about.md
+        - file: guiding-themes/index.md
+          children:
+            - file: guiding-themes/discovery.md
+            - file: guiding-themes/education.md
+            - file: guiding-themes/sustainability.md
+    - file: news.md
+    - title: Events
+      children:
+        - file: events/index.md
+        - file: events/uc-open-2026/index.md
+        - file: events/uc-open-2026/sponsor.md
+    - title: Blog
+      children:
+        - file: posts/index.md
+        - file: posts/repowise-announcement.md
+        - file: posts/ossprey-announcement.md
+        - file: posts/uc-open-25-report/index.md
+        - file: posts/survey-launch/index.md
+        - file: posts/love-data-week-2025/index.md
+        - file: posts/uc-open-save-the-date/index.md
+        - file: posts/ospo-at-uc-tech/index.md
+        - file: posts/charting-a-course/index.md
+        - file: posts/launch/index.md
+    - title: Resources
+      children:
+        - file: oss-resources/index.md
+        - file: oss-resources/growing-community.md
+        - title: Template Guides
+          children:
+            - file: oss-resources/template-guides/readme-guide.md
+            - file: oss-resources/template-guides/contributing-guide.md
+            - file: oss-resources/template-guides/code-of-conduct-guide.md
+            - file: oss-resources/template-guides/license-guide.md
+        - file: oss-resources/survey/index.md
+    - title: Campuses
+      children:
+        - file: campus/davis.md
+        - file: campus/los-angeles.md
+        - file: campus/san-diego.md
+        - file: campus/santa-barbara.md
+        - file: campus/ucsb-meetup.md
+site:
+  options:
+    logo: _static/images/logo.svg
+    favicon: _static/images/favicon.ico
+    folders: true
+    style: _static/css/custom.css
+  template: book-theme
