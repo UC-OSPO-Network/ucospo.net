@@ -59,3 +59,13 @@ site:
     folders: true
     style: _static/css/custom.css
   template: book-theme
+  nav:
+    - title: About
+      url: /about
+    - title: Events
+      url: /events
+    - title: Resources
+      url: /oss-resources
+    - title: Blog
+      url: /posts
+
