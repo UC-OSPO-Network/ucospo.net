@@ -2,8 +2,6 @@ version: 1
 project:
   title: UC OSPO Network
   description: UC OSPO Network Website
-  authors:
-    - name: UC OSPO Network
   copyright: "2024"
   github: https://github.com/UC-OSPO-Network/ucospo.net
   toc:
@@ -61,5 +59,6 @@ site:
     favicon: _static/images/favicon.ico
     folders: true
     style: _static/css/custom.css
+    logo_text: "UC OSPO Network"
   template: book-theme
  

@@ -1,5 +1,5 @@
 ---
-title: UC OSPO Network
+# title: UC OSPO Network
 ---
 
 :::::{grid} 1 2 2 2
