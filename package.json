@@ -1,0 +1,11 @@
+{
+  "name": "ucospo-net",
+  "private": true,
+  "scripts": {
+    "build": "myst build --html",
+    "start": "myst start"
+  },
+  "devDependencies": {
+    "mystmd": "^1.8.2"
+  }
+}

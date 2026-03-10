@@ -1,11 +1,9 @@
 [build.environment]
-  PYTHON_VERSION = "3.13"
   NODE_VERSION = "20"
 
 [build]
-  base = "jbook"
   publish = "_build/html"
-  command = "pip install -r requirements.txt && jupyter-book build --html"
+  command = "npm ci && npx myst build --html"
 
 [context.deploy-preview]
   ignore = "false"

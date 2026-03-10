@@ -3,13 +3,12 @@
 \#*
 .DS_Store
 
-# Hugo
-.hugo*
-/resources/
-public/
+# Node
+node_modules/
+package-lock.json
 
-# Jupyter Book
-jbook/_build/
+# MyST build output
+_build/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
