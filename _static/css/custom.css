@@ -1,3 +1,20 @@
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/atkinson-hyperlegible-latin-400-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/atkinson-hyperlegible-latin-700-normal.woff2') format('woff2');
+}
+
+body {
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
 /* UC brand colors */
 :root {
   --pst-color-primary: #003cb3;

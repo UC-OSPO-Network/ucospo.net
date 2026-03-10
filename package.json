@@ -7,5 +7,8 @@
   },
   "devDependencies": {
     "mystmd": "^1.8.2"
+  },
+  "dependencies": {
+    "@fontsource/atkinson-hyperlegible": "^5.2.8"
   }
 }
