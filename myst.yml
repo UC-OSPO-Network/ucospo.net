@@ -13,9 +13,19 @@ project:
         - file: about/about.md
         - file: guiding-themes/index.md
           children:
-            - file: guiding-themes/discovery.md
-            - file: guiding-themes/education.md
-            - file: guiding-themes/sustainability.md
+            - file: about/guiding-themes/discovery.md
+            - file: about/guiding-themes/education.md
+            - file: about/guiding-themes/sustainability.md
+        - title: Campuses
+          children:
+            - title: Berkeley
+              url: https://ospo.berkeley.edu
+            - file: about/campus/davis.md
+            - file: about/campus/los-angeles.md
+            - file: about/campus/san-diego.md
+            - file: about/campus/santa-barbara.md
+            - title: Santa Cruz
+              url: https://ucsc-ospo.github.io/
     - file: news.md
     - title: Events
       children:
@@ -45,13 +55,6 @@ project:
             - file: oss-resources/template-guides/code-of-conduct-guide.md
             - file: oss-resources/template-guides/license-guide.md
         - file: oss-resources/survey/index.md
-    - title: Campuses
-      children:
-        - file: campus/davis.md
-        - file: campus/los-angeles.md
-        - file: campus/san-diego.md
-        - file: campus/santa-barbara.md
-        - file: campus/ucsb-meetup.md
 site:
   options:
     logo: _static/images/logo.svg
