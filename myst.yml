@@ -10,7 +10,7 @@ project:
     - file: index.md
     - title: About
       children:
-        - file: about.md
+        - file: about/about.md
         - file: guiding-themes/index.md
           children:
             - file: guiding-themes/discovery.md
