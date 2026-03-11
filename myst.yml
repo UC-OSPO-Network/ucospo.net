@@ -60,6 +60,7 @@ site:
     folders: true
     style: static/css/custom.css
     logo_text: "UC OSPO Network"
+    hide_footer_links: true
   template: book-theme
   parts:
     footer: footer.md

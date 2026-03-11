@@ -1,7 +1,5 @@
 ---
 title: Blog
-site:
-  hide_footer_links: true
 ---
 
 # Blog
