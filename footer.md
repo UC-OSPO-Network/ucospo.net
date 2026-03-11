@@ -5,11 +5,11 @@
 
 ::::{div}
 :class: uco-footer-brand
-:::{image} _static/images/uc-ospo-network-logo.svg
+:::{image} \_static/images/uc-ospo-network-logo.svg
 :alt: UC OSPO Network
 :class: uco-logo-dark
 :::
-:::{image} _static/images/uc-ospo-network-logo-light.svg
+:::{image} \_static/images/uc-ospo-network-logo-light.svg
 :alt: UC OSPO Network
 :class: uco-logo-light
 :::

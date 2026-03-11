@@ -78,13 +78,15 @@ def collect_posts() -> list[dict]:
         except ValueError:
             continue
 
-        posts.append({
-            "title": fm["title"],
-            "date": post_date,
-            "description": fm.get("description", ""),
-            "url": url,
-            "image": image,
-        })
+        posts.append(
+            {
+                "title": fm["title"],
+                "date": post_date,
+                "description": fm.get("description", ""),
+                "url": url,
+                "image": image,
+            }
+        )
 
     return sorted(posts, key=lambda p: p["date"], reverse=True)
 
