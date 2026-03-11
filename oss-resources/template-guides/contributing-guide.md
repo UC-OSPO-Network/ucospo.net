@@ -112,4 +112,4 @@ All OSS projects need a Code of Conduct (COC) to establish expectations of behav
 
 ## Attribution
 
-We're grateful to the team at CNCF for creating an [excellent guide](https://contribute.cncf.io/maintainers/templates/contributing/) we've referred to _extensively_ in writing this one!
+We're grateful to the team at CNCF for creating an [excellent guide](https://contribute.cncf.io/maintainers/templates/) we've referred to _extensively_ in writing this one!

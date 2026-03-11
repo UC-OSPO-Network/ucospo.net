@@ -44,7 +44,7 @@ These are tutorials we've come across and recommend (with a few we've written ou
 
 - [Continuous Integration and Delivery with GitHub Actions](https://intersect-training.org/CI-CD/)
 - [CI/CD for Research Software with GitLab CI](https://hsf-training.github.io/hsf-training-cicd/)
-- [Unit Testing and TDD in Python](https://intersect-training.org/testing-lesson/)
+- [Unit Testing and TDD in Python](https://intersect-training.org/curriculum/)
 - [Tools and practices for FAIR research software](https://carpentries-incubator.github.io/fair-research-software/)
 - [Reproducible Research](https://book.the-turing-way.org/reproducible-research/reproducible-research)
 - [Intermediate Research Software Development Skills (Python) Lesson Material](https://carpentries-incubator.github.io/python-intermediate-development/)

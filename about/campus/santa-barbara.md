@@ -66,7 +66,7 @@ individual open source goals. This is a great opportunity to meet others
 interested in open source, share tips and experiences, and be a part of a larger
 open source community at UCSB.</p>
 <div class="btn-left-wrapper">
-  <a href="/campus/ucsb-meetup" class="btn-ucsb-secondary">Visit the meetup webpage!</a>
+  <a href="/about/campus/ucsb-meetup" class="btn-ucsb-secondary">Visit the meetup webpage!</a>
 </div>
 <h3>Sustainability Playbook</h3>
 <div style="overflow: auto; margin-bottom: 2rem;">
