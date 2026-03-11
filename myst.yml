@@ -34,8 +34,10 @@ project:
     - title: Events
       children:
         - file: events/index.md
-        - file: events/uc-open-2026/index.md
-        - file: events/uc-open-2026/sponsor.md
+        - title: UC Open 2026
+          children:
+            - file: events/uc-open-2026/index.md
+            - file: events/uc-open-2026/sponsor.md
     - title: Blog
       children:
         - file: posts/index.md
