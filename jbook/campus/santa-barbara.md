@@ -77,9 +77,9 @@ open source community at UCSB.</p>
      style="float: left; width: 250px; height: auto; margin: 0 1rem 1rem 0;"/>
 <p>Since our recent survey showed that many open source contributors are struggling
 with project sustainability, we plan to create a website with resources on the topic.
-We are calling it the &#8220;Sustainability Playbook&#8221;. It will be tailored to UC throughout,
+We are calling it the Sustainability Playbook. It will be tailored to UC throughout,
 pointing readers to the relevant staff offices that can help, with tips and tricks for
-navigating UC&#8217;s administrative channels. The playbook will be rich with interviews
+navigating UC's administrative channels. The playbook will be rich with interviews
 from UC developers and project stewards discussing how they have so far succeeded in
 sustaining an open source project.</p>
 </div>
@@ -97,7 +97,7 @@ sustaining an open source project.</p>
      style="width: 150px; height: 249px; display: block; margin: 0 auto;"/>
 </div>
 <p>Our team recently spearheaded a survey of nearly 300 open source contributors
-as part of the UC OSPO Network&#8217;s discovery activities. You can
+as part of the UC OSPO Network's discovery activities. You can
 <a href="https://ucospo.net/oss-resources/survey/">read more about the survey here</a>. The
 preprint is available now, and the paper is undergoing peer review.</p>
 </div>
