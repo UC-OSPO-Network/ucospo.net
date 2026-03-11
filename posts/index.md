@@ -6,8 +6,9 @@ site:
 
 # Blog
 
-::::{div} blog-cards
-:::{grid} 1 2 3 3
+:::::{div}
+:class: blog-cards
+::::{grid} 1 2 3 3
 
 :::{card} Introducing RepoWise
 :link: /posts/repowise-announcement
@@ -88,5 +89,5 @@ A recap of the UC-wide OSPO Network kick-off event, bringing together six campus
 The Alfred P. Sloan Foundation funds a two-year pilot to create coordinated open source program offices across the UC system.
 :::
 
-:::
 ::::
+:::::

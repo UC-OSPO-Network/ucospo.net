@@ -49,6 +49,14 @@ html {
   color: #ff9100;
 }
 
+.dark .article a {
+  color: #7ab3ff;
+}
+
+.dark .article a:hover {
+  color: #ff9100;
+}
+
 /* Strong weight: Hugo/browser default 700, book-theme Tailwind uses 600 */
 .article strong {
   font-weight: 700;
@@ -311,4 +319,46 @@ article.content {
 [data-theme="dark"] .uco-footer-social img,
 .dark .uco-footer-social img {
   filter: invert(1);
+}
+
+/* ── Blog cards ─────────────────────────────────────────────────── */
+
+.blog-cards .myst-card {
+  border-top: 3px solid #003cb3;
+  transition: box-shadow 0.2s ease;
+}
+
+.blog-cards .myst-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 60, 179, 0.15);
+}
+
+/* Body text: override link color inherited from <a> card wrapper */
+.blog-cards .myst-card-body p {
+  color: #222832 !important;
+}
+
+.dark .blog-cards .myst-card-body p {
+  color: #e0e0e0 !important;
+}
+
+/* Muted footer date */
+.blog-cards .myst-card-footer p {
+  color: #222832;
+  opacity: 0.6;
+  font-size: 0.85rem;
+}
+
+.dark .blog-cards .myst-card-footer p {
+  color: #e0e0e0;
+}
+
+/* Uniform thumbnail height */
+.blog-cards .myst-card-body img {
+  max-height: 80px;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-bottom: 0.75rem;
 }
