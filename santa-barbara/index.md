@@ -53,10 +53,10 @@ Join our mailing list
 
 <!-- CURRENT PROJECTS -->
 
-:::::{div}
-:class: curr-projs-container ucsb-panel-light
+::::{div}
+:class: ucsb-panel-light
 
-## Current projects
+:::{card} Current projects
 
 ### UCSB Open Source Meetup
 
@@ -74,11 +74,9 @@ individual open source goals. This is a great opportunity to meet others
 interested in open source, share tips and experiences, and be a part of a larger
 open source community at UCSB.
 
-::::{div}
-:class: btn-left-wrapper
-
+<div class="btn-center-wrapper">
 <a href="/santa-barbara/ucsb-projects/meetup" class="btn-ucsb-secondary">Visit the meetup webpage!</a>
-::::
+</div>
 
 ### Sustainability Playbook
 
@@ -96,14 +94,16 @@ from UC developers and project stewards discussing how they have so far succeede
 sustaining an open source project.</p>
 </div>
 
-:::::
+:::
+
+::::
 
 <!-- PAST PROJECTS -->
 
-:::::{div}
-:class: past-projs-container ucsb-panel-dark
+::::{div}
+:class: ucsb-panel-dark
 
-## Past projects
+:::{card} Past projects
 
 ### UC Open Source Survey
 
@@ -120,7 +120,9 @@ as part of the UC OSPO Network's discovery activities. You can
 preprint is available now, and the paper is undergoing peer review.</p>
 </div>
 
-:::::
+:::
+
+::::
 
 ## What's the status of the UCSB OSPO?
 
