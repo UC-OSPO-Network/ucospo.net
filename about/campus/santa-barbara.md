@@ -98,7 +98,7 @@ sustaining an open source project.</p>
 </div>
 <p>Our team recently spearheaded a survey of nearly 300 open source contributors
 as part of the UC OSPO Network&#8217;s discovery activities. You can
-<a href="https://ucospo.net/oss-resources/survey/">read more about the survey here</a>. The
+<a href="https://ucospo.net/oss-resources/survey/">read more about the UC Open Source Contributor Survey</a>. The
 preprint is available now, and the paper is undergoing peer review.</p>
 </div>
 </div>

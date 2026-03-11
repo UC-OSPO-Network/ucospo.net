@@ -55,6 +55,7 @@ project:
         - file: oss-resources/survey/index.md
 site:
   options:
+    lang: en
     logo: static/images/logo.svg
     favicon: static/images/favicon.ico
     folders: true

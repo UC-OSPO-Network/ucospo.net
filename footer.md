@@ -17,9 +17,9 @@
 
 ::::{div}
 :class: uco-footer-social
-[![GitHub](static/images/icons/github.svg)](https://github.com/UC-OSPO-Network/)
-[![Slack](static/images/icons/slack.svg)](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg)
-[![RSS](static/images/icons/rss.svg)](/atom.xml)
+[![UC OSPO Network on GitHub](static/images/icons/github.svg)](https://github.com/UC-OSPO-Network/)
+[![UC OSPO Network on Slack](static/images/icons/slack.svg)](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg)
+[![RSS feed](static/images/icons/rss.svg)](/atom.xml)
 ::::
 
 :::::

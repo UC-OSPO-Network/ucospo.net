@@ -46,11 +46,42 @@ title: 2025 UC Open Source Contributor Survey
     background-color: rgba(0,0,0,0.9);
 }
 .modal-content {
+    position: relative;
     margin-top: 7vh;
     margin-bottom: 7vh;
     max-width: 600px;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
+}
+.infographic-preview-btn {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    display: block;
+    width: 100px;
+}
+.infographic-preview-btn:focus-visible {
+    outline: 2px solid #003cb3;
+    outline-offset: 2px;
+}
+.modal-close {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.75rem;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+}
+.modal-close:hover,
+.modal-close:focus {
+    opacity: 0.7;
+    outline: 2px solid white;
+    outline-offset: 2px;
 }
 @media screen and (min-width: 611px) and (max-width: 713px) {
     .modal-content { max-width: 500px; }
@@ -117,12 +148,19 @@ a closer look.
     </div>
     <div class="infographic-spacer"></div>
     <div style="width: 100px">
-        <img
-        src="infographic_small.png"
-        alt="Infographic about the survey"
-        class="infographic-preview"
-        width="100"
+        <button
+            type="button"
+            class="infographic-preview-btn"
+            aria-haspopup="dialog"
+            aria-label="View full infographic (opens dialog)"
         >
+            <img
+                src="infographic_small.png"
+                alt=""
+                class="infographic-preview"
+                width="100"
+            >
+        </button>
     </div>
     <div style="width: 1rem"></div>
     <a style="padding-top: 10px; display: inline;" href="infographic.pdf"
@@ -131,13 +169,14 @@ a closer look.
     </a>
 </div>
 
-<div id="myModal" class="modal">
+<div id="myModal" class="modal" role="dialog" aria-modal="true" aria-label="Survey infographic" aria-describedby="infographic-sr-content">
 <div class="modal-content">
-    <img src="infographic.png">
+    <button type="button" class="modal-close" aria-label="Close infographic">×</button>
+    <img src="infographic.png" alt="UC Open Source Contributor Survey 2025 infographic">
 </div>
 </div>
 
-<span class="screen-reader-only">
+<span id="infographic-sr-content" class="screen-reader-only">
     <p>Here is the content of the infographic.</p>
     <p>The University of California Open Source Survey 2025. Brought to you by the UC OSPO Network.</p>
     <p>Key results. 92% of students and 93% of researchers report that open source is important for their work. 58% of UC open source contributors are project maintainers. Who contributes to large projects? 27% of academics and 43% of non-research staff occasionally or frequently contribute to large projects. The number one challenge, that is, the most frequent challenge for experienced contributors, was finding time for documentation.</p>
@@ -197,20 +236,31 @@ effort, please reach out to us at ospo@library.ucsb.edu.
   https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md
 
 <script>
-const previewImg = document.querySelector('.infographic-preview');
+const previewBtn = document.querySelector('.infographic-preview-btn');
+const modal = document.getElementById('myModal');
+const modalClose = document.querySelector('.modal-close');
 const docBody = document.body;
 
-previewImg.addEventListener('click', (e) => {
-    modal.style.display = "flex";
-    docBody.style.overflow = "hidden";
+function openModal() {
+    modal.style.display = 'flex';
+    docBody.style.overflow = 'hidden';
+    modalClose.focus();
+}
+
+function closeModal() {
+    modal.style.display = 'none';
+    docBody.style.overflow = 'visible';
+    previewBtn.focus();
+}
+
+previewBtn.addEventListener('click', openModal);
+modalClose.addEventListener('click', closeModal);
+
+modal.addEventListener('click', (e) => {
+    if (e.target === modal) closeModal();
 });
 
-const modal = document.getElementById("myModal");
-
-window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-        docBody.style.overflow = "visible";
-    }
-}
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && modal.style.display === 'flex') closeModal();
+});
 </script>
