@@ -1,0 +1,10 @@
+{
+  "recurse": true,
+  "verbosity": "error",
+  "skip": [
+    "linkedin\\.com",
+    "twitter\\.com",
+    "x\\.com",
+    "doi\\.org"
+  ]
+}

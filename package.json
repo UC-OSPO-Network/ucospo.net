@@ -4,12 +4,14 @@
   "type": "module",
   "scripts": {
     "build": "myst build --html && node scripts/generate-feed.js",
+    "check-links": "linkinator ./_build/html/ --recurse",
     "feed": "node scripts/generate-feed.js",
     "start": "myst start"
   },
   "devDependencies": {
     "feed": "^5.2.0",
     "gray-matter": "^4.0.3",
+    "linkinator": "^7.0.0",
     "mystmd": "^1.8.2"
   },
   "dependencies": {
