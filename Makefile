@@ -9,7 +9,7 @@ install: ## Install Node dependencies (mystmd)
 
 html: ## Build MyST site in ./_build/html
 html: install
-	npx myst build --html
+	npx myst build --html && node scripts/generate-feed.js
 
 serve: ## Serve MyST site locally (live reload)
 serve: install

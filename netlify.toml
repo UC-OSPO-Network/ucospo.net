@@ -3,7 +3,7 @@
 
 [build]
   publish = "_build/html"
-  command = "npm ci && npx myst build --html"
+  command = "npm ci && npx myst build --html && node scripts/generate-feed.js"
 
 [context.deploy-preview]
   ignore = "false"
