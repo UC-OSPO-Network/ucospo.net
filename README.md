@@ -5,7 +5,7 @@ The [UC OSPO Network](https://ucospo.net) website, built with [MyST](https://mys
 ## Prerequisites
 
 - [Node.js](https://nodejs.org) v20+ and npm
-- [Python](https://www.python.org) 3.10+ (for pre-commit hooks only)
+- [Python](https://www.python.org) 3.10+ (optional, for pre-commit hooks)
 
 ## Local development
 
@@ -18,13 +18,13 @@ cd ucospo.net
 
 ### 2. Install dependencies
 
-Install the MyST build tool:
-
 ```bash
 npm install
 ```
 
-Install pre-commit hooks (optional but recommended):
+### 3. (Optional) Set up pre-commit hooks
+
+Pre-commit hooks run Prettier, Black, and codespell automatically before each commit. To enable them, first create a Python virtual environment and install the hook:
 
 ```bash
 python3 -m venv .venv
@@ -33,7 +33,9 @@ pip install -r requirements.txt
 pre-commit install
 ```
 
-### 3. Preview the site
+If you skip this step, the `pre-commit.ci` bot will check your PR automatically instead.
+
+### 4. Preview the site
 
 ```bash
 make serve
@@ -42,7 +44,7 @@ make serve
 
 This starts a live-reload dev server, typically at <http://localhost:3000>.
 
-### 4. Build a static copy
+### 5. Build a static copy
 
 ```bash
 make html
