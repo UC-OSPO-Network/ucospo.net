@@ -40,13 +40,16 @@ mailing list, which includes a monthly newsletter and occasional announcements.
 You can unsubscribe at any time.
 
 <!-- BUTTON: JOIN OUR MAILING LIST -->
-<div class="btn-center-wrapper">
-  <a href="https://signup.e2ma.net/signup/2045162/1984731/"
-     class="btn-ucsb-primary"
-     target="_blank">
-    Join our mailing list
-  </a>
-</div>
+
+::::{div}
+:class: btn-center-wrapper
+
+<a href="https://signup.e2ma.net/signup/2045162/1984731/"
+   class="btn-ucsb-primary"
+   target="_blank">
+Join our mailing list
+</a>
+::::
 
 <!-- CURRENT PROJECTS -->
 <div class="curr-projs-container ucsb-panel-light">

@@ -109,8 +109,7 @@ title: 2025 UC Open Source Contributor Survey
 </style>
 
 Welcome to the homepage for the 2025 UC Open Source Contributor Survey! Here
-you'll find all the <a href="#links-to-research-products">artifacts associated
-with this study</a>, a summary of what it's all about, and updates on our
+you'll find all the [artifacts associated with this study](#links-to-research-products), a summary of what it's all about, and updates on our
 ongoing research.
 
 ## Summary and key findings
@@ -216,7 +215,9 @@ open source repos. This may happen in the second half of 2026.
 If you are interested in collaborating with us on this or on another research
 effort, please reach out to us at ospo@library.ucsb.edu.
 
-<h2 id=links-to-research-products> Links to research products </h2>
+(links-to-research-products)=
+
+## Links to research products
 
 - **Preprint:** https://doi.org/10.31235/osf.io/p8bx6_v1
   - To find the preprint's supplementary materials, you have to go the 'Project'
