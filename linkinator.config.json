@@ -1,6 +1,10 @@
 {
   "recurse": true,
   "verbosity": "error",
+  "retryErrors": true,
+  "retryErrorsCount": 3,
+  "retryErrorsJitter": 2000,
+  "timeout": 15000,
   "skip": [
     "linkedin\\.com",
     "twitter\\.com",
