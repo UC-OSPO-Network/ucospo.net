@@ -100,4 +100,4 @@ your schedule allows!
 Interested in helping co-organize the meetup? Let us know! Send us an email at
 ospo@library.ucsb.edu.
 
-[Back to UCSB Open Source Program Page](/campus/santa-barbara)
+[Back to UCSB Open Source Program Page](/santa-barbara)

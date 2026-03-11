@@ -18,12 +18,12 @@ project:
           children:
             - title: Berkeley
               url: https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo
-            - file: about/campus/davis.md
-            - file: about/campus/los-angeles.md
-            - file: about/campus/san-diego.md
-            - file: about/campus/santa-barbara.md
+            - file: davis/index.md
+            - file: los-angeles/index.md
+            - file: san-diego/index.md
+            - file: santa-barbara/index.md
               children:
-                - file: about/campus/ucsb-meetup.md
+                - file: santa-barbara/ucsb-projects/meetup.md
             - title: Santa Cruz
               url: https://ucsc-ospo.github.io/
     - file: news.md

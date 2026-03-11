@@ -4,10 +4,10 @@ title: UC Santa Barbara Open Source Program
 
 <!-- HERO IMAGE -->
 <figure>
-  <img src="../../static/images/ucsb/library2_1600.jpg"
-       srcset="../../static/images/ucsb/library2_640.jpg 640w,
-               ../../static/images/ucsb/library2_1280.jpg 1280w,
-               ../../static/images/ucsb/library2_1600.jpg 1600w"
+  <img src="../static/images/ucsb/library2_1600.jpg"
+       srcset="../static/images/ucsb/library2_640.jpg 640w,
+               ../static/images/ucsb/library2_1280.jpg 1280w,
+               ../static/images/ucsb/library2_1600.jpg 1600w"
        sizes="(max-width: 800px) 640px,
               (max-width: 1440px) 1280px,
               1600px"
@@ -61,7 +61,7 @@ Join our mailing list
 ### UCSB Open Source Meetup
 
 <div class="ucsb-float-right">
-  <img src="../../static/images/ucsb/ucsb_meetup.png"
+  <img src="../static/images/ucsb/ucsb_meetup.png"
        loading="lazy"
        alt="UCSB students working on laptops in a group setting" />
 </div>
@@ -77,14 +77,14 @@ open source community at UCSB.
 ::::{div}
 :class: btn-left-wrapper
 
-<a href="/about/campus/ucsb-meetup" class="btn-ucsb-secondary">Visit the meetup webpage!</a>
+<a href="/santa-barbara/ucsb-projects/meetup" class="btn-ucsb-secondary">Visit the meetup webpage!</a>
 ::::
 
 ### Sustainability Playbook
 
 <div class="ucsb-clearfix">
 <img class="suspb-image"
-     src="../../static/images/ucsb/susPB_logo.png"
+     src="../static/images/ucsb/susPB_logo.png"
      loading="lazy"
      alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text" />
 <p>Since our recent survey showed that many open source contributors are struggling
@@ -109,7 +109,7 @@ sustaining an open source project.</p>
 
 <div class="ucsb-clearfix">
 <div class="ucsb-thumbnail-wrapper">
-<img src="../../static/images/ucsb/infographic_small_crop.png"
+<img src="../static/images/ucsb/infographic_small_crop.png"
      loading="lazy"
      alt="Thumbnail preview of an infographic"
      class="ucsb-thumbnail-img" />
@@ -150,7 +150,7 @@ gravity for this work for the foreseeable future.
 ::::{div}
 :class: ospo-img
 
-<img src="../../static/images/ucsb/UCSB-ospo.png"
+<img src="../static/images/ucsb/UCSB-ospo.png"
      alt="UCSB open source programs logo" />
 ::::
 
