@@ -57,7 +57,6 @@ These are tutorials we've come across and recommend (with a few we've written ou
 
 ## Maintaining and Sustaining Software
 
-- [OpenSauced's guide to becoming a maintainer](https://opensauced.pizza/learn/becoming-a-maintainer)
 - [GitHub's Guides](https://opensource.guide/)
 - [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
 - [Finding Users for Your Project](https://opensource.guide/finding-users/)
