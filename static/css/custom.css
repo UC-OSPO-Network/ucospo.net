@@ -1,0 +1,393 @@
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/atkinson-hyperlegible-latin-400-normal.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/atkinson-hyperlegible-latin-700-normal.woff2")
+    format("woff2");
+}
+
+body {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+}
+
+/* UC brand colors */
+:root {
+  --pst-color-primary: #003cb3;
+  --pst-color-link: #003cb3;
+  --pst-color-link-hover: #ff9100;
+}
+
+/* Ensure navbar dropdowns appear above page content */
+.navbar {
+  position: relative;
+  z-index: 1000;
+}
+
+/* Match Hugo pydata-sphinx-theme body/prose styles */
+html {
+  line-height: 1.65;
+}
+
+/* Override Tailwind Typography prose variables to match Hugo */
+.article {
+  --tw-prose-links: #003cb3;
+  --tw-prose-body: #222832;
+}
+
+/* Link color and weight (.article a beats .article :where(a) in specificity) */
+.article a {
+  font-weight: 400;
+  color: #003cb3;
+}
+
+.article a:hover {
+  color: #ff9100;
+}
+
+.dark .article a {
+  color: #7ab3ff;
+}
+
+.dark .article a:hover {
+  color: #ff9100;
+}
+
+/* Strong weight: Hugo/browser default 700, book-theme Tailwind uses 600 */
+.article strong {
+  font-weight: 700;
+}
+
+/* List indentation: Hugo uses 2rem, book-theme Tailwind uses 1.625em */
+.article ul,
+.article ol {
+  padding-inline-start: 2rem;
+}
+
+/* ── UCSB campus pages ─────────────────────────────────────────── */
+
+/* Panel background variables */
+:root {
+  --ucsb-panel1-bg: #e9e6e2;
+  --ucsb-panel2-bg: #dcd6cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ucsb-panel1-bg: #3e3636;
+    --ucsb-panel2-bg: #1b2b34;
+  }
+}
+
+.ucsb-panel-light {
+  clear: both;
+  margin: 1.5rem 0;
+}
+
+.ucsb-panel-dark {
+  margin: 1.5rem 0;
+}
+
+.ucsb-panel-light .myst-card {
+  background-color: var(--ucsb-panel1-bg);
+  border-color: var(--ucsb-panel1-bg);
+}
+
+.ucsb-panel-dark .myst-card {
+  background-color: var(--ucsb-panel2-bg);
+  border-color: var(--ucsb-panel2-bg);
+}
+
+.suspb-image {
+  float: left;
+  width: 250px;
+  height: auto;
+  margin: 0 2rem 1rem 0 !important;
+  object-fit: contain;
+}
+
+.ucsb-clearfix {
+  overflow: auto;
+  margin-bottom: 2rem;
+}
+
+.ucsb-thumbnail-wrapper {
+  float: left;
+  width: 170px;
+  text-align: center;
+  margin: 0 1rem 1rem 0;
+}
+
+.ucsb-thumbnail-img {
+  width: 150px;
+  height: 249px;
+  display: block;
+  margin: 0 auto;
+}
+
+.ucsb-hero-img {
+  width: 100%;
+  height: auto;
+}
+
+.ucsb-hero-caption {
+  font-size: 0.5rem;
+  margin-top: 0;
+}
+
+@media screen and (max-width: 480px) {
+  .suspb-image {
+    min-width: 100px !important;
+    width: 100% !important;
+    height: auto !important;
+    margin-left: 0 !important;
+  }
+}
+
+.ospo-img {
+  float: right;
+  width: 180px;
+  margin: 0 0 1em 1em;
+}
+
+.ospo-img img {
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .ospo-img {
+    float: none !important;
+    display: block;
+    margin: 0 auto 1em auto;
+    width: 180px !important;
+  }
+}
+
+/* UC brand buttons */
+.btn-ucsb-primary {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #003660;
+  color: white !important;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  font-family: sans-serif;
+}
+
+.btn-ucsb-primary:hover {
+  background-color: #005799;
+  color: white !important;
+  text-decoration: none;
+}
+
+.btn-ucsb-secondary {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #ffffff;
+  color: black !important;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  border: 2px solid #003660;
+  font-family: sans-serif;
+}
+
+.btn-ucsb-secondary:hover {
+  background-color: #dce1e5;
+  color: black !important;
+  text-decoration: none;
+}
+
+.btn-center-wrapper {
+  clear: both;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ucsb-float-right {
+  float: right;
+  width: 360px;
+  margin: 0 0 1em 1em;
+}
+
+.ucsb-float-right img {
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .ucsb-float-right {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 0 1em 0 !important;
+  }
+}
+
+/* Sticky footer: body fills viewport, main grows, footer stays at bottom */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main.article-grid {
+  flex: 1 0 auto;
+}
+
+article.content {
+  min-height: unset;
+}
+
+/* ── Footer ────────────────────────────────────────────────────────── */
+
+/* Neutralize the book-theme <footer> wrapper (py-10, mt-10, shadow, bg-white)
+   so .uco-footer controls the footer appearance in both dev and static builds */
+footer.article-grid {
+  padding: 0 !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+.uco-footer {
+  background-color: #f5f5f5;
+  border-top: 1px solid #e0e0e0;
+  margin: 0 !important;
+  padding: 0.6rem 1rem;
+  align-items: center;
+  color: #333333; /* 12.6:1 contrast on #f5f5f5 — WCAG AAA */
+}
+
+@media (prefers-color-scheme: dark) {
+  .uco-footer {
+    color: inherit;
+    background-color: #1e1e1e;
+    border-top-color: #333;
+  }
+}
+
+.uco-footer-brand {
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+}
+
+.uco-footer-brand img {
+  height: auto;
+  width: 100%;
+  max-width: 360px;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+.uco-logo-light {
+  display: none;
+}
+
+@media (prefers-color-scheme: light) {
+  .uco-logo-dark {
+    display: none;
+  }
+  .uco-logo-light {
+    display: block;
+  }
+}
+
+.uco-footer-social {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 1rem;
+}
+
+/* Icons live inside a <p> — make it a flex row */
+.uco-footer-social p {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  margin: 0;
+}
+
+.uco-footer-social a {
+  display: inline-flex;
+  align-items: center;
+  opacity: 0.65;
+  text-decoration: none;
+}
+
+.uco-footer-social a:hover {
+  opacity: 1;
+  text-decoration: none;
+}
+
+.uco-footer-social img {
+  height: 28px;
+  width: 28px;
+  max-height: none !important;
+  display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+  .uco-footer-social img {
+    filter: invert(1);
+  }
+}
+
+[data-theme="dark"] .uco-footer-social img,
+.dark .uco-footer-social img {
+  filter: invert(1);
+}
+
+/* ── Blog cards ─────────────────────────────────────────────────── */
+
+.blog-cards .myst-card {
+  border-top: 3px solid #003cb3;
+  transition: box-shadow 0.2s ease;
+}
+
+.blog-cards .myst-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 60, 179, 0.15);
+}
+
+/* Body text: override link color inherited from <a> card wrapper */
+.blog-cards .myst-card-body p {
+  color: #222832 !important;
+}
+
+.dark .blog-cards .myst-card-body p {
+  color: #e0e0e0 !important;
+}
+
+/* Muted footer date */
+.blog-cards .myst-card-footer p {
+  color: #222832;
+  opacity: 0.6;
+  font-size: 0.85rem;
+}
+
+.dark .blog-cards .myst-card-footer p {
+  color: #e0e0e0;
+}
+
+/* Uniform thumbnail height */
+.blog-cards .myst-card-body img {
+  max-height: 80px;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-bottom: 0.75rem;
+}

@@ -1,17 +1,9 @@
 [build.environment]
-  PYTHON_VERSION = "3.13"
   NODE_VERSION = "20"
 
 [build]
-  base = "jbook"
   publish = "_build/html"
-  command = "pip install -r requirements.txt && jupyter-book build --html"
+  command = "npm ci && npx myst build --html && node scripts/generate-feed.js && npx linkinator ./_build/html/"
 
 [context.deploy-preview]
   ignore = "false"
-
-[[plugins]]
-  package = "netlify-plugin-checklinks"
-  [plugins.inputs]
-    # mermaid.core-*.js causes a parse error in checklinks' JS analyzer (not a broken link)
-    skipPatterns = ["mermaid", "cdnjs.cloudflare.com"]

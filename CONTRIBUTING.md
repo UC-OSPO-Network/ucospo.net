@@ -13,9 +13,8 @@ Thank you for investing your time in contributing to our project!
 
 - You can preview your changes to the site either:
   - Locally, as follows:
-    - [Install Hugo](https://gohugo.io/installation/)
-    - [Install Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass)
-    - Run `make serve`
+    - Install Node.js v20+ and run `npm install`
+    - Run `make serve` (or `npx myst start`)
   - Via Netlify's "deploy preview":
     - Create a draft PR
     - After Netlify finishes running its checks, click "Deploy Preview" in the comment created by the Netlify bot
@@ -67,9 +66,8 @@ Here are some resources to help you get started with open source contributions:
 
     - Commit locally as you progress (`git add` and `git commit`)
     - To preview your changes:
-      - [Install Hugo](https://gohugo.io/installation/)
-      - [Install Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass)
-      - Run `make serve`
+      - Install Node.js v20+ and run `npm install`
+      - Run `make serve` (or `npx myst start`)
     - To make sure your code is formatted as the linter expects, you can:
       - [Run Prettier from your terminal](https://prettier.io/docs/install) or as an extension in your IDE, e.g. the [VS Code Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
       - Wait until you've pushed your code and if the `pre-commit.ci` test fails, you can usually have the pre-commit bot push a fix to your branch by adding a comment on your PR with the text `pre-commit.ci autofix`
