@@ -131,7 +131,40 @@ html {
 }
 
 .suspb-image {
+  float: left;
+  width: 250px;
+  height: auto;
+  margin: 0 1rem 1rem 0;
   object-fit: contain;
+}
+
+.ucsb-clearfix {
+  overflow: auto;
+  margin-bottom: 2rem;
+}
+
+.ucsb-thumbnail-wrapper {
+  float: left;
+  width: 170px;
+  text-align: center;
+  margin: 0 1rem 1rem 0;
+}
+
+.ucsb-thumbnail-img {
+  width: 150px;
+  height: 249px;
+  display: block;
+  margin: 0 auto;
+}
+
+.ucsb-hero-img {
+  width: 100%;
+  height: auto;
+}
+
+.ucsb-hero-caption {
+  font-size: 0.5rem;
+  margin-top: 0;
 }
 
 @media screen and (max-width: 480px) {
@@ -141,6 +174,17 @@ html {
     height: auto !important;
     margin-left: 0 !important;
   }
+}
+
+.ospo-img {
+  float: right;
+  width: 180px;
+  margin: 0 0 1em 1em;
+}
+
+.ospo-img img {
+  width: 100%;
+  height: auto;
 }
 
 @media (max-width: 600px) {
@@ -209,6 +253,11 @@ html {
   float: right;
   width: 360px;
   margin: 0 0 1em 1em;
+}
+
+.ucsb-float-right img {
+  width: 100%;
+  height: auto;
 }
 
 @media (max-width: 600px) {
