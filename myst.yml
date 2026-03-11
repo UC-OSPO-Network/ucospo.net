@@ -22,6 +22,8 @@ project:
             - file: about/campus/los-angeles.md
             - file: about/campus/san-diego.md
             - file: about/campus/santa-barbara.md
+              children:
+                - file: about/campus/ucsb-meetup.md
             - title: Santa Cruz
               url: https://ucsc-ospo.github.io/
     - file: news.md
