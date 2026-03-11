@@ -61,4 +61,5 @@ site:
     style: _static/css/custom.css
     logo_text: "UC OSPO Network"
   template: book-theme
- 
+  parts:
+    footer: footer.md
