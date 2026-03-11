@@ -40,7 +40,7 @@ As the first system-wide OSPO network in a large university system, we are setti
 
 ## Team
 
-### Contact Us
+## Contact Us
 
 **Community Manager**: [Laura Langdon](mailto:lalangdon@ucdavis.edu) (if you're not sure who to talk to about something, talk to Laura! 😊)
 
