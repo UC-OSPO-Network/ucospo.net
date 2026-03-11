@@ -16,7 +16,7 @@ tr:nth-child(odd) {
 }
 </style>
 
-![Decorative banner for Open Source at UCSB](../_static/images/ucsb/ucsb_banner.png)
+![Decorative banner for Open Source at UCSB](../static/images/ucsb/ucsb_banner.png)
 
 ## Join us at the Open Source Meetup!
 

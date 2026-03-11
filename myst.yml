@@ -55,10 +55,10 @@ project:
         - file: oss-resources/survey/index.md
 site:
   options:
-    logo: _static/images/logo.svg
-    favicon: _static/images/favicon.ico
+    logo: static/images/logo.svg
+    favicon: static/images/favicon.ico
     folders: true
-    style: _static/css/custom.css
+    style: static/css/custom.css
     logo_text: "UC OSPO Network"
   template: book-theme
   parts:

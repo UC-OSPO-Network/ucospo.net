@@ -4,10 +4,10 @@ title: UC Santa Barbara Open Source Program
 
 <!-- HERO IMAGE -->
 <div style="float:center">
-  <img src="../../_static/images/ucsb/library2_1600.jpg"
-       srcset="../../_static/images/ucsb/library2_640.jpg 640w,
-               ../../_static/images/ucsb/library2_1280.jpg 1280w,
-               ../../_static/images/ucsb/library2_1600.jpg 1600w"
+  <img src="../../static/images/ucsb/library2_1600.jpg"
+       srcset="../../static/images/ucsb/library2_640.jpg 640w,
+               ../../static/images/ucsb/library2_1280.jpg 1280w,
+               ../../static/images/ucsb/library2_1600.jpg 1600w"
        sizes="(max-width: 800px) 640px,
               (max-width: 1440px) 1280px,
               1600px"
@@ -53,7 +53,7 @@ You can unsubscribe at any time.
 <h2>Current projects</h2>
 <h3>UCSB Open Source Meetup</h3>
 <div class="ucsb-float-right">
-  <img src="../../_static/images/ucsb/ucsb_meetup.png"
+  <img src="../../static/images/ucsb/ucsb_meetup.png"
        loading="lazy"
        alt="UCSB students working on laptops in a group setting"
        style="width:100%; height:auto;" />
@@ -71,7 +71,7 @@ open source community at UCSB.</p>
 <h3>Sustainability Playbook</h3>
 <div style="overflow: auto; margin-bottom: 2rem;">
 <img class="suspb-image"
-     src="../../_static/images/ucsb/susPB_logo.png"
+     src="../../static/images/ucsb/susPB_logo.png"
      loading="lazy"
      alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text"
      style="float: left; width: 250px; height: auto; margin: 0 1rem 1rem 0;"/>
@@ -91,7 +91,7 @@ sustaining an open source project.</p>
 <h3>UC Open Source Survey</h3>
 <div style="overflow: auto; margin-bottom: 2rem;">
 <div style="float: left; width: 170px; text-align: center; margin: 0 1rem 1rem 0;">
-<img src="../../_static/images/ucsb/infographic_small_crop.png"
+<img src="../../static/images/ucsb/infographic_small_crop.png"
      loading="lazy"
      alt="Thumbnail preview of an infographic"
      style="width: 150px; height: 249px; display: block; margin: 0 auto;"/>
@@ -129,7 +129,7 @@ gravity for this work for the foreseeable future.
 ## Get connected
 
 <div class="ospo-img" style="float:right; width:180px; margin:0 0 1em 1em;">
-  <img src="../../_static/images/ucsb/UCSB-ospo.png"
+  <img src="../../static/images/ucsb/UCSB-ospo.png"
        alt="UCSB open source programs logo"
        style="width:100%; height:auto;" />
 </div>

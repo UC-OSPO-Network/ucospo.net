@@ -63,7 +63,7 @@ events/           # event pages
 guiding-themes/   # guiding themes section
 oss-resources/    # open source resource guides
 posts/            # blog posts
-_static/          # images, CSS, and other static assets
+static/          # images, CSS, and other static assets
 ```
 
 ## Content conventions

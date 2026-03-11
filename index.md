@@ -5,7 +5,7 @@
 :::::{grid} 1 2 2 2
 
 ::::{grid-item}
-:::{image} \_static/images/uc-ospo-logo.png
+:::{image} static/images/uc-ospo-logo.png
 :alt: UC OSPO Logo
 :width: 180
 :::
