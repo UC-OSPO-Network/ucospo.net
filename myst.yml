@@ -9,7 +9,7 @@ project:
     - title: About
       children:
         - file: about/about.md
-        - file: guiding-themes/index.md
+        - file: about/guiding-themes/index.md
           children:
             - file: about/guiding-themes/discovery.md
             - file: about/guiding-themes/education.md
