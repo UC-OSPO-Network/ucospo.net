@@ -19,9 +19,13 @@ project:
             - title: Berkeley
               url: https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo
             - file: davis/index.md
+              title: Davis
             - file: los-angeles/index.md
+              title: Los Angeles
             - file: san-diego/index.md
+              title: San Diego
             - file: santa-barbara/index.md
+              title: Santa Barbara
               children:
                 - file: santa-barbara/ucsb-projects/meetup.md
             - title: Santa Cruz
