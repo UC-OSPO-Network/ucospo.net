@@ -13,3 +13,22 @@ Sponsorship tiers include:
 - **Hospitality Sponsorships (\$1,000-$2,000)**: Support meals, coffee breaks, and receptions
 
 All sponsors are prominently recognized on signage, the website, and promotional materials. Let's build the future of open source together—[contact us](mailto:slieggi@ucsc.edu) to explore how sponsorship can align with your organization's goals.
+
+## Our Sponsors
+
+::::{div}
+:class: sponsor-table
+
+```{list-table}
+:header-rows: 1
+:align: center
+
+* - **Gold**
+  - **Bronze**
+  - **Network Support**
+* - ![Amazon Web Services](../../static/images/sponsors/aws.png)
+  - ![Red Hat](../../static/images/sponsors/redhat.svg)
+  - ![Alfred P. Sloan Foundation](../../static/images/sponsors/sloan.png)
+```
+
+::::
