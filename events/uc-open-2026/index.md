@@ -12,6 +12,20 @@ Open source is reshaping research, infrastructure, and how academia connects wit
 
 Discover emerging UC projects before they reach the mainstream, build partnerships on production-ready technologies, and connect with the next generation of contributors. Whether you're looking for research partners, hiring talent, solving technical problems, or contributing expertise back to the academic open source community, UC Open 2026 connects university innovation with real-world application.
 
+## Keynote Speakers
+
+- **David Charron** — Topic to be announced
+- **Nithya Ruff** — Topic to be announced
+
+## Schedule at a Glance
+
+|             | Wednesday, April 22                         | Thursday, April 23                          |
+| ----------- | ------------------------------------------- | ------------------------------------------- |
+| **Times**   | 9:00 AM – 6:30 PM                           | 9:00 AM – 4:15 PM                           |
+| **Program** | Keynotes, Presentations, Panels, Networking | Keynotes, Presentations, Panels, Networking |
+
+_Full schedule coming soon._
+
 ## For UC Community
 
 - Showcase your open source work to industry and peer institutions
