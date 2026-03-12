@@ -78,7 +78,7 @@ Speakers: Tim Dennis (UCLA) - Laura Langdon (UC OSPO Network) - Reid Otsuji (UC 
 
 The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-working group where attendees can work on their open source goals. Bring your laptop and some work to do such as documentation cleanup, a feature to work on, or learning exercises to hone your coding skills.
 
-### UC Berkeley OSPO Monthly Knowledge exchange
+### Dec UC Berkeley OSPO Monthly Knowledge Exchange
 
 **When**: Thursday, December 4 2025 10:00-11:00am\
 **Where**: Zoom\
@@ -91,7 +91,7 @@ At our monthly live online discussion and knowledge exchanges, we can harness th
 Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO\
 Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
 
-### UCSB Open Source Meetup
+### Dec UCSB Open Source Meetup
 
 **When**: Wednesday, December 3 2025 at noon\
 **Where**: UCSB Library, Room 1312 (1st Floor Mountain Side, adjacent to the Learning Commons)\
@@ -124,7 +124,7 @@ Join us for the Fall edition of the UC open source contributors & maintainers vi
 
 All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
 
-### UC Berkeley OSPO Monthly Knowledge exchange
+### Nov UC Berkeley OSPO Monthly Knowledge Exchange
 
 **When**: Thursday, November 6 2025 10:00-11:00am\
 **Where**: Zoom\
@@ -213,7 +213,7 @@ Are you experienced with open source software or hardware, or just curious about
 
 In partnership with UC's new Open Source Program Office (OSPO) Network, the UCSD OSPO is hosting a casual meetup on October 2nd. We'll provide a space where experienced and aspiring open source contributors can learn from one another through casual discussions and talks from guest speakers. This is a lunch-and-learn event, so bring your lunch and we'll bring cookies!
 
-### UC Berkeley OSPO Monthly Knowledge exchange
+### Oct UC Berkeley OSPO Monthly Knowledge Exchange
 
 **When**: Thursday, October 2 2025 10:00-11:00am\
 **Where**: Zoom\
@@ -226,7 +226,7 @@ At our monthly live online discussion and knowledge exchanges, we can harness th
 Facilitator: Jarrod Millman, Executive Director, Berkeley OSPO\
 Facilitator: Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science (BIDS)
 
-### UCSB Open Source Meetup
+### Oct UCSB Open Source Meetup
 
 **When**: Wednesday, October 1 2025 at noon\
 **Where**: UCSB Library, Room 1312 (1st Floor Mountain Side, adjacent to the Learning Commons.)\
@@ -271,7 +271,7 @@ Contact: [Lilli Wessling Hart](mailto:lilli@berkeley.edu)
 
 Hacktoberfest is a global October celebration that encourages people to contribute to open source projects, making it a perfect time to welcome new contributors to your project! Join us for a UC-wide coworking session designed specifically for open source maintainers who want to make their projects more contributor-friendly. We'll provide templates and examples for essential docs like README files, CONTRIBUTING guides, and issue templates, plus we'll be available to answer questions and review your repositories. Whether you need help crafting welcoming documentation or just want dedicated time to tackle those important-but-often-postponed admin tasks, this session will help you prepare your project to shine during Hacktoberfest and beyond!
 
-### UCSB Open Source Meetup
+### Sep UCSB Open Source Meetup
 
 **When**: Wednesday, September 3 2025 at noon\
 **Where**: Zoom: [Join the meeting](https://ucsb.zoom.us/j/83473017071)\
@@ -280,7 +280,7 @@ Hacktoberfest is a global October celebration that encourages people to contribu
 
 This month, we'll be joined by a special guest: Pasquale Ferrari, Senior Licensing Officer at UCSB's Office of Technology & Industry Alliances (TIA). Pasquale will tell us about how TIA supports open source projects at UCSB, and you can ask questions about licensing and pathways for open source development. Note that this meetup will be held over Zoom.
 
-### UCSB Open Source Meetup
+### Aug UCSB Open Source Meetup
 
 **When**: Wednesday, August 6 2025 at noon\
 **Where**: UCSB Library, Room 1312 (1st Floor Mountain Side, adjacent to the Learning Commons)\
@@ -301,7 +301,7 @@ Join us for the inaugural UC open source contributors & maintainers virtual meet
 
 All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
 
-### UCSB Open Source Meetup
+### Jun UCSB Open Source Meetup
 
 **When**: Wednesday, Jun 4, 2025 at noon\
 **Where**: UCSB Library, Room 1411 (in the Sara Miller McCune Arts library)\

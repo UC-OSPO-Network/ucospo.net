@@ -2,9 +2,8 @@
 title: "Directed Discussion: Supporting Open Source Contributions from UC-affiliated Technologists"
 ---
 
-**Thursday, April 24 2025**
-
-**2:00-2:50**
+**Date:** Thursday, April 24 2025\
+**Time:** 2:00-2:50
 
 A Directed Discussion led by [Shawn DeArmond (UCD)](../speakers/shawn-dearmond.md)
 

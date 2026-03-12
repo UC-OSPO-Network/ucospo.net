@@ -2,8 +2,6 @@
 title: Blog
 ---
 
-# Blog
-
 :::::{div}
 :class: blog-cards
 ::::{grid} 1 2 3 3

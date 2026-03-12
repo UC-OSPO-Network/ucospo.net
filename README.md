@@ -55,7 +55,7 @@ Output goes to `_build/html/`.
 
 ## Project structure
 
-```
+```text
 myst.yml          # site config and table of contents
 index.md          # home page
 about.md          # about page

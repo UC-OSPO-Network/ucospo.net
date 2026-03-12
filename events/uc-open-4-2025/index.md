@@ -22,9 +22,8 @@ This isn't just another professional obligation. UC Open promises to be:
 
 _Thanks to the generosity of our sponsors, we are able to make this event **free of charge** for all participants and we will provide a light breakfast and lunch on both days as well as a buffet/reception at the end of the first day._
 
-**Date: 23 & 24 April 2025**
-
-**Location: [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/facility/) Santa Clara, CA**
+**Date:** 23 & 24 April 2025\
+**Location:** [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/facility/) Santa Clara, CA
 
 ## Sponsorship
 

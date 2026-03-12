@@ -2,9 +2,8 @@
 title: "OSS Sustainability"
 ---
 
-**Wednesday, April 23 2025**
-
-**11:25-12:35**
+**Date:** Wednesday, April 23 2025\
+**Time:** 11:25-12:35
 
 ## Description
 

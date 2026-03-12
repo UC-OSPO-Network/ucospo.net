@@ -16,7 +16,7 @@ tr:nth-child(odd) {
 }
 </style>
 
-![](../../static/images/ucsb/ucsb_banner.png)
+![UCSB Open Source Meetup banner](../../static/images/ucsb/ucsb_banner.png)
 
 ## Join us at the Open Source Meetup!
 
@@ -98,6 +98,6 @@ your schedule allows!
 ### Get involved!
 
 Interested in helping co-organize the meetup? Let us know! Send us an email at
-ospo@library.ucsb.edu.
+[ospo@library.ucsb.edu](mailto:ospo@library.ucsb.edu).
 
 [Back to UCSB Open Source Program Page](/santa-barbara)

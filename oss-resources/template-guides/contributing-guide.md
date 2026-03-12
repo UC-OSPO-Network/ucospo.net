@@ -21,7 +21,7 @@ Your contributing guide is the first place that new contributors will look to un
 - [Asking for Help](#asking-for-help)
 - [Norms for Commits](#norms-for-commits)
 - [Pull Request Lifecycle](#pull-request-lifecycle)
-- [Code of Conduct](#contributing-code-of-conduct)
+- [Code of Conduct](#code-of-conduct)
 
 ## Ways to Contribute
 

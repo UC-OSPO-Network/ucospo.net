@@ -2,9 +2,8 @@
 title: "From Idea to Impact — Charting Creation and Adoption of Open Source Coming from Academia"
 ---
 
-**Wednesday, April 23 2025**
-
-**9:50-10:50**
+**Date:** Wednesday, April 23 2025\
+**Time:** 9:50-10:50
 
 **Moderator**: [Stephanie Lieggi (CROSS / UCSC)](../speakers/stephanie-lieggi.md)
 

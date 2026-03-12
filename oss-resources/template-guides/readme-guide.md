@@ -24,7 +24,7 @@ A Table of Contents makes it easier for readers to find the information they're 
 - [Usage](#usage)
 - [Roadmap (optional)](#roadmap-optional)
 - [Contributing (optional)](#contributing-optional)
-  - [Code of Conduct](#readme-code-of-conduct)
+  - [Code of Conduct](#code-of-conduct)
 - [FAQ (optional)](#faq-optional)
 - [License](#license)
 - [Contact (optional)](#contact-optional)
@@ -173,11 +173,11 @@ Please read check out the [Code of Conduct for more detail!](code-of-conduct-gui
 
 Any question you've been asked more than once (or suspect you'll be asked more than once!) is a good candidate for an FAQ entry. And if you end up with more than a few FAQ entries, you'll be ready to starting writing dedicated docs (stay tuned for help with that!)
 
-**Question 1**
+**Q:** Question 1
 
 Answer 1
 
-**Question 2**
+**Q:** Question 2
 
 Answer 2
 
