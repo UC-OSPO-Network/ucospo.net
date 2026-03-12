@@ -159,7 +159,7 @@ gravity for this work for the foreseeable future.
 - To stay informed about our activities, <a
     href="https://signup.e2ma.net/signup/2045162/1984731/"
     target="_blank"> join our mailing list </a>.
-- For inquiries, email us at ospo@library.ucsb.edu.
+- For inquiries, [email us](mailto:ospo@library.ucsb.edu).
 - We're also on Slack! If you'd like an invitation, please email us.
 - Our team:
   - Virginia Scarlett, Open Source Programs Specialist

@@ -38,9 +38,8 @@ UC Open 2025 was made possible through the generous support of several sponsors:
 
 **🌟 Platinum Sponsors 🌟: Red Hat, the Chan Zuckerberg Initiative, and Alfred P. Sloan Foundation.**
 
-**Silver Sponsor: UCSC's Center for Research in Open Source Software (CROSS)**
-
-**Bronze Sponsor: GitHub**
+**Silver Sponsor:** UCSC's Center for Research in Open Source Software (CROSS)\
+**Bronze Sponsor:** GitHub
 
 The event also received significant support from **UCSC's Baskin Engineering**, which provided the venue and technical support for the entire event.
 

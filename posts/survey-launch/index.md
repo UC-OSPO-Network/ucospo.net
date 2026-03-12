@@ -6,9 +6,11 @@ author: Virginia Scarlett
 tags: [network, survey]
 ---
 
-![Close-up of a pair of hands using a phone beside a computer](firmbee-com-unsplash-small.jpg)
+:::{figure} firmbee-com-unsplash-small.jpg
+:alt: Close-up of a pair of hands using a phone beside a computer
 
-_Image courtesy of firmbee.com via Unsplash_
+Image courtesy of firmbee.com via Unsplash
+:::
 
 The UC OSPO Network is thrilled to announce that our survey, "Challenges and
 Opportunities in Open Source", is underway. Led by a research team at UC Santa

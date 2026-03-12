@@ -23,7 +23,7 @@ These are tutorials we've come across and recommend (with a few we've written ou
 - [Maintaining and Sustaining Software](#maintaining-and-sustaining-software)
 - [Building Community for Your Project](#building-community-for-your-project)
 - [Software Packaging](#software-packaging)
-- [Licensing and Compliance](#understanding-licensing-compliance)
+- [Licensing and Compliance](#understanding-licensing--compliance)
 
 ## Getting Started with Open Source
 

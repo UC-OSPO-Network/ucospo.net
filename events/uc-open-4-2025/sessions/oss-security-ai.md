@@ -2,16 +2,15 @@
 title: "Technical Session: Open Source Software Security in AI"
 ---
 
-**Thursday, April 24 2025**
-
-**10:30-11:20**
+**Date:** Thursday, April 24 2025\
+**Time:** 10:30-11:20
 
 **Moderators**:
 
 - [Alvaro Cardenas UCSC](../speakers/alvaro-cardenas.md)
 - [Juanita Gomez UCSC](../speakers/juanita-gomez.md)
 
-**Panelist**
+**Panelist:**
 
 - [Mihai Maruseac (Google)](../speakers/mihai-maruseac.md)
 

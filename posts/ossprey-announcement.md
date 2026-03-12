@@ -20,6 +20,8 @@ Open Source Software (OSS) powers everything from academic research to mission-c
 
 The OSSPREY paper has also been accepted in the <a href="https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track" target="_blank">Automated Software Engineering 2025 Tool Demonstration Track</a>.
 
+<!-- markdownlint-disable-next-line MD034 -->
+
 :::{figure} https://oss-prey.github.io/OSSPREY-Website/static/images/favicon.ico
 :alt: OSSPREY Icon
 :width: 150px

@@ -8,8 +8,8 @@ Check out our [events page](https://ucospo.net/events/)
 
 ## Contact
 
-- Mailing list: https://lists.ucdavis.edu/sympa/subscribe/opensource-announce
-- Slack channel: https://uctech.slack.com/ #open-source
+- Mailing list: [UC Davis Open Source Announce](https://lists.ucdavis.edu/sympa/subscribe/opensource-announce)
+- Slack channel: [UC Tech Slack](https://uctech.slack.com/) #open-source
 
 If you have any questions, please [contact us](mailto:davis-ospo@ucdavis.edu) for more details about how the network can help you!
 

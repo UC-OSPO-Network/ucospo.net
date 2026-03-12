@@ -2,9 +2,8 @@
 title: "vLLM: A success story of UC and industry collaboration in Open Source AI"
 ---
 
-**Thursday, April 24 2025**
-
-**2:00-2:50**
+**Date:** Thursday, April 24 2025\
+**Time:** 2:00-2:50
 
 **Presenter**: [Nick Hill (Red Hat)](../speakers/nick-hill.md)
 

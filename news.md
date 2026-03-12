@@ -16,7 +16,7 @@ For more information, see this [blog post](posts/ospo-at-uc-tech/index.md).
 
 ## 2024-07-29: UC Network Joins UN OSPOs For Good at UNHQ
 
-For more information, see story [here](https://ucsc-ospo.github.io/post/20240709ospo4good/)
+For more information, see the [full story on the UCSC OSPO site](https://ucsc-ospo.github.io/post/20240709ospo4good/)
 
 ## 2024-06-12: UC-wide OSPO Network Holds Kick-off Event
 

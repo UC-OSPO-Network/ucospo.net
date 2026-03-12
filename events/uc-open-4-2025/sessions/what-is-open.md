@@ -2,9 +2,8 @@
 title: "Open S#####? Understanding What is Meant by 'Open'"
 ---
 
-**Thursday, April 24 2025**
-
-**9:30-10:20**
+**Date:** Thursday, April 24 2025\
+**Time:** 9:30-10:20
 
 **Moderator**: [Kirstie Whitaker (UCB)](../speakers/kirstie-whitaker.md)
 

@@ -213,28 +213,28 @@ where, how, and how often UC contributors are contributing to small and large
 open source repos. This may happen in the second half of 2026.
 
 If you are interested in collaborating with us on this or on another research
-effort, please reach out to us at ospo@library.ucsb.edu.
+effort, please reach out to us at [ospo@library.ucsb.edu](mailto:ospo@library.ucsb.edu).
 
 (links-to-research-products)=
 
 ## Links to research products
 
-- **Preprint:** https://doi.org/10.31235/osf.io/p8bx6_v1
+- **Preprint:** [doi:10.31235/osf.io/p8bx6_v1](https://doi.org/10.31235/osf.io/p8bx6_v1)
   - To find the preprint's supplementary materials, you have to go the 'Project'
     in OSF that has the same title as the preprint. Find it here:
-    https://osf.io/m5ft6/overview
-- The **data** will be here\*: https://doi.org/10.5061/dryad.2280gb662
+    [osf.io/m5ft6/overview](https://osf.io/m5ft6/overview)
+- The **data** will be here\*: [doi:10.5061/dryad.2280gb662](https://doi.org/10.5061/dryad.2280gb662)
 - An archived snapshot of the **code** will be here\*:
-  https://doi.org/10.5281/zenodo.17783102
+  [doi:10.5281/zenodo.17783102](https://doi.org/10.5281/zenodo.17783102)
   - \*These two DOIs will be functional after peer review. Please contact the
     authors if access is needed sooner.
 - **Living code** repository:
-  https://github.com/UC-OSPO-Network/ospo-survey-analysis
+  [UC-OSPO-Network/ospo-survey-analysis](https://github.com/UC-OSPO-Network/ospo-survey-analysis)
 - **Survey instrument** is available as a PDF in the preprint's supplementary
   materials and in the GitHub repo. It will also available in .docx and .qsf
   formats in the Dryad dataset.
 - **Lessons learned**, a retrospective on the survey instrument:
-  https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md
+  [lessons_learned.md](https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md)
 
 <script>
 const previewBtn = document.querySelector('.infographic-preview-btn');
