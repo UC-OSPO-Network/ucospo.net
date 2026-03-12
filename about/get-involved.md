@@ -23,7 +23,7 @@ There's no minimum attendance requirement. Come to what interests you, when you 
 When you're ready to explore a closer connection to the network, get in touch with the network team:
 
 - **Laura Langdon**, Community Manager: [lalangdon@ucdavis.edu](mailto:lalangdon@ucdavis.edu)
-- **Stephanie Lieggi**, Network Chair:[slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)
+- **Stephanie Lieggi**, Network Chair: [slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)
 
 We'll talk with you about what open source work looks like at your institution, what you're hoping to get out of the network, and how we can support you.
 
