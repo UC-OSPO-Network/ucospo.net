@@ -25,6 +25,12 @@ repos:
         files: \.(css|md|yml|yaml)
         args: [--prose-wrap=preserve]
 
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.17.2
+    hooks:
+      - id: markdownlint-cli2
+        files: \.md$
+
   - repo: https://github.com/psf/black-pre-commit-mirror
     rev: 831207fd435b47aeffdf6af853097e64322b4d44 # frozen: 25.12.0
     hooks:
