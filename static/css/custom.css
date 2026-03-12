@@ -405,6 +405,10 @@ footer.article-grid {
 
 /* ── Speaker cards ─────────────────────────────────────────────────── */
 
+.speaker-cards {
+  padding-bottom: 2rem;
+}
+
 .speaker-cards .myst-card {
   border-top: 3px solid #003cb3;
   background-color: #f0f4fa;
@@ -421,6 +425,10 @@ footer.article-grid {
 }
 
 /* ── Sponsor table ────────────────────────────────────────────────── */
+
+.sponsor-table {
+  padding-bottom: 2rem;
+}
 
 .sponsor-table figcaption {
   font-size: 1.4rem;
