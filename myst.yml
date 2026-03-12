@@ -36,6 +36,8 @@ project:
       children:
         - file: events/index.md
         - file: events/uc-open-2026/index.md
+        - pattern: events/uc-open-4-2025/**/*.md
+          hidden: true
     - title: Blog
       children:
         - file: posts/index.md

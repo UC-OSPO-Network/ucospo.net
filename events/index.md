@@ -342,4 +342,4 @@ More information and updated event schedule can be found on the [UCSC OSPO websi
 
 ### UC Open 4 (2025)
 
-View the full [UC Open 4 (2025) conference page](uc-open-4-2025/index.md) for session recordings, speaker bios, and more.
+View the full [UC Open 2025 conference page](uc-open-4-2025/index.md) for session recordings, speaker bios, and more.

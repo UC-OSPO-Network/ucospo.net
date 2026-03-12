@@ -10,6 +10,8 @@
     "twitter\\.com",
     "x\\.com",
     "doi\\.org",
-    "lists\\.ucdavis\\.edu"
+    "lists\\.ucdavis\\.edu",
+    "travel\\.ucop\\.edu",
+    "github\\.com/.*/edit/"
   ]
 }
