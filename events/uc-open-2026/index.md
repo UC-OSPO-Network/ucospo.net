@@ -45,6 +45,9 @@ All sponsors are prominently recognized on signage, the website, and promotional
 
 ## Keynote Speakers
 
+::::::{div}
+:class: speaker-cards
+
 ::::{grid} 1 1 2 2
 
 :::{card} David Charron

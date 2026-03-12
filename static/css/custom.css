@@ -403,6 +403,23 @@ footer.article-grid {
   margin-bottom: 0.75rem;
 }
 
+/* ── Speaker cards ─────────────────────────────────────────────────── */
+
+.speaker-cards .myst-card {
+  border-top: 3px solid #003cb3;
+  background-color: #f0f4fa;
+}
+
+.dark .speaker-cards .myst-card {
+  background-color: #1a2332;
+}
+
+@media (prefers-color-scheme: dark) {
+  .speaker-cards .myst-card {
+    background-color: #1a2332;
+  }
+}
+
 /* ── Sponsor table ────────────────────────────────────────────────── */
 
 .sponsor-table figcaption {
