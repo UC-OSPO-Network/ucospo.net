@@ -10,7 +10,7 @@ title: Blog
 :link: /posts/repowise-announcement
 :footer: November 25, 2025
 
-![RepoWise screenshot](https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-answer.png)
+![RepoWise screenshot](repowise-announcement/repowise-answer.png)
 
 Natural-language dialogue with OSS repositories, transforming how developers and researchers explore governance, contributions, and community health.
 :::
@@ -19,7 +19,7 @@ Natural-language dialogue with OSS repositories, transforming how developers and
 :link: /posts/ossprey-announcement
 :footer: September 11, 2025
 
-![OSSPREY dashboard](https://raw.githubusercontent.com/OSS-PREY/OSSPREY-Website/refs/heads/main/static/images/ossprey-dashboard.png)
+![OSSPREY dashboard](ossprey-announcement/ossprey-dashboard.png)
 
 AI-powered sustainability forecasting and evidence-based recommendations to help open source maintainers keep projects healthy.
 :::

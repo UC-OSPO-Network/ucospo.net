@@ -10,7 +10,7 @@ authors:
 tags: [sustainability, forecasting, AI]
 ---
 
-![OSSPREY Dashboard](https://raw.githubusercontent.com/OSS-PREY/OSSPREY-Website/refs/heads/main/static/images/ossprey-dashboard.png)
+![OSSPREY Dashboard](ossprey-dashboard.png)
 
 Open Source Software (OSS) powers everything from academic research to mission-critical infrastructure at tech giants. Yet, over **90% of OSS projects experience stagnation or abandonment**. The question is no longer whether OSS matters, but _how to ensure its sustainability_.
 
@@ -20,9 +20,7 @@ Open Source Software (OSS) powers everything from academic research to mission-c
 
 The OSSPREY paper has also been accepted in the <a href="https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track" target="_blank">Automated Software Engineering 2025 Tool Demonstration Track</a>.
 
-<!-- markdownlint-disable-next-line MD034 -->
-
-:::{figure} https://oss-prey.github.io/OSSPREY-Website/static/images/favicon.ico
+:::{figure} ossprey-icon.png
 :alt: OSSPREY Icon
 :width: 150px
 :align: center
@@ -50,7 +48,7 @@ OSSPREY's pipeline includes four key modules:
 - **Forecaster:** Transformer model forecasts future sustainability based on historical network features.
 - **ReACT-Recommender:** Suggests empirically validated strategies when sustainability dips.
 
-![OSSPREY dashboard with forecast trajectories, socio-technical networks, and actionable suggestions](https://raw.githubusercontent.com/OSS-PREY/OSSPREY-Website/refs/heads/main/static/images/ossprey-dashboard-2.PNG)
+![OSSPREY dashboard with forecast trajectories, socio-technical networks, and actionable suggestions](ossprey-dashboard-2.PNG)
 
 ## Dashboard Highlights
 
