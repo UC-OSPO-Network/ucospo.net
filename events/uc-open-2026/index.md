@@ -12,17 +12,100 @@ Open source is reshaping research, infrastructure, and how academia connects wit
 
 Discover emerging UC projects before they reach the mainstream, build partnerships on production-ready technologies, and connect with the next generation of contributors. Whether you're looking for research partners, hiring talent, solving technical problems, or contributing expertise back to the academic open source community, UC Open 2026 connects university innovation with real-world application.
 
+## Sponsor UC Open 2026
+
+Support open source collaboration and connect with top academic and industry talent by sponsoring UC Open 2026. Sponsorship provides visibility, networking, and alignment with a community driving innovation for public benefit.
+
+Sponsorship tiers include:
+
+- **Platinum ($10,000)**: Host a workshop session + premium event visibility
+- **Gold ($8,000)**: Sponsor a presentation session + strong branding
+- **Silver ($5,000)**: Exhibit space + event recognition
+- **Bronze ($2,500)**: Recognition + networking opportunities
+- **Hospitality Sponsorships (\$1,000-$2,000)**: Support meals, coffee breaks, and receptions
+
+All sponsors are prominently recognized on signage, the website, and promotional materials. Let's build the future of open source together—[contact us](mailto:slieggi@ucsc.edu) to explore how sponsorship can align with your organization's goals.
+
+<div class="sponsor-table">
+<table>
+<thead>
+<tr>
+  <th><strong>Gold</strong></th>
+  <th><strong>Bronze</strong></th>
+  <th><strong>Network Support</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <img class="logo-light" src="../../static/images/sponsors/aws.png" alt="Amazon Web Services" />
+    <img class="logo-dark" src="../../static/images/sponsors/aws-light.svg" alt="Amazon Web Services" />
+  </td>
+  <td>
+    <img src="../../static/images/sponsors/redhat.svg" alt="Red Hat" />
+  </td>
+  <td>
+    <img class="logo-light" src="../../static/images/sponsors/sloan.png" alt="Alfred P. Sloan Foundation" />
+    <img class="logo-dark" src="../../static/images/sponsors/Logo-1A-SMALL-Gold-White.png" alt="Alfred P. Sloan Foundation" />
+  </td>
+</tr>
+</tbody>
+</table>
+</div>
+
 ## Keynote Speakers
 
-- **David Charron** — Topic to be announced
-- **Nithya Ruff** — Topic to be announced
+::::::{div}
+:class: speaker-cards
+
+::::{grid} 1 1 2 2
+
+:::{card} David Charron
+
+```{image} ./speaker-headshots/charron_david-1.jpg
+:alt: David Charron
+:width: 200px
+```
+
+Topic to be announced
+:::
+
+:::{card} Nithya Ruff
+
+```{image} ./speaker-headshots/nithya-ruff.jpg
+:alt: Nithya Ruff
+:width: 200px
+```
+
+Topic to be announced
+:::
+
+::::
+
+::::::
 
 ## Schedule at a Glance
 
-|             | Wednesday, April 22                         | Thursday, April 23                          |
-| ----------- | ------------------------------------------- | ------------------------------------------- |
-| **Times**   | 9:00 AM – 6:30 PM                           | 9:00 AM – 4:15 PM                           |
-| **Program** | Keynotes, Presentations, Panels, Networking | Keynotes, Presentations, Panels, Networking |
+::::{div}
+:class: schedule-table
+
+```{list-table}
+:header-rows: 1
+:align: center
+:widths: 20 40 40
+
+* -
+  - **Wednesday, April 22**
+  - **Thursday, April 23**
+* - **Times**
+  - 9:00 AM – 6:30 PM
+  - 9:00 AM – 4:15 PM
+* - **Program**
+  - Keynotes, Presentations, Panels, Networking
+  - Keynotes, Presentations, Panels, Networking
+```
+
+::::
 
 _Full schedule coming soon._
 
@@ -39,10 +122,6 @@ Access emerging UC research before it reaches the mainstream
 Connect with next-generation open source talent from across the UC system
 Build collaborations on production-ready academic technologies
 Influence early-stage projects with real-world applications
-
-## Sponsor UC Open 2026
-
-Support open source innovation and gain visibility with top academic and industry talent. [Sponsorship tiers: \$2,500-$10,000](sponsor.md).
 
 ## About the Venue
 

@@ -35,6 +35,17 @@ html {
   line-height: 1.65;
 }
 
+/* Extra breathing room before section headings.
+   Tailwind prose resets margin-top:0 on h2+* siblings,
+   so we use padding-top which can't be collapsed. */
+.article h2 {
+  padding-top: 1.5rem;
+}
+
+.article h3 {
+  padding-top: 1rem;
+}
+
 /* Override Tailwind Typography prose variables to match Hugo */
 .article {
   --tw-prose-links: #003cb3;
@@ -392,7 +403,44 @@ footer.article-grid {
   margin-bottom: 0.75rem;
 }
 
+/* ── Speaker cards ─────────────────────────────────────────────────── */
+
+.speaker-cards {
+  padding-bottom: 2rem;
+}
+
+.speaker-cards .myst-card {
+  border-top: 3px solid #003cb3;
+  background-color: #f0f4fa;
+}
+
+.dark .speaker-cards .myst-card {
+  background-color: #1e3a5f;
+}
+
+@media (prefers-color-scheme: dark) {
+  .speaker-cards .myst-card {
+    background-color: #1e3a5f;
+  }
+}
+
 /* ── Sponsor table ────────────────────────────────────────────────── */
+
+.sponsor-table {
+  padding-bottom: 2rem;
+}
+
+.sponsor-table figcaption {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #222832;
+  text-align: center;
+  margin-bottom: 0.75rem;
+}
+
+.dark .sponsor-table figcaption {
+  color: #7ab3ff;
+}
 
 .sponsor-table table {
   table-layout: fixed !important;
@@ -402,6 +450,18 @@ footer.article-grid {
 .sponsor-table th {
   text-align: center !important;
   width: 33.33% !important;
+  background-color: #fff3e0 !important;
+  border-bottom: 2px solid #ff9100 !important;
+}
+
+.dark .sponsor-table th {
+  background-color: #4a3518 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sponsor-table th {
+    background-color: #4a3518 !important;
+  }
 }
 
 .sponsor-table td {
@@ -416,5 +476,52 @@ footer.article-grid {
   height: auto !important;
   margin: 0 auto !important;
   object-fit: contain !important;
-  display: block !important;
+  display: block;
+}
+
+.sponsor-table .logo-light {
+  display: block;
+}
+
+.sponsor-table .logo-dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sponsor-table .logo-light {
+    display: none;
+  }
+  .sponsor-table .logo-dark {
+    display: block;
+  }
+}
+
+.dark .sponsor-table .logo-light {
+  display: none;
+}
+
+.dark .sponsor-table .logo-dark {
+  display: block;
+}
+
+/* ── Schedule table ───────────────────────────────────────────────── */
+
+.schedule-table th {
+  background-color: #e8eef8 !important;
+  border-bottom: 2px solid #003cb3 !important;
+  text-align: center !important;
+}
+
+.schedule-table td {
+  text-align: center !important;
+}
+
+.dark .schedule-table th {
+  background-color: #1e3a5f !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .schedule-table th {
+    background-color: #1e3a5f !important;
+  }
 }
