@@ -458,3 +458,25 @@ footer.article-grid {
   object-fit: contain !important;
   display: block !important;
 }
+
+/* ── Schedule table ───────────────────────────────────────────────── */
+
+.schedule-table th {
+  background-color: #e8eef8 !important;
+  border-bottom: 2px solid #003cb3 !important;
+  text-align: center !important;
+}
+
+.schedule-table td {
+  text-align: center !important;
+}
+
+.dark .schedule-table th {
+  background-color: #1a2332 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .schedule-table th {
+    background-color: #1a2332 !important;
+  }
+}
