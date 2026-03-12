@@ -442,6 +442,18 @@ footer.article-grid {
 .sponsor-table th {
   text-align: center !important;
   width: 33.33% !important;
+  background-color: #fff3e0 !important;
+  border-bottom: 2px solid #ff9100 !important;
+}
+
+.dark .sponsor-table th {
+  background-color: #3a2a10 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sponsor-table th {
+    background-color: #3a2a10 !important;
+  }
 }
 
 .sponsor-table td {
