@@ -35,6 +35,17 @@ html {
   line-height: 1.65;
 }
 
+/* Extra breathing room before section headings.
+   Tailwind prose resets margin-top:0 on h2+* siblings,
+   so we use padding-top which can't be collapsed. */
+.article h2 {
+  padding-top: 1.5rem;
+}
+
+.article h3 {
+  padding-top: 1rem;
+}
+
 /* Override Tailwind Typography prose variables to match Hugo */
 .article {
   --tw-prose-links: #003cb3;
