@@ -361,6 +361,19 @@ footer.article-grid {
   filter: invert(1);
 }
 
+/* ── Centered mermaid diagrams ─────────────────────────────────── */
+
+.mermaid-centered {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.mermaid-centered > * {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* ── Blog cards ─────────────────────────────────────────────────── */
 
 .blog-cards .myst-card {
