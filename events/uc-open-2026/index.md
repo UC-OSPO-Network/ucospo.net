@@ -69,12 +69,30 @@ Topic to be announced
 
 ::::
 
+::::::
+
 ## Schedule at a Glance
 
-|             | Wednesday, April 22                         | Thursday, April 23                          |
-| ----------- | ------------------------------------------- | ------------------------------------------- |
-| **Times**   | 9:00 AM – 6:30 PM                           | 9:00 AM – 4:15 PM                           |
-| **Program** | Keynotes, Presentations, Panels, Networking | Keynotes, Presentations, Panels, Networking |
+::::{div}
+:class: schedule-table
+
+```{list-table}
+:header-rows: 1
+:align: center
+:widths: 20 40 40
+
+* -
+  - **Wednesday, April 22**
+  - **Thursday, April 23**
+* - **Times**
+  - 9:00 AM – 6:30 PM
+  - 9:00 AM – 4:15 PM
+* - **Program**
+  - Keynotes, Presentations, Panels, Networking
+  - Keynotes, Presentations, Panels, Networking
+```
+
+::::
 
 _Full schedule coming soon._
 
