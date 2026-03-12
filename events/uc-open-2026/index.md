@@ -92,10 +92,6 @@ Connect with next-generation open source talent from across the UC system
 Build collaborations on production-ready academic technologies
 Influence early-stage projects with real-world applications
 
-## Sponsor UC Open 2026
-
-Support open source innovation and gain visibility with top academic and industry talent. [Sponsorship tiers: \$2,500-$10,000](sponsor.md).
-
 ## About the Venue
 
 The [Brower Center](https://browercenter.org/) is located in downtown Berkeley, steps from BART and easily accessible by public transit. The venue features a theater space for keynotes and plenary sessions, plus an open atrium perfect for breakout discussions, networking, and meals.
