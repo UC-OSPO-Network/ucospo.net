@@ -24,7 +24,7 @@ npm install
 
 ### 3. (Optional) Set up pre-commit hooks
 
-Pre-commit hooks run Prettier, Black, and codespell automatically before each commit. To enable them, first create a Python virtual environment and install the hook:
+Pre-commit hooks run Prettier, markdownlint, Black, and codespell automatically before each commit. To enable them, first create a Python virtual environment and install the hook:
 
 ```bash
 python3 -m venv .venv
@@ -78,22 +78,15 @@ static/          # images, CSS, and other static assets
 
 ## Linting and formatting
 
-This project uses [pre-commit](https://pre-commit.com) with Prettier, Black, and codespell.
+This project uses [pre-commit](https://pre-commit.com) with:
 
-Run all hooks against staged files:
-
-```bash
-pre-commit run
-```
-
-Run against all files:
-
-```bash
-pre-commit run --all-files
-```
+- **[Prettier](https://prettier.io)** — auto-formats Markdown, CSS, and YAML
+- **[markdownlint](https://github.com/DavidAnson/markdownlint)** — checks Markdown structure and accessibility (heading levels, alt text, informative link text, etc.). Configuration is in `.markdownlint-cli2.yaml`.
+- **[Black](https://black.readthedocs.io)** — Python code formatting
+- **[codespell](https://github.com/codespell-project/codespell)** — catches common typos
 
 If you push without running pre-commit locally, the `pre-commit.ci` bot will check
-your PR automatically. To have it push fixes, comment `pre-commit.ci autofix` on the PR.
+your PR automatically. See [CONTRIBUTING.md](CONTRIBUTING.md) for usage details.
 
 ## Contributing
 

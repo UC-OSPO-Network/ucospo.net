@@ -1,0 +1,38 @@
+config:
+  # Disable rules that conflict with prettier
+  MD003: false # heading-style (prettier enforces atx)
+  MD004: false # ul-style (prettier enforces consistent markers)
+  MD007: false # ul-indent (prettier handles indentation)
+  MD009: false # no-trailing-spaces (pre-commit trailing-whitespace hook)
+  MD010: false # no-hard-tabs (prettier handles tabs)
+  MD012: false # no-multiple-blanks (prettier collapses blank lines)
+  MD013: false # line-length (prose-wrap=preserve means long lines are fine)
+  MD022: false # blanks-around-headings (prettier handles this)
+  MD030: false # list-marker-space (prettier handles this)
+  MD031: false # blanks-around-fences (prettier handles this)
+  MD032: false # blanks-around-lists (prettier handles this)
+  MD047: false # single-trailing-newline (end-of-file-fixer hook)
+
+  # Keep structural/semantic/accessibility rules active
+  MD001: true # heading-increment
+  MD024: # no-duplicate-heading
+    siblings_only: true
+  MD025: true # single-title/single-h1
+  MD026: false # no-trailing-punctuation (headings like "Get Involved!" are fine)
+  MD033: false # no-inline-html (MyST uses HTML in some places)
+  MD034: true # no-bare-urls
+  MD036: true # no-emphasis-as-heading
+  MD040: true # fenced-code-language
+  MD041: false # first-line-heading (MyST files often start with frontmatter or directives)
+  MD045: true # no-alt-text
+  MD051: true # link-fragments
+  MD053: true # link-image-reference-definitions
+
+  # Informative link text
+  MD059: true # link-image-style
+
+globs:
+  - "**/*.md"
+  - "!.venv/**"
+  - "!_build/**"
+  - "!node_modules/**"

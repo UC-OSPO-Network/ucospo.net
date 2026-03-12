@@ -18,11 +18,25 @@ Thank you for investing your time in contributing to our project!
   - Via Netlify's "deploy preview":
     - Create a draft PR
     - After Netlify finishes running its checks, click "Deploy Preview" in the comment created by the Netlify bot
-- To make sure your code is formatted as the linter expects, please either:
-  - [Run Prettier from your terminal](https://prettier.io/docs/install) or as an extension in your IDE, e.g. the [VS Code Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-    - Make sure to read the docs for whichever option you choose to learn how to format on save or format manually!
+- To make sure your code passes linting and formatting checks, you can either:
+  - Run `pre-commit run` before committing (or `pre-commit run --all-files` to check everything). This runs Prettier (formatting), markdownlint (structure and accessibility), Black (Python), and codespell (typos).
   - Wait until you've pushed your code and if the `pre-commit.ci` test fails, add a comment on your PR with the text `pre-commit.ci autofix`
     - This will tell the pre-commit bot to push a fix, and should work for common formatting issues
+    - Note: markdownlint issues need to be fixed manually (the autofix bot can only handle formatting). The error output tells you the file, line number, and rule. Common issues and how to fix them:
+
+      | Error                            | What it means                                                         | How to fix                                                                                                                                                                           |
+      | -------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+      | **MD001** heading-increment      | A heading level was skipped (e.g., `##` followed by `####`)           | Use sequential heading levels                                                                                                                                                        |
+      | **MD025** single-h1              | More than one `#` top-level heading in a file                         | Use `##` or lower for subsequent headings (the page title in frontmatter counts as h1, so you don't need to write an h1 yourself)                                                    |
+      | **MD034** no-bare-urls           | A URL appears as plain text                                           | Make it a link (`[link text](https://...)`)                                                                                                                                          |
+      | **MD036** no-emphasis-as-heading | Bold or italic text on its own line looks like it should be a heading | If it should be a heading, use one (`##`, `###`, etc.). If it's informational (not a heading), use a label prefix so the bold text isn't the entire line: `**Date:** 24 April 2025`  |
+      | **MD040** fenced-code-language   | A fenced code block (` ``` `) has no language specified               | Add a language after the opening fence (e.g., ` ```python `, ` ```bash `, ` ```text `)                                                                                               |
+      | **MD045** no-alt-text            | An image is missing alt text                                          | Add a description: `![description of image](image.png)`. [Learn more about alt text](https://i0.wp.com/veroniiiica.com/wp-content/uploads/2018/01/capybara_alt_text.png?w=596&ssl=1) |
+      | **MD051** link-fragments         | A link points to a heading anchor that doesn't exist in the file      | Check the target heading's actual text and update the fragment                                                                                                                       |
+      | **MD059** link-image-style       | Link text is uninformative (e.g., "click here", "read more")          | Use descriptive link text that makes sense out of context. [Learn more about writing good link text](https://accessibility.huit.harvard.edu/technique-writing-link-text)             |
+
+      Full rule reference: <https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md>. Our configuration is in `.markdownlint-cli2.yaml`.
+
 - Please [use keywords to link relevant issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue) in your PR's description or commit message
 - We squash and merge PRs, so merging vs rebasing is up to you!
 
@@ -68,9 +82,9 @@ Here are some resources to help you get started with open source contributions:
     - To preview your changes:
       - Install Node.js v20+ and run `npm install`
       - Run `make serve` (or `npx myst start`)
-    - To make sure your code is formatted as the linter expects, you can:
-      - [Run Prettier from your terminal](https://prettier.io/docs/install) or as an extension in your IDE, e.g. the [VS Code Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-      - Wait until you've pushed your code and if the `pre-commit.ci` test fails, you can usually have the pre-commit bot push a fix to your branch by adding a comment on your PR with the text `pre-commit.ci autofix`
+    - To make sure your code passes linting and formatting checks, you can:
+      - Run `pre-commit run` before committing (see the [Quickstart](#quickstart-for-experienced-contributors) for details)
+      - Wait until you've pushed your code and if the `pre-commit.ci` test fails, you can usually have the pre-commit bot push a fix to your branch by adding a comment on your PR with the text `pre-commit.ci autofix` (note: markdownlint issues need to be fixed manually—see the [Quickstart](#quickstart-for-experienced-contributors) for common issues and fixes)
 
 3.  Submit your contribution:
     - Push your changes back to your fork on GitHub:
