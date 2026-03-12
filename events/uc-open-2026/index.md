@@ -45,8 +45,29 @@ All sponsors are prominently recognized on signage, the website, and promotional
 
 ## Keynote Speakers
 
-- **David Charron** — Topic to be announced
-- **Nithya Ruff** — Topic to be announced
+::::{grid} 1 1 2 2
+
+:::{card} David Charron
+
+```{image} ./speaker-headshots/charron_david-1.jpg
+:alt: David Charron
+:width: 200px
+```
+
+Topic to be announced
+:::
+
+:::{card} Nithya Ruff
+
+```{image} ./speaker-headshots/nithya-ruff.jpg
+:alt: Nithya Ruff
+:width: 200px
+```
+
+Topic to be announced
+:::
+
+::::
 
 ## Schedule at a Glance
 
