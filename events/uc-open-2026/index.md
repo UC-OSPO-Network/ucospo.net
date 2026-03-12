@@ -26,22 +26,32 @@ Sponsorship tiers include:
 
 All sponsors are prominently recognized on signage, the website, and promotional materials. Let's build the future of open source together—[contact us](mailto:slieggi@ucsc.edu) to explore how sponsorship can align with your organization's goals.
 
-::::{div}
-:class: sponsor-table
-
-```{list-table} Our Sponsors
-:header-rows: 1
-:align: center
-
-* - **Gold**
-  - **Bronze**
-  - **Network Support**
-* - ![Amazon Web Services](../../static/images/sponsors/aws.png)
-  - ![Red Hat](../../static/images/sponsors/redhat.svg)
-  - ![Alfred P. Sloan Foundation](../../static/images/sponsors/sloan.png)
-```
-
-::::
+<div class="sponsor-table">
+<table>
+<thead>
+<tr>
+  <th><strong>Gold</strong></th>
+  <th><strong>Bronze</strong></th>
+  <th><strong>Network Support</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <img class="logo-light" src="../../static/images/sponsors/aws.png" alt="Amazon Web Services" />
+    <img class="logo-dark" src="../../static/images/sponsors/aws-light.svg" alt="Amazon Web Services" />
+  </td>
+  <td>
+    <img src="../../static/images/sponsors/redhat.svg" alt="Red Hat" />
+  </td>
+  <td>
+    <img class="logo-light" src="../../static/images/sponsors/sloan.png" alt="Alfred P. Sloan Foundation" />
+    <img class="logo-dark" src="../../static/images/sponsors/Logo-1A-SMALL-Gold-White.png" alt="Alfred P. Sloan Foundation" />
+  </td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## Keynote Speakers
 

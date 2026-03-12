@@ -415,12 +415,12 @@ footer.article-grid {
 }
 
 .dark .speaker-cards .myst-card {
-  background-color: #1a2332;
+  background-color: #1e3a5f;
 }
 
 @media (prefers-color-scheme: dark) {
   .speaker-cards .myst-card {
-    background-color: #1a2332;
+    background-color: #1e3a5f;
   }
 }
 
@@ -455,12 +455,12 @@ footer.article-grid {
 }
 
 .dark .sponsor-table th {
-  background-color: #3a2a10 !important;
+  background-color: #4a3518 !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .sponsor-table th {
-    background-color: #3a2a10 !important;
+    background-color: #4a3518 !important;
   }
 }
 
@@ -476,7 +476,32 @@ footer.article-grid {
   height: auto !important;
   margin: 0 auto !important;
   object-fit: contain !important;
-  display: block !important;
+  display: block;
+}
+
+.sponsor-table .logo-light {
+  display: block;
+}
+
+.sponsor-table .logo-dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sponsor-table .logo-light {
+    display: none;
+  }
+  .sponsor-table .logo-dark {
+    display: block;
+  }
+}
+
+.dark .sponsor-table .logo-light {
+  display: none;
+}
+
+.dark .sponsor-table .logo-dark {
+  display: block;
 }
 
 /* ── Schedule table ───────────────────────────────────────────────── */
@@ -492,11 +517,11 @@ footer.article-grid {
 }
 
 .dark .schedule-table th {
-  background-color: #1a2332 !important;
+  background-color: #1e3a5f !important;
 }
 
 @media (prefers-color-scheme: dark) {
   .schedule-table th {
-    background-color: #1a2332 !important;
+    background-color: #1e3a5f !important;
   }
 }
