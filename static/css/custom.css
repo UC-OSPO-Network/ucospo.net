@@ -394,6 +394,18 @@ footer.article-grid {
 
 /* ── Sponsor table ────────────────────────────────────────────────── */
 
+.sponsor-table figcaption {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #222832;
+  text-align: center;
+  margin-bottom: 0.75rem;
+}
+
+.dark .sponsor-table figcaption {
+  color: #7ab3ff;
+}
+
 .sponsor-table table {
   table-layout: fixed !important;
   width: 100% !important;

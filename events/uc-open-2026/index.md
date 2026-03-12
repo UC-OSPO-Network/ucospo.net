@@ -12,6 +12,37 @@ Open source is reshaping research, infrastructure, and how academia connects wit
 
 Discover emerging UC projects before they reach the mainstream, build partnerships on production-ready technologies, and connect with the next generation of contributors. Whether you're looking for research partners, hiring talent, solving technical problems, or contributing expertise back to the academic open source community, UC Open 2026 connects university innovation with real-world application.
 
+## Sponsor UC Open 2026
+
+Support open source collaboration and connect with top academic and industry talent by sponsoring UC Open 2026. Sponsorship provides visibility, networking, and alignment with a community driving innovation for public benefit.
+
+Sponsorship tiers include:
+
+- **Platinum ($10,000)**: Host a workshop session + premium event visibility
+- **Gold ($8,000)**: Sponsor a presentation session + strong branding
+- **Silver ($5,000)**: Exhibit space + event recognition
+- **Bronze ($2,500)**: Recognition + networking opportunities
+- **Hospitality Sponsorships (\$1,000-$2,000)**: Support meals, coffee breaks, and receptions
+
+All sponsors are prominently recognized on signage, the website, and promotional materials. Let's build the future of open source together—[contact us](mailto:slieggi@ucsc.edu) to explore how sponsorship can align with your organization's goals.
+
+::::{div}
+:class: sponsor-table
+
+```{list-table} Our Sponsors
+:header-rows: 1
+:align: center
+
+* - **Gold**
+  - **Bronze**
+  - **Network Support**
+* - ![Amazon Web Services](../../static/images/sponsors/aws.png)
+  - ![Red Hat](../../static/images/sponsors/redhat.svg)
+  - ![Alfred P. Sloan Foundation](../../static/images/sponsors/sloan.png)
+```
+
+::::
+
 ## Keynote Speakers
 
 - **David Charron** — Topic to be announced
