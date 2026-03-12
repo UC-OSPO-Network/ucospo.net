@@ -38,7 +38,32 @@ As the first system-wide OSPO network in a large university system, we are setti
 - Organizing hackathons and competitions
 - Promoting open-source sustainability and best practices
 
-## Team
+## Joining the Network
+
+Whether you've just heard about the UC OSPO Network or you've been curious for a while, we're glad you're here.
+
+The UC OSPO Network is open to all UC-affiliated institutions—campuses, labs (such as Lawrence Berkeley National Lab), the California Digital Library (CDL), and other UC entities. Some of our member institutions have formal Open Source Program Offices; others have individuals or teams who champion open source work in various roles. Both are welcome.
+
+Getting involved is a community-first process. Here's a quick overview:
+
+:::{div}
+:class: mermaid-centered
+
+```{mermaid}
+flowchart TD
+    A["Interested in joining?"] --> B["Join our Slack workspace"]
+    B --> C["Attend community events\nand meetings"]
+    C --> D["Connect with the network team"]
+    D --> E["Identify a lead contact\nat your institution"]
+    E --> F["Welcome aboard! 🎉"]
+
+    style A fill:#003cb3,color:#fff
+    style F fill:#003cb3,color:#fff
+```
+
+:::
+
+For more detail on each step, see [Get Involved](get-involved.md).
 
 ## Contact Us
 
