@@ -10,7 +10,7 @@ authors:
 tags: [sustainability, conversational-ai, LLM, repository-mining, RAG]
 ---
 
-![RepoWise Answer](https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-answer.png)
+![RepoWise Answer](repowise-answer.png)
 
 Understanding an open source project shouldn't require navigating scattered documentation, querying multiple APIs, or deciphering abstract metrics. Yet for newcomers and maintainers alike, answering simple questions like _"How do I start contributing?"_, _"Who are the most active contributors?"_, or _"How do I report a bug?"_ often demands hours of manual exploration across README files, CONTRIBUTING guides, issue trackers, and commit histories.
 
@@ -20,9 +20,7 @@ The DECAL (Davis Excellent/Eclectic/Extreme Computational Analytics Lab) is happ
 
 **[RepoWise](https://repowise.netlify.app)** is a purpose-built conversational AI framework that transforms how you interact with GitHub repositories. Instead of manually searching through documentation or crafting complex queries, you can simply ask questions in natural language and receive evidence-grounded answers with inline citations and provenance metadata.
 
-<!-- markdownlint-disable-next-line MD034 -->
-
-:::{figure} https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-icon.png
+:::{figure} repowise-icon.png
 :alt: RepoWise Icon
 :width: 150px
 :align: center
@@ -43,7 +41,7 @@ Traditional Open-Source Software (OSS) analytics tools show you metrics (stars, 
 
 RepoWise employs a modular [architecture](https://repowise.github.io/RepoWise-website/#architecture) with intelligent query routing:
 
-![RepoWise Architecture](https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-architecture.png)
+![RepoWise Architecture](repowise-architecture.png)
 
 - **Intent Router:** A five-stage classification pipeline determines whether your question is about documentation, commits, issues, or something else, then routes it to the appropriate retrieval engine.
 
@@ -55,7 +53,7 @@ RepoWise employs a modular [architecture](https://repowise.github.io/RepoWise-we
 
 - **LLM Generation:** Prompts are passed to a locally-hosted Mistral 7B model via Ollama (temperature 0) for deterministic, factual response generation with markdown formatting and inline citations.
 
-![RepoWise in action: evidence-grounded answers with inline citations and source provenance](https://raw.githubusercontent.com/RepoWise/RepoWise-website/main/static/images/repowise-answer1.png)
+![RepoWise in action: evidence-grounded answers with inline citations and source provenance](repowise-answer1.png)
 
 ## Use Cases
 
