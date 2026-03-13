@@ -77,7 +77,7 @@ Topic to be announced
 :width: 200px
 ```
 
-Topic to be announced
+The Role of Foundations In Advancing Open Collaboration and Innovation
 :::
 
 ::::
