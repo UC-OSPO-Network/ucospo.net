@@ -14,6 +14,9 @@
     "linkinator": "^7.0.0",
     "mystmd": "^1.8.2"
   },
+  "linkinator": {
+    "skip": ["https://www\\.hilton\\.com/"]
+  },
   "dependencies": {
     "@fontsource/atkinson-hyperlegible": "^5.2.8"
   }
