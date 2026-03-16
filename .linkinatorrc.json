@@ -1,0 +1,4 @@
+{
+  "description": "Hilton blocks bots; linked from UC Open 2026 hotel list",
+  "skip": ["https://www.hilton.com/"]
+}

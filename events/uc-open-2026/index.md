@@ -137,11 +137,11 @@ All sponsors are prominently recognized on signage, the website, and promotional
 
 **Event Venue:** [The Brower Center, 2150 Allston Way, Berkeley, CA 94704](https://www.openstreetmap.org/directions?from=&to=37.8693,-122.2678#map=19/37.8693/-122.2678)
 
-**Public transit:** The Brower Center is in downtown Berkeley, steps from the [Downtown Berkeley BART station](<(https://www.bart.gov/)>) and [AC Transit](https://www.actransit.org/).
+**Public transit:** The Brower Center is in downtown Berkeley, steps from the [Downtown Berkeley BART station](https://www.bart.gov/stations/dbrk) and [AC Transit](https://www.actransit.org/).
 
 **Parking:** Weekday parking is available in the Oxford Garage directly below the Brower Center (enter on Kittredge St). The garage is open 7 AM–midnight with a live attendant 10 AM–7 PM on weekdays. See [ParkMe](https://www.parkme.com/) for rates.
 
-**Bike parking:** Secure bike racks are available in the Oxford Garage (enter via Allston), staffed 10 AM–7 PM on weekdays. Free bike valet is also available at the [Bike Station](https://bikestation.com/) at 2023 Center Street (7 AM–7 PM weekdays), a few blocks away.
+**Bike parking:** Secure bike racks are available in the Oxford Garage (enter via Allston), staffed 10 AM–7 PM on weekdays. Free bike valet is also available at the Bike Station at 2023 Center Street (7 AM–7 PM weekdays), a few blocks away.
 
 ### Hotels
 
