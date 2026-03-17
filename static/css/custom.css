@@ -361,6 +361,48 @@ footer.article-grid {
   filter: invert(1);
 }
 
+/* ── Register button ──────────────────────────────────────────── */
+
+.register-btn a {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background-color: #003cb3;
+  color: #ffffff !important;
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 6px;
+  letter-spacing: 0.02em;
+  transition: background-color 0.2s ease;
+}
+
+.register-btn a:hover {
+  background-color: #ff9100;
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+.dark .register-btn a {
+  background-color: #7ab3ff;
+  color: #1a1a2e !important;
+}
+
+.dark .register-btn a:hover {
+  background-color: #ff9100;
+  color: #ffffff !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .register-btn a {
+    background-color: #7ab3ff;
+    color: #1a1a2e !important;
+  }
+  .register-btn a:hover {
+    background-color: #ff9100;
+    color: #ffffff !important;
+  }
+}
+
 /* ── Centered mermaid diagrams ─────────────────────────────────── */
 
 .mermaid-centered {
