@@ -8,7 +8,10 @@ description: "The Second Annual UC Open celebrating open source throughout the U
 
 ## April 22–23, 2026 | UC Berkeley
 
-**[REGISTER NOW](https://www.eventbrite.com/e/uc-open-summit-2026-tickets-1984939679013?aff=oddtdtcreator&keep_tld=true)**
+:::{div}
+:class: register-btn
+[REGISTER NOW](https://www.eventbrite.com/e/uc-open-summit-2026-tickets-1984939679013?aff=oddtdtcreator&keep_tld=true)
+:::
 
 As open source reshapes research, infrastructure, and how academia connects with industry, the UC Open Source Summit 2026 brings together two days of collaboration and partnership. Researchers, developers, students, and industry leaders from across the University of California system will explore what's next—from AI's impact on academia to building sustainable research infrastructure.
 
