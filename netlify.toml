@@ -3,10 +3,7 @@
 
 [build]
   publish = "_build/html"
-  # --skip: sites that block bots with 403s during link checking
-  #   hilton.com: hotel links on UC Open 2026 page
-  #   travel.ucop.edu: UC Connexxus travel portal
-  command = "npm ci && npx myst build --html && node scripts/generate-feed.js && npx linkinator ./_build/html/ --skip 'https://www\\.hilton\\.com/' --skip 'https://travel\\.ucop\\.edu/'"
+  command = "npm ci && npx myst build --html && node scripts/generate-feed.js && npx linkinator ./_build/html/"
 
 [context.deploy-preview]
   ignore = "false"

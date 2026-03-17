@@ -1,0 +1,7 @@
+{
+  "skip": [
+    "https://www\\.hilton\\.com/",
+    "https://travel\\.ucop\\.edu/",
+    "https://github\\.com/.*/edit/"
+  ]
+}
