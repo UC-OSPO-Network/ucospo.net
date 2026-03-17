@@ -18,6 +18,7 @@ Thank you for investing your time in contributing to our project!
   - Via Netlify's "deploy preview":
     - Create a draft PR
     - After Netlify finishes running its checks, click "Deploy Preview" in the comment created by the Netlify bot
+- To check accessibility: run `npm run build` then `npm run check-a11y`. This uses [pa11y-ci](https://github.com/pa11y/pa11y-ci) to test every page against WCAG 2.1 AA.
 - To make sure your code passes linting and formatting checks, you can either:
   - Run `pre-commit run` before committing (or `pre-commit run --all-files` to check everything). This runs Prettier (formatting), markdownlint (structure and accessibility), Black (Python), and codespell (typos).
   - Wait until you've pushed your code and if the `pre-commit.ci` test fails, add a comment on your PR with the text `pre-commit.ci autofix`
@@ -82,6 +83,7 @@ Here are some resources to help you get started with open source contributions:
     - To preview your changes:
       - Install Node.js v20+ and run `npm install`
       - Run `make serve` (or `npx myst start`)
+    - To check accessibility: run `npm run build` then `npm run check-a11y`
     - To make sure your code passes linting and formatting checks, you can:
       - Run `pre-commit run` before committing (see the [Quickstart](#quickstart-for-experienced-contributors) for details)
       - Wait until you've pushed your code and if the `pre-commit.ci` test fails, you can usually have the pre-commit bot push a fix to your branch by adding a comment on your PR with the text `pre-commit.ci autofix` (note: markdownlint issues need to be fixed manually—see the [Quickstart](#quickstart-for-experienced-contributors) for common issues and fixes)
