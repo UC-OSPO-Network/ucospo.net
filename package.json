@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "myst build --html && node scripts/generate-feed.js",
+    "check-a11y": "serve _build/html -p 4117 & sleep 2 && pa11y-ci --sitemap http://localhost:4117/sitemap.xml --sitemap-find 'http://localhost:[0-9]+' --sitemap-replace 'http://localhost:4117'; kill %1",
     "check-links": "linkinator ./_build/html/ --recurse",
     "feed": "node scripts/generate-feed.js",
     "start": "myst start"
@@ -12,7 +13,9 @@
     "feed": "^5.2.0",
     "gray-matter": "^4.0.3",
     "linkinator": "^7.0.0",
-    "mystmd": "^1.8.2"
+    "mystmd": "^1.8.2",
+    "pa11y-ci": "^4.1.0",
+    "serve": "^14.2.6"
   },
   "dependencies": {
     "@fontsource/atkinson-hyperlegible": "^5.2.8"
