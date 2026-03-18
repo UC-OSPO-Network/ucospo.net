@@ -25,21 +25,48 @@ This isn't just another conference. UC Open is:
 
 _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all participants! We will provide breakfast and lunch on both days, as well as an evening reception on Wednesday. When you register you will be asked to provide any dietary restrictions or concerns._
 
+<div class="sponsor-table">
+<table>
+<thead>
+<tr>
+  <th><strong>Gold</strong></th>
+  <th><strong>Bronze</strong></th>
+  <th><strong>Network Support</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <img class="logo-light" src="../../static/images/sponsors/aws.png" alt="Amazon Web Services" />
+    <img class="logo-dark" src="../../static/images/sponsors/aws-light.svg" alt="Amazon Web Services" />
+  </td>
+  <td>
+    <img src="../../static/images/sponsors/redhat.svg" alt="Red Hat" />
+  </td>
+  <td>
+    <img class="logo-light" src="../../static/images/sponsors/sloan.png" alt="Alfred P. Sloan Foundation" />
+    <img class="logo-dark" src="../../static/images/sponsors/Logo-1A-SMALL-Gold-White.png" alt="Alfred P. Sloan Foundation" />
+  </td>
+</tr>
+</tbody>
+</table>
+</div>
+
 ## Keynote Speakers
 
 ::::::{div}
 :class: speaker-cards
 
-::::{grid} 1 1 2 2
+::::{grid} 1 1 3 3
 
 :::{card} David Charron
 
-```{image} ./speaker-headshots/charron_david-1.jpg
+```{image} ./speaker-headshots/charron_david.jpeg
 :alt: David Charron
 :width: 200px
 ```
 
-Topic to be announced
+Open Software Entrepreneurship
 :::
 
 :::{card} Nithya Ruff
@@ -52,34 +79,125 @@ Topic to be announced
 The Role of Foundations In Advancing Open Collaboration and Innovation
 :::
 
+:::{card} Kevin Esterling
+
+```{image} ./speaker-headshots/esterling_kevin.jpg
+:alt: Kevin Esterling
+:width: 200px
+```
+
+Topic to be announced
+:::
+
 ::::
 
 ::::::
 
-## Schedule at a Glance
+## Schedule
 
-::::{div}
-:class: schedule-table
+### Wednesday, April 22
 
 ```{list-table}
-:header-rows: 1
-:align: center
-:widths: 20 40 40
 
-* -
-  - **Wednesday, April 22**
-  - **Thursday, April 23**
-* - **Times**
-  - 9:00 AM – 6:30 PM
-  - 9:00 AM – 4:15 PM
-* - **Program**
-  - Keynotes, Presentations, Panels, Networking
-  - Keynotes, Presentations, Panels, Networking
+* - 9:00–9:30
+  - Breakfast & Registration
+* - 9:30–10:00
+  - **Welcome from UC Berkeley OSPO**
+* - 10:00–10:40
+  - **Keynote:** David Charron (UC Berkeley) — Open Software Entrepreneurship
+* - 10:40–11:00
+  - Break & Networking
+* - 11:00–11:50
+  - **Panel: Understanding Open Source Pathways — A Review of NSF POSE Funded Projects across the UC System**
+
+    Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew Kahng (UCSD), Stephanie Lieggi (UCSC)
+* - 11:50–12:30
+  - **Keynote:** Nithya Ruff (Linux Foundation) — The Role of Foundations In Advancing Open Collaboration and Innovation
+* - 12:30–2:00
+  - Lunch & Networking
+
+    *Poster Session (1:00–2:00)*
+* - 2:00–3:00
+  - **Breakout 1: Supporting the Next Generation of Open Source Leaders**
+
+    - UC OSPO Education Activities — Tim Dennis (UCLA)
+    - From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching — Eric Van Dusen (UC Berkeley)
+    - Teaching and Mentoring Open Source — Emily Lovell (UCSC)
+    - Open Source Adaptive Tutoring for UC STEM — Ioannis Anastasopoulos (UC Berkeley)
+
+    **Breakout 2: Open Source Tools for Scientific Research**
+
+    - Unmapped Cities: Scaling Pedestrian Infrastructure Mapping with Tile2Net — Maryam Hosseini (UC Berkeley)
+    - Jupyter Book: Next-generation Tools for Creating Computational Narratives — Chris Holdgraf (2i2c)
+    - From Silos to Standards: Open Data Modeling with LinkML — Sierra Moxon & Nomi Harris (LBNL)
+    - Reflections on Building a High-Performance Open Source Microarchitectural Simulation Framework — Heiner Litz (UCSC)
+* - 3:00–3:45
+  - Facilitated Discussions (TBA)
+* - 3:45–4:00
+  - Break & Networking
+* - 4:00–4:45
+  - **Panel: Open Source Commercialization and Impact**
+
+    Chaired by Karla Padilla (UCSD). Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg)
+* - 4:45–5:15
+  - **Lightning Intros**
+* - 5:15–6:30
+  - Reception
 ```
 
-::::
+### Thursday, April 23
 
-_Full schedule coming soon!_
+```{list-table}
+
+* - 9:00–9:30
+  - Breakfast & Registration
+* - 9:30–10:00
+  - **Opening Session — OSPO Network Update**
+* - 10:00–10:50
+  - **Panel: Influence of AI on Open Source and Open Scholarship**
+
+    Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis)
+* - 10:50–11:10
+  - Break & Networking
+* - 11:10–12:00
+  - **Breakout 1: Enabling Impact Across California**
+
+    - Hidden in Plain Sight: Discovering the University of California Open Source Landscape — Juanita Gomez (UCSC)
+    - More Than Just Storage: Support for Open Scholarship through Campus Collaborations — Sam Teplitzky (UC Berkeley)
+    - A Funder's Perspective on Promoting Best Practices in Data Sharing and Management — Alden Conner (CIRM)
+
+    **Breakout 2: Building Open Source and Open Science Ecosystems**
+
+    - The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation — Ranny Haiby (Linux Foundation)
+    - Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects — Seyed Yahya Shirazi (UCSD)
+    - Using Continuous Integration to Ensure Accessible Experiences — Michael Ball (UC Berkeley)
+* - 12:00–12:25
+  - Facilitated Discussions (TBA)
+* - 12:25–1:45
+  - Lunch & Networking
+
+    *Poster Session (1:00–1:45)*
+* - 1:45–2:50
+  - **Breakout 1: Open Source Tools for Public Benefit**
+
+    - An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools — Andy Lyons (UC ANR)
+    - Open Source for Digital Democracy: Building a UC-Wide ProSocial Tech Lab — David Shaw (UCSC)
+    - Modular Stewardship: Scaling Relational Data Governance for Global Open Source — Lilinoe Harbottle
+    - Building Tools for Police Accountability — Tarak Shah (BIDS)
+
+    **Breakout 2: Open Infrastructure for Collaborative Research**
+
+    - Making Jupyter Notebooks Accessible — Balaji Alwar (UC Berkeley)
+    - PeerSky in Academia: Create, Publish, and Share Research Without the Cloud — Akhilesh Thite (UCSC)
+    - Who Did the Thinking? Documenting AI's Role in University Research — Oliver Muellerklein (UC Berkeley)
+    - Developing Environmental Wireless Sensor Networks with TockOS — John Madden (UCSC)
+* - 2:50–3:15
+  - Facilitated Discussions (TBA)
+* - 3:20–4:00
+  - **Keynote:** Kevin Esterling (UC Riverside)
+* - 4:00–4:15
+  - **Closing**
+```
 
 ## For UC Community
 
@@ -108,33 +226,6 @@ Sponsorship tiers include:
 - **Hospitality Sponsorships (\$1,000–$2,000)**: Support meals, coffee breaks, and receptions
 
 All sponsors are prominently recognized on signage, the website, and promotional materials. Let's build the future of open source together—[contact us](mailto:slieggi@ucsc.edu) to explore how sponsorship can align with your organization's goals.
-
-<div class="sponsor-table">
-<table>
-<thead>
-<tr>
-  <th><strong>Gold</strong></th>
-  <th><strong>Bronze</strong></th>
-  <th><strong>Network Support</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <img class="logo-light" src="../../static/images/sponsors/aws.png" alt="Amazon Web Services" />
-    <img class="logo-dark" src="../../static/images/sponsors/aws-light.svg" alt="Amazon Web Services" />
-  </td>
-  <td>
-    <img src="../../static/images/sponsors/redhat.svg" alt="Red Hat" />
-  </td>
-  <td>
-    <img class="logo-light" src="../../static/images/sponsors/sloan.png" alt="Alfred P. Sloan Foundation" />
-    <img class="logo-dark" src="../../static/images/sponsors/Logo-1A-SMALL-Gold-White.png" alt="Alfred P. Sloan Foundation" />
-  </td>
-</tr>
-</tbody>
-</table>
-</div>
 
 ## Logistics
 
@@ -168,4 +259,4 @@ Preferred rates may be available for UC-affiliated attendees via [Connexxus](htt
 
 ### Travel Grants
 
-We're working with our sponsors to provide travel stipends to UC affiliates interested in attending UC Open 2026. Details coming soon!
+A limited number of travel grants are available for UC affiliates attending UC Open 2026. [Apply here](https://docs.google.com/forms/d/e/1FAIpQLScKmZFlCdcX-umvpDUrU7tuS9WshcULxLR1SK4HwQ_QmRWcCg/viewform).
