@@ -469,6 +469,14 @@ footer.article-grid {
   background-color: #f0f4fa;
 }
 
+.speaker-cards .myst-card img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 50%;
+}
+
 .dark .speaker-cards .myst-card {
   background-color: #1e3a5f;
 }
