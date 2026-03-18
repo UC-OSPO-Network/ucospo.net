@@ -416,6 +416,11 @@ footer.article-grid {
   margin-right: auto;
 }
 
+/* Ensure mermaid flowchart node text is readable */
+.mermaid-centered .nodeLabel p {
+  color: #222 !important;
+}
+
 /* ── Blog cards ─────────────────────────────────────────────────── */
 
 .blog-cards .myst-card {

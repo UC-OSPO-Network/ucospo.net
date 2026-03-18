@@ -155,7 +155,7 @@ a closer look.
         >
             <img
                 src="infographic_small.png"
-                alt=""
+                alt="UC open source survey infographic preview"
                 class="infographic-preview"
                 width="100"
             >
