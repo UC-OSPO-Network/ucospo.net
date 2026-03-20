@@ -41,7 +41,8 @@ You can unsubscribe at any time.
 
 <!-- BUTTON: JOIN OUR MAILING LIST -->
 
-::::{div} :class: btn-center-wrapper
+::::{div}
+:class: btn-center-wrapper
 
 <a href="https://signup.e2ma.net/signup/2045162/1984731/"
    class="btn-ucsb-primary"
@@ -49,7 +50,8 @@ You can unsubscribe at any time.
 
 <!-- CURRENT PROJECTS -->
 
-::::{div} :class: ucsb-panel-light
+::::{div}
+:class: ucsb-panel-light
 
 :::{card} Current projects
 
@@ -95,7 +97,8 @@ sustaining an open source project.</p>
 
 <!-- PAST PROJECTS -->
 
-::::{div} :class: ucsb-panel-dark
+::::{div}
+:class: ucsb-panel-dark
 
 :::{card} Past projects
 
@@ -143,7 +146,8 @@ gravity for this work for the foreseeable future.
 
 ## Get connected
 
-::::{div} :class: ospo-img
+::::{div}
+:class: ospo-img
 
 <img src="../static/images/ucsb/UCSB-ospo.png"
      alt="UCSB open source programs logo" /> ::::
