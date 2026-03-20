@@ -232,6 +232,73 @@ Sponsorship tiers include:
 
 All sponsors are prominently recognized on signage, the website, and promotional materials. Let's build the future of open source together—[contact us](mailto:slieggi@ucsc.edu) to explore how sponsorship can align with your organization's goals.
 
+:::::::{div}
+:class: sponsor-showcase
+
+:::::{div}
+:class: sponsor-tier tier-hosting
+
+### Hosting Sponsor
+
+```{image} ../../static/images/sponsors/bids-logo.png
+:alt: Berkeley Institute for Data Science
+:class: logo-light
+```
+
+```{image} ../../static/images/sponsors/bids-logo-dark.png
+:alt: Berkeley Institute for Data Science
+:class: logo-dark
+```
+
+:::::
+
+:::::{div}
+:class: sponsor-tier tier-gold
+
+### Gold
+
+```{image} ../../static/images/sponsors/aws.png
+:alt: Amazon Web Services
+:class: logo-light
+```
+
+```{image} ../../static/images/sponsors/aws-light.svg
+:alt: Amazon Web Services
+:class: logo-dark
+```
+
+:::::
+
+:::::{div}
+:class: sponsor-tier tier-bronze
+
+### Bronze
+
+```{image} ../../static/images/sponsors/redhat.svg
+:alt: Red Hat
+```
+
+:::::
+
+:::::{div}
+:class: sponsor-tier tier-network
+
+### Network Support
+
+```{image} ../../static/images/sponsors/sloan.png
+:alt: Alfred P. Sloan Foundation
+:class: logo-light
+```
+
+```{image} ../../static/images/sponsors/Logo-1A-SMALL-Gold-White.png
+:alt: Alfred P. Sloan Foundation
+:class: logo-dark
+```
+
+:::::
+
+:::::::
+
 ## Logistics
 
 **Event Venue:** [The Brower Center, 2150 Allston Way, Berkeley, CA 94704](https://www.openstreetmap.org/directions?from=&to=37.8693,-122.2678#map=19/37.8693/-122.2678)

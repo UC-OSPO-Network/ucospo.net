@@ -572,6 +572,94 @@ footer.article-grid {
   display: block;
 }
 
+/* ── Sponsor showcase (vertically stacked, size-differentiated) ──── */
+
+.sponsor-showcase {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.sponsor-tier {
+  margin-bottom: 2rem;
+}
+
+.sponsor-tier h3 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.75rem;
+}
+
+.tier-hosting h3 { color: #1a5276; }
+.tier-gold h3 { color: #b8860b; }
+.tier-bronze h3 { color: #8b5e3c; }
+.tier-network h3 { color: #2e7d32; }
+
+.dark .tier-hosting h3 { color: #5dade2; }
+.dark .tier-gold h3 { color: #f0c75e; }
+.dark .tier-bronze h3 { color: #d4a373; }
+.dark .tier-network h3 { color: #81c784; }
+
+@media (prefers-color-scheme: dark) {
+  .tier-hosting h3 { color: #5dade2; }
+  .tier-gold h3 { color: #f0c75e; }
+  .tier-bronze h3 { color: #d4a373; }
+  .tier-network h3 { color: #81c784; }
+}
+
+.sponsor-tier img {
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  width: auto;
+  object-fit: contain;
+}
+
+.tier-hosting img {
+  max-width: 300px;
+  max-height: 125px;
+}
+
+.tier-gold img {
+  max-width: 225px;
+  max-height: 94px;
+}
+
+.tier-bronze img {
+  max-width: 150px;
+  max-height: 63px;
+}
+
+.tier-network img {
+  max-width: 100px;
+  max-height: 44px;
+}
+
+.sponsor-showcase .logo-light {
+  display: block;
+}
+
+.sponsor-showcase .logo-dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sponsor-showcase .logo-light {
+    display: none;
+  }
+  .sponsor-showcase .logo-dark {
+    display: block;
+  }
+}
+
+.dark .sponsor-showcase .logo-light {
+  display: none;
+}
+
+.dark .sponsor-showcase .logo-dark {
+  display: block;
+}
+
 /* ── Schedule table ───────────────────────────────────────────────── */
 
 .schedule-table th {
