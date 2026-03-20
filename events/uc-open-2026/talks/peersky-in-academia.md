@@ -2,9 +2,7 @@
 title: "PeerSky in Academia: Create, Publish, and Share Research Without the Cloud"
 ---
 
-## Akhilesh Thite | University of California, Santa Cruz
-
-### Abstract
+## Abstract
 
 This session presents PeerSky Browser, a local-first, peer-to-peer web browser that allows people to access, publish, and share content directly with one another without relying on servers, cloud platforms, or gatekeepers.
 
@@ -17,7 +15,7 @@ PeerSky was supported through Google Summer of Code 2025 with UC OSPO and contin
 Website: [https://peersky.p2plabs.xyz/](https://peersky.p2plabs.xyz/)
 GitHub: [https://github.com/p2plabsxyz/peersky-browser](https://github.com/p2plabsxyz/peersky-browser)
 
----
+## Akhilesh Thite | University of California, Santa Cruz
 
 Akhilesh is a hacker and artist building decentralized tools for a more resilient, accessible, and user-empowered internet. He is the creator of the PeerSky Browser and actively contributes to open-source projects across the decentralized web ecosystem.
 
@@ -30,7 +28,3 @@ He is currently pursuing a Master’s degree in Computer Science at the Universi
 Website: [https://akhilesh.art/](https://akhilesh.art/)
 GitHub: [https://github.com/akhileshthite](https://github.com/akhileshthite)
 LinkedIn: [https://www.linkedin.com/in/akhileshthite/](https://www.linkedin.com/in/akhileshthite/)
-
-### About N/A
-
-N/A
