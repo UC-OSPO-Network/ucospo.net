@@ -82,7 +82,7 @@ open source community at UCSB.
 
 <div class="ucsb-clearfix">
 <img class="suspb-image"
-     src="../static/images/ucsb/susPB_logo.png"
+     src="../static/images/ucsb/susPB_logo.svg"
      loading="lazy"
      alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text" />
 <p>Since our recent survey showed that many open source contributors are struggling
