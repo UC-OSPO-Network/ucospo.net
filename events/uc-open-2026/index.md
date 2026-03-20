@@ -303,6 +303,8 @@ All sponsors are prominently recognized on signage, the website, and promotional
 
 **Event Venue:** [The Brower Center, 2150 Allston Way, Berkeley, CA 94704](https://www.openstreetmap.org/directions?from=&to=37.8693,-122.2678#map=19/37.8693/-122.2678)
 
+Accessibility: the Brower Center has steps and a ramp to the front entrance, and an elevator for those who cannot take the stairs. Wheelchair seating is available in the Goldman Theater auditorium—up to three wheelchairs can be accommodated with advance notice. Every bathroom has an accessible stall. Please [contact us](mailto:lalangdon@ucdavis.edu) if you have accessibility needs so we can make arrangements.
+
 **Public transit:** The Brower Center is in downtown Berkeley, steps from the [Downtown Berkeley BART station](https://www.bart.gov/stations/dbrk) and [AC Transit](https://www.actransit.org/).
 
 **Parking:** Weekday parking is available in the Oxford Garage directly below the Brower Center (enter on Kittredge St). The garage is open 7 AM–midnight with a live attendant 10 AM–7 PM on weekdays. See [ParkMe](https://www.parkme.com/) for rates.
