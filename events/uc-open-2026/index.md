@@ -109,15 +109,15 @@ Topic to be announced
 * - 9:30–10:00
   - **Welcome from UC Berkeley OSPO**
 * - 10:00–10:40
-  - **Keynote:** David Charron (UC Berkeley) — Open Software Entrepreneurship
+  - **Keynote:** David Charron (UC Berkeley)—*Open Software Entrepreneurship*
 * - 10:40–11:00
   - Break & Networking
 * - 11:00–11:50
-  - **Panel: Understanding Open Source Pathways — A Review of NSF POSE Funded Projects across the UC System**
+  - **Panel: Understanding Open Source Pathways—A Review of NSF POSE Funded Projects across the UC System**
 
     Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew Kahng (UCSD), Stephanie Lieggi (UCSC)
 * - 11:50–12:30
-  - **Keynote:** Nithya Ruff (Linux Foundation) — The Role of Foundations In Advancing Open Collaboration and Innovation
+  - **Keynote:** Nithya Ruff (Linux Foundation)—*The Role of Foundations In Advancing Open Collaboration and Innovation*
 * - 12:30–2:00
   - Lunch & Networking
 
@@ -125,17 +125,17 @@ Topic to be announced
 * - 2:00–3:00
   - **Breakout 1: Supporting the Next Generation of Open Source Leaders**
 
-    - UC OSPO Education Activities — Tim Dennis (UCLA)
-    - From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching — Eric Van Dusen (UC Berkeley)
-    - Teaching and Mentoring Open Source — Emily Lovell (UCSC)
-    - Open Source Adaptive Tutoring for UC STEM — Ioannis Anastasopoulos (UC Berkeley)
+    - *UC OSPO Education Activities*—Tim Dennis (UCLA)
+    - *From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching*—Eric Van Dusen (UC Berkeley)
+    - *Teaching and Mentoring Open Source*—Emily Lovell (UCSC)
+    - *Open Source Adaptive Tutoring for UC STEM*—Ioannis Anastasopoulos (UC Berkeley)
 
     **Breakout 2: Open Source Tools for Scientific Research**
 
-    - Unmapped Cities: Scaling Pedestrian Infrastructure Mapping with Tile2Net — Maryam Hosseini (UC Berkeley)
-    - Jupyter Book: Next-generation Tools for Creating Computational Narratives — Chris Holdgraf (2i2c)
-    - From Silos to Standards: Open Data Modeling with LinkML — Sierra Moxon & Nomi Harris (LBNL)
-    - Reflections on Building a High-Performance Open Source Microarchitectural Simulation Framework — Heiner Litz (UCSC)
+    - *Unmapped Cities: Scaling Pedestrian Infrastructure Mapping with Tile2Net*—Maryam Hosseini (UC Berkeley)
+    - *Jupyter Book: Next-generation Tools for Creating Computational Narratives*—Chris Holdgraf (2i2c)
+    - *From Silos to Standards: Open Data Modeling with LinkML*—Sierra Moxon & Nomi Harris (LBNL)
+    - *Reflections on Building a High-Performance Open Source Microarchitectural Simulation Framework*—Heiner Litz (UCSC)
 * - 3:00–3:45
   - Facilitated Discussions (TBA)
 * - 3:45–4:00
@@ -157,7 +157,7 @@ Topic to be announced
 * - 9:00–9:30
   - Breakfast & Registration
 * - 9:30–10:00
-  - **Opening Session — OSPO Network Update**
+  - **Opening Session—OSPO Network Update**
 * - 10:00–10:50
   - **Panel: Influence of AI on Open Source and Open Scholarship**
 
@@ -167,15 +167,15 @@ Topic to be announced
 * - 11:10–12:00
   - **Breakout 1: Enabling Impact Across California**
 
-    - Hidden in Plain Sight: Discovering the University of California Open Source Landscape — Juanita Gomez (UCSC)
-    - More Than Just Storage: Support for Open Scholarship through Campus Collaborations — Sam Teplitzky (UC Berkeley)
-    - A Funder's Perspective on Promoting Best Practices in Data Sharing and Management — Alden Conner (CIRM)
+    - *Hidden in Plain Sight: Discovering the University of California Open Source Landscape*—Juanita Gomez (UCSC)
+    - *More Than Just Storage: Support for Open Scholarship through Campus Collaborations*—Sam Teplitzky (UC Berkeley)
+    - *A Funder's Perspective on Promoting Best Practices in Data Sharing and Management*—Alden Conner (CIRM)
 
     **Breakout 2: Building Open Source and Open Science Ecosystems**
 
-    - The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation — Ranny Haiby (Linux Foundation)
-    - Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects — Seyed Yahya Shirazi (UCSD)
-    - Using Continuous Integration to Ensure Accessible Experiences — Michael Ball (UC Berkeley)
+    - *The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation*—Ranny Haiby (Linux Foundation)
+    - *Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects*—Seyed Yahya Shirazi (UCSD)
+    - *Using Continuous Integration to Ensure Accessible Experiences*—Michael Ball (UC Berkeley)
 * - 12:00–12:25
   - Facilitated Discussions (TBA)
 * - 12:25–1:45
@@ -185,17 +185,17 @@ Topic to be announced
 * - 1:45–2:50
   - **Breakout 1: Open Source Tools for Public Benefit**
 
-    - An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools — Andy Lyons (UC ANR)
-    - Open Source for Digital Democracy: Building a UC-Wide ProSocial Tech Lab — David Shaw (UCSC)
-    - Modular Stewardship: Scaling Relational Data Governance for Global Open Source — Lilinoe Harbottle
-    - Building Tools for Police Accountability — Tarak Shah (BIDS)
+    - *An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools*—Andy Lyons (UC ANR)
+    - *Open Source for Digital Democracy: Building a UC-Wide ProSocial Tech Lab*—David Shaw (UCSC)
+    - *Modular Stewardship: Scaling Relational Data Governance for Global Open Source*—Lilinoe Harbottle
+    - *Building Tools for Police Accountability*—Tarak Shah (BIDS)
 
     **Breakout 2: Open Infrastructure for Collaborative Research**
 
-    - Making Jupyter Notebooks Accessible — Balaji Alwar (UC Berkeley)
-    - PeerSky in Academia: Create, Publish, and Share Research Without the Cloud — Akhilesh Thite (UCSC)
-    - Who Did the Thinking? Documenting AI's Role in University Research — Oliver Muellerklein (UC Berkeley)
-    - Developing Environmental Wireless Sensor Networks with TockOS — John Madden (UCSC)
+    - *Making Jupyter Notebooks Accessible*—Balaji Alwar (UC Berkeley)
+    - *PeerSky in Academia: Create, Publish, and Share Research Without the Cloud*—Akhilesh Thite (UCSC)
+    - *Who Did the Thinking? Documenting AI's Role in University Research*—Oliver Muellerklein (UC Berkeley)
+    - *Developing Environmental Wireless Sensor Networks with TockOS*—John Madden (UCSC)
 * - 2:50–3:15
   - Facilitated Discussions (TBA)
 * - 3:20–4:00
@@ -328,8 +328,8 @@ Preferred rates may be available for UC-affiliated attendees via [Connexxus](htt
 
 ### Nearby Airports
 
-- Oakland International Airport (OAK) — about 12 miles, BART accessible
-- San Francisco International Airport (SFO) — about 25 miles, BART accessible
+- Oakland International Airport (OAK)—about 12 miles, BART accessible
+- San Francisco International Airport (SFO)—about 25 miles, BART accessible
 
 ### Travel Grants
 
