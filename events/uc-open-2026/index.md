@@ -29,6 +29,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 <table>
 <thead>
 <tr>
+  <th><strong>Hosting Sponsor</strong></th>
   <th><strong>Gold</strong></th>
   <th><strong>Bronze</strong></th>
   <th><strong>Network Support</strong></th>
@@ -36,6 +37,10 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 </thead>
 <tbody>
 <tr>
+  <td>
+    <img class="logo-light" src="../../static/images/sponsors/bids-logo.png" alt="Berkeley Institute for Data Science" />
+    <img class="logo-dark" src="../../static/images/sponsors/bids-logo-dark.png" alt="Berkeley Institute for Data Science" />
+  </td>
   <td>
     <img class="logo-light" src="../../static/images/sponsors/aws.png" alt="Amazon Web Services" />
     <img class="logo-dark" src="../../static/images/sponsors/aws-light.svg" alt="Amazon Web Services" />
