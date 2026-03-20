@@ -19,7 +19,7 @@ Finally, we've used this approach to remediate and improve websites that are aud
 ### Michael Ball
 
 Michael Ball is a Lecturer in the Electrical Engineering and Computer Sciences department at UC Berkeley, where he teaches CS 169 (Software Engineering) and Data C88C. His work bridges open source software development and CS education, with a focus on building scalable course infrastructure and educational tooling.
-He is a core contributor to Snap! (snap.berkeley.edu), a visual programming environment built on open web standards that introduces thousands of students worldwide to computer science. Snap! is the foundation of The Beauty and Joy of Computing, an AP CS Principles curriculum taught at hundreds of high schools and universities.
+He is a core contributor to [Snap!](https://snap.berkeley.edu), a visual programming environment built on open web standards that introduces thousands of students worldwide to computer science. Snap! is the foundation of The Beauty and Joy of Computing, an AP CS Principles curriculum taught at hundreds of high schools and universities.
 In CS 169, Michael teaches students to build and deploy Ruby on Rails applications with an emphasis on test-driven development, continuous integration, and web accessibility. His courses treat accessibility as a first-class engineering concern, with students writing automated accessibility tests alongside traditional feature specs.
 Michael was previously an early engineer at Gradescope, a startup founded by UC Berkeley TAs and grad students. Michael returned to teaching after Gradescope was successfully acquired by Turnitin.
 

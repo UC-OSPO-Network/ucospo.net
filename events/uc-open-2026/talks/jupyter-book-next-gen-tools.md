@@ -6,7 +6,7 @@ title: "Jupyter Book: Next-generation Tools for Creating Computational Narrative
 
 Jupyter Book is a core tool for sharing computational science, powering more than 14,000 open, online textbooks, knowledge bases, lectures, courses and community sites. It allows researchers and educators to create books and knowledge bases that are reusable, reproducible, and interactive.
 
-Over the past two years, we have rebuilt Jupyter Book from the ground up, focused on allowing authors to produce machine readable, semantically structured content that can be flexibly deployed, reused, and cross referenced in unprecedented ways. We achieved this by adopting, stewarding, and developing the MyST Markdown Document Engine (mystmd.org), a more flexible and extensible engine that integrates with Jupyter for interactive computation.
+Over the past two years, we have rebuilt Jupyter Book from the ground up, focused on allowing authors to produce machine readable, semantically structured content that can be flexibly deployed, reused, and cross referenced in unprecedented ways. We achieved this by adopting, stewarding, and developing the [MyST Markdown Document Engine](https://mystmd.org), a more flexible and extensible engine that integrates with Jupyter for interactive computation.
 
 In this talk, I'll cover the key differentiating ideas driving Jupyter Book and MyST, and showcase real-world examples like The Turing Way, QuantEcon, Project Pythia, and the SciPy Proceedings.
 

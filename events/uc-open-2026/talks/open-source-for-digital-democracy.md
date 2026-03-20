@@ -6,7 +6,7 @@ title: "Open Source for Digital Democracy: Building a UC-Wide ProSocial Tech Lab
 
 This participatory session explores how open source software can serve as core infrastructure for digital democracy and public benefit. We will examine Pol.is and related deliberative technologies as examples of digital public goods that “travel well” across contexts—from Taiwan’s civic tech ecosystem to California’s emerging Engaged California platform.
 
-The session unfolds in three acts. First, we introduce an open source case study (whatcouldbgbe.com) and situate it within a broader proposal for a UC-wide ProSocial Tech Lab. This initiative would connect engineering (open source AI tools, interpretable models, data portability), social sciences (governance design, polarization metrics, public trust evaluation), and humanities (ethics, facilitation design, human-centered curriculum) across campuses.
+The session unfolds in three acts. First, we introduce an open source case study ([whatcouldbgbe.com](https://whatcouldbgbe.com)) and situate it within a broader proposal for a UC-wide ProSocial Tech Lab. This initiative would connect engineering (open source AI tools, interpretable models, data portability), social sciences (governance design, polarization metrics, public trust evaluation), and humanities (ethics, facilitation design, human-centered curriculum) across campuses.
 
 Second, participants will engage in small-group dialogue to explore how open source tools can support democratic participation, research infrastructure, and shared governance within and beyond the UC system.
 
