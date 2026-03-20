@@ -46,10 +46,7 @@ You can unsubscribe at any time.
 
 <a href="https://signup.e2ma.net/signup/2045162/1984731/"
    class="btn-ucsb-primary"
-   target="_blank">
-Join our mailing list
-</a>
-::::
+   target="_blank"> Join our mailing list </a> ::::
 
 <!-- CURRENT PROJECTS -->
 
@@ -82,7 +79,7 @@ open source community at UCSB.
 
 <div class="ucsb-clearfix">
 <img class="suspb-image"
-     src="../static/images/ucsb/susPB_logo.png"
+     src="../static/images/ucsb/susPB_logo.svg"
      loading="lazy"
      alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text" />
 <p>Since our recent survey showed that many open source contributors are struggling
@@ -153,8 +150,7 @@ gravity for this work for the foreseeable future.
 :class: ospo-img
 
 <img src="../static/images/ucsb/UCSB-ospo.png"
-     alt="UCSB open source programs logo" />
-::::
+     alt="UCSB open source programs logo" /> ::::
 
 - To stay informed about our activities, <a
     href="https://signup.e2ma.net/signup/2045162/1984731/"
