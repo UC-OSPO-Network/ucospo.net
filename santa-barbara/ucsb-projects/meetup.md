@@ -2,7 +2,6 @@
 title: Open Source Meetup
 ---
 
-
 ![UCSB Open Source Meetup banner](../../static/images/ucsb/ucsb_banner.png)
 
 ## Join us at the Open Source Meetup!
@@ -36,12 +35,12 @@ give a talk about their own project, show their code for code review, facilitate
 a group discussion on a topic of interest, or do something else. Meetings are
 casual and shouldn't require too much formal preparation.
 
-👩🏻‍💻**Open Source Lounge:** These are co-working sessions where attendees can
-work on their open source goals in a quiet, supportive environment. Bring your
-laptop and some work to do such as documentation cleanup, a bug to work on, or
-learning exercises to hone your coding skills. The meeting is two hours, but
-drop by for as much or as little time as you like. You might be surprised by how
-much you can get done in just half an hour.
+👩🏻‍💻**Open Source Lounge:** These are co-working sessions where attendees can work
+on their open source goals in a quiet, supportive environment. Bring your laptop
+and some work to do such as documentation cleanup, a bug to work on, or learning
+exercises to hone your coding skills. The meeting is two hours, but drop by for
+as much or as little time as you like. You might be surprised by how much you
+can get done in just half an hour.
 
 ### Upcoming meetings:
 
@@ -53,11 +52,11 @@ much you can get done in just half an hour.
   </a>
 </div>
 
-| Date           | Time                                                           | Topic                                                      | Link                                                                                                | Other notes                                |
-| -------------- | -------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| April 1, 2026  | 12pm-2pm                                                       | Open Source Lounge                                         | <a href="https://ucsb.zoom.us/j/87499258423" target="_blank">Join the meeting now</a>               | Hybrid meeting: Library room 1411 and Zoom |
-| April 15, 2026 | 12pm-1pm                                                       | Discussion: Speaker/topic TBD                              | <a href="https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw" target="_blank">Register</a> | Zoom meeting                               |
-| April 29, 2026 | 12pm-2pm                                                       | Open Source Lounge                                         | <a href="https://ucsb.zoom.us/j/87499258423" target="_blank">Join the meeting now</a>               | Hybrid meeting: Library room 1411 and Zoom |
+| Date           | Time     | Topic                         | Link                                                                                                | Other notes                                |
+| -------------- | -------- | ----------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| April 1, 2026  | 12pm-2pm | Open Source Lounge            | <a href="https://ucsb.zoom.us/j/87499258423" target="_blank">Join the meeting now</a>               | Hybrid meeting: Library room 1411 and Zoom |
+| April 15, 2026 | 12pm-1pm | Discussion: Speaker/topic TBD | <a href="https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw" target="_blank">Register</a> | Zoom meeting                               |
+| April 29, 2026 | 12pm-2pm | Open Source Lounge            | <a href="https://ucsb.zoom.us/j/87499258423" target="_blank">Join the meeting now</a>               | Hybrid meeting: Library room 1411 and Zoom |
 
 ### Past topics:
 
