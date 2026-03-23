@@ -186,9 +186,8 @@ Topic to be announced
   - **Breakout 1: Open Source Tools for Public Benefit**
 
     - *An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools*—Andy Lyons (UC ANR)
-    - *Open Source for Digital Democracy: Building a UC-Wide ProSocial Tech Lab*—David Shaw (UCSC)
-    - *Modular Stewardship: Scaling Relational Data Governance for Global Open Source*—Lilinoe Harbottle
-    - *Building Tools for Police Accountability*—Tarak Shah (BIDS)
+    - *Open Source for Digital Democracy: Building a UC-Wide ProSocial Tech Lab*—David Shaw (UCSC)  
+    - *Building Tools for Police Accountability*—Tarak Shah (UC Berkeley / BIDS)
 
     **Breakout 2: Open Infrastructure for Collaborative Research**
 
