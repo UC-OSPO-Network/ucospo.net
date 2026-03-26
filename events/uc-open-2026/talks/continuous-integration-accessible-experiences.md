@@ -14,7 +14,7 @@ While automated accessibility tests cannot cover all aspects of the WCAG require
 
 Finally, we've used this approach to remediate and improve websites that are audited and monitored in SiteImprove. SiteImprove provides useful dashboards and guidance, but it is yet another login for many users for whom accessibility is not their primary responsibility, and requires waiting for a new crawl before you see new results. CI provides feedback usually within a minute of a push to GitHub, and can even be run locally for immediate results.
 
-## About the Speakers
+---
 
 ### Michael Ball
 

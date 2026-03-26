@@ -8,11 +8,11 @@ Whether you are a data producer (e.g., a scientific researcher) or a data consum
 
 [LinkML (Linked Data Modeling Framework)](https://linkml.io) addresses this need. LinkML is an open Python framework for modeling, validating, and distributing interoperable data. Widely adopted in scientific data management projects, LinkML enables schema alignment by fostering shared understanding among collaborators and bridging technical architectures. It streamlines data workflows by providing validation, schema translation, and integration mechanisms that support data ingestion, normalization, annotation, and export across heterogeneous systems.
 
-As an added bonus, LinkML enables AI to be leveraged for tasks that require structured data extraction without sacrificing schema consistency or interoperability. By setting clear expectations about the structure and content of generated outputs, LinkML schemas help to make AI-driven data generation more reliable and reproducible. We will present tips for using AI tools effectively to accelerate and support your data modeling and data analysis efforts. Moreover, LinkML-structured data is natively “AI-ready”--suitable for input into AI-based analyses.
+As an added bonus, LinkML enables AI to be leveraged for tasks that require structured data extraction without sacrificing schema consistency or interoperability. By setting clear expectations about the structure and content of generated outputs, LinkML schemas help to make AI-driven data generation more reliable and reproducible. We will present tips for using AI tools effectively to accelerate and support your data modeling and data analysis efforts. Moreover, LinkML-structured data is natively "AI-ready"--suitable for input into AI-based analyses.
 
 In this talk, we will briefly outline best practices for data modeling; introduce LinkML as a modeling framework and tool suite; and describe how to use LinkML to develop a data model and validate it with test data. We will also show how LinkML can work hand-in-hand with AI.
 
-## About the Speakers
+---
 
 ### Sierra Moxon
 
