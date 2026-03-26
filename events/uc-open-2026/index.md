@@ -198,7 +198,7 @@ Open Software Entrepreneurship
 * - 2:50–3:15
   - Facilitated Discussions (TBA)
 * - 3:20–4:00
-  - **Keynote:** Kevin Esterling (UC Riverside)
+  - **Keynote:** Kevin Esterling (UC Riverside)—*[Open Source AI and the Public Sphere: Two Paradoxes](./talks/open-source-ai-public-sphere.md)*
 * - 4:00–4:15
   - **Closing**
 ```
