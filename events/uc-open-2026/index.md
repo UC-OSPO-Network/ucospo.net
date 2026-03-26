@@ -117,7 +117,7 @@ Open Source AI and the Public Sphere: Two Paradoxes
 
     Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew Kahng (UCSD), Stephanie Lieggi (UCSC)
 * - 11:50–12:30
-  - **Keynote:** Nithya Ruff (Linux Foundation)—*The Role of Foundations In Advancing Open Collaboration and Innovation*
+  - **Keynote:** Nithya Ruff (Linux Foundation)—*[The Role of Foundations In Advancing Open Collaboration and Innovation](./talks/role-of-foundations-in-open-source.md)*
 * - 12:30–2:00
   - Lunch & Networking
 
@@ -125,17 +125,17 @@ Open Source AI and the Public Sphere: Two Paradoxes
 * - 2:00–3:00
   - **Breakout 1: Supporting the Next Generation of Open Source Leaders**
 
-    - *UC OSPO Education Activities*—Tim Dennis (UCLA)
+    - *[UC OSPO Education Activities](./talks/uc-ospo-education-activities.md)*—Tim Dennis (UCLA)
     - *From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching*—Eric Van Dusen (UC Berkeley)
     - *Teaching and Mentoring Open Source*—Emily Lovell (UCSC)
-    - *Open Source Adaptive Tutoring for UC STEM*—Ioannis Anastasopoulos (UC Berkeley)
+    - *[Open Source Adaptive Tutoring for UC STEM](./talks/open-source-adaptive-tutoring-for-uc-stem.md)*—Ioannis Anastasopoulos (UC Berkeley)
 
     **Breakout 2: Open Source Tools for Scientific Research**
 
-    - *Unmapped Cities: Scaling Pedestrian Infrastructure Mapping with Tile2Net*—Maryam Hosseini (UC Berkeley)
-    - *Jupyter Book: Next-generation Tools for Creating Computational Narratives*—Chris Holdgraf (2i2c)
-    - *From Silos to Standards: Open Data Modeling with LinkML*—Sierra Moxon & Nomi Harris (LBNL)
-    - *Reflections on Building a High-Performance Open Source Microarchitectural Simulation Framework*—Heiner Litz (UCSC)
+    - *[Unmapped Cities: Scaling Pedestrian Infrastructure Mapping with Tile2Net](./talks/unmapped-cities.md)*—Maryam Hosseini (UC Berkeley)
+    - *[Jupyter Book: Next-generation Tools for Creating Computational Narratives](./talks/jupyter-book-next-gen-tools.md)*—Chris Holdgraf (2i2c)
+    - *[From Silos to Standards: Open Data Modeling with LinkML](./talks/from-silos-to-standards-linkml.md)*—Sierra Moxon & Nomi Harris (LBNL)
+    - *[Reflections on Building a High-Performance Open Source Microarchitectural Simulation Framework](./talks/open-source-microarchitectural-simulation.md)*—Heiner Litz (UCSC)
 * - 3:00–3:45
   - Facilitated Discussions (TBA)
 * - 3:45–4:00
@@ -145,7 +145,7 @@ Open Source AI and the Public Sphere: Two Paradoxes
 
     Chaired by Karla Padilla (UCSD). Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg)
 * - 4:45–5:15
-  - **Lightning Intros**
+  - **[Lightning Intros](./talks/lightning-intros.md)**
 * - 5:15–6:30
   - Reception
 ```
@@ -167,15 +167,15 @@ Open Source AI and the Public Sphere: Two Paradoxes
 * - 11:10–12:00
   - **Breakout 1: Enabling Impact Across California**
 
-    - *Hidden in Plain Sight: Discovering the University of California Open Source Landscape*—Juanita Gomez (UCSC)
+    - *[Hidden in Plain Sight: Discovering the University of California Open Source Landscape](./talks/hidden-in-plain-sight-uc-open-source-landscape.md)*—Juanita Gomez (UCSC)
     - *More Than Just Storage: Support for Open Scholarship through Campus Collaborations*—Sam Teplitzky (UC Berkeley)
-    - *A Funder's Perspective on Promoting Best Practices in Data Sharing and Management*—Alden Conner (CIRM)
+    - *[A Funder's Perspective on Promoting Best Practices in Data Sharing and Management](./talks/best-practices-data-sharing-and-management.md)*—Alden Conner (CIRM)
 
     **Breakout 2: Building Open Source and Open Science Ecosystems**
 
-    - *The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation*—Ranny Haiby (Linux Foundation)
-    - *Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects*—Seyed Yahya Shirazi (UCSD)
-    - *Using Continuous Integration to Ensure Accessible Experiences*—Michael Ball (UC Berkeley)
+    - *[The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation](./talks/ocudu-blueprint.md)*—Ranny Haiby (Linux Foundation)
+    - *[Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects](./talks/open-science-assistant.md)*—Seyed Yahya Shirazi (UCSD)
+    - *[Using Continuous Integration to Ensure Accessible Experiences](./talks/continuous-integration-accessible-experiences.md)*—Michael Ball (UC Berkeley)
 * - 12:00–12:25
   - Facilitated Discussions (TBA)
 * - 12:25–1:45
@@ -185,14 +185,14 @@ Open Source AI and the Public Sphere: Two Paradoxes
 * - 1:45–2:50
   - **Breakout 1: Open Source Tools for Public Benefit**
 
-    - *An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools*—Andy Lyons (UC ANR)
+    - *[An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools](./talks/weather-driven-agricultural-decision-tools.md)*—Andy Lyons (UC ANR)
     - *Open Source for Digital Democracy: Building a UC-Wide ProSocial Tech Lab*—David Shaw (UCSC)
-    - *Building Tools for Police Accountability*—Tarak Shah (UC Berkeley / BIDS)
+    - *[Building Tools for Police Accountability](./talks/building-tools-for-police-accountability.md)*—Tarak Shah (UC Berkeley / BIDS)
 
     **Breakout 2: Open Infrastructure for Collaborative Research**
 
-    - *Making Jupyter Notebooks Accessible*—Balaji Alwar (UC Berkeley)
-    - *PeerSky in Academia: Create, Publish, and Share Research Without the Cloud*—Akhilesh Thite (UCSC)
+    - *[Making Jupyter Notebooks Accessible](./talks/making-jupyter-notebooks-accessible.md)*—Balaji Alwar (UC Berkeley)
+    - *[PeerSky in Academia: Create, Publish, and Share Research Without the Cloud](./talks/peersky-in-academia.md)*—Akhilesh Thite (UCSC)
     - *Who Did the Thinking? Documenting AI's Role in University Research*—Oliver Muellerklein (UC Berkeley)
     - *Developing Environmental Wireless Sensor Networks with TockOS*—John Madden (UCSC)
 * - 2:50–3:15
