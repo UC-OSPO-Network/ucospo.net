@@ -2,6 +2,11 @@
 title: "Hidden in Plain Sight: Discovering the University of California Open Source Landscape"
 ---
 
+```{image} ./speaker-headshots/juanita-gomez.jpg
+:alt: Juanita Gomez
+:width: 200px
+```
+
 ## Abstract
 
 The University of California’s network of Open Source Program Offices (OSPOs) launched in 2024 bringing together six campuses (UC Santa Cruz, Berkeley, Davis, Los Angeles, Santa Barbara, and San Diego) to support open source research, promote sustainability, and establish best practices within academic environments.

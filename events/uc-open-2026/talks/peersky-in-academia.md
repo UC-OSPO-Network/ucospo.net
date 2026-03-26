@@ -2,6 +2,11 @@
 title: "PeerSky in Academia: Create, Publish, and Share Research Without the Cloud"
 ---
 
+```{image} ./speaker-headshots/akhilesh-thite.png
+:alt: Akhilesh Thite
+:width: 200px
+```
+
 ## Abstract
 
 This session presents PeerSky Browser, a local-first, peer-to-peer web browser that allows people to access, publish, and share content directly with one another without relying on servers, cloud platforms, or gatekeepers.

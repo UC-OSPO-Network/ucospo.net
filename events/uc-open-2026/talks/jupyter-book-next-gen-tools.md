@@ -2,6 +2,11 @@
 title: "Jupyter Book: Next-generation Tools for Creating Computational Narratives"
 ---
 
+```{image} ./speaker-headshots/chris-holdgraf.png
+:alt: Chris Holdgraf
+:width: 200px
+```
+
 ## Abstract
 
 Jupyter Book is a core tool for sharing computational science, powering more than 14,000 open, online textbooks, knowledge bases, lectures, courses and community sites. It allows researchers and educators to create books and knowledge bases that are reusable, reproducible, and interactive.

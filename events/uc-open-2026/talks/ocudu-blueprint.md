@@ -2,6 +2,11 @@
 title: "The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation"
 ---
 
+```{image} ./speaker-headshots/ranny-haiby.jpeg
+:alt: Ranny Haiby
+:width: 200px
+```
+
 ## Abstract
 
 The rapid evolution of 5G, 6G, and beyond requires a radical departure from traditional, closed-source proprietary development. This session introduces OCUDU (Open Central Unit / Distributed Unit), a pioneering initiative designed to accelerate wireless innovation by bridging the gap between industry, academia, and government.
