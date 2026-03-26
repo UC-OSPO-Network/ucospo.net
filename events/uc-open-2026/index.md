@@ -128,7 +128,7 @@ Open Software Entrepreneurship
     - *[UC OSPO Education Activities](./talks/uc-ospo-education-activities.md)*—Tim Dennis (UCLA)
     - *From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching*—Eric Van Dusen (UC Berkeley)
     - *Teaching and Mentoring Open Source*—Emily Lovell (UCSC)
-    - *[Open Source Adaptive Tutoring for UC STEM](./talks/open-source-adaptive-tutoring-for-uc-stem.md)*—Ioannis Anastasopoulos (UC Berkeley)
+    - *[Open Source Adaptive Tutoring for UC STEM](./talks/open-source-adaptive-tutoring-for-uc-stem.md)*—Ioannis Anastasopoulos & Zachary Pardos (UC Berkeley)
 
     **Breakout 2: Open Source Tools for Scientific Research**
 
@@ -175,7 +175,7 @@ Open Software Entrepreneurship
 
     - *[The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation](./talks/ocudu-blueprint.md)*—Ranny Haiby (Linux Foundation)
     - *[Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects](./talks/open-science-assistant.md)*—Seyed Yahya Shirazi (UCSD)
-    - *[Using Continuous Integration to Ensure Accessible Experiences](./talks/continuous-integration-accessible-experiences.md)*—Michael Ball (UC Berkeley)
+    - *[Using Continuous Integration to Ensure Accessible Experiences](./talks/continuous-integration-accessible-experiences.md)*—Michael Ball & Silas Santini (UC Berkeley)
 * - 12:00–12:25
   - Facilitated Discussions (TBA)
 * - 12:25–1:45
@@ -191,7 +191,7 @@ Open Software Entrepreneurship
 
     **Breakout 2: Open Infrastructure for Collaborative Research**
 
-    - *[Making Jupyter Notebooks Accessible](./talks/making-jupyter-notebooks-accessible.md)*—Balaji Alwar (UC Berkeley)
+    - *[Making Jupyter Notebooks Accessible](./talks/making-jupyter-notebooks-accessible.md)*—Balaji Alwar & Chanbin Park (UC Berkeley)
     - *[PeerSky in Academia: Create, Publish, and Share Research Without the Cloud](./talks/peersky-in-academia.md)*—Akhilesh Thite (UCSC)
     - *Who Did the Thinking? Documenting AI's Role in University Research*—Oliver Muellerklein (UC Berkeley)
     - *Developing Environmental Wireless Sensor Networks with TockOS*—John Madden (UCSC)
