@@ -81,7 +81,7 @@ Open Software Entrepreneurship
 :width: 200px
 ```
 
-The Role of Foundations In Advancing Open Collaboration and Innovation
+[The Role of Foundations In Advancing Open Collaboration and Innovation](./talks/role-of-foundations-in-open-source.md)
 :::
 
 :::{card} Kevin Esterling
