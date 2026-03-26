@@ -91,7 +91,7 @@ The Role of Foundations In Advancing Open Collaboration and Innovation
 :width: 200px
 ```
 
-Topic to be announced
+Open Source AI and the Public Sphere: Two Paradoxes
 :::
 
 ::::
