@@ -14,11 +14,6 @@ In this talk, we will briefly outline best practices for data modeling; introduc
 
 ---
 
-### Sierra Moxon
-
-[Sierra Moxon](https://github.com/sierra-moxon) is a research software engineer at the Lawrence Berkeley National Laboratory who focuses on sustainable open-source software development in multidisciplinary research environments. She is an expert in scientific data modeling, data harmonization, the creation and use of ontologies and knowledge graphs, and AI/ML approaches to accelerate data curation, modeling, and analysis. Sierra has led the development of LinkML and helped mature it from a prototype to a widely-used framework. She plays critical roles in several important NIH-funded projects, developing standards and processes that improve software quality, reusability, and sustainability. In addition to developing software, Sierra has led the development and use of AI-assisted tools and workflows, software testing and release processes, and data modeling strategies.
-On the NCATS Biomedical Data Translator project, Ms. Moxon is the technical lead of the Standards Committee and co-leads the Data Ingestion and Coordination Working Group. She is also a data modeling lead in the new DOE-funded BRIDGE project, a collaboration involving multiple US National Laboratories that aims to build a connected data framework to enable biological insights and biomolecular design.
-
 ### Nomi L. Harris
 
 Nomi Harris is the Program Manager for the Berkeley Bioinformatics Open-Source Projects group (BBOP) at LBNL. She works to coordinate a portfolio of large multi-institution bioinformatics-related projects and ensure smooth operation and clear communication between collaborators and with the public. Nomi has a M.S. in computer science from MIT and a long history in bioinformatics, starting as a software developer and transitioning into scientific project management and communication. For many years, Nomi has chaired the annual Bioinformatics Open Source Conference (BOSC). She is also a board member of the Open Bioinformatics Foundation, a non-profit group that promotes open-source software development and open science within the biological research community.

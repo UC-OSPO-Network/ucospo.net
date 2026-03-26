@@ -134,7 +134,7 @@ Open Software Entrepreneurship
 
     - *[Unmapped Cities: Scaling Pedestrian Infrastructure Mapping with Tile2Net](./talks/unmapped-cities.md)*—Maryam Hosseini (UC Berkeley)
     - *[Jupyter Book: Next-generation Tools for Creating Computational Narratives](./talks/jupyter-book-next-gen-tools.md)*—Chris Holdgraf (2i2c)
-    - *[From Silos to Standards: Open Data Modeling with LinkML](./talks/from-silos-to-standards-linkml.md)*—Sierra Moxon & Nomi Harris (LBNL)
+    - *[From Silos to Standards: Open Data Modeling with LinkML](./talks/from-silos-to-standards-linkml.md)*—Nomi Harris (LBNL)
     - *[Reflections on Building a High-Performance Open Source Microarchitectural Simulation Framework](./talks/open-source-microarchitectural-simulation.md)*—Heiner Litz (UCSC)
 * - 3:00–3:45
   - Facilitated Discussions (TBA)
