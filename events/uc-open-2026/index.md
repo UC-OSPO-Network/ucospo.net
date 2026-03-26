@@ -91,7 +91,7 @@ Open Software Entrepreneurship
 :width: 200px
 ```
 
-Open Source AI and the Public Sphere: Two Paradoxes
+[Open Source AI and the Public Sphere: Two Paradoxes](./talks/open-source-ai-public-sphere.md)
 :::
 
 ::::
