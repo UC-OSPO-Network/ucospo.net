@@ -8,6 +8,14 @@ The UC OSPO Network's Education Committee has spent the past year building share
 
 ---
 
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/tim-dennis.png
+:alt: Tim Dennis
+:class: speaker-bio-img
+```
+
 ### Tim Dennis | UCLA
 
 Tim Dennis directs the Data Science Center at UCLA Library and is the UCLA Co-PI on the UC OSPO Network, a Sloan Foundation-funded initiative building open source program capacity across the University of California, with PIs and Co-PIs at each UC campus. He coordinates UC Carpentries, a network of 60+ certified instructors spanning all ten campuses, and co-chairs the Library Carpentry Governance Committee. He recently led an IMLS-funded project delivering 15 open science lessons for library and research communities. He works with the UC OSPO Education Committee on curriculum development, lesson pathways, and a Bioschemas-tagged lesson discovery website launching ahead of UC Open. He's been building shared research infrastructure across the UC system for 26 years.
