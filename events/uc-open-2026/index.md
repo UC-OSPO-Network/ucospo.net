@@ -168,7 +168,7 @@ Open Software Entrepreneurship
   - **Breakout 1: Enabling Impact Across California**
 
     - *[Hidden in Plain Sight: Discovering the University of California Open Source Landscape](./talks/hidden-in-plain-sight-uc-open-source-landscape.md)*—Juanita Gomez (UCSC)
-    - *More Than Just Storage: Support for Open Scholarship through Campus Collaborations*—Sam Teplitzky (UC Berkeley)
+    - *[More Than Just Storage: Support for Open Scholarship through Campus Collaborations](./talks/more-than-just-storage.md)*—Sam Teplitzky & Anna Sackmann (UC Berkeley)
     - *[A Funder's Perspective on Promoting Best Practices in Data Sharing and Management](./talks/best-practices-data-sharing-and-management.md)*—Alden Conner (CIRM)
 
     **Breakout 2: Building Open Source and Open Science Ecosystems**
