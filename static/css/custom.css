@@ -472,6 +472,7 @@ footer.article-grid {
 .speaker-cards .myst-card {
   border-top: 3px solid #003cb3;
   background-color: #f0f4fa;
+  text-align: center;
 }
 
 .speaker-cards .myst-card img {
