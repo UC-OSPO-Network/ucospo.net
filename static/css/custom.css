@@ -472,6 +472,7 @@ footer.article-grid {
 .speaker-cards .myst-card {
   border-top: 3px solid #003cb3;
   background-color: #f0f4fa;
+  text-align: center;
 }
 
 .speaker-cards .myst-card img {
@@ -703,5 +704,27 @@ footer.article-grid {
 @media (prefers-color-scheme: dark) {
   .schedule-table th {
     background-color: #1e3a5f !important;
+  }
+}
+
+/* ── Speaker bio (talk pages) ────────────────────────────────────── */
+
+.speaker-bio {
+  overflow: auto;
+}
+
+.speaker-bio-img {
+  float: left;
+  width: 150px;
+  height: auto;
+  margin: 0 1.5rem 1rem 0 !important;
+  border-radius: 50%;
+}
+
+@media (max-width: 600px) {
+  .speaker-bio-img {
+    float: none !important;
+    display: block;
+    margin: 0 auto 1rem auto !important;
   }
 }

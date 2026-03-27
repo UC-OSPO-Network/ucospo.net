@@ -8,16 +8,11 @@ Whether you are a data producer (e.g., a scientific researcher) or a data consum
 
 [LinkML (Linked Data Modeling Framework)](https://linkml.io) addresses this need. LinkML is an open Python framework for modeling, validating, and distributing interoperable data. Widely adopted in scientific data management projects, LinkML enables schema alignment by fostering shared understanding among collaborators and bridging technical architectures. It streamlines data workflows by providing validation, schema translation, and integration mechanisms that support data ingestion, normalization, annotation, and export across heterogeneous systems.
 
-As an added bonus, LinkML enables AI to be leveraged for tasks that require structured data extraction without sacrificing schema consistency or interoperability. By setting clear expectations about the structure and content of generated outputs, LinkML schemas help to make AI-driven data generation more reliable and reproducible. We will present tips for using AI tools effectively to accelerate and support your data modeling and data analysis efforts. Moreover, LinkML-structured data is natively “AI-ready”--suitable for input into AI-based analyses.
+As an added bonus, LinkML enables AI to be leveraged for tasks that require structured data extraction without sacrificing schema consistency or interoperability. By setting clear expectations about the structure and content of generated outputs, LinkML schemas help to make AI-driven data generation more reliable and reproducible. We will present tips for using AI tools effectively to accelerate and support your data modeling and data analysis efforts. Moreover, LinkML-structured data is natively "AI-ready"--suitable for input into AI-based analyses.
 
 In this talk, we will briefly outline best practices for data modeling; introduce LinkML as a modeling framework and tool suite; and describe how to use LinkML to develop a data model and validate it with test data. We will also show how LinkML can work hand-in-hand with AI.
 
-## About the Speakers
-
-### Sierra Moxon
-
-[Sierra Moxon](https://github.com/sierra-moxon) is a research software engineer at the Lawrence Berkeley National Laboratory who focuses on sustainable open-source software development in multidisciplinary research environments. She is an expert in scientific data modeling, data harmonization, the creation and use of ontologies and knowledge graphs, and AI/ML approaches to accelerate data curation, modeling, and analysis. Sierra has led the development of LinkML and helped mature it from a prototype to a widely-used framework. She plays critical roles in several important NIH-funded projects, developing standards and processes that improve software quality, reusability, and sustainability. In addition to developing software, Sierra has led the development and use of AI-assisted tools and workflows, software testing and release processes, and data modeling strategies.
-On the NCATS Biomedical Data Translator project, Ms. Moxon is the technical lead of the Standards Committee and co-leads the Data Ingestion and Coordination Working Group. She is also a data modeling lead in the new DOE-funded BRIDGE project, a collaboration involving multiple US National Laboratories that aims to build a connected data framework to enable biological insights and biomolecular design.
+---
 
 ### Nomi L. Harris
 

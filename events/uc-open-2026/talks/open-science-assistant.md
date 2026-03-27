@@ -12,7 +12,9 @@ The platform already serves specialist assistants for HED (Hierarchical Event De
 
 This presentation will demonstrate how OSA works, walk through the five-minute process of adding a new community assistant, and show the chat widget in action on real neuroscience project websites. Attendees will see firsthand how easy onboarding is and learn how to evaluate OSA for their own open source projects.
 
-## Seyed Yahya Shirazi | University of California San Diego
+---
+
+### Seyed Yahya Shirazi | University of California San Diego
 
 Seyed Yahya Shirazi, Ph.D., is an Assistant Project Scientist and Principal Investigator at the Swartz Center for Computational Neuroscience, Institute for Neural Computation, University of California San Diego. His research integrates computational neuroscience with human cognition and behavior, with a focus on biosignal analysis, neuroinformatics, and the neural control of movement.
 

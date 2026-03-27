@@ -16,6 +16,18 @@ We will explore the Three-way collaboration model that powers OCUDU, illustratin
 
 The session will conclude with a recipe for how this collaborative framework creates sustainable commercial opportunities and serves as a blueprint for future large-scale open-source initiatives across academia and the broader tech ecosystem.
 
-## Ranny Haiby | The Linux Foundation
+---
+
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/ranny-haiby.jpeg
+:alt: Ranny Haiby
+:class: speaker-bio-img
+```
+
+### Ranny Haiby | The Linux Foundation
 
 Ranny Haiby serves as the Chief Technology Officer (CTO) for Networking, Edge, and Access at the Linux Foundation, where he drives technical innovation and fosters synergies across critical open-source projects. A software industry veteran with over two decades of experience, Haiby specializes in network automation, cloud-native transformation, and the intersection of open standards and open-source software. Prior to joining the Linux Foundation in 2022, he held senior leadership roles including Director of Open Source at Samsung Research America and Distinguished Member of the Technical Staff at Nokia.
+
+:::

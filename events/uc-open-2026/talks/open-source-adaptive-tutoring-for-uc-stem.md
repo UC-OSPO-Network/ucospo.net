@@ -4,9 +4,9 @@ title: "Open Source Adaptive Tutoring for UC STEM"
 
 ## Abstract
 
-In this presentation, we will cover two open source adaptive tutoring projects, Open Adaptive Tutor (OATutor) and PromptHive, both developed at the UC Berkeley School of Education’s CAHL research lab and released under an MIT or BSD open source license. The former is the first open source adaptive (mastery learning) tutoring system based on ITS principles, that also hosts a creative commons licensed library of content in college intro STEM subjects. The latter is a collaborative authoring tool for subject matter experts that utilizes GenAI to empower them instead of replace them. Both systems have been used to advance educational practice at Cal and at the other two segments of California post-secondary via grants from UC Berkeley EVCP and the California Learning Lab via their AI-FAST program.
+In this presentation, we will cover two open source adaptive tutoring projects, Open Adaptive Tutor (OATutor) and PromptHive, both developed at the UC Berkeley School of Education's CAHL research lab and released under an MIT or BSD open source license. The former is the first open source adaptive (mastery learning) tutoring system based on ITS principles, that also hosts a creative commons licensed library of content in college intro STEM subjects. The latter is a collaborative authoring tool for subject matter experts that utilizes GenAI to empower them instead of replace them. Both systems have been used to advance educational practice at Cal and at the other two segments of California post-secondary via grants from UC Berkeley EVCP and the California Learning Lab via their AI-FAST program.
 
-## About the Speakers
+---
 
 ### Ioannis Anastasopoulos
 
