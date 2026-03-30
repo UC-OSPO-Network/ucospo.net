@@ -66,17 +66,17 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 
 :::{card} David Charron
 
-```{image} ./speaker-headshots/charron_david.jpeg
+```{image} ./talks/speaker-headshots/charron_david.jpeg
 :alt: David Charron
 :width: 200px
 ```
 
-Open Software Entrepreneurship
+[Open Software Entrepreneurship](./talks/open-software-entrepreneurship.md)
 :::
 
 :::{card} Nithya Ruff
 
-```{image} ./speaker-headshots/nithya-ruff.jpg
+```{image} ./talks/speaker-headshots/nithya-ruff.jpg
 :alt: Nithya Ruff
 :width: 200px
 ```
@@ -86,7 +86,7 @@ Open Software Entrepreneurship
 
 :::{card} Kevin Esterling
 
-```{image} ./speaker-headshots/esterling_kevin.jpg
+```{image} ./talks/speaker-headshots/esterling_kevin.jpg
 :alt: Kevin Esterling
 :width: 200px
 ```
