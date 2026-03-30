@@ -36,10 +36,30 @@ Heather Meeker is a partner at Tech Law Partners, LLP, a law firm focused on tec
 
 :::
 
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/mike-cohen.jpg
+:alt: Mike Cohen
+:class: speaker-bio-img
+```
+
 ### Mike Cohen | UC Berkeley
 
-_Bio coming soon._
+Mike Cohen is the Director of Innovation Ecosystem Development at UC Berkeley's Office of Intellectual Property & Industry Research Alliances, where he drives initiatives that catalyze the commercialization of UC Berkeley innovations. He led the development of UC Berkeley's Open Source Software Startup (OS3) Good-Standing Program, which enables the university to obtain stock equity in startups that leverage university-developed open-source software. Cohen has worked with hundreds of startups and spearheaded the commercialization of over 100 innovations. He is a three-time recipient of the UC Berkeley Chancellor's Outstanding Staff Award.
+
+:::
+
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/dirk-riehle.jpg
+:alt: Dirk Riehle
+:class: speaker-bio-img
+```
 
 ### Dirk Riehle | FAU Erlangen-Nurnberg
 
-_Bio coming soon._
+Dirk Riehle is a Professor of Computer Science at FAU Erlangen-Nurnberg, where he holds the Professorship for Open Source Software. Before joining academia, he led the open source research group at SAP Labs in Palo Alto, California, and worked for software startups and large corporations as a software developer, architect, and engineering manager. His research focuses on the principles of open collaboration, including open source and inner source software engineering. Riehle holds a Ph.D. in computer science from ETH Zurich and an M.B.A. from Stanford Graduate School of Business.
+
+:::
