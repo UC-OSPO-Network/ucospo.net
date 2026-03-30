@@ -164,4 +164,3 @@ gravity for this work for the foreseeable future.
   - Amber Budden, Associate University Librarian for Digital Strategies
   - Jonathan Balkind, Assistant Professor of Computer Science
   - Greg Janée, Director, Research Data Services, UCSB Library
-
