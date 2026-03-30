@@ -64,7 +64,7 @@ You can unsubscribe at any time.
        alt="UCSB students working on laptops in a group setting" />
 </div>
 
-Once a month, the UCSB Open Source Programs Team hosts a casual, in-person, open
+Once a month, the UCSB Open Source Programs Team hosts a casual, virtual, open
 source meetup. The meetup is open to UCSB students, faculty, and staff of all
 backgrounds and experience levels. The format rotates between attendee-led
 discussions and the "Open Source Lounge", a coworking group where we tackle our
