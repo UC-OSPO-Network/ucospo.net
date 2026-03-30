@@ -12,6 +12,18 @@ This directed discussion introduces and uses TRACE (Transparent Recording of AI-
 
 The session opens with a brief walkthrough of real TRACE data, then transitions to facilitated discussion around three questions for the UC open-source community: (1) What should transparent AI attribution look like in practice for UC research? (2) How do we balance documentation rigor with workflow friction? (3) What role should campus OSPOs play in standardizing AI provenance infrastructure? Participants will leave with an adoptable open-source tool and a shared framework for AI transparency in open scholarship.
 
-## Oliver Muellerklein | ESPM, UC Berkeley
+---
+
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/oliver-muellerklein.jpeg
+:alt: Oliver Muellerklein
+:class: speaker-bio-img
+```
+
+### Oliver Muellerklein | ESPM, UC Berkeley
 
 Oliver Muellerklein is a PhD candidate at UC Berkeley in the Environmental Science, Policy, and Management (ESPM) department, where he researches the intersection of Transformers, LLMs, and other AI systems with environmental and climate language. His current work includes developing novel computational methods for cross-domain semantic analysis and topic modeling, applied across projects ranging from semantic compression in the public AI-art debate (in peer review), political language changes around climate change, and language alignment metrics. Motivated by the challenge of documenting AI's role in his own research, he developed TRACE (Transparent Recording of AI-assisted Collaboration Experiments), an open-source MCP-based protocol for creating audit trails of AI-assisted research workflows. Oliver has been a supporter of open-source and open science for over a decade.
+
+:::

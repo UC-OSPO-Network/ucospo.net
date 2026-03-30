@@ -8,6 +8,16 @@ A great deal of agricultural research has been undertaken to optimize the manage
 
 ---
 
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/andy-lyons.jpg
+:alt: Andy Lyons
+:class: speaker-bio-img
+```
+
 ### Andy Lyons | UC Division of Agriculture and Natural Resources
 
 Andy Lyons is a data scientist and Program Coordinator for the Informatics and GIS Statewide Program in the UC Division of Agriculture and Natural Resources. He has been developing R packages and Shiny apps for 15 years for applications in movement ecology, agroclimate metrics, weather data APIs, drone data management, and agricultural decision support tools. He has a PhD from UC Berkeley in environmental science, and has taught data science and programming at UC Berkeley, Stanford, UC ANR, and professional groups in the bay area.
+
+:::

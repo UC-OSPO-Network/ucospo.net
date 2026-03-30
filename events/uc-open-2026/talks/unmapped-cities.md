@@ -10,6 +10,16 @@ Beyond the pipeline, the talk highlights what Tile2Net brings to practice: a reu
 
 ---
 
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/maryam-hosseini.jpg
+:alt: Maryam Hosseini
+:class: speaker-bio-img
+```
+
 ### Maryam Hosseini | University of California Berkeley
 
 Maryam Hosseini is an Assistant Professor in City & Regional Planning at UC Berkeley, working at the intersection of computer vision, geospatial data systems, and urban planning. She developed Tile2Net, an open-source end-to-end system that converts orthorectified aerial imagery into pedestrian infrastructure layers and network representations, and CitySurfaces, a complementary framework for surface-aware urban mapping and analysis. She is an active contributor to open geospatial tooling communities, including UrbanTK and GeoJupyter, where she focuses on building reusable pipelines, evaluation practices, and documentation that make advanced geospatial methods transparent and reproducible.
+
+:::
