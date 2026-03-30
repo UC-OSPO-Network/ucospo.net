@@ -718,7 +718,7 @@ footer.article-grid {
   width: 150px;
   height: auto;
   margin: 0 1.5rem 1rem 0 !important;
-  border-radius: 50%;
+  border-radius: 8px;
 }
 
 @media (max-width: 600px) {
