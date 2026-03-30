@@ -46,7 +46,8 @@ You can unsubscribe at any time.
 
 <a href="https://signup.e2ma.net/signup/2045162/1984731/"
    class="btn-ucsb-primary"
-   target="_blank"> Join our mailing list </a> ::::
+   target="_blank"> Join our mailing list </a>
+::::
 
 <!-- CURRENT PROJECTS -->
 
@@ -146,11 +147,12 @@ gravity for this work for the foreseeable future.
 
 ## Get connected
 
-::::{div}
+<!-- ::::{div}
 :class: ospo-img
 
 <img src="../static/images/ucsb/UCSB-ospo.png"
-     alt="UCSB open source programs logo" /> ::::
+     alt="UCSB open source programs logo" />
+:::: -->
 
 - To stay informed about our activities, <a
     href="https://signup.e2ma.net/signup/2045162/1984731/"
@@ -162,3 +164,4 @@ gravity for this work for the foreseeable future.
   - Amber Budden, Associate University Librarian for Digital Strategies
   - Jonathan Balkind, Assistant Professor of Computer Science
   - Greg Janée, Director, Research Data Services, UCSB Library
+
