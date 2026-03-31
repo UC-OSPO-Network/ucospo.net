@@ -2,9 +2,7 @@
 title: "Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects"
 ---
 
-## Seyed Yahya Shirazi | University of California San Diego
-
-### Abstract
+## Abstract
 
 Open source research tools are central to modern science, yet their communities often struggle with onboarding new users, answering recurring questions, and keeping documentation accessible. This talk introduces the Open Science Assistant (OSA), an extensible AI chatbot platform built with LangGraph/LangChain and FastAPI that makes it remarkably easy for any open source project to deploy a domain-specific assistant.
 
@@ -16,6 +14,18 @@ This presentation will demonstrate how OSA works, walk through the five-minute p
 
 ---
 
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/seyed-yahya-shirazi.png
+:alt: Seyed Yahya Shirazi
+:class: speaker-bio-img
+```
+
+### Seyed Yahya Shirazi | University of California San Diego
+
 Seyed Yahya Shirazi, Ph.D., is an Assistant Project Scientist and Principal Investigator at the Swartz Center for Computational Neuroscience, Institute for Neural Computation, University of California San Diego. His research integrates computational neuroscience with human cognition and behavior, with a focus on biosignal analysis, neuroinformatics, and the neural control of movement.
 
 Dr. Shirazi is an active contributor to major open source research projects including EEGLAB, BIDS (Brain Imaging Data Structure), and HED (Hierarchical Event Descriptors). He is the founder of the OpenScience Collective and the creator of the Open Science Assistant (OSA), an extensible AI chatbot platform that helps open source research communities provide domain-specific support to their users. His work on OSA grows directly from years of experience developing open source tools and seeing firsthand how difficult it is for small research teams to scale community support alongside software development.
+
+:::

@@ -46,9 +46,7 @@ You can unsubscribe at any time.
 
 <a href="https://signup.e2ma.net/signup/2045162/1984731/"
    class="btn-ucsb-primary"
-   target="_blank">
-Join our mailing list
-</a>
+   target="_blank"> Join our mailing list </a>
 ::::
 
 <!-- CURRENT PROJECTS -->
@@ -66,7 +64,7 @@ Join our mailing list
        alt="UCSB students working on laptops in a group setting" />
 </div>
 
-Once a month, the UCSB Open Source Programs Team hosts a casual, in-person, open
+Once a month, the UCSB Open Source Programs Team hosts a casual, virtual, open
 source meetup. The meetup is open to UCSB students, faculty, and staff of all
 backgrounds and experience levels. The format rotates between attendee-led
 discussions and the "Open Source Lounge", a coworking group where we tackle our
@@ -82,7 +80,7 @@ open source community at UCSB.
 
 <div class="ucsb-clearfix">
 <img class="suspb-image"
-     src="../static/images/ucsb/susPB_logo.png"
+     src="../static/images/ucsb/susPB_logo.svg"
      loading="lazy"
      alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text" />
 <p>Since our recent survey showed that many open source contributors are struggling
@@ -149,12 +147,12 @@ gravity for this work for the foreseeable future.
 
 ## Get connected
 
-::::{div}
+<!-- ::::{div}
 :class: ospo-img
 
 <img src="../static/images/ucsb/UCSB-ospo.png"
      alt="UCSB open source programs logo" />
-::::
+:::: -->
 
 - To stay informed about our activities, <a
     href="https://signup.e2ma.net/signup/2045162/1984731/"

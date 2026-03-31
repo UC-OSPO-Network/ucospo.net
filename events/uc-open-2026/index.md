@@ -66,32 +66,32 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 
 :::{card} David Charron
 
-```{image} ./speaker-headshots/charron_david.jpeg
+```{image} ./talks/speaker-headshots/charron_david.jpeg
 :alt: David Charron
 :width: 200px
 ```
 
-Open Software Entrepreneurship
+[Open Software Entrepreneurship](./talks/open-software-entrepreneurship.md)
 :::
 
 :::{card} Nithya Ruff
 
-```{image} ./speaker-headshots/nithya-ruff.jpg
+```{image} ./talks/speaker-headshots/nithya-ruff.jpg
 :alt: Nithya Ruff
 :width: 200px
 ```
 
-The Role of Foundations In Advancing Open Collaboration and Innovation
+[The Role of Foundations In Advancing Open Collaboration and Innovation](./talks/role-of-foundations-in-open-source.md)
 :::
 
 :::{card} Kevin Esterling
 
-```{image} ./speaker-headshots/esterling_kevin.jpg
+```{image} ./talks/speaker-headshots/esterling_kevin.jpg
 :alt: Kevin Esterling
 :width: 200px
 ```
 
-Topic to be announced
+[Open Source AI and the Public Sphere: Two Paradoxes](./talks/open-source-ai-public-sphere.md)
 :::
 
 ::::
@@ -109,15 +109,15 @@ Topic to be announced
 * - 9:30–10:00
   - **Welcome from UC Berkeley OSPO**
 * - 10:00–10:40
-  - **Keynote:** David Charron (UC Berkeley) — Open Software Entrepreneurship
+  - **Keynote:** David Charron (UC Berkeley)—*Open Software Entrepreneurship*
 * - 10:40–11:00
   - Break & Networking
 * - 11:00–11:50
-  - **Panel: Understanding Open Source Pathways — A Review of NSF POSE Funded Projects across the UC System**
+  - **Panel: Understanding Open Source Pathways—A Review of NSF POSE Funded Projects across the UC System**
 
     Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew Kahng (UCSD), Stephanie Lieggi (UCSC)
 * - 11:50–12:30
-  - **Keynote:** Nithya Ruff (Linux Foundation) — The Role of Foundations In Advancing Open Collaboration and Innovation
+  - **Keynote:** Nithya Ruff (Linux Foundation)—*[The Role of Foundations In Advancing Open Collaboration and Innovation](./talks/role-of-foundations-in-open-source.md)*
 * - 12:30–2:00
   - Lunch & Networking
 
@@ -125,17 +125,17 @@ Topic to be announced
 * - 2:00–3:00
   - **Breakout 1: Supporting the Next Generation of Open Source Leaders**
 
-    - UC OSPO Education Activities — Tim Dennis (UCLA)
-    - From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching — Eric Van Dusen (UC Berkeley)
-    - Teaching and Mentoring Open Source — Emily Lovell (UCSC)
-    - Open Source Adaptive Tutoring for UC STEM — Ioannis Anastasopoulos (UC Berkeley)
+    - *[UC OSPO Education Activities](./talks/uc-ospo-education-activities.md)*—Tim Dennis (UCLA)
+    - *From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching*—Eric Van Dusen (UC Berkeley)
+    - *Teaching and Mentoring Open Source*—Emily Lovell (UCSC)
+    - *[Open Source Adaptive Tutoring for UC STEM](./talks/open-source-adaptive-tutoring-for-uc-stem.md)*—Ioannis Anastasopoulos & Zachary Pardos (UC Berkeley)
 
     **Breakout 2: Open Source Tools for Scientific Research**
 
-    - Unmapped Cities: Scaling Pedestrian Infrastructure Mapping with Tile2Net — Maryam Hosseini (UC Berkeley)
-    - Jupyter Book: Next-generation Tools for Creating Computational Narratives — Chris Holdgraf (2i2c)
-    - From Silos to Standards: Open Data Modeling with LinkML — Sierra Moxon & Nomi Harris (LBNL)
-    - Reflections on Building a High-Performance Open Source Microarchitectural Simulation Framework — Heiner Litz (UCSC)
+    - *[Unmapped Cities: Scaling Pedestrian Infrastructure Mapping with Tile2Net](./talks/unmapped-cities.md)*—Maryam Hosseini (UC Berkeley)
+    - *[Jupyter Book: Next-generation Tools for Creating Computational Narratives](./talks/jupyter-book-next-gen-tools.md)*—Chris Holdgraf (2i2c)
+    - *[From Silos to Standards: Open Data Modeling with LinkML](./talks/from-silos-to-standards-linkml.md)*—Nomi Harris (LBNL)
+    - *[Reflections on Building a High-Performance Open Source Microarchitectural Simulation Framework](./talks/open-source-microarchitectural-simulation.md)*—Heiner Litz (UCSC)
 * - 3:00–3:45
   - Facilitated Discussions (TBA)
 * - 3:45–4:00
@@ -143,9 +143,9 @@ Topic to be announced
 * - 4:00–4:45
   - **Panel: Open Source Commercialization and Impact**
 
-    Chaired by Karla Padilla (UCSD). Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg)
+    Chaired by Karla Padilla (UCSD). Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg), Joel Kehle (UCLA)
 * - 4:45–5:15
-  - **Lightning Intros**
+  - **[Lightning Intros](./talks/lightning-intros.md)**
 * - 5:15–6:30
   - Reception
 ```
@@ -157,7 +157,7 @@ Topic to be announced
 * - 9:00–9:30
   - Breakfast & Registration
 * - 9:30–10:00
-  - **Opening Session — OSPO Network Update**
+  - **Opening Session—OSPO Network Update**
 * - 10:00–10:50
   - **Panel: Influence of AI on Open Source and Open Scholarship**
 
@@ -167,15 +167,15 @@ Topic to be announced
 * - 11:10–12:00
   - **Breakout 1: Enabling Impact Across California**
 
-    - Hidden in Plain Sight: Discovering the University of California Open Source Landscape — Juanita Gomez (UCSC)
-    - More Than Just Storage: Support for Open Scholarship through Campus Collaborations — Sam Teplitzky (UC Berkeley)
-    - A Funder's Perspective on Promoting Best Practices in Data Sharing and Management — Alden Conner (CIRM)
+    - *[Hidden in Plain Sight: Discovering the University of California Open Source Landscape](./talks/hidden-in-plain-sight-uc-open-source-landscape.md)*—Juanita Gomez (UCSC)
+    - *[More Than Just Storage: Support for Open Scholarship through Campus Collaborations](./talks/more-than-just-storage.md)*—Sam Teplitzky & Anna Sackmann (UC Berkeley)
+    - *[A Funder's Perspective on Promoting Best Practices in Data Sharing and Management](./talks/best-practices-data-sharing-and-management.md)*—Alden Conner (CIRM)
 
     **Breakout 2: Building Open Source and Open Science Ecosystems**
 
-    - The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation — Ranny Haiby (Linux Foundation)
-    - Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects — Seyed Yahya Shirazi (UCSD)
-    - Using Continuous Integration to Ensure Accessible Experiences — Michael Ball (UC Berkeley)
+    - *[The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation](./talks/ocudu-blueprint.md)*—Ranny Haiby (Linux Foundation)
+    - *[Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects](./talks/open-science-assistant.md)*—Seyed Yahya Shirazi (UCSD)
+    - *[Using Continuous Integration to Ensure Accessible Experiences](./talks/continuous-integration-accessible-experiences.md)*—Michael Ball & Silas Santini (UC Berkeley)
 * - 12:00–12:25
   - Facilitated Discussions (TBA)
 * - 12:25–1:45
@@ -185,21 +185,20 @@ Topic to be announced
 * - 1:45–2:50
   - **Breakout 1: Open Source Tools for Public Benefit**
 
-    - An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools — Andy Lyons (UC ANR)
-    - Open Source for Digital Democracy: Building a UC-Wide ProSocial Tech Lab — David Shaw (UCSC)
-    - Modular Stewardship: Scaling Relational Data Governance for Global Open Source — Lilinoe Harbottle
-    - Building Tools for Police Accountability — Tarak Shah (BIDS)
+    - *[An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools](./talks/weather-driven-agricultural-decision-tools.md)*—Andy Lyons (UC ANR)
+    - *Open Source for Digital Democracy: Building a UC-Wide ProSocial Tech Lab*—David Shaw (UCSC)
+    - *[Building Tools for Police Accountability](./talks/building-tools-for-police-accountability.md)*—Tarak Shah (UC Berkeley / BIDS)
 
     **Breakout 2: Open Infrastructure for Collaborative Research**
 
-    - Making Jupyter Notebooks Accessible — Balaji Alwar (UC Berkeley)
-    - PeerSky in Academia: Create, Publish, and Share Research Without the Cloud — Akhilesh Thite (UCSC)
-    - Who Did the Thinking? Documenting AI's Role in University Research — Oliver Muellerklein (UC Berkeley)
-    - Developing Environmental Wireless Sensor Networks with TockOS — John Madden (UCSC)
+    - *[Making Jupyter Notebooks Accessible](./talks/making-jupyter-notebooks-accessible.md)*—Balaji Alwar & Chanbin Park (UC Berkeley)
+    - *[PeerSky in Academia: Create, Publish, and Share Research Without the Cloud](./talks/peersky-in-academia.md)*—Akhilesh Thite (UCSC)
+    - *Who Did the Thinking? Documenting AI's Role in University Research*—Oliver Muellerklein (UC Berkeley)
+    - *Developing Environmental Wireless Sensor Networks with TockOS*—John Madden (UCSC)
 * - 2:50–3:15
   - Facilitated Discussions (TBA)
 * - 3:20–4:00
-  - **Keynote:** Kevin Esterling (UC Riverside)
+  - **Keynote:** Kevin Esterling (UC Riverside)—*[Open Source AI and the Public Sphere: Two Paradoxes](./talks/open-source-ai-public-sphere.md)*
 * - 4:00–4:15
   - **Closing**
 ```
@@ -303,6 +302,8 @@ All sponsors are prominently recognized on signage, the website, and promotional
 
 **Event Venue:** [The Brower Center, 2150 Allston Way, Berkeley, CA 94704](https://www.openstreetmap.org/directions?from=&to=37.8693,-122.2678#map=19/37.8693/-122.2678)
 
+Accessibility: the Brower Center has steps and a ramp to the front entrance, and an elevator for those who cannot take the stairs. Wheelchair seating is available in the Goldman Theater auditorium—up to three wheelchairs can be accommodated with advance notice. Every bathroom has an accessible stall. Please [contact us](mailto:lalangdon@ucdavis.edu) if you have accessibility needs so we can make arrangements.
+
 **Public transit:** The Brower Center is in downtown Berkeley, steps from the [Downtown Berkeley BART station](https://www.bart.gov/stations/dbrk) and [AC Transit](https://www.actransit.org/).
 
 **Parking:** Weekday parking is available in the Oxford Garage directly below the Brower Center (enter on Kittredge St). The garage is open 7 AM–midnight with a live attendant 10 AM–7 PM on weekdays. See [ParkMe](https://www.parkme.com/) for rates.
@@ -326,8 +327,8 @@ Preferred rates may be available for UC-affiliated attendees via [Connexxus](htt
 
 ### Nearby Airports
 
-- Oakland International Airport (OAK) — about 12 miles, BART accessible
-- San Francisco International Airport (SFO) — about 25 miles, BART accessible
+- Oakland International Airport (OAK)—about 12 miles, BART accessible
+- San Francisco International Airport (SFO)—about 25 miles, BART accessible
 
 ### Travel Grants
 
