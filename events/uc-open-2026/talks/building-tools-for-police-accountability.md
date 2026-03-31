@@ -14,6 +14,16 @@ Our project was only possible because of the existing open-source ecosystem, and
 
 ---
 
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/tarak-shah.jpg
+:alt: Tarak Shah
+:class: speaker-bio-img
+```
+
 ### Tarak Shah | BIDS / Community Law Enforcement Accountability Network
 
 Tarak Shah is a data scientist with the Human Rights Data Analysis Group (HRDAG), and he serves as program manager for the Community Law Enforcement Accountability Network (CLEAN). He has over seven years of experience applying quantitative analysis in the service of human rights, including work with the Innocence Project of New Orleans, the Invisible Institute, the San Francisco Public Defenders' Office, the UN Office of the High Commissioner for Human Rights, la Comisión de la Verdad (the Truth Commission) in Colombia, and the ACLU. He further provides ongoing analytical support to community organizations working for justice and accountability including Berkeley Copwatch, the Chicago Torture Justice Center, and Kilómetro Cero (Puerto Rico). Tarak specializes in working with large collections of unstructured data, statistical analysis of racial disparities in criminal-legal outcomes, database deduplication, and connecting machine learning tools with community-based expertise to illuminate under-documented forms of violence.
+
+:::

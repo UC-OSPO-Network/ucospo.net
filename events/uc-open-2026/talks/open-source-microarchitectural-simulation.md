@@ -10,6 +10,16 @@ Developing such a framework is a daunting challenge, as modern CPUs are among th
 
 ---
 
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/heiner-litz.jpeg
+:alt: Heiner Litz
+:class: speaker-bio-img
+```
+
 ### Heiner Litz | UCSC
 
 Heiner Litz is an Associate Professor of Computer Science and Engineering at the University of California, Santa Cruz, where he holds the Kumar Malavalli Endowed Chair and directs the Center for Research in Storage Systems (CRSS). His research spans computer architecture, datacenter systems, storage, and scalable AI infrastructure. His contributions have been recognized with an NSF CAREER Award, the Intel Outstanding Researcher Award, multiple Best Paper Awards, and Google and Meta Faculty Awards. Litz received his Ph.D. in Computer Engineering from Mannheim University and previously held research appointments at the University of Heidelberg, Stanford, Google, and MIT.
+
+:::

@@ -14,9 +14,19 @@ ENTS offers a middle ground between commercially available sensing solutions and
 
 John is an Electrical and Computer Engineering PhD student at UCSC. His research intersects novel low-power energy sources and wireless sensor networks. He is the maintainer of the Environmental NeTworked Sensor (ENTS) project which he uses to study energy harvesting from soil microbial fuel cells and prickly pear cacti. He is passionate about open-source projects that have real-world use cases in environmental research and agricultural communities. He received his B.S. in Robotics Engineering from the University of California, Santa Cruz in 2020.
 
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/colleen-josephson.png
+:alt: Colleen Josephson
+:class: speaker-bio-img
+```
+
 ### Colleen Josephson
 
-_Bio coming soon._
+Colleen's work includes designing novel sensing paradigms for agriculture, inventing techniques for ultra-low power communication in indoor sensor networks, and exploiting non-traditional energy sources, such as microbes, for sustainable sensing. The vast majority of the work her group conducts is released in the public domain via open-source artifacts. Colleen has also recently been named Co-Director of the UCSC Agtech Alliance to promote inter-disciplinary ethical solutions to tomorrow's AgTech challenges.
+
+:::
 
 ### Jack Lin
 
