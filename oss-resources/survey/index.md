@@ -3,18 +3,17 @@ title: 2025 UC Open Source Contributor Survey
 ---
 
 Welcome to the homepage for the 2025 UC Open Source Contributor Survey! Here
-you'll find all the [artifacts associated with this study](#links-to-research-products), a summary of what it's all about, and updates on our
-ongoing research.
+you'll find all the
+[artifacts associated with this study](#links-to-research-products), a summary
+of what it's all about, and updates on our ongoing research.
 
 ## Summary and key findings
 
 Open source is an approach to software development that allows others to reuse
 the source code and build their own program from it. Many open source projects
 also welcome community contributions to the codebase. Much if not most academic
-software is open source, but universities have historically prioritized other
-types of research products. As a result, university policies, services, and
-impact metrics often overlook the needs and accomplishments of open source
-developers.
+software is open source, but university policies, services, and impact metrics
+often overlook the needs and accomplishments of open source developers.
 
 In May 2025, the UC OSPO Network conducted a survey to shed light on open source
 activity at the University of California and to identify opportunities for
@@ -26,19 +25,45 @@ faculty, and staff.
 :width: 50%
 ```
 
+::::{div}
+<a href="infographic.pdf"
+   download="infographic.pdf">
+   Download the infographic
+   </a>
+::::
+
+::::{div}
+:class: screen-reader-only
+Here is the content of the infographic. The
+University of California Open Source Survey 2025. Brought to you by the UC OSPO
+Network. Key results. 92% of students and 93% of researchers report that open
+source is important for their work. 58% of UC open source contributors are
+project maintainers. Who contributes to large projects? 27% of academics and 43%
+of non-research staff occasionally or frequently contribute to large projects.
+The number one challenge, that is, the most frequent challenge for experienced
+contributors, was finding time for documentation. A diagram shows the top three
+solutions preferred by experienced contributors and aspiring contributors. The
+top three solutions preferred by experienced contributors were, in order: grants
+for open source sustainability, access to free, feature-rich computing
+environments, and a learning community. The top three solutions preferred by
+aspiring contributors were access to free, feature-rich computing environments,
+a learning community, and educational materials. Other forms of support proposed
+by survey participants include: Personnel: centralized maintenance help;
+Careers: education on open source careers; Guidelines: clear rules for UC
+employees; Code review: communities of practice.
+::::
+
 We found that the vast majority of students and researchers consider open source
 software to be important for their work. We also found that the majority of open
-source contributors at UC are project maintainers, meaning they are the primary stewards of a project.
-Despite the importance and prevalence of open source software, about one-third
-of respondents reported that they have shared their code on custom websites,
-indicating that a large body of academic software is not located in standard
-repositories. Contributors face many challenges in terms of resources, computing
-infrastructure, and institutional culture. At the same time, the abundance of
-maintainers and the prevalence of time and funding-related challenges underscore a critical need for support for
+source contributors at UC are project maintainers, meaning they are the primary
+stewards of a project. Despite the importance and prevalence of open source
+software, about one-third of respondents reported that they have shared their
+code on custom websites, indicating that a large body of academic software is
+not located in standard repositories. Contributors face many challenges in terms
+of resources, computing infrastructure, and institutional culture. At the same
+time, the abundance of maintainers and the prevalence of time and
+funding-related challenges underscore a critical need for support for
 maintenance costs and overall sustainability of open source software.
-
-Check out the study's key findings in our infographic! Click on the preview for
-a closer look.
 
 ## Advice for Open Source Program Offices (OSPOs)
 
@@ -70,17 +95,19 @@ where, how, and how often UC contributors are contributing to small and large
 open source repos. This may happen in the second half of 2026.
 
 If you are interested in collaborating with us on this or on another research
-effort, please reach out to us at [ospo@library.ucsb.edu](mailto:ospo@library.ucsb.edu).
+effort, please reach out to us at
+[ospo@library.ucsb.edu](mailto:ospo@library.ucsb.edu).
 
-(links-to-research-products)=
 
 ## Links to research products
 
-- **Preprint:** [doi:10.31235/osf.io/p8bx6_v1](https://doi.org/10.31235/osf.io/p8bx6_v1)
+- **Preprint:**
+  [doi:10.31235/osf.io/p8bx6_v1](https://doi.org/10.31235/osf.io/p8bx6_v1)
   - To find the preprint's supplementary materials, you have to go the 'Project'
     in OSF that has the same title as the preprint. Find it here:
     [osf.io/m5ft6/overview](https://osf.io/m5ft6/overview)
-- The **data** will be here\*: [doi:10.5061/dryad.2280gb662](https://doi.org/10.5061/dryad.2280gb662)
+- The **data** will be here\*:
+  [doi:10.5061/dryad.2280gb662](https://doi.org/10.5061/dryad.2280gb662)
 - An archived snapshot of the **code** will be here\*:
   [doi:10.5281/zenodo.17783102](https://doi.org/10.5281/zenodo.17783102)
   - \*These two DOIs will be functional after peer review. Please contact the
