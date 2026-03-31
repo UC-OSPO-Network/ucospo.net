@@ -22,6 +22,7 @@ source contributors across ten UC campuses, a group that included students,
 faculty, and staff.
 
 ```{image} infographic_small.png
+:alt: Infographic about the survey
 :width: 50%
 ```
 
