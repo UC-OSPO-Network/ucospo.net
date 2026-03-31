@@ -52,11 +52,11 @@ can get done in just half an hour.
   </a>
 </div>
 
-| Date           | Time     | Topic                         | Link                                                                                                | Other notes                                |
-| -------------- | -------- | ----------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| April 1, 2026  | 12pm-2pm | Open Source Lounge            | <a href="https://ucsb.zoom.us/j/87499258423" target="_blank">Join the meeting now</a>               | Hybrid meeting: Library room 1411 and Zoom |
-| April 15, 2026 | 12pm-1pm | Discussion: Speaker/topic TBD | <a href="https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw" target="_blank">Register</a> | Zoom meeting                               |
-| April 29, 2026 | 12pm-2pm | Open Source Lounge            | <a href="https://ucsb.zoom.us/j/87499258423" target="_blank">Join the meeting now</a>               | Hybrid meeting: Library room 1411 and Zoom |
+| Date           | Time     | Topic                                                                                    | Link                                                                                                | Other notes                                |
+| -------------- | -------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| April 1, 2026  | 12pm-2pm | Open Source Lounge                                                                       | <a href="https://ucsb.zoom.us/j/87499258423" target="_blank">Join the meeting now</a>               | Hybrid meeting: Library room 1411 and Zoom |
+| April 15, 2026 | 12pm-1pm | A conversation with Brian Monroe: sys admin, Fedora Linux contributor, and FOSS advocate | <a href="https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw" target="_blank">Register</a> | Zoom meeting                               |
+| April 29, 2026 | 12pm-2pm | Open Source Lounge                                                                       | <a href="https://ucsb.zoom.us/j/87499258423" target="_blank">Join the meeting now</a>               | Hybrid meeting: Library room 1411 and Zoom |
 
 ### Past topics:
 
