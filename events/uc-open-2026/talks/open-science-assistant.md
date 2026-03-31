@@ -17,7 +17,7 @@ This presentation will demonstrate how OSA works, walk through the five-minute p
 :::{div}
 :class: speaker-bio
 
-```{image} ./speaker-headshots/seyed-yahya-shirazi.jpg
+```{image} ./speaker-headshots/seyed-yahya-shirazi.png
 :alt: Seyed Yahya Shirazi
 :class: speaker-bio-img
 ```

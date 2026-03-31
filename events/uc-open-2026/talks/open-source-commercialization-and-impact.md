@@ -63,3 +63,17 @@ Mike Cohen is the Director of Innovation Ecosystem Development at UC Berkeley's 
 Dirk Riehle is a Professor of Computer Science at FAU Erlangen-Nurnberg, where he holds the Professorship for Open Source Software. Before joining academia, he led the open source research group at SAP Labs in Palo Alto, California, and worked for software startups and large corporations as a software developer, architect, and engineering manager. His research focuses on the principles of open collaboration, including open source and inner source software engineering. Riehle holds a Ph.D. in computer science from ETH Zurich and an M.B.A. from Stanford Graduate School of Business.
 
 :::
+
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/joel-kehle.jpg
+:alt: Joel Kehle
+:class: speaker-bio-img
+```
+
+### Joel Kehle | UCLA
+
+Joel Kehle is a Business Development Officer at UCLA Technology Development Group, where he manages a portfolio of database, algorithm, artificial intelligence, bioinformatics, and other computer science technologies. With over 20 years of industry experience, Joel spent more than a decade at Qualcomm focused on cloud computing, enterprise architecture, infrastructure automation, and middleware software. He previously served as Vice President, Technology for multiple startup companies incubated at Idealab in Los Angeles. Joel holds a Bachelor of Science in Computer Science from MIT and an MBA from UCLA Anderson School of Management.
+
+:::
