@@ -143,7 +143,7 @@ Open Software Entrepreneurship
 * - 4:00–4:45
   - **Panel: Open Source Commercialization and Impact**
 
-    Chaired by Karla Padilla (UCSD). Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg)
+    Chaired by Karla Padilla (UCSD). Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg), Joel Kehle (UCLA)
 * - 4:45–5:15
   - **[Lightning Intros](./talks/lightning-intros.md)**
 * - 5:15–6:30
