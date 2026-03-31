@@ -28,30 +28,52 @@ faculty, and staff.
 
 ::::{div}
 <a href="infographic.pdf"
-   download="infographic.pdf">
-   Download the infographic
-   </a>
+   download="infographic.pdf"> Download the infographic </a>
 ::::
 
 ::::{div}
 :class: screen-reader-only
-Here is the content of the infographic. The
-University of California Open Source Survey 2025. Brought to you by the UC OSPO
-Network. Key results. 92% of students and 93% of researchers report that open
-source is important for their work. 58% of UC open source contributors are
-project maintainers. Who contributes to large projects? 27% of academics and 43%
-of non-research staff occasionally or frequently contribute to large projects.
-The number one challenge, that is, the most frequent challenge for experienced
-contributors, was finding time for documentation. A diagram shows the top three
-solutions preferred by experienced contributors and aspiring contributors. The
-top three solutions preferred by experienced contributors were, in order: grants
-for open source sustainability, access to free, feature-rich computing
-environments, and a learning community. The top three solutions preferred by
-aspiring contributors were access to free, feature-rich computing environments,
-a learning community, and educational materials. Other forms of support proposed
-by survey participants include: Personnel: centralized maintenance help;
-Careers: education on open source careers; Guidelines: clear rules for UC
-employees; Code review: communities of practice.
+
+<h3>Contents of the infographic.</h3>
+<p>The University of California Open Source Survey 2025. Brought to you by
+the UC OSPO Network. Key results:</p>
+
+<ul>
+  <li>92% of students and 93% of researchers report that open source is
+  important for their work.</li>
+  <li>58% of UC open source contributors are project maintainers.</li>
+  <li>27% of academics and 43% of non-research staff occasionally or
+  frequently contribute to large projects.</li>
+  <li>The number one challenge, that is, the most frequent challenge for
+  experienced contributors, was finding time for documentation.</li>
+</ul>
+
+<p>A diagram shows the top three solutions preferred by experienced
+contributors and aspiring contributors. The top three solutions preferred
+by experienced contributors were:</p>
+
+<ol>
+  <li> grants for open source sustainability</li>
+  <li>access to free, feature-rich computing environments, and</li>
+  <li>a learning community.</li>
+</ol>
+
+<p>The top three solutions preferred by aspiring contributors were:</p>
+
+<ol>
+  <li>access to free, feature-rich computing environments,</li>
+  <li>a learning community, and</li>
+  <li>educational materials.</li>
+</ol>
+
+<p>Other forms of support proposed by survey participants include:</p>
+
+<ul>
+  <li>Personnel: centralized maintenance help;</li>
+  <li>Careers: education on open source careers;</li>
+  <li>Guidelines: clear rules for UC employees; </li>
+  <li>Code review: communities of practice.</li>
+</ul>
 ::::
 
 We found that the vast majority of students and researchers consider open source
@@ -98,7 +120,6 @@ open source repos. This may happen in the second half of 2026.
 If you are interested in collaborating with us on this or on another research
 effort, please reach out to us at
 [ospo@library.ucsb.edu](mailto:ospo@library.ucsb.edu).
-
 
 ## Links to research products
 
