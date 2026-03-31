@@ -2,11 +2,91 @@
 title: "Network Services"
 ---
 
-# Service to Our Community
+Whether you're a researcher navigating open source licensing, a student looking to contribute to your first project, or a project maintainer building a community—we're here to help. The tables below are a quick reference; click any service name for details.
 
-## Open Source Licensing & IP Guidance
+::::{table} Consulting
+:widths: 55 45
 
-The network provides expert consultation on open source license selection, compliance, and intellectual property considerations for UC research projects. This service helps researchers, students and staff navigate complex licensing decisions and ensures UC's interests are protected while maximizing project impact and adoption.
+```{list-table}
+:header-rows: 1
+
+* - Service
+  - Primary Contact
+* - [Licensing, IP & Compliance](#licensing-ip--compliance)
+  - [Karla Padilla](mailto:kapadilla@ucsd.edu) (UCSD)
+* - [Fiscal Sponsorship Pathways](#fiscal-sponsorship-pathways)
+  - [Stephanie Lieggi](mailto:slieggi@ucsc.edu) (UCSC), [Emily Lovell](mailto:elovell@ucsc.edu) (UCSC), [Kirstie Whitaker](mailto:kirstie.whitaker@berkeley.edu) (UCB), [Jarrod Millman](mailto:millman@berkeley.edu) (UCB)
+* - [Community Management & Engagement Support](#community-management--engagement-support)
+  - [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager)
+* - [Software Citation & Research Impact](#software-citation--research-impact)
+  - [Virginia Scarlett](mailto:virginiascarlett@ucsb.edu) (UCSB)
+* - [Research Software Best Practices](#research-software-best-practices)
+  - [Virginia Scarlett](mailto:virginiascarlett@ucsb.edu) (UCSB)
+* - [Industry Partnership Facilitation](#industry-partnership-facilitation)
+  - [Stephanie Lieggi](mailto:slieggi@ucsc.edu) (UCSC), [Emily Lovell](mailto:elovell@ucsc.edu) (UCSC)
+```
+
+::::
+
+::::{table} Events & Training
+:widths: 55 45
+
+```{list-table}
+:header-rows: 1
+
+* - Service
+  - Primary Contact
+* - [Training & Workshops](#training--workshops)
+  - [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager), [local campuses](/about/about)
+* - [Student Programs & Hackathons](#student-programs--hackathons)
+  - [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager), [local campuses](/about/about)
+* - [Community & Events](#community--events)
+  - [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager), [local campuses](/about/about)
+* - [Office Hours & Coworking](#office-hours--coworking)
+  - [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager)
+```
+
+::::
+
+::::{table} Tools
+:widths: 55 45
+
+```{list-table}
+:header-rows: 1
+
+* - Service
+  - Primary Contact
+* - [UC ORB](#uc-orb-uc-open-repository-browser)
+  - [Juanita Gomez](mailto:jgomez91@ucsc.edu) (UCSC)
+```
+
+::::
+
+::::{table} Service Candidates
+:widths: 55 45
+
+```{list-table}
+:header-rows: 1
+
+* - Service
+  - Status
+* - [Open Source Risk Assessment Frameworks](#open-source-risk-assessment-frameworks)
+  - UCD (Vessela/Shawn, developing)
+* - [Open Access & Open Educational Resources](#open-access--open-educational-resources)
+  - UC Libraries (partnership TBD)
+* - [Open Source Scholarly Infrastructure](#open-source-scholarly-infrastructure)
+  - UC Libraries (partnership TBD)
+```
+
+::::
+
+---
+
+## Consulting
+
+### Licensing, IP & Compliance
+
+Expert consultation on open source license selection, compliance, and intellectual property considerations for UC research projects. We help researchers, students, and staff navigate licensing decisions and ensure UC's interests are protected while maximizing project impact. Includes review of procurement contracts and software acquisitions for compatibility with UC's open source policies.
 
 **Service capabilities:**
 
@@ -15,14 +95,19 @@ The network provides expert consultation on open source license selection, compl
 - Open source license selection guidance based on project goals
 - Compliance review for dependencies and third-party code
 - Copyright and attribution requirements clarification
+- Contract terms review for open source compatibility
+- License restriction identification and negotiation support
+- Technology stack integration assessment
+- Contribution rights verification and clarification
+- Vendor lock-in risk analysis
 
-_Contact: UCSD (Karla)_
+_Contact: [Karla Padilla](mailto:kapadilla@ucsd.edu) (UCSD)_
 
 ---
 
-## Fiscal Sponsorship Pathways
+### Fiscal Sponsorship Pathways
 
-Facilitating fiscal sponsorship arrangements for open source projects emerging from UC research enables projects to accept donations and manage funds without creating new legal entities. This removes administrative barriers and allows projects to grow sustainably while maintaining focus on technical development and community building.
+Guidance on fiscal sponsorship arrangements for open source projects emerging from UC research. This helps projects accept donations and manage funds without creating new legal entities, removing administrative barriers so you can focus on your work.
 
 **Service capabilities:**
 
@@ -32,45 +117,13 @@ Facilitating fiscal sponsorship arrangements for open source projects emerging f
 - Ongoing sponsor relationship management advice
 - Financial reporting and compliance guidance
 
-_Contact(s): UCSC (Steph/Emily) and UC Berkeley (Kirstie/Jarrod)_
+_Contact: [Stephanie Lieggi](mailto:slieggi@ucsc.edu) (UCSC), [Emily Lovell](mailto:elovell@ucsc.edu) (UCSC), [Kirstie Whitaker](mailto:kirstie.whitaker@berkeley.edu) (UCB), [Jarrod Millman](mailto:millman@berkeley.edu) (UCB)_
 
 ---
 
-## Student Open Source Programs
+### Community Management & Engagement Support
 
-Running programs like the Open Source Research Experience (OSRE) connects UC students with open source mentorship opportunities and real-world project experience. These programs provide students with valuable skills and career pathways while contributing to the broader open source ecosystem and supporting project development needs.
-
-**Service capabilities:**
-
-- Student-project matching for research and development opportunities
-- Structured mentorship programs with experienced open source developers
-- Stipend and funding coordination for student participants
-- Professional development workshops and skill-building activities
-- Career pathway guidance for students interested in open source
-
-_Contact: UCSC (Steph/Emily) OTHERS???_
-
----
-
-## UC Open Repository Browser (UC ORB)
-
-Providing a centralized platform for discovering and showcasing open source projects across the UC system increases visibility of UC's open source contributions and facilitates collaboration between campuses and with external partners. This directory serves as a comprehensive view of UC's open source landscape.
-
-**Service capabilities:**
-
-- Centralized search and discovery of UC open source projects
-- Project metadata curation and standardization
-- Cross-campus collaboration facilitation through project visibility
-- Analytics and reporting on UC open source activity
-- Integration with institutional repositories and research profiles
-
-_Contact: Network Community Manager and Discovery Group Reps (UCSC, UCSB, UCD)_
-
----
-
-## Community Management & Engagement Support
-
-Offering guidance and resources for building and sustaining healthy open source communities around UC research projects helps projects attract contributors, maintain engagement, and achieve long-term sustainability beyond initial research funding. This service includes landscape analysis and community survey support.
+Guidance and resources for building and sustaining healthy open source communities around UC research projects. This includes landscape analysis, community health assessments, contributor engagement strategies, and community survey support.
 
 **Service capabilities:**
 
@@ -81,141 +134,13 @@ Offering guidance and resources for building and sustaining healthy open source 
 - Governance structure development and documentation
 - Conflict resolution and moderation guidance
 
-_Contact: Network Community Manager, UCSB OTHERS???_
+_Contact: [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager)_
 
 ---
 
-## Grant Development Support
+### Software Citation & Research Impact
 
-Assisting researchers with proposals for open source-related funding opportunities increases proposal competitiveness and helps researchers articulate the broader impacts of their open source work. The network's collective experience in successful grant applications strengthens UC's position in competitive funding landscapes.
-
-**Service capabilities:**
-
-- Funding opportunity identification and alignment assessment
-- Proposal development guidance and review
-- Budget development for open source project components
-- Letters of support and collaboration coordination
-- Impact statement development emphasizing open source benefits
-
-_Contact: UCSC (Stephanie/Emily) OTHERS???_
-
----
-
-## Industry Partnership Facilitation
-
-Connecting UC open source projects with industry partners, foundations, and open source organizations accelerates project impact and creates pathways for technology transfer and real-world deployment. These partnerships provide funding, adoption opportunities, and collaborative development relationships.
-
-**Service capabilities:**
-
-- Industry partner identification and introduction facilitation
-- Foundation and nonprofit funding connection
-- Collaboration agreement negotiation support
-- Open source foundation engagement (Linux Foundation, Apache, etc.)
-- Technology transfer and commercialization pathway guidance
-
-_Contact: UCSC (Stephanie/Emily) OTHERS???_
-
----
-
-## Training & Workshops
-
-Delivering workshops on open source best practices, project governance, community building, and related topics across the UC system builds capacity and ensures researchers have the skills needed for successful open source engagement. These educational programs are available both locally and system-wide.
-
-**Service capabilities:**
-
-- Open source fundamentals and licensing workshops
-- Project governance and sustainability training
-- Community management and contributor engagement sessions
-- Technical workshops on version control, documentation, and testing
-- Custom training development for specific campus or departmental needs
-
-_Contact: Your local OSPO for in-person and the network calendar for virtual/all-campus_
-
----
-
-## Open Source Software Evaluation & Vetting
-
-Assessing open source software solutions for UC procurement needs includes security analysis, sustainability evaluation, community health assessment, and compliance verification. This helps procurement teams make informed decisions about adopting open source alternatives and ensures solutions meet institutional standards before deployment.
-
-**Service capabilities:**
-
-- Security vulnerability assessment and risk analysis
-- Community health and sustainability evaluation (activity levels, governance, maintainer engagement)
-- License compliance review for institutional use
-- Technical capability assessment against requirements
-- Total cost of ownership analysis including support and maintenance
-
-_Contact: UCSD, UCSC, UCB, UCSB, UCD, UCLA (Perhaps this needs to be a task force)_
-
----
-
-## License Compliance for Procurement
-
-Reviewing procurement contracts and software acquisitions ensures compatibility with UC's open source policies and existing technology stack. This service prevents license conflicts and ensures UC retains rights to contribute back to and modify software according to institutional needs.
-
-**Service capabilities:**
-
-- Contract terms review for open source compatibility
-- License restriction identification and negotiation support
-- Technology stack integration assessment
-- Contribution rights verification and clarification
-- Vendor lock-in risk analysis
-
-_Contact: UCSD (Karla)_
-
----
-
-## Open Source Risk Assessment Frameworks
-
-Providing standardized frameworks for assessing security, maintenance, sustainability, and supply chain risks of open source software under procurement consideration gives procurement teams consistent criteria for evaluation and reduces uncertainty around open source adoption.
-
-**Service capabilities:**
-
-- Standardized risk assessment methodology and scoring
-- Supply chain analysis and dependency evaluation
-- Maintenance and update frequency assessment
-- Security incident history and response evaluation
-- Vendor and community support availability analysis
-
-_Contact: UCSC, UCD, OTHERS??_
-
----
-
-## Open Source Scholarly Infrastructure Support
-
-Providing expertise on implementing and maintaining open source repository systems, publishing platforms, and digital library infrastructure (DSpace, Samvera, Islandora, OJS, etc.) reduces licensing costs for critical library systems while giving libraries greater control and customization capabilities.
-
-**Service capabilities:**
-
-- Platform selection guidance for institutional repositories and publishing systems
-- Implementation planning and technical architecture design
-- Migration strategy from proprietary to open source systems
-- Customization and integration development support
-- Staff training and capacity building for open source infrastructure
-
-_Contact: UCSB_
-
----
-
-## Open Access & Open Educational Resources (OER)
-
-Assisting libraries with open access publishing initiatives, OER adoption strategies, and open textbook programs reduces costs for students and advances UC's commitment to affordable education and open scholarship. These programs demonstrate library value to campus stakeholders.
-
-**Service capabilities:**
-
-- Open access policy development and implementation
-- OER discovery, evaluation, and adoption support
-- Open textbook program design and management
-- Faculty engagement and incentive strategy development
-- Cost impact analysis and reporting for stakeholder communication
-
-_Contact: UCD_
-
----
-
-## Software Citation & Research Impact
-
-Helping libraries develop services around software citation, tracking research software impact, and supporting researchers in getting credit for software contributions addresses an emerging need in scholarly communication. This includes guidance on persistent identifiers, versioning, and metadata so software is treated as a scholarly output and promotes FAIR for Research Software (FAIR4RS) principles.
+Services around software citation, tracking research software impact, and helping researchers get credit for software contributions. This includes guidance on persistent identifiers, FAIR4RS principles, and integration with institutional repositories.
 
 **Service capabilities:**
 
@@ -226,45 +151,81 @@ Helping libraries develop services around software citation, tracking research s
 - FAIR4RS principles application and assessment
 - Integration with institutional repositories and research profiles
 
-_Contact: UCSB, UCLA and UCD_
+_Contact: [Virginia Scarlett](mailto:virginiascarlett@ucsb.edu) (UCSB)_
 
 ---
 
-## Tailored Research Projects
+### Research Software Best Practices
 
-Conducting research projects as needed or upon request, the OSPO Network is equipped to lead surveys, focus groups, audits, vendor landscape analyses, and more. Results can be scholarly papers or internal or external reports that bring unofficial or unrecognized open source activities to light, generating reusable data and practical insights for decision-makers.
+Consulting on technical excellence in research software projects, helping teams build high-quality, maintainable software through sound architecture, documentation, and testing practices.
 
 **Service capabilities:**
 
-- Survey design and implementation for open source practices and needs
-- Focus group facilitation and qualitative research
-- Open source activity audits and landscape mapping
-- Vendor and technology ecosystem analysis
-- Evidence-based reporting for strategic planning and policy development
+- Code architecture and modularity design for maintainability and extensibility
+- Documentation strategies covering user guides, technical specifications, and contributor onboarding
+- Testing frameworks and quality assurance implementation
+- Technical debt management and refactoring guidance
+- Software citation implementation and scholarly impact tracking
 
-_Contact: UCSB_
+_Contact: [Virginia Scarlett](mailto:virginiascarlett@ucsb.edu) (UCSB)_
 
 ---
 
-## Contributing to Open Source
+### Industry Partnership Facilitation
 
-The network helps aspiring contributors get started in open source software development through education, resources, and direct support. Whether you're a student looking to build your portfolio or a researcher wanting to contribute to projects in your field, we provide pathways to meaningful participation in the open source ecosystem.
+Connections between UC open source projects and industry partners, foundations, and open source organizations. These partnerships create pathways for funding, adoption, and collaborative development.
 
 **Service capabilities:**
 
-- Project discovery and matching based on skills, interests, and experience level
-- Technical guidance on contribution workflows (pull requests, code reviews, issue tracking)
-- Workshop training on open source contribution best practices and tools
-- Mentorship connections with experienced open source contributors
-- Support navigating community norms and contributor guidelines
+- Industry partner identification and introduction facilitation
+- Foundation and nonprofit funding connection
+- Collaboration agreement negotiation support
+- Open source foundation engagement (Linux Foundation, Apache, etc.)
+- Technology transfer and commercialization pathway guidance
 
-_Contact: Laura and campus OSPOs_
+_Contact: [Stephanie Lieggi](mailto:slieggi@ucsc.edu) (UCSC), [Emily Lovell](mailto:elovell@ucsc.edu) (UCSC)_
 
 ---
 
-## UC OSS Community
+## Events & Training
 
-The network facilitates connections among UC faculty, staff, students, and researchers working in open source to share knowledge, resources, and experiences. This community provides peer support, collaboration opportunities, and a forum for addressing common challenges in open source work across the UC system.
+### Training & Workshops
+
+Workshops on open source best practices, licensing, project governance, community building, and related topics. Available locally through campus OSPOs and network-wide through virtual sessions. This also includes help for aspiring contributors getting started in open source development through education, mentorship, project matching, and direct support—whether you're a student building a portfolio or a researcher looking to contribute to projects in your field.
+
+**Service capabilities:**
+
+- Open source fundamentals, licensing, and governance workshops
+- Technical workshops on version control, documentation, testing, and contribution workflows
+- Community management and contributor engagement sessions
+- Newcomer support—project matching, mentorship connections, and guidance on community norms
+- Custom training for specific campus or departmental needs
+- Maintainer onboarding and train-the-trainer programs
+- Shared curriculum with [CURIOSS](https://curioss.org/) partner institutions
+
+_Contact: [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager), [local campuses](/about/about)_
+
+---
+
+### Student Programs & Hackathons
+
+Programs like the Open Source Research Experience (OSRE) connect UC students with open source mentorship opportunities and real-world project experience, building valuable skills and career pathways while contributing to the broader open source ecosystem.
+
+**Service capabilities:**
+
+- Student-project matching for research and development opportunities
+- Structured mentorship programs with experienced open source developers
+- Stipend and funding coordination for student participants
+- Professional development workshops and skill-building activities
+- Career pathway guidance for students interested in open source
+
+_Contact: [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager), [local campuses](/about/about)_
+
+---
+
+### Community & Events
+
+Communication channels (including our Slack workspace), regular meetups, campus-specific events, network-wide virtual gatherings, and the annual UC Open conference bring together the UC open source community for knowledge sharing and collaboration.
 
 **Service capabilities:**
 
@@ -274,13 +235,13 @@ The network facilitates connections among UC faculty, staff, students, and resea
 - Annual UC Open Source Summit bringing together the entire UC open source community
 - Resource sharing and collaborative problem-solving across campuses
 
-_Contact: Laura and local OSPOs_
+_Contact: [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager), [local campuses](/about/about)_
 
 ---
 
-## Office Hours and Coworking Sessions
+### Office Hours & Coworking
 
-Twice-weekly [drop-in sessions](https://ucospo.net/events/#coworkingoffice-hours-ongoing) provide informal support and dedicated workspace for anyone involved in open source at UC. These casual sessions welcome questions, collaboration, and focused work time in a supportive community setting.
+Twice-weekly drop-in sessions provide informal support, advice on licensing, documentation, grant proposals, and a dedicated space to work alongside the UC open source community.
 
 **Service capabilities:**
 
@@ -291,23 +252,74 @@ Twice-weekly [drop-in sessions](https://ucospo.net/events/#coworkingoffice-hours
 - Grant proposal feedback and funding strategy consultation
 - Dedicated time and community support for project work and administrative tasks
 
-_Contact: Network Community Manager (Laura)_
+_Contact: [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager)_
 
 ---
 
-## Research Software Best Practices & Sustainability Consulting
+## Tools
 
-Comprehensive consulting on both the technical excellence and long-term viability of research software projects combines guidance on software engineering best practices with strategic planning for project sustainability. This service helps research teams build high-quality, maintainable software that can thrive beyond initial grant funding.
+### UC ORB (UC Open Repository Browser)
+
+A centralized platform for discovering and showcasing open source projects across the UC system. UC ORB increases visibility of UC's open source contributions and makes it easier to find collaborators across campuses.
 
 **Service capabilities:**
 
-- Code architecture and modularity design for maintainability and extensibility
-- Documentation strategies covering user guides, technical specifications, and contributor onboarding
-- Testing frameworks and quality assurance implementation
-- Post-grant sustainability planning including governance models and succession strategies
-- Funding pathway identification including grants, fiscal sponsorship, and revenue models
-- Community-building strategies to attract and retain contributors
-- Technical debt management and refactoring guidance
-- Software citation implementation and scholarly impact tracking
+- Centralized search and discovery of UC open source projects
+- Project metadata curation and standardization
+- Cross-campus collaboration facilitation through project visibility
+- Analytics and reporting on UC open source activity
+- Integration with institutional repositories and research profiles
+- Project showcase for visibility with potential sponsors and industry partners
+- Contact list generation for cross-campus collaboration and outreach
 
-_Contact: UCLA, UCSC, UCB, UCSD, UCSB_
+_Contact: [Juanita Gomez](mailto:jgomez91@ucsc.edu) (UCSC)_
+
+---
+
+## Service Candidates
+
+### Open Source Risk Assessment Frameworks
+
+Standardized frameworks for assessing security, maintenance, sustainability, and supply chain risks of open source software under procurement consideration, giving procurement teams consistent criteria for evaluation.
+
+**Service capabilities:**
+
+- Standardized risk assessment methodology and scoring
+- Supply chain analysis and dependency evaluation
+- Maintenance and update frequency assessment
+- Security incident history and response evaluation
+- Vendor and community support availability analysis
+
+Status: _UCD (Vessela/Shawn, developing)_
+
+---
+
+### Open Access & Open Educational Resources
+
+Support for open access publishing initiatives, OER adoption strategies, and open textbook programs that reduce costs for students and advance UC's commitment to affordable education.
+
+**Service capabilities:**
+
+- Open access policy development and implementation
+- OER discovery, evaluation, and adoption support
+- Open textbook program design and management
+- Faculty engagement and incentive strategy development
+- Cost impact analysis and reporting for stakeholder communication
+
+Status: _UC Libraries (partnership TBD)_
+
+---
+
+### Open Source Scholarly Infrastructure
+
+Expertise on the open source dimensions of repository systems, publishing platforms, and digital library infrastructure—complementing existing library data management expertise with open source community health assessment, governance evaluation, and upstream contribution strategy.
+
+**Service capabilities:**
+
+- Open source community health and governance evaluation for candidate platforms
+- Migration strategy from proprietary to open source systems
+- Upstream contribution strategy and engagement planning
+- Customization and integration development support
+- Staff training and capacity building for open source infrastructure
+
+Status: _UC Libraries (partnership TBD)_
