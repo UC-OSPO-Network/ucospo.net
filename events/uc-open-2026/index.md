@@ -25,37 +25,46 @@ This isn't just another conference. UC Open is:
 
 _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all participants! We will provide breakfast and lunch on both days, as well as an evening reception on Wednesday. When you register you will be asked to provide any dietary restrictions or concerns._
 
-<div class="sponsor-table">
-<table>
-<thead>
-<tr>
-  <th><strong>Hosting Sponsor</strong></th>
-  <th><strong>Gold</strong></th>
-  <th><strong>Bronze</strong></th>
-  <th><strong>Network Support</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <img class="logo-light" src="../../static/images/sponsors/bids-logo.png" alt="Berkeley Institute for Data Science" />
-    <img class="logo-dark" src="../../static/images/sponsors/bids-logo-dark.png" alt="Berkeley Institute for Data Science" />
-  </td>
-  <td>
-    <img class="logo-light" src="../../static/images/sponsors/aws.png" alt="Amazon Web Services" />
-    <img class="logo-dark" src="../../static/images/sponsors/aws-light.svg" alt="Amazon Web Services" />
-  </td>
-  <td>
-    <img src="../../static/images/sponsors/redhat.svg" alt="Red Hat" />
-  </td>
-  <td>
-    <img class="logo-light" src="../../static/images/sponsors/sloan.png" alt="Alfred P. Sloan Foundation" />
-    <img class="logo-dark" src="../../static/images/sponsors/Logo-1A-SMALL-Gold-White.png" alt="Alfred P. Sloan Foundation" />
-  </td>
-</tr>
-</tbody>
-</table>
-</div>
+:::::::{div}
+:class: sponsor-table
+
+````{list-table}
+:header-rows: 1
+
+* - **Hosting Sponsor**
+  - **Gold**
+  - **Bronze**
+  - **Network Support**
+* - ```{image} ../../static/images/sponsors/bids-logo.png
+    :alt: Berkeley Institute for Data Science
+    :class: logo-light
+    ```
+    ```{image} ../../static/images/sponsors/bids-logo-dark.png
+    :alt: Berkeley Institute for Data Science
+    :class: logo-dark
+    ```
+  - ```{image} ../../static/images/sponsors/aws.png
+    :alt: Amazon Web Services
+    :class: logo-light
+    ```
+    ```{image} ../../static/images/sponsors/aws-light.svg
+    :alt: Amazon Web Services
+    :class: logo-dark
+    ```
+  - ```{image} ../../static/images/sponsors/redhat.svg
+    :alt: Red Hat
+    ```
+  - ```{image} ../../static/images/sponsors/sloan.png
+    :alt: Alfred P. Sloan Foundation
+    :class: logo-light
+    ```
+    ```{image} ../../static/images/sponsors/Logo-1A-SMALL-Gold-White.png
+    :alt: Alfred P. Sloan Foundation
+    :class: logo-dark
+    ```
+````
+
+:::::::
 
 ## Keynote Speakers
 
