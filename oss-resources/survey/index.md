@@ -26,55 +26,45 @@ faculty, and staff.
 :width: 50%
 ```
 
-::::{div}
-<a href="infographic.pdf"
-   download="infographic.pdf"> Download the infographic </a>
-::::
+[Download the infographic](infographic.pdf)
 
 ::::{div}
 :class: screen-reader-only
 
-<h3>Contents of the infographic.</h3>
-<p>The University of California Open Source Survey 2025. Brought to you by
-the UC OSPO Network. Key results:</p>
+### Contents of the infographic.
 
-<ul>
-  <li>92% of students and 93% of researchers report that open source is
-  important for their work.</li>
-  <li>58% of UC open source contributors are project maintainers.</li>
-  <li>27% of academics and 43% of non-research staff occasionally or
-  frequently contribute to large projects.</li>
-  <li>The number one challenge, that is, the most frequent challenge for
-  experienced contributors, was finding time for documentation.</li>
-</ul>
+The University of California Open Source Survey 2025. Brought to you by
+the UC OSPO Network. Key results:
 
-<p>A diagram shows the top three solutions preferred by experienced
+- 92% of students and 93% of researchers report that open source is
+  important for their work.
+- 58% of UC open source contributors are project maintainers.
+- 27% of academics and 43% of non-research staff occasionally or
+  frequently contribute to large projects.
+- The number one challenge, that is, the most frequent challenge for
+  experienced contributors, was finding time for documentation.
+
+A diagram shows the top three solutions preferred by experienced
 contributors and aspiring contributors. The top three solutions preferred
-by experienced contributors were:</p>
+by experienced contributors were:
 
-<ol>
-  <li> grants for open source sustainability</li>
-  <li>access to free, feature-rich computing environments, and</li>
-  <li>a learning community.</li>
-</ol>
+1. grants for open source sustainability
+2. access to free, feature-rich computing environments, and
+3. a learning community.
 
-<p>The top three solutions preferred by aspiring contributors were:</p>
+The top three solutions preferred by aspiring contributors were:
 
-<ol>
-  <li>access to free, feature-rich computing environments,</li>
-  <li>a learning community, and</li>
-  <li>educational materials.</li>
-</ol>
+1. access to free, feature-rich computing environments,
+2. a learning community, and
+3. educational materials.
 
-<p>Other forms of support proposed by survey participants include:</p>
+Other forms of support proposed by survey participants include:
 
-<ul>
-  <li>Personnel: centralized maintenance help;</li>
-  <li>Careers: education on open source careers;</li>
-  <li>Guidelines: clear rules for UC employees; </li>
-  <li>Code review: communities of practice.</li>
-</ul>
-::::
+- Personnel: centralized maintenance help;
+- Careers: education on open source careers;
+- Guidelines: clear rules for UC employees;
+- Code review: communities of practice.
+  ::::
 
 We found that the vast majority of students and researchers consider open source
 software to be important for their work. We also found that the majority of open
