@@ -1,0 +1,62 @@
+name: PR Build Check & Preview
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: pr-preview-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-preview:
+    if: github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - run: npx myst build --html
+
+      - run: node scripts/generate-feed.js
+
+      - run: npx linkinator ./_build/html/
+
+      - name: Accessibility check
+        # pa11y-ci needs a running server to crawl the built site
+        run: |
+          npx serve _build/html -p 4117 &
+          SERVER_PID=$!
+          # Ensure the server is killed even if pa11y-ci fails, so the
+          # background process doesn't linger until the job times out.
+          trap "kill $SERVER_PID" EXIT
+          # Wait for server to be ready (more reliable than a fixed sleep)
+          timeout 30 bash -c 'until curl -s http://localhost:4117 > /dev/null; do sleep 1; done'
+          npx pa11y-ci --sitemap http://localhost:4117/sitemap.xml \
+            --sitemap-find 'http://localhost:[0-9]+' \
+            --sitemap-replace 'http://localhost:4117'
+
+      # continue-on-error because fork PRs don't have write access to push
+      # the preview to gh-pages. The build check above still validates the PR.
+      - uses: rossjrw/pr-preview-action@v1
+        continue-on-error: true
+        with:
+          source-dir: _build/html
+
+  cleanup:
+    if: github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: rossjrw/pr-preview-action@v1
