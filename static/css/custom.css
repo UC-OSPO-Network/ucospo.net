@@ -607,7 +607,7 @@ footer.article-grid {
   color: #1a5276;
 }
 .tier-gold h3 {
-  color: #b8860b;
+  color: #9b6e00; /* meets WCAG 2.1 AA contrast ratio (4.54:1 on white) */
 }
 .tier-bronze h3 {
   color: #8b5e3c;
