@@ -719,6 +719,20 @@ footer.article-grid {
   }
 }
 
+/* ── Table captions (services page) ─────────────────────────────── */
+
+table caption,
+figcaption,
+.table-caption,
+[class*="TableCaption"],
+.caption-text {
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  caption-side: top;
+  text-align: left;
+  padding-bottom: 0.5rem;
+}
+
 /* ── Speaker bio (talk pages) ────────────────────────────────────── */
 
 .speaker-bio {
