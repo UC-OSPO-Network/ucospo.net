@@ -34,7 +34,8 @@ jobs:
       - run: npx linkinator ./_build/html/
 
       - name: Accessibility check
-        # pa11y-ci needs a running server to crawl the built site
+        # pa11y-ci needs a running server to crawl the built site.
+        # Chromium requires --no-sandbox on GitHub Actions runners (see .pa11yci).
         run: |
           npx serve _build/html -p 4117 &
           SERVER_PID=$!
