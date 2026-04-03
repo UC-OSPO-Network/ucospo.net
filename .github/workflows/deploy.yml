@@ -1,0 +1,55 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Prevent parallel deploys if multiple commits are pushed to main in quick
+# succession. The last push wins; earlier runs are cancelled.
+concurrency:
+  group: deploy-pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - run: npx myst build --html
+
+      - run: node scripts/generate-feed.js
+
+      - run: npx linkinator ./_build/html/
+
+      - name: Accessibility check
+        # pa11y-ci needs a running server to crawl the built site.
+        # Chromium requires --no-sandbox on GitHub Actions runners (see .pa11yci).
+        run: |
+          npx serve _build/html -p 4117 &
+          SERVER_PID=$!
+          # Ensure the server is killed even if pa11y-ci fails, so the
+          # background process doesn't linger until the job times out.
+          trap "kill $SERVER_PID" EXIT
+          # Wait for server to be ready (more reliable than a fixed sleep)
+          timeout 30 bash -c 'until curl -s http://localhost:4117 > /dev/null; do sleep 1; done'
+          npx pa11y-ci --sitemap http://localhost:4117/sitemap.xml \
+            --sitemap-find 'http://localhost:[0-9]+' \
+            --sitemap-replace 'http://localhost:4117'
+
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _build/html
+          cname: ucospo.net
