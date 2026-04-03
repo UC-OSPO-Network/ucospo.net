@@ -23,7 +23,7 @@ This isn't just another conference. UC Open is:
 - **Small but mighty**: our deliberately limited capacity means you'll leave with real relationships, not just business cards. Every conversation matters when you're part of a curated community rather than a sea of strangers.
 - **Warmly collaborative**: this event is for humans, not sales pitches. Whether you're a researcher, maintainer, contributor, or simply curious about open source innovation, you'll find your people here.
 
-_Thanks to the generosity of our sponsors, UC Open is **free to attend** for all participants! We will provide breakfast and lunch on both days, as well as an evening reception on Wednesday. When you register you will be asked to provide any dietary restrictions or concerns._
+_Thanks to the generosity of our sponsors, UC Open is **free to attend** for all participants! We will provide coffee and tea service and lunch on both days, as well as an evening reception on Wednesday. When you register you will be asked to provide any dietary restrictions or concerns._
 
 :::::::{div}
 :class: sponsor-table
@@ -114,7 +114,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 ```{list-table}
 
 * - 9:00–9:30
-  - Breakfast & Registration
+  - Coffee, Tea & Registration
 * - 9:30–10:00
   - **Welcome from UC Berkeley OSPO**
 * - 10:00–10:40
@@ -164,7 +164,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 ```{list-table}
 
 * - 9:00–9:30
-  - Breakfast & Registration
+  - Coffee, Tea & Registration
 * - 9:30–10:00
   - **Opening Session—OSPO Network Update**
 * - 10:00–10:50
