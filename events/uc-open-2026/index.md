@@ -170,7 +170,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 10:00–10:50
   - **Panel: Influence of AI on Open Source and Open Scholarship**
 
-    Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis)
+    Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis), Tara Hernandez (UCSC), Ilkay Altintas (UCSD)
 * - 10:50–11:10
   - Break & Networking
 * - 11:10–12:25
