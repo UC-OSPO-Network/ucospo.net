@@ -150,9 +150,10 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 3:45–4:00
   - Break & Networking
 * - 4:00–4:45
-  - **Panel: Open Source Commercialization and Impact**
+  - **Panel:** [Open Source Commercialization and Impact](./talks/open-source-commercialization-and-impact.md)
 
-    Chaired by Karla Padilla (UCSD). Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg), Joel Kehle (UCLA)
+    Chaired by Karla Padilla (UCSD)\
+    Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg), Joel Kehle (UCLA)
 * - 4:45–5:15
   - **[Lightning Intros](./talks/lightning-intros.md)**
 * - 5:15–6:30
