@@ -11,11 +11,11 @@ Whether you're a researcher navigating open source licensing, a student looking 
 :header-rows: 1
 
 * - Service
-  - Primary Contact
+  - Primary Contact(s)
 * - [Licensing, IP & Compliance](#licensing-ip--compliance)
   - [Karla Padilla](mailto:kapadilla@ucsd.edu) (UCSD)
-* - [Fiscal Sponsorship Pathways](#fiscal-sponsorship-pathways)
-  - [Stephanie Lieggi](mailto:slieggi@ucsc.edu) (UCSC), [Emily Lovell](mailto:elovell@ucsc.edu) (UCSC), [Kirstie Whitaker](mailto:kirstie.whitaker@berkeley.edu) (UCB), [Jarrod Millman](mailto:millman@berkeley.edu) (UCB)
+* - [Funding & Grant Support](#funding-grant-support)
+  - [Stephanie Lieggi](mailto:slieggi@ucsc.edu) (UCSC), [Emily Lovell](mailto:elovell@ucsc.edu) (UCSC), [Kirstie Whitaker](mailto:kirstie.whitaker@berkeley.edu) (UCB), [Jarrod Millman](mailto:millman@berkeley.edu) (UCB), [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager)
 * - [Community Management & Engagement Support](#community-management--engagement-support)
   - [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager)
 * - [Software Citation & Research Impact](#software-citation--research-impact)
@@ -62,23 +62,7 @@ Whether you're a researcher navigating open source licensing, a student looking 
 
 ::::
 
-::::{table} Service Candidates
-:widths: 55 45
-
-```{list-table}
-:header-rows: 1
-
-* - Service
-  - Status
-* - [Open Source Risk Assessment Frameworks](#open-source-risk-assessment-frameworks)
-  - UCD (Vessela/Shawn, developing)
-* - [Open Access & Open Educational Resources](#open-access--open-educational-resources)
-  - UC Libraries (partnership TBD)
-* - [Open Source Scholarly Infrastructure](#open-source-scholarly-infrastructure)
-  - UC Libraries (partnership TBD)
-```
-
-::::
+% Service Candidates table hidden — rebuild from commented detail sections below when ready
 
 ---
 
@@ -105,19 +89,21 @@ _Contact: [Karla Padilla](mailto:kapadilla@ucsd.edu) (UCSD)_
 
 ---
 
-### Fiscal Sponsorship Pathways
+### Funding & Grant Support
 
-Guidance on fiscal sponsorship arrangements for open source projects emerging from UC research. This helps projects accept donations and manage funds without creating new legal entities, removing administrative barriers so you can focus on your work.
+Support for securing and managing funding for open source projects emerging from UC research—from writing grants to accepting donations.
 
 **Service capabilities:**
 
+- Grant proposal development with open source components
+- Network staff available as named personnel on grants
 - Fiscal sponsorship model evaluation and selection guidance
 - Connection with appropriate fiscal sponsors for project needs
 - Application process support and document preparation
 - Ongoing sponsor relationship management advice
 - Financial reporting and compliance guidance
 
-_Contact: [Stephanie Lieggi](mailto:slieggi@ucsc.edu) (UCSC), [Emily Lovell](mailto:elovell@ucsc.edu) (UCSC), [Kirstie Whitaker](mailto:kirstie.whitaker@berkeley.edu) (UCB), [Jarrod Millman](mailto:millman@berkeley.edu) (UCB)_
+_Contact: [Stephanie Lieggi](mailto:slieggi@ucsc.edu) (UCSC), [Emily Lovell](mailto:elovell@ucsc.edu) (UCSC), [Kirstie Whitaker](mailto:kirstie.whitaker@berkeley.edu) (UCB), [Jarrod Millman](mailto:millman@berkeley.edu) (UCB), [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manager)_
 
 ---
 
@@ -276,50 +262,50 @@ _Contact: [Juanita Gomez](mailto:jgomez91@ucsc.edu) (UCSC)_
 
 ---
 
-## Service Candidates
-
-### Open Source Risk Assessment Frameworks
-
-Standardized frameworks for assessing security, maintenance, sustainability, and supply chain risks of open source software under procurement consideration, giving procurement teams consistent criteria for evaluation.
-
-**Service capabilities:**
-
-- Standardized risk assessment methodology and scoring
-- Supply chain analysis and dependency evaluation
-- Maintenance and update frequency assessment
-- Security incident history and response evaluation
-- Vendor and community support availability analysis
-
-Status: _UCD (Vessela/Shawn, developing)_
-
----
-
-### Open Access & Open Educational Resources
-
-Support for open access publishing initiatives, OER adoption strategies, and open textbook programs that reduce costs for students and advance UC's commitment to affordable education.
-
-**Service capabilities:**
-
-- Open access policy development and implementation
-- OER discovery, evaluation, and adoption support
-- Open textbook program design and management
-- Faculty engagement and incentive strategy development
-- Cost impact analysis and reporting for stakeholder communication
-
-Status: _UC Libraries (partnership TBD)_
-
----
-
-### Open Source Scholarly Infrastructure
-
-Expertise on the open source dimensions of repository systems, publishing platforms, and digital library infrastructure—complementing existing library data management expertise with open source community health assessment, governance evaluation, and upstream contribution strategy.
-
-**Service capabilities:**
-
-- Open source community health and governance evaluation for candidate platforms
-- Migration strategy from proprietary to open source systems
-- Upstream contribution strategy and engagement planning
-- Customization and integration development support
-- Staff training and capacity building for open source infrastructure
-
-Status: _UC Libraries (partnership TBD)_
+% ## Service Candidates
+%
+% ### Open Source Risk Assessment Frameworks
+%
+% Standardized frameworks for assessing security, maintenance, sustainability, and supply chain risks of open source software under procurement consideration, giving procurement teams consistent criteria for evaluation.
+%
+% **Service capabilities:**
+%
+% - Standardized risk assessment methodology and scoring
+% - Supply chain analysis and dependency evaluation
+% - Maintenance and update frequency assessment
+% - Security incident history and response evaluation
+% - Vendor and community support availability analysis
+%
+% Status: _UCD (Vessela/Shawn, developing)_
+%
+% ---
+%
+% ### Open Access & Open Educational Resources
+%
+% Support for open access publishing initiatives, OER adoption strategies, and open textbook programs that reduce costs for students and advance UC's commitment to affordable education.
+%
+% **Service capabilities:**
+%
+% - Open access policy development and implementation
+% - OER discovery, evaluation, and adoption support
+% - Open textbook program design and management
+% - Faculty engagement and incentive strategy development
+% - Cost impact analysis and reporting for stakeholder communication
+%
+% Status: _UC Libraries (partnership TBD)_
+%
+% ---
+%
+% ### Open Source Scholarly Infrastructure
+%
+% Expertise on the open source dimensions of repository systems, publishing platforms, and digital library infrastructure—complementing existing library data management expertise with open source community health assessment, governance evaluation, and upstream contribution strategy.
+%
+% **Service capabilities:**
+%
+% - Open source community health and governance evaluation for candidate platforms
+% - Migration strategy from proprietary to open source systems
+% - Upstream contribution strategy and engagement planning
+% - Customization and integration development support
+% - Staff training and capacity building for open source infrastructure
+%
+% Status: _UC Libraries (partnership TBD)_
