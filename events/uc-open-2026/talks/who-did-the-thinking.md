@@ -1,5 +1,5 @@
 ---
-title: “TRACE: Open Provenance Infrastructure for AI-Assisted Research”
+title: "TRACE: Open Provenance Infrastructure for AI-Assisted Research"
 ---
 
 ## Abstract
