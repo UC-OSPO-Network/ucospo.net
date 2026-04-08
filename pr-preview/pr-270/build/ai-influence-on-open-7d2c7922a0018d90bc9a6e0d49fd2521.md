@@ -49,3 +49,21 @@ Sahiba Chopra is a PhD candidate in the Management of Organizations group at UC 
 Marit MacArthur is a faculty member in the University Writing Program at UC Davis, where she has taught since 2016. Her research spans AI and writing, digital voice studies, Writing Across the Curriculum, performance studies, cultural analytics and digital humanities, and open-source software development. She is a Principal Investigator for PAIRR (Peer and AI Review + Reflection), a collaborative grant project funded by the California Education Learning Lab, and a co-investigator with the NEH-funded Center for AI and Experimental Futures (CAIEF) at UC Davis.
 
 :::
+
+:::{div}
+:class: speaker-bio
+
+### Tara Hernandez | UCSC
+
+_Bio coming soon._
+
+:::
+
+:::{div}
+:class: speaker-bio
+
+### Ilkay Altintas | UCSD
+
+_Bio coming soon._
+
+:::

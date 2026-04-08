@@ -8,6 +8,9 @@
     <loc>http://localhost:3000/about/about</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/about/services</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/about/get-involved</loc>
   </url>
   <url>
