@@ -135,7 +135,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
   - **Breakout 1: Supporting the Next Generation of Open Source Leaders**
 
     - 2:00–2:15 *[UC OSPO Education Activities](./talks/uc-ospo-education-activities.md)*—Tim Dennis (UCLA)
-    - 2:15–2:30 *From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching*—Eric Van Dusen (UC Berkeley)
+    - 2:15–2:30 *[From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching](./talks/sustainable-jupyterhub-infrastructure.md)*—Shane Knapp & Eric Van Dusen (UC Berkeley)
     - 2:30–2:45 *Teaching and Mentoring Open Source*—Emily Lovell (UCSC)
     - 2:45–3:00 *[Open Source Adaptive Tutoring for UC STEM](./talks/open-source-adaptive-tutoring-for-uc-stem.md)*—Ioannis Anastasopoulos & Zachary Pardos (UC Berkeley)
     - 3:00–3:45 *Facilitated Discussion*
