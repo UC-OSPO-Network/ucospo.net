@@ -150,9 +150,10 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 3:45–4:00
   - Break & Networking
 * - 4:00–4:45
-  - **Panel: Open Source Commercialization and Impact**
+  - **Panel:** [Open Source Commercialization and Impact](./talks/open-source-commercialization-and-impact.md)
 
-    Chaired by Karla Padilla (UCSD). Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg), Joel Kehle (UCLA)
+    Chaired by Karla Padilla (UCSD)\
+    Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg), Joel Kehle (UCLA)
 * - 4:45–5:15
   - **[Lightning Intros](./talks/lightning-intros.md)**
 * - 5:15–6:30
@@ -170,7 +171,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 10:00–10:50
   - **Panel: Influence of AI on Open Source and Open Scholarship**
 
-    Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis)
+    Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis), Tara Hernandez (UCSC), Ilkay Altintas (UCSD)
 * - 10:50–11:10
   - Break & Networking
 * - 11:10–12:25
@@ -195,7 +196,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
   - **Breakout 1: Open Source Tools for Public Benefit**
 
     - 1:45–2:00 *[An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools](./talks/weather-driven-agricultural-decision-tools.md)*—Andy Lyons (UC ANR)
-    - 2:00–2:15 *Open Source for Digital Democracy: Building a UC-Wide ProSocial Tech Lab*—David Shaw (UCSC)
+    - 2:00–2:15 *TBA*
     - 2:15–2:30 *[Building Tools for Police Accountability](./talks/building-tools-for-police-accountability.md)*—Tarak Shah (UC Berkeley / BIDS)
     - 2:30–2:45 *TBA*
     - 2:50–3:15 *Facilitated Discussion*
@@ -204,8 +205,8 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 
     - 1:45–2:00 *[Making Jupyter Notebooks Accessible](./talks/making-jupyter-notebooks-accessible.md)*—Balaji Alwar & Chanbin Park (UC Berkeley)
     - 2:00–2:15 *[PeerSky in Academia: Create, Publish, and Share Research Without the Cloud](./talks/peersky-in-academia.md)*—Akhilesh Thite (UCSC)
-    - 2:15–2:30 *Who Did the Thinking? Documenting AI's Role in University Research*—Oliver Muellerklein (UC Berkeley)
-    - 2:30–2:45 *Developing Environmental Wireless Sensor Networks with TockOS*—John Madden (UCSC)
+    - 2:15–2:30 *[TRACE: Open Provenance Infrastructure for AI-Assisted Research](./talks/who-did-the-thinking.md)*—Oliver Muellerklein (UC Berkeley)
+    - 2:30–2:45 *[Developing Environmental Wireless Sensor Networks with TockOS](./talks/environmental-wireless-sensor-networks-tockos.md)*—John Madden, Colleen Josephson, Jack Lin & Alec Levy (UCSC)
     - 2:50–3:15 *Facilitated Discussion*
 * - 3:20–4:00
   - **Keynote:** Kevin Esterling (UC Riverside)—*[Open Source AI and the Public Sphere: Two Paradoxes](./talks/open-source-ai-public-sphere.md)*
