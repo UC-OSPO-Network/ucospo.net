@@ -132,7 +132,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 
     *Poster Session (1:00–2:00)*
 * - 2:00–3:45
-  - **Breakout 1: Open Pracctices for Education & Training**
+  - **Breakout 1: Open Pracctices for Education and Training**
 
     - 2:00–2:15 *[UC OSPO Education Activities](./talks/uc-ospo-education-activities.md)*—Tim Dennis (UCLA)
     - 2:15–2:30 *[From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching](./talks/sustainable-jupyterhub-infrastructure.md)*—Shane Knapp & Eric Van Dusen (UC Berkeley)
