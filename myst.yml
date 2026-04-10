@@ -9,6 +9,7 @@ project:
     - title: About
       children:
         - file: about/about.md
+        - file: about/services.md
         - file: about/get-involved.md
         - file: about/guiding-themes/index.md
           children:
@@ -36,6 +37,8 @@ project:
       children:
         - file: events/index.md
         - file: events/uc-open-2026/index.md
+        - pattern: events/uc-open-2026/talks/*.md
+          hidden: true
         - pattern: events/uc-open-4-2025/**/*.md
           hidden: true
     - title: Blog

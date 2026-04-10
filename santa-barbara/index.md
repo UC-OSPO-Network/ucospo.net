@@ -3,20 +3,13 @@ title: UC Santa Barbara Open Source Program
 ---
 
 <!-- HERO IMAGE -->
-<figure>
-  <img src="../static/images/ucsb/library2_1600.jpg"
-       srcset="../static/images/ucsb/library2_640.jpg 640w,
-               ../static/images/ucsb/library2_1280.jpg 1280w,
-               ../static/images/ucsb/library2_1600.jpg 1600w"
-       sizes="(max-width: 800px) 640px,
-              (max-width: 1440px) 1280px,
-              1600px"
-       alt="UCSB library exterior"
-       class="ucsb-hero-img" />
-  <figcaption class="ucsb-hero-caption">
-  <em>Image courtesy of UCSB</em>
-  </figcaption>
-</figure>
+
+:::{figure} ../static/images/ucsb/library2_1600.jpg
+:alt: UCSB library exterior
+:class: ucsb-hero-img
+
+_Image courtesy of UCSB_
+:::
 
 ## About us
 
@@ -44,29 +37,28 @@ You can unsubscribe at any time.
 ::::{div}
 :class: btn-center-wrapper
 
-<a href="https://signup.e2ma.net/signup/2045162/1984731/"
-   class="btn-ucsb-primary"
-   target="_blank">
-Join our mailing list
-</a>
+<a href="https://signup.e2ma.net/signup/2045162/1984731/" class="btn-ucsb-primary">Join our mailing list</a>
 ::::
 
 <!-- CURRENT PROJECTS -->
 
-::::{div}
+::::::{div}
 :class: ucsb-panel-light
 
-:::{card} Current projects
+:::::{card} Current projects
 
 ### UCSB Open Source Meetup
 
-<div class="ucsb-float-right">
-  <img src="../static/images/ucsb/ucsb_meetup.png"
-       loading="lazy"
-       alt="UCSB students working on laptops in a group setting" />
-</div>
+::::{div}
+:class: ucsb-float-right
 
-Once a month, the UCSB Open Source Programs Team hosts a casual, in-person, open
+```{image} ../static/images/ucsb/ucsb_meetup.png
+:alt: UCSB students working on laptops in a group setting
+```
+
+::::
+
+Once a month, the UCSB Open Source Programs Team hosts a casual, virtual, open
 source meetup. The meetup is open to UCSB students, faculty, and staff of all
 backgrounds and experience levels. The format rotates between attendee-led
 discussions and the "Open Source Lounge", a coworking group where we tackle our
@@ -74,55 +66,66 @@ individual open source goals. This is a great opportunity to meet others
 interested in open source, share tips and experiences, and be a part of a larger
 open source community at UCSB.
 
-<div class="btn-center-wrapper">
+::::{div}
+:class: btn-center-wrapper
+
 <a href="/santa-barbara/ucsb-projects/meetup" class="btn-ucsb-secondary">Visit the meetup webpage!</a>
-</div>
+::::
 
 ### Sustainability Playbook
 
-<div class="ucsb-clearfix">
-<img class="suspb-image"
-     src="../static/images/ucsb/susPB_logo.png"
-     loading="lazy"
-     alt="UC OSPO Logo with the words 'sustainability playbook' in stylized text" />
-<p>Since our recent survey showed that many open source contributors are struggling
+::::{div}
+:class: ucsb-clearfix
+
+```{image} ../static/images/ucsb/susPB_logo.svg
+:alt: UC OSPO Logo with the words 'sustainability playbook' in stylized text
+:class: suspb-image
+```
+
+Since our recent survey showed that many open source contributors are struggling
 with project sustainability, we plan to create a website with resources on the topic.
 We are calling it the "Sustainability Playbook". It will be tailored to UC throughout,
 pointing readers to the relevant staff offices that can help, with tips and tricks for
 navigating UC's administrative channels. The playbook will be rich with interviews
 from UC developers and project stewards discussing how they have so far succeeded in
-sustaining an open source project.</p>
-</div>
-
-:::
-
+sustaining an open source project.
 ::::
+
+:::::
+
+::::::
 
 <!-- PAST PROJECTS -->
 
-::::{div}
+::::::{div}
 :class: ucsb-panel-dark
 
-:::{card} Past projects
+:::::{card} Past projects
 
 ### UC Open Source Survey
 
-<div class="ucsb-clearfix">
-<div class="ucsb-thumbnail-wrapper">
-<img src="../static/images/ucsb/infographic_small_crop.png"
-     loading="lazy"
-     alt="Thumbnail preview of an infographic"
-     class="ucsb-thumbnail-img" />
-</div>
-<p>Our team recently spearheaded a survey of nearly 300 open source contributors
-as part of the UC OSPO Network's discovery activities. You can
-<a href="https://ucospo.net/oss-resources/survey/">read more about the UC Open Source Contributor Survey</a>. The
-preprint is available now, and the paper is undergoing peer review.</p>
-</div>
+::::{div}
+:class: ucsb-clearfix
+
+:::{div}
+:class: ucsb-thumbnail-wrapper
+
+```{image} ../static/images/ucsb/infographic_small_crop.png
+:alt: Thumbnail preview of an infographic
+:class: ucsb-thumbnail-img
+```
 
 :::
 
+Our team recently spearheaded a survey of nearly 300 open source contributors
+as part of the UC OSPO Network's discovery activities. You can
+[read more about the UC Open Source Contributor Survey](https://ucospo.net/oss-resources/survey/). The
+preprint is available now, and the paper is undergoing peer review.
 ::::
+
+:::::
+
+::::::
 
 ## What's the status of the UCSB OSPO?
 
@@ -149,16 +152,15 @@ gravity for this work for the foreseeable future.
 
 ## Get connected
 
-::::{div}
+<!-- ::::{div}
 :class: ospo-img
 
 <img src="../static/images/ucsb/UCSB-ospo.png"
      alt="UCSB open source programs logo" />
-::::
+:::: -->
 
-- To stay informed about our activities, <a
-    href="https://signup.e2ma.net/signup/2045162/1984731/"
-    target="_blank"> join our mailing list </a>.
+- To stay informed about our activities,
+  [join our mailing list](https://signup.e2ma.net/signup/2045162/1984731/).
 - For inquiries, [email us](mailto:ospo@library.ucsb.edu).
 - We're also on Slack! If you'd like an invitation, please email us.
 - Our team:

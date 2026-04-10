@@ -142,6 +142,18 @@ html {
   margin: 0 auto;
 }
 
+/* https://webaim.org/techniques/css/invisiblecontent/ */
+.screen-reader-only {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+}
+
 .ucsb-hero-img {
   width: 100%;
   height: auto;
@@ -361,6 +373,48 @@ footer.article-grid {
   filter: invert(1);
 }
 
+/* ── Register button ──────────────────────────────────────────── */
+
+.register-btn a {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background-color: #003cb3;
+  color: #ffffff !important;
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 6px;
+  letter-spacing: 0.02em;
+  transition: background-color 0.2s ease;
+}
+
+.register-btn a:hover {
+  background-color: #ff9100;
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+.dark .register-btn a {
+  background-color: #7ab3ff;
+  color: #1a1a2e !important;
+}
+
+.dark .register-btn a:hover {
+  background-color: #ff9100;
+  color: #ffffff !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .register-btn a {
+    background-color: #7ab3ff;
+    color: #1a1a2e !important;
+  }
+  .register-btn a:hover {
+    background-color: #ff9100;
+    color: #ffffff !important;
+  }
+}
+
 /* ── Centered mermaid diagrams ─────────────────────────────────── */
 
 .mermaid-centered {
@@ -372,6 +426,11 @@ footer.article-grid {
 .mermaid-centered > * {
   margin-left: auto;
   margin-right: auto;
+}
+
+/* Ensure mermaid flowchart node text is readable */
+.mermaid-centered .nodeLabel p {
+  color: #222 !important;
 }
 
 /* ── Blog cards ─────────────────────────────────────────────────── */
@@ -425,6 +484,15 @@ footer.article-grid {
 .speaker-cards .myst-card {
   border-top: 3px solid #003cb3;
   background-color: #f0f4fa;
+  text-align: center;
+}
+
+.speaker-cards .myst-card img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 50%;
 }
 
 .dark .speaker-cards .myst-card {
@@ -462,7 +530,7 @@ footer.article-grid {
 
 .sponsor-table th {
   text-align: center !important;
-  width: 33.33% !important;
+  width: 25% !important;
   background-color: #fff3e0 !important;
   border-bottom: 2px solid #ff9100 !important;
 }
@@ -517,6 +585,118 @@ footer.article-grid {
   display: block;
 }
 
+/* ── Sponsor showcase (vertically stacked, size-differentiated) ──── */
+
+.sponsor-showcase {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.sponsor-tier {
+  margin-bottom: 2rem;
+}
+
+.sponsor-tier h3 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.75rem;
+}
+
+.tier-hosting h3 {
+  color: #1a5276;
+}
+.tier-gold h3 {
+  color: #9b6e00; /* meets WCAG 2.1 AA contrast ratio (4.54:1 on white) */
+}
+.tier-bronze h3 {
+  color: #8b5e3c;
+}
+.tier-network h3 {
+  color: #2e7d32;
+}
+
+.dark .tier-hosting h3 {
+  color: #5dade2;
+}
+.dark .tier-gold h3 {
+  color: #f0c75e;
+}
+.dark .tier-bronze h3 {
+  color: #d4a373;
+}
+.dark .tier-network h3 {
+  color: #81c784;
+}
+
+@media (prefers-color-scheme: dark) {
+  .tier-hosting h3 {
+    color: #5dade2;
+  }
+  .tier-gold h3 {
+    color: #f0c75e;
+  }
+  .tier-bronze h3 {
+    color: #d4a373;
+  }
+  .tier-network h3 {
+    color: #81c784;
+  }
+}
+
+.sponsor-tier img {
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  width: auto;
+  object-fit: contain;
+}
+
+.tier-hosting img {
+  max-width: 300px;
+  max-height: 125px;
+}
+
+.tier-gold img {
+  max-width: 225px;
+  max-height: 94px;
+}
+
+.tier-bronze img {
+  max-width: 150px;
+  max-height: 63px;
+}
+
+.tier-network img {
+  max-width: 100px;
+  max-height: 44px;
+}
+
+.sponsor-showcase .logo-light {
+  display: block;
+}
+
+.sponsor-showcase .logo-dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sponsor-showcase .logo-light {
+    display: none;
+  }
+  .sponsor-showcase .logo-dark {
+    display: block;
+  }
+}
+
+.dark .sponsor-showcase .logo-light {
+  display: none;
+}
+
+.dark .sponsor-showcase .logo-dark {
+  display: block;
+}
+
 /* ── Schedule table ───────────────────────────────────────────────── */
 
 .schedule-table th {
@@ -536,5 +716,41 @@ footer.article-grid {
 @media (prefers-color-scheme: dark) {
   .schedule-table th {
     background-color: #1e3a5f !important;
+  }
+}
+
+/* ── Table captions (services page) ─────────────────────────────── */
+
+table caption,
+figcaption,
+.table-caption,
+[class*="TableCaption"],
+.caption-text {
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  caption-side: top;
+  text-align: left;
+  padding-bottom: 0.5rem;
+}
+
+/* ── Speaker bio (talk pages) ────────────────────────────────────── */
+
+.speaker-bio {
+  overflow: auto;
+}
+
+.speaker-bio-img {
+  float: left;
+  width: 150px;
+  height: auto;
+  margin: 0 1.5rem 1rem 0 !important;
+  border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+  .speaker-bio-img {
+    float: none !important;
+    display: block;
+    margin: 0 auto 1rem auto !important;
   }
 }
