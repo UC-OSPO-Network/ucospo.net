@@ -25,7 +25,7 @@ Fernando Perez is an Associate Professor of Statistics at UC Berkeley, a faculty
 :::{div}
 :class: speaker-bio
 
-```{image} ./speaker-headshots/sahiba-chopra.png
+```{image} ./speaker-headshots/sahiba-chopra.jpg
 :alt: Sahiba Chopra
 :class: speaker-bio-img
 ```
