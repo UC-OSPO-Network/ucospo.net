@@ -1,5 +1,5 @@
 ---
-title: "Teaching and Mentoring Open Source"
+title: "Open Practices for Education and Training"
 ---
 
 ## Abstract
