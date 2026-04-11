@@ -85,8 +85,24 @@ This project uses [pre-commit](https://pre-commit.com) with:
 - **[Black](https://black.readthedocs.io)** — Python code formatting
 - **[codespell](https://github.com/codespell-project/codespell)** — catches common typos
 
-If you push without running pre-commit locally, the `pre-commit.ci` bot will check
-your PR automatically. See [CONTRIBUTING.md](CONTRIBUTING.md) for usage details.
+If you push without running pre-commit locally, the `pre-commit.ci` bot will check your PR automatically. See [CONTRIBUTING.md](CONTRIBUTING.md) for usage details.
+
+## CI and deployment
+
+The site is deployed to [GitHub Pages](https://pages.github.com) via GitHub Actions.
+
+**On push to `main`:** the site is built, checked (linkinator + pa11y-ci), and deployed to the `gh-pages` branch.
+
+**On pull requests:** the same build and checks run. Branch PRs also get a deploy preview at `ucospo.net/pr-preview/pr-<number>/` (fork PRs get the build check but not the preview).
+
+CI checks that run on every PR:
+
+| Check              | Tool                                                       | What it catches                                   |
+| ------------------ | ---------------------------------------------------------- | ------------------------------------------------- |
+| Build              | MyST                                                       | Broken Markdown, missing files, config errors     |
+| Links              | [linkinator](https://github.com/JustinBeckwith/linkinator) | Broken internal and external links                |
+| Accessibility      | [pa11y-ci](https://github.com/pa11y/pa11y-ci)              | WCAG 2.1 AA violations (contrast, alt text, etc.) |
+| Linting/formatting | [pre-commit.ci](https://pre-commit.ci)                     | Formatting, Markdown structure, typos             |
 
 ## Contributing
 
