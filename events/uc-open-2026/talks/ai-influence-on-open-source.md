@@ -32,7 +32,7 @@ Fernando Perez is an Associate Professor of Statistics at UC Berkeley, a faculty
 
 ### Sahiba Chopra | UC Berkeley
 
-Sahiba Chopra is a PhD candidate in the Management of Organizations group at UC Berkeley Haas School of Business and a Data Science Fellow at the D-Lab. Her research interests lie at the crossroads of technology, innovation, and the labor market, and she is currently exploring questions about how generative AI might transform workplace collaboration. She has a diverse professional background as a data scientist across industries including fintech, cleantech, and media, and holds a BA in Economics and Chinese from the University of Maryland and an MS in Applied Economics from the University of San Francisco.
+Sahiba Chopra is a PhD candidate at the UC Berkeley Haas School of Business, where she studies the future of work and how new technologies change the way work is created, interpreted, and valued. Her research examines how AI is reshaping the evaluation of work, particularly how people make sense of quality, effort, and expertise when AI enters the production process. Before beginning her PhD, she worked as a data scientist across clean tech, fintech, and other industries, experiences that continue to shape the questions she asks about organizations and technological change.
 
 :::
 
