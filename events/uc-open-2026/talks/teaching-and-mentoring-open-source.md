@@ -4,7 +4,7 @@ title: "Teaching and Mentoring Open Source"
 
 ## Abstract
 
-_Details coming soon._
+Teaching and mentorship offer two complementary pathways into open source for new contributors, helping both to sustain projects over time and to broaden who is participating in them. This talk will offer a broad overview of faculty efforts to teach open source in the classroom, plus mentorship programs housed within and beyond universities. We'll share specific examples of what an open source course or mentorship program can look like, and the impact on students who participate in them. We'll also provide pointers to relevant communities and resources for those wishing to try these approaches themselves.
 
 ---
 
