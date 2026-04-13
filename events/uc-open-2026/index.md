@@ -124,7 +124,8 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 11:00–11:50
   - **Panel: Understanding Open Source Pathways—A Review of NSF POSE Funded Projects across the UC System**
 
-    Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew Kahng (UCSD), Stephanie Lieggi (UCSC), Sanjit Seshia (UC Berkeley)
+Chaired by Amber Budden (UCSB)\
+Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew Kahng (UCSD), Stephanie Lieggi (UCSC), Sanjit Seshia (UC Berkeley)
 * - 11:50–12:30
   - **Keynote:** Nithya Ruff (Linux Foundation)—*[The Role of Foundations In Advancing Open Collaboration and Innovation](./talks/role-of-foundations-in-open-source.md)*
 * - 12:30–2:00
@@ -138,7 +139,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 2:15–2:30 *[From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching](./talks/sustainable-jupyterhub-infrastructure.md)*—Shane Knapp & Eric Van Dusen (UC Berkeley)
     - 2:30–2:45 *[Open Practices for Education and Training](./talks/open-practices-for-education-and-training.md)*—Emily Lovell (UCSC)
     - 2:45–3:00 *[Open Source Adaptive Tutoring for UC STEM](./talks/open-source-adaptive-tutoring-for-uc-stem.md)*—Ioannis Anastasopoulos & Zachary Pardos (UC Berkeley)
-    - 3:00–3:45 *Facilitated Discussion*
+    - 3:00–3:45 *Facilitated Discussion moderated by Laura Langdon (UC OSPO Network)* 
 
     **Breakout 2: Open Source Tools for Scientific Research**
 
@@ -146,7 +147,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 2:15–2:30 *[Jupyter Book: Next-generation Tools for Creating Computational Narratives](./talks/jupyter-book-next-gen-tools.md)*—Chris Holdgraf (2i2c)
     - 2:30–2:45 *[From Silos to Standards: Open Data Modeling with LinkML](./talks/from-silos-to-standards-linkml.md)*—Nomi Harris (LBNL)
     - 2:45–3:00 *[Reflections on Building a High-Performance Open Source Microarchitectural Simulation Framework](./talks/open-source-microarchitectural-simulation.md)*—Heiner Litz (UCSC)
-    - 3:00–3:45 *Facilitated Discussion*
+    - 3:00–3:45 *Facilitated Discussion moderated by James Davis (UCSC)*
 * - 3:45–4:00
   - Break & Networking
 * - 4:00–4:45
@@ -171,7 +172,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 10:00–10:50
   - **Panel: Influence of AI on Open Source and Open Scholarship**
 
-    Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis), Tara Hernandez (UCSC), Ilkay Altintas (UCSD)
+    Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis), Tara Hernandez (MongoDB/UCSC) 
 * - 10:50–11:10
   - Break & Networking
 * - 11:10–12:25
@@ -180,7 +181,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 11:10–11:25 *[Hidden in Plain Sight: Discovering the University of California Open Source Landscape](./talks/hidden-in-plain-sight-uc-open-source-landscape.md)*—Juanita Gomez (UCSC)
     - 11:25–11:40 *[More Than Just Storage: Support for Open Scholarship through Campus Collaborations](./talks/more-than-just-storage.md)*—Sam Teplitzky & Anna Sackmann (UC Berkeley)
     - 11:40–11:55 *[A Funder's Perspective on Promoting Best Practices in Data Sharing and Management](./talks/best-practices-data-sharing-and-management.md)*—Alden Conner (CIRM)
-    - 12:00–12:25 *Facilitated Discussion*
+    - 12:00–12:25 *Facilitated Discussion moderated by Renea Davis-Leathers (UCOP)*
 
     **Breakout 2: Building Open Source and Open Science Ecosystems**
 
@@ -199,7 +200,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 2:00–2:15 *TBA*
     - 2:15–2:30 *[Building Tools for Police Accountability](./talks/building-tools-for-police-accountability.md)*—Tarak Shah (UC Berkeley / BIDS)
     - 2:30–2:45 *TBA*
-    - 2:50–3:15 *Facilitated Discussion*
+    - 2:50–3:15 *Facilitated Discussion moderated by Virginia Scarlett (UCSB)*
 
     **Breakout 2: Open Infrastructure for Collaborative Research**
 
@@ -207,7 +208,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 2:00–2:15 *[PeerSky in Academia: Create, Publish, and Share Research Without the Cloud](./talks/peersky-in-academia.md)*—Akhilesh Thite (UCSC)
     - 2:15–2:30 *[TRACE: Open Provenance Infrastructure for AI-Assisted Research](./talks/who-did-the-thinking.md)*—Oliver Muellerklein (UC Berkeley)
     - 2:30–2:45 *[Developing Environmental Wireless Sensor Networks with TockOS](./talks/environmental-wireless-sensor-networks-tockos.md)*—John Madden, Colleen Josephson, Jack Lin & Alec Levy (UCSC)
-    - 2:50–3:15 *Facilitated Discussion*
+    - 2:50–3:15 *Facilitated Discussion moderated by Peter Brantley (UCD)*
 * - 3:20–4:00
   - **Keynote:** Kevin Esterling (UC Riverside)—*[Open Source AI and the Public Sphere: Two Paradoxes](./talks/open-source-ai-public-sphere.md)*
 * - 4:00–4:15
