@@ -22,8 +22,8 @@ In this talk, we will briefly outline best practices for data modeling; introduc
 :class: speaker-bio-img
 ```
 
-### Nomi L. Harris
+### Nomi Harris | [Berkeley BOP](https://berkeleybop.org/people/nomi-harris/)
 
-Nomi Harris is the Program Manager for the Berkeley Bioinformatics Open-Source Projects group (BBOP) at LBNL. She works to coordinate a portfolio of large multi-institution bioinformatics-related projects and ensure smooth operation and clear communication between collaborators and with the public. Nomi has a M.S. in computer science from MIT and a long history in bioinformatics, starting as a software developer and transitioning into scientific project management and communication. For many years, Nomi has chaired the annual Bioinformatics Open Source Conference (BOSC). She is also a board member of the Open Bioinformatics Foundation, a non-profit group that promotes open-source software development and open science within the biological research community.
+Nomi Harris is the Program Manager for the Berkeley Bioinformatics Open-Source Projects group at the Lawrence Berkeley National Laboratory, led by Chris Mungall. In this role, she coordinates an extensive portfolio of large multi-institution open-source projects. Nomi was one of the co-founders of the annual Bioinformatics Open Source Conference (BOSC), now in its 27th year; she has been chairing BOSC since 2011. She is also the Vice President of the Open Bioinformatics Foundation, which promotes open-source software development and open science within the biological research community. Nomi has a M.S. in computer science from MIT and a long history in bioinformatics, starting as a software developer and transitioning into scientific project management and communication. In her spare time, she fosters kittens (141 so far--yes, of course she has a spreadsheet).
 
 :::

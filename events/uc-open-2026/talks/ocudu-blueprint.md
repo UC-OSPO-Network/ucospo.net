@@ -26,7 +26,7 @@ The session will conclude with a recipe for how this collaborative framework cre
 :class: speaker-bio-img
 ```
 
-### Ranny Haiby | The Linux Foundation
+### Ranny Haiby | [The Linux Foundation](https://lfnetworking.org)
 
 Ranny Haiby serves as the Chief Technology Officer (CTO) for Networking, Edge, and Access at the Linux Foundation, where he drives technical innovation and fosters synergies across critical open-source projects. A software industry veteran with over two decades of experience, Haiby specializes in network automation, cloud-native transformation, and the intersection of open standards and open-source software. Prior to joining the Linux Foundation in 2022, he held senior leadership roles including Director of Open Source at Samsung Research America and Distinguished Member of the Technical Staff at Nokia.
 

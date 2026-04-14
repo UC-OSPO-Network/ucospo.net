@@ -20,7 +20,7 @@ In this talk, I'll cover the key differentiating ideas driving Jupyter Book and 
 :class: speaker-bio-img
 ```
 
-### Chris Holdgraf | 2i2c (2i2c.org)
+### Chris Holdgraf | [2i2c](https://2i2c.org) | [chrisholdgraf.com](https://chrisholdgraf.com)
 
 Chris is the Executive Director of 2i2c. He is on the Jupyter Executive Council as well as the Jupyter Foundation Board. He has been a co-lead of several projects within the Jupyter ecosystem for over ten years (particularly the JupyterHub and Binder projects, as well as the Jupyter Book project). He's interested in the boundary between technology, open-source software, and research and education workflows, as well as how open communities can support and extend these workflows to make science more impactful and inclusive.
 
