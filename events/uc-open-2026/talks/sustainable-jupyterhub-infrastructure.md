@@ -18,7 +18,7 @@ Building on this foundation, UC Berkeley is now extending the model through coll
 :class: speaker-bio-img
 ```
 
-### Shane Knapp
+### Shane Knapp | UC Berkeley
 
 Shane Knapp is a Staff Computing Engineer at UC Berkeley and technical lead for Cal-ICOR (California Interactive Computing Open Resource), a UC Berkeley-led initiative that brings cloud-hosted JupyterHub environments and data science curricula to public colleges and universities across California. Cal-ICOR has grown to nearly 20 partner institutions spanning UC, CSU, and community college campuses, delivering browser-based, zero-install computing access to students regardless of device or financial background. This work builds on his experience running the UC Berkeley DataHub, a Kubernetes-based JupyterHub deployment on Google Cloud serving 15,000 students per semester across 60+ courses. Shane contributes to upstream open-source projects including JupyterHub, KubeSpawner, and repo2docker, and is a recognized voice in the Jupyter community. He is committed to the principle that scalable, equitable access to computational tools should be open, free, and available to every student.
 
@@ -32,7 +32,7 @@ Shane Knapp is a Staff Computing Engineer at UC Berkeley and technical lead for 
 :class: speaker-bio-img
 ```
 
-### Eric Van Dusen
+### Eric Van Dusen | UC Berkeley
 
 Eric Van Dusen has spent the past eight years helping build UC Berkeley's Data Science undergraduate major, designing courses and training faculty to incorporate interactive computing into their teaching. He serves on the campus-wide JupyterHub infrastructure steering committee and co-leads both the National Workshop on Data Science Education and the California Alliance for Data Science Education. Eric also leads initiatives supporting Community Colleges in Data Science education through curriculum development, professional development, and JupyterHub deployment. His own teaching focuses on the intersection of Economics and Data Science, where he developed Data 88E and ECON 148, and on teaching open science practices to honors thesis students. He is currently building introductory curriculum on LLMs.
 
