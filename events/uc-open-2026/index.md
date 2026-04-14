@@ -139,7 +139,7 @@ Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew K
     - 2:15–2:30 *[From Deployment to Ecosystem: Building Sustainable JupyterHub Infrastructure for Research and Teaching](./talks/sustainable-jupyterhub-infrastructure.md)*—Shane Knapp & Eric Van Dusen (UC Berkeley)
     - 2:30–2:45 *[Open Practices for Education and Training](./talks/open-practices-for-education-and-training.md)*—Emily Lovell (UCSC)
     - 2:45–3:00 *[Open Source Adaptive Tutoring for UC STEM](./talks/open-source-adaptive-tutoring-for-uc-stem.md)*—Ioannis Anastasopoulos & Zachary Pardos (UC Berkeley)
-    - 3:00–3:45 *Facilitated Discussion moderated by Laura Langdon (UC OSPO Network)* 
+    - 3:00–3:45 *Facilitated Discussion moderated by Laura Langdon (UC OSPO Network)*
 
     **Breakout 2: Open Source Tools for Scientific Research**
 
@@ -172,7 +172,7 @@ Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew K
 * - 10:00–10:50
   - **Panel: Influence of AI on Open Source and Open Scholarship**
 
-    Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis), Tara Hernandez (MongoDB/UCSC) 
+    Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis), Tara Hernandez (MongoDB/UCSC)
 * - 10:50–11:10
   - Break & Networking
 * - 11:10–12:25
