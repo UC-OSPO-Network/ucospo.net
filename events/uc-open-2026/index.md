@@ -124,8 +124,8 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 11:00–11:50
   - **Panel: Understanding Open Source Pathways—A Review of NSF POSE Funded Projects across the UC System**
 
-Chaired by Amber Budden (UCSB)\
-Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew Kahng (UCSD), Stephanie Lieggi (UCSC), Sanjit Seshia (UC Berkeley)
+    Chaired by Amber Budden (UCSB)\
+    Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew Kahng (UCSD), Stephanie Lieggi (UCSC), Sanjit Seshia (UC Berkeley)
 * - 11:50–12:30
   - **Keynote:** Nithya Ruff (Linux Foundation)—*[The Role of Foundations In Advancing Open Collaboration and Innovation](./talks/role-of-foundations-in-open-source.md)*
 * - 12:30–2:00
