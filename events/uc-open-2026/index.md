@@ -138,7 +138,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 2:45–3:00 *[Open Source Adaptive Tutoring for UC STEM](./talks/open-source-adaptive-tutoring-for-uc-stem.md)*—Ioannis Anastasopoulos & Zachary Pardos (UC Berkeley)
     - 3:00–3:45 *Facilitated Discussion moderated by Laura Langdon (UC OSPO Network)*
 
-  **Breakout 2: Open Source Tools for Scientific Research**
+    **Breakout 2: Open Source Tools for Scientific Research**
     - 2:00–2:15 *[Unmapped Cities: Scaling Pedestrian Infrastructure Mapping with Tile2Net](./talks/unmapped-cities.md)*—Maryam Hosseini (UC Berkeley)
     - 2:15–2:30 *[Jupyter Book: Next-generation Tools for Creating Computational Narratives](./talks/jupyter-book-next-gen-tools.md)*—Chris Holdgraf (2i2c)
     - 2:30–2:45 *[From Silos to Standards: Open Data Modeling with LinkML](./talks/from-silos-to-standards-linkml.md)*—Nomi Harris (LBNL)
