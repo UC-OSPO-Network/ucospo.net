@@ -1,0 +1,11 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      - image: cimg/python:3.14
+    steps:
+      - run:
+          name: Build website
+          command: make html
+      - store_artifacts:
+          path: _build/html/
