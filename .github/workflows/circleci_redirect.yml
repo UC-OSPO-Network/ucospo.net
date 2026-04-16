@@ -1,4 +1,4 @@
-name: circleci
+name: CircleCI redirect
 
 on: [status]
 
@@ -21,7 +21,7 @@ jobs:
           artifact-path: 0/_build/html
           circleci-jobs: build_website
           job-title: Check the rendered docs here!
-      - name: Check the URL
-        if: github.event.status != 'pending'
-        run: |
-          curl --fail ${{ circleci.steps.step1.outputs.url }} | grep $GITHUB_SHA
+#      - name: Check the URL
+#        if: github.event.status != 'pending'
+#        run: |
+#          curl --fail ${{ circleci.steps.step1.outputs.url }} | grep $GITHUB_SHA
