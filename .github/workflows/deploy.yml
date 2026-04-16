@@ -55,5 +55,5 @@ jobs:
           folder: _build/html
           repository-name: UC-OSPO-Network/uc-OSPO-Network.github.io
           branch: main
-          target-folder: latest
+          target-folder: .
           ssh-key: true
