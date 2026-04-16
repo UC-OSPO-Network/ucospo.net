@@ -1,0 +1,756 @@
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/atkinson-hyperlegible-latin-400-normal.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/atkinson-hyperlegible-latin-700-normal.woff2")
+    format("woff2");
+}
+
+body {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+}
+
+/* UC brand colors */
+:root {
+  --pst-color-primary: #003cb3;
+  --pst-color-link: #003cb3;
+  --pst-color-link-hover: #ff9100;
+}
+
+/* Ensure navbar dropdowns appear above page content */
+.navbar {
+  position: relative;
+  z-index: 1000;
+}
+
+/* Match Hugo pydata-sphinx-theme body/prose styles */
+html {
+  line-height: 1.65;
+}
+
+/* Extra breathing room before section headings.
+   Tailwind prose resets margin-top:0 on h2+* siblings,
+   so we use padding-top which can't be collapsed. */
+.article h2 {
+  padding-top: 1.5rem;
+}
+
+.article h3 {
+  padding-top: 1rem;
+}
+
+/* Override Tailwind Typography prose variables to match Hugo */
+.article {
+  --tw-prose-links: #003cb3;
+  --tw-prose-body: #222832;
+}
+
+/* Link color and weight (.article a beats .article :where(a) in specificity) */
+.article a {
+  font-weight: 400;
+  color: #003cb3;
+}
+
+.article a:hover {
+  color: #ff9100;
+}
+
+.dark .article a {
+  color: #7ab3ff;
+}
+
+.dark .article a:hover {
+  color: #ff9100;
+}
+
+/* Strong weight: Hugo/browser default 700, book-theme Tailwind uses 600 */
+.article strong {
+  font-weight: 700;
+}
+
+/* List indentation: Hugo uses 2rem, book-theme Tailwind uses 1.625em */
+.article ul,
+.article ol {
+  padding-inline-start: 2rem;
+}
+
+/* ── UCSB campus pages ─────────────────────────────────────────── */
+
+/* Panel background variables */
+:root {
+  --ucsb-panel1-bg: #e9e6e2;
+  --ucsb-panel2-bg: #dcd6cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ucsb-panel1-bg: #3e3636;
+    --ucsb-panel2-bg: #1b2b34;
+  }
+}
+
+.ucsb-panel-light {
+  clear: both;
+  margin: 1.5rem 0;
+}
+
+.ucsb-panel-dark {
+  margin: 1.5rem 0;
+}
+
+.ucsb-panel-light .myst-card {
+  background-color: var(--ucsb-panel1-bg);
+  border-color: var(--ucsb-panel1-bg);
+}
+
+.ucsb-panel-dark .myst-card {
+  background-color: var(--ucsb-panel2-bg);
+  border-color: var(--ucsb-panel2-bg);
+}
+
+.suspb-image {
+  float: left;
+  width: 250px;
+  height: auto;
+  margin: 0 2rem 1rem 0 !important;
+  object-fit: contain;
+}
+
+.ucsb-clearfix {
+  overflow: auto;
+  margin-bottom: 2rem;
+}
+
+.ucsb-thumbnail-wrapper {
+  float: left;
+  width: 170px;
+  text-align: center;
+  margin: 0 1rem 1rem 0;
+}
+
+.ucsb-thumbnail-img {
+  width: 150px;
+  height: 249px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* https://webaim.org/techniques/css/invisiblecontent/ */
+.screen-reader-only {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+}
+
+.ucsb-hero-img {
+  width: 100%;
+  height: auto;
+}
+
+.ucsb-hero-caption {
+  font-size: 0.5rem;
+  margin-top: 0;
+}
+
+@media screen and (max-width: 480px) {
+  .suspb-image {
+    min-width: 100px !important;
+    width: 100% !important;
+    height: auto !important;
+    margin-left: 0 !important;
+  }
+}
+
+.ospo-img {
+  float: right;
+  width: 180px;
+  margin: 0 0 1em 1em;
+}
+
+.ospo-img img {
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .ospo-img {
+    float: none !important;
+    display: block;
+    margin: 0 auto 1em auto;
+    width: 180px !important;
+  }
+}
+
+/* UC brand buttons */
+.btn-ucsb-primary {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #003660;
+  color: white !important;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  font-family: sans-serif;
+}
+
+.btn-ucsb-primary:hover {
+  background-color: #005799;
+  color: white !important;
+  text-decoration: none;
+}
+
+.btn-ucsb-secondary {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #ffffff;
+  color: black !important;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  border: 2px solid #003660;
+  font-family: sans-serif;
+}
+
+.btn-ucsb-secondary:hover {
+  background-color: #dce1e5;
+  color: black !important;
+  text-decoration: none;
+}
+
+.btn-center-wrapper {
+  clear: both;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ucsb-float-right {
+  float: right;
+  width: 360px;
+  margin: 0 0 1em 1em;
+}
+
+.ucsb-float-right img {
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .ucsb-float-right {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 0 1em 0 !important;
+  }
+}
+
+/* Sticky footer: body fills viewport, main grows, footer stays at bottom */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main.article-grid {
+  flex: 1 0 auto;
+}
+
+article.content {
+  min-height: unset;
+}
+
+/* ── Footer ────────────────────────────────────────────────────────── */
+
+/* Neutralize the book-theme <footer> wrapper (py-10, mt-10, shadow, bg-white)
+   so .uco-footer controls the footer appearance in both dev and static builds */
+footer.article-grid {
+  padding: 0 !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+.uco-footer {
+  background-color: #f5f5f5;
+  border-top: 1px solid #e0e0e0;
+  margin: 0 !important;
+  padding: 0.6rem 1rem;
+  align-items: center;
+  color: #333333; /* 12.6:1 contrast on #f5f5f5 — WCAG AAA */
+}
+
+@media (prefers-color-scheme: dark) {
+  .uco-footer {
+    color: inherit;
+    background-color: #1e1e1e;
+    border-top-color: #333;
+  }
+}
+
+.uco-footer-brand {
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+}
+
+.uco-footer-brand img {
+  height: auto;
+  width: 100%;
+  max-width: 360px;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+.uco-logo-light {
+  display: none;
+}
+
+@media (prefers-color-scheme: light) {
+  .uco-logo-dark {
+    display: none;
+  }
+  .uco-logo-light {
+    display: block;
+  }
+}
+
+.uco-footer-social {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 1rem;
+}
+
+/* Icons live inside a <p> — make it a flex row */
+.uco-footer-social p {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  margin: 0;
+}
+
+.uco-footer-social a {
+  display: inline-flex;
+  align-items: center;
+  opacity: 0.65;
+  text-decoration: none;
+}
+
+.uco-footer-social a:hover {
+  opacity: 1;
+  text-decoration: none;
+}
+
+.uco-footer-social img {
+  height: 28px;
+  width: 28px;
+  max-height: none !important;
+  display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+  .uco-footer-social img {
+    filter: invert(1);
+  }
+}
+
+[data-theme="dark"] .uco-footer-social img,
+.dark .uco-footer-social img {
+  filter: invert(1);
+}
+
+/* ── Register button ──────────────────────────────────────────── */
+
+.register-btn a {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background-color: #003cb3;
+  color: #ffffff !important;
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 6px;
+  letter-spacing: 0.02em;
+  transition: background-color 0.2s ease;
+}
+
+.register-btn a:hover {
+  background-color: #ff9100;
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+.dark .register-btn a {
+  background-color: #7ab3ff;
+  color: #1a1a2e !important;
+}
+
+.dark .register-btn a:hover {
+  background-color: #ff9100;
+  color: #ffffff !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .register-btn a {
+    background-color: #7ab3ff;
+    color: #1a1a2e !important;
+  }
+  .register-btn a:hover {
+    background-color: #ff9100;
+    color: #ffffff !important;
+  }
+}
+
+/* ── Centered mermaid diagrams ─────────────────────────────────── */
+
+.mermaid-centered {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.mermaid-centered > * {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Ensure mermaid flowchart node text is readable */
+.mermaid-centered .nodeLabel p {
+  color: #222 !important;
+}
+
+/* ── Blog cards ─────────────────────────────────────────────────── */
+
+.blog-cards .myst-card {
+  border-top: 3px solid #003cb3;
+  transition: box-shadow 0.2s ease;
+}
+
+.blog-cards .myst-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 60, 179, 0.15);
+}
+
+/* Body text: override link color inherited from <a> card wrapper */
+.blog-cards .myst-card-body p {
+  color: #222832 !important;
+}
+
+.dark .blog-cards .myst-card-body p {
+  color: #e0e0e0 !important;
+}
+
+/* Muted footer date */
+.blog-cards .myst-card-footer p {
+  color: #222832;
+  opacity: 0.6;
+  font-size: 0.85rem;
+}
+
+.dark .blog-cards .myst-card-footer p {
+  color: #e0e0e0;
+}
+
+/* Uniform thumbnail height */
+.blog-cards .myst-card-body img {
+  max-height: 80px;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+/* ── Speaker cards ─────────────────────────────────────────────────── */
+
+.speaker-cards {
+  padding-bottom: 2rem;
+}
+
+.speaker-cards .myst-card {
+  border-top: 3px solid #003cb3;
+  background-color: #f0f4fa;
+  text-align: center;
+}
+
+.speaker-cards .myst-card img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 50%;
+}
+
+.dark .speaker-cards .myst-card {
+  background-color: #1e3a5f;
+}
+
+@media (prefers-color-scheme: dark) {
+  .speaker-cards .myst-card {
+    background-color: #1e3a5f;
+  }
+}
+
+/* ── Sponsor table ────────────────────────────────────────────────── */
+
+.sponsor-table {
+  padding-bottom: 2rem;
+}
+
+.sponsor-table figcaption {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #222832;
+  text-align: center;
+  margin-bottom: 0.75rem;
+}
+
+.dark .sponsor-table figcaption {
+  color: #7ab3ff;
+}
+
+.sponsor-table table {
+  table-layout: fixed !important;
+  width: 100% !important;
+}
+
+.sponsor-table th {
+  text-align: center !important;
+  width: 25% !important;
+  background-color: #fff3e0 !important;
+  border-bottom: 2px solid #ff9100 !important;
+}
+
+.dark .sponsor-table th {
+  background-color: #4a3518 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sponsor-table th {
+    background-color: #4a3518 !important;
+  }
+}
+
+.sponsor-table td {
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+.sponsor-table img {
+  max-width: 120px !important;
+  max-height: 60px !important;
+  width: auto !important;
+  height: auto !important;
+  margin: 0 auto !important;
+  object-fit: contain !important;
+  display: block;
+}
+
+.sponsor-table .logo-light {
+  display: block;
+}
+
+.sponsor-table .logo-dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sponsor-table .logo-light {
+    display: none;
+  }
+  .sponsor-table .logo-dark {
+    display: block;
+  }
+}
+
+.dark .sponsor-table .logo-light {
+  display: none;
+}
+
+.dark .sponsor-table .logo-dark {
+  display: block;
+}
+
+/* ── Sponsor showcase (vertically stacked, size-differentiated) ──── */
+
+.sponsor-showcase {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.sponsor-tier {
+  margin-bottom: 2rem;
+}
+
+.sponsor-tier h3 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.75rem;
+}
+
+.tier-hosting h3 {
+  color: #1a5276;
+}
+.tier-gold h3 {
+  color: #9b6e00; /* meets WCAG 2.1 AA contrast ratio (4.54:1 on white) */
+}
+.tier-bronze h3 {
+  color: #8b5e3c;
+}
+.tier-network h3 {
+  color: #2e7d32;
+}
+
+.dark .tier-hosting h3 {
+  color: #5dade2;
+}
+.dark .tier-gold h3 {
+  color: #f0c75e;
+}
+.dark .tier-bronze h3 {
+  color: #d4a373;
+}
+.dark .tier-network h3 {
+  color: #81c784;
+}
+
+@media (prefers-color-scheme: dark) {
+  .tier-hosting h3 {
+    color: #5dade2;
+  }
+  .tier-gold h3 {
+    color: #f0c75e;
+  }
+  .tier-bronze h3 {
+    color: #d4a373;
+  }
+  .tier-network h3 {
+    color: #81c784;
+  }
+}
+
+.sponsor-tier img {
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  width: auto;
+  object-fit: contain;
+}
+
+.tier-hosting img {
+  max-width: 300px;
+  max-height: 125px;
+}
+
+.tier-gold img {
+  max-width: 225px;
+  max-height: 94px;
+}
+
+.tier-bronze img {
+  max-width: 150px;
+  max-height: 63px;
+}
+
+.tier-network img {
+  max-width: 100px;
+  max-height: 44px;
+}
+
+.sponsor-showcase .logo-light {
+  display: block;
+}
+
+.sponsor-showcase .logo-dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sponsor-showcase .logo-light {
+    display: none;
+  }
+  .sponsor-showcase .logo-dark {
+    display: block;
+  }
+}
+
+.dark .sponsor-showcase .logo-light {
+  display: none;
+}
+
+.dark .sponsor-showcase .logo-dark {
+  display: block;
+}
+
+/* ── Schedule table ───────────────────────────────────────────────── */
+
+.schedule-table th {
+  background-color: #e8eef8 !important;
+  border-bottom: 2px solid #003cb3 !important;
+  text-align: center !important;
+}
+
+.schedule-table td {
+  text-align: center !important;
+}
+
+.dark .schedule-table th {
+  background-color: #1e3a5f !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .schedule-table th {
+    background-color: #1e3a5f !important;
+  }
+}
+
+/* ── Table captions (services page) ─────────────────────────────── */
+
+table caption,
+figcaption,
+.table-caption,
+[class*="TableCaption"],
+.caption-text {
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  caption-side: top;
+  text-align: left;
+  padding-bottom: 0.5rem;
+}
+
+/* ── Speaker bio (talk pages) ────────────────────────────────────── */
+
+.speaker-bio {
+  overflow: auto;
+}
+
+.speaker-bio-img {
+  float: left;
+  width: 150px;
+  height: auto;
+  margin: 0 1.5rem 1rem 0 !important;
+  border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+  .speaker-bio-img {
+    float: none !important;
+    display: block;
+    margin: 0 auto 1rem auto !important;
+  }
+}
