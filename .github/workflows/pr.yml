@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build-and-preview:
+  build-and-check:
     if: github.event.action != 'closed'
     runs-on: ubuntu-latest
     steps:
