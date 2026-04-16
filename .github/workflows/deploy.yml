@@ -42,7 +42,6 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.CI_DEPLOY_KEY }}
 
-
       - name: Build website
         if: github.ref == 'refs/heads/main'
         run: make html

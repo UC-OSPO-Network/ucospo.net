@@ -1,3 +1,5 @@
+name: CircleCI redirect
+
 on: [status]
 
 permissions: read-all
