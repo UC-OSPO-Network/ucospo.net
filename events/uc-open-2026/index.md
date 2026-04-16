@@ -172,6 +172,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 10:00–10:50
   - **Panel: Influence of AI on Open Source and Open Scholarship**
 
+    Chaired by Leilani Gilpin (UCSC)\
     Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis), Tara Hernandez (MongoDB/UCSC)
 * - 10:50–11:10
   - Break & Networking
@@ -188,7 +189,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 11:10–11:25 *[The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation](./talks/ocudu-blueprint.md)*—Ranny Haiby (Linux Foundation)
     - 11:25–11:40 *[Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects](./talks/open-science-assistant.md)*—Seyed Yahya Shirazi (UCSD)
     - 11:40–11:55 *[Using Continuous Integration to Ensure Accessible Experiences](./talks/continuous-integration-accessible-experiences.md)*—Michael Ball & Silas Santini (UC Berkeley)
-    - 12:00–12:25 *Facilitated Discussion*
+    - 12:00–12:25 *Facilitated Discussion moderated by Emily Lovell (UCSC)*
 * - 12:25–1:45
   - Lunch & Networking
 
