@@ -1,0 +1,25 @@
+on: [status]
+
+permissions: read-all
+
+jobs:
+  circleci_artifacts_redirector_job:
+    runs-on: ubuntu-latest
+    if: "${{ github.event.context == 'ci/circleci: build_website' }}"
+    permissions:
+      statuses: write
+    name: Run CircleCI artifacts redirector
+    steps:
+      - name: GitHub Action step
+        id: step1
+        uses: scientific-python/circleci-artifacts-redirector-action@5d358ff96e96429a5c64a969bb4a574555439f4f # v1.3.1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          api-token: ${{ secrets.CIRCLECI_ARTIFACT_REDIRECTOR_TOKEN }}
+          artifact-path: 0/_build/html
+          circleci-jobs: build_website
+          job-title: Check the rendered docs here!
+      - name: Check the URL
+        if: github.event.status != 'pending'
+        run: |
+          curl --fail ${{ steps.step1.outputs.url }} | grep $GITHUB_SHA
