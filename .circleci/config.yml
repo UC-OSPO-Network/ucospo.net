@@ -4,6 +4,7 @@ jobs:
     docker:
       - image: cimg/python:3.14
     steps:
+      - checkout
       - run:
           name: build_website
           command: make html
