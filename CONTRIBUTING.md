@@ -15,9 +15,9 @@ Thank you for investing your time in contributing to our project!
   - Locally, as follows:
     - Install Node.js v20+ and run `npm install`
     - Run `make serve` (or `npx myst start`)
-  - Via Netlify's "deploy preview":
-    - Create a draft PR
-    - After Netlify finishes running its checks, click "Deploy Preview" in the comment created by the Netlify bot
+  - Via deploy preview (branch PRs only—not available for fork PRs):
+    - Open a PR from a branch in this repo
+    - After CI finishes, a comment will appear with a link to a preview of your changes
 - To check accessibility: run `npm run build` then `npm run check-a11y`. This uses [pa11y-ci](https://github.com/pa11y/pa11y-ci) to test every page against WCAG 2.1 AA.
 - To make sure your code passes linting and formatting checks, you can either:
   - Run `pre-commit run` before committing (or `pre-commit run --all-files` to check everything). This runs Prettier (formatting), markdownlint (structure and accessibility), Black (Python), and codespell (typos).
@@ -98,11 +98,15 @@ Here are some resources to help you get started with open source contributions:
 4.  Review process:
     - Every Pull Request (PR) update triggers a set of [continuous
       integration](https://en.wikipedia.org/wiki/Continuous_integration)
-      services that check that it is up to standards and passes
-      all our tests. These checks must pass before your PR can be
-      merged. If one of the checks fails, you can find out why by
-      clicking on the "failed" icon (red cross) and inspecting the
-      build and test log.
+      checks that must pass before your PR can be merged:
+      - **Build** — confirms the site builds successfully with MyST
+      - **Link check** — [linkinator](https://github.com/JustinBeckwith/linkinator) verifies all internal and external links
+      - **Accessibility** — [pa11y-ci](https://github.com/pa11y/pa11y-ci) tests every page against WCAG 2.1 AA
+      - **Linting/formatting** — pre-commit.ci checks Prettier, markdownlint, Black, and codespell
+
+      If a check fails, click the "failed" icon (red cross) to see the
+      build log and find out what needs fixing.
+
     - If the `pre-commit.ci` test fails, you can usually have the
       pre-commit bot push a fix to your branch by adding a comment on your
       PR with the text `pre-commit.ci autofix`.
