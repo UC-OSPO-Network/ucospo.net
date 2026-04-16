@@ -1,4 +1,4 @@
-name: CircleCI redirect
+name: circleci
 
 on: [status]
 
@@ -24,4 +24,4 @@ jobs:
       - name: Check the URL
         if: github.event.status != 'pending'
         run: |
-          curl --fail ${{ steps.step1.outputs.url }} | grep $GITHUB_SHA
+          curl --fail ${{ circleci.steps.step1.outputs.url }} | grep $GITHUB_SHA
