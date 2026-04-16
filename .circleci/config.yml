@@ -5,7 +5,7 @@ jobs:
       - image: cimg/python:3.14
     steps:
       - run:
-          name: Build website
+          name: build_website
           command: make html
       - store_artifacts:
           path: _build/html/
