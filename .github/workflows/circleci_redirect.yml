@@ -1,3 +1,5 @@
+name: CircleCI redirect
+
 on: [status]
 
 permissions: read-all
@@ -5,7 +7,7 @@ permissions: read-all
 jobs:
   circleci_artifacts_redirector_job:
     runs-on: ubuntu-latest
-    if: "${{ github.event.context == 'ci/circleci: build_website' }}"
+    # if: "${{ github.event.context == 'ci/circleci: build_website' }}"
     permissions:
       statuses: write
     name: Run CircleCI artifacts redirector
