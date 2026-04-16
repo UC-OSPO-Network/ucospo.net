@@ -30,5 +30,7 @@ jobs:
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+         external_repository: UC-OSPO-Network/UC-OSPO-Network.github.io
+          publish_branch: main
           publish_dir: _build/html
           cname: ucospo.net
