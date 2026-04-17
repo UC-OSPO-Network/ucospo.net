@@ -1,0 +1,61 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Prevent parallel deploys if multiple commits are pushed to main in quick
+# succession. The last push wins; earlier runs are cancelled.
+concurrency:
+  group: deploy-pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    # Do not attempt to deploy documentation on forks
+    if: github.repository_owner == 'UC-OSPO-Network'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      # To set up a cross-repository deploy key:
+      # 1. Create a key pair:
+      #   `ssh-keygen -t ed25519 -C "ucospo.net_deploy_bot@nomail"`
+      # 2. Add the public key to the UC-OSPO-Network/UC-OSPO-Network.github.io repo
+      #   - Settings -> Deploy keys -> Add new
+      #   - Make sure the key has write permissions
+      # 3. Add private key as a secret to UC-OSPO-Network/ucospo.net repo
+      #   - Settings -> Secrets -> New Repository Secret
+      #   - Make sure the name is the same as below: CI_DEPLOY_KEY
+      - name: Install SSH agent
+        if: github.ref == 'refs/heads/main'
+        uses: webfactory/ssh-agent@e83874834305fe9a4a2997156cb26c5de65a8555 # v0.10.0
+        with:
+          ssh-private-key: ${{ secrets.CI_DEPLOY_KEY }}
+
+      - name: Build website
+        if: github.ref == 'refs/heads/main'
+        run: |
+          export BASE_URL="/uc-ospo-network.github.io"
+          make html
+
+      - name: Deploy website
+        if: github.ref == 'refs/heads/main'
+        uses: JamesIves/github-pages-deploy-action@releases/v4
+        with:
+          git-config-name: ucospo.net_deploy_bot
+          git-config-email: ucospo.net_deploy_bot@nomail
+          folder: _build/html
+          repository-name: UC-OSPO-Network/uc-OSPO-Network.github.io
+          branch: main
+          target-folder: .
+          ssh-key: true
