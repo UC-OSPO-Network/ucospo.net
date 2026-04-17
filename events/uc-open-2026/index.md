@@ -172,6 +172,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 10:00–10:50
   - **Panel: Influence of AI on Open Source and Open Scholarship**
 
+    Chaired by Leilani Gilpin (UCSC)\
     Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis), Tara Hernandez (MongoDB/UCSC)
 * - 10:50–11:10
   - Break & Networking
@@ -188,7 +189,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 11:10–11:25 *[The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation](./talks/ocudu-blueprint.md)*—Ranny Haiby (Linux Foundation)
     - 11:25–11:40 *[Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects](./talks/open-science-assistant.md)*—Seyed Yahya Shirazi (UCSD)
     - 11:40–11:55 *[Using Continuous Integration to Ensure Accessible Experiences](./talks/continuous-integration-accessible-experiences.md)*—Michael Ball & Silas Santini (UC Berkeley)
-    - 12:00–12:25 *Facilitated Discussion*
+    - 12:00–12:25 *Facilitated Discussion moderated by Emily Lovell (UCSC)*
 * - 12:25–1:45
   - Lunch & Networking
 
@@ -197,7 +198,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
   - **Breakout 1: Open Source Tools for Public Benefit**
 
     - 1:45–2:00 *[An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools](./talks/weather-driven-agricultural-decision-tools.md)*—Andy Lyons (UC ANR)
-    - 2:00–2:15 *TBA*
+    - 2:00–2:15 *[Developing Environmental Wireless Sensor Networks with TockOS](./talks/environmental-wireless-sensor-networks-tockos.md)*—John Madden, Colleen Josephson, Jack Lin & Alec Levy (UCSC)
     - 2:15–2:30 *[Building Tools for Police Accountability](./talks/building-tools-for-police-accountability.md)*—Tarak Shah (UC Berkeley / BIDS)
     - 2:30–2:45 *TBA*
     - 2:50–3:15 *Facilitated Discussion moderated by Virginia Scarlett (UCSB)*
@@ -207,7 +208,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 1:45–2:00 *[Making Jupyter Notebooks Accessible](./talks/making-jupyter-notebooks-accessible.md)*—Balaji Alwar & Chanbin Park (UC Berkeley)
     - 2:00–2:15 *[PeerSky in Academia: Create, Publish, and Share Research Without the Cloud](./talks/peersky-in-academia.md)*—Akhilesh Thite (UCSC)
     - 2:15–2:30 *[TRACE: Open Provenance Infrastructure for AI-Assisted Research](./talks/who-did-the-thinking.md)*—Oliver Muellerklein (UC Berkeley)
-    - 2:30–2:45 *[Developing Environmental Wireless Sensor Networks with TockOS](./talks/environmental-wireless-sensor-networks-tockos.md)*—John Madden, Colleen Josephson, Jack Lin & Alec Levy (UCSC)
+    - 2:30–2:45 *TBA*
     - 2:50–3:15 *Facilitated Discussion moderated by Peter Brantley (UCD)*
 * - 3:20–4:00
   - **Keynote:** Kevin Esterling (UC Riverside)—*[Open Source AI and the Public Sphere: Two Paradoxes](./talks/open-source-ai-public-sphere.md)*
