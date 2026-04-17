@@ -1,10 +1,10 @@
 ---
-title: "Open Source Commercialization and Impact"
+title: "Making a COSS Play"
 ---
 
 ## Abstract
 
-_Details coming soon._
+Interested in commercializing your Open Source Software project? Learn how Commercial Open Source Software works, and what factors impact success. Hear from investors as well as from University Technology Transfer officers about their experiences with COSS.
 
 ---
 

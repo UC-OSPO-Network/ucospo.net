@@ -151,7 +151,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 3:45–4:00
   - Break & Networking
 * - 4:00–4:45
-  - **Panel:** [Open Source Commercialization and Impact](./talks/open-source-commercialization-and-impact.md)
+  - **Panel:** [Making a COSS Play](./talks/making-a-coss-play.md)
 
     Chaired by Karla Padilla (UCSD)\
     Panelists: Heather Meeker (Chinstrap Community), Mike Cohen (UC Berkeley), Dirk Riehle (FAU Erlangen-Nürnberg), Joel Kehle (UCLA)
@@ -182,14 +182,14 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 11:10–11:25 *[Hidden in Plain Sight: Discovering the University of California Open Source Landscape](./talks/hidden-in-plain-sight-uc-open-source-landscape.md)*—Juanita Gomez (UCSC)
     - 11:25–11:40 *[More Than Just Storage: Support for Open Scholarship through Campus Collaborations](./talks/more-than-just-storage.md)*—Sam Teplitzky & Anna Sackmann (UC Berkeley)
     - 11:40–11:55 *[A Funder's Perspective on Promoting Best Practices in Data Sharing and Management](./talks/best-practices-data-sharing-and-management.md)*—Alden Conner (CIRM)
-    - 12:00–12:25 *Facilitated Discussion moderated by Renea Davis-Leathers (UCOP)*
+    - 11:55–12:25 *Facilitated Discussion moderated by Renea Davis-Leathers (UCOP)*
 
     **Breakout 2: Building Open Source and Open Science Ecosystems**
 
     - 11:10–11:25 *[The OCUDU Blueprint: A New Paradigm for Collaboration in Open Source Innovation](./talks/ocudu-blueprint.md)*—Ranny Haiby (Linux Foundation)
     - 11:25–11:40 *[Open Science Assistant (OSA): An Easy-to-Onboard AI Chatbot for Open Source Research Projects](./talks/open-science-assistant.md)*—Seyed Yahya Shirazi (UCSD)
     - 11:40–11:55 *[Using Continuous Integration to Ensure Accessible Experiences](./talks/continuous-integration-accessible-experiences.md)*—Michael Ball & Silas Santini (UC Berkeley)
-    - 12:00–12:25 *Facilitated Discussion moderated by Emily Lovell (UCSC)*
+    - 11:55–12:25 *Facilitated Discussion moderated by Emily Lovell (UCSC)*
 * - 12:25–1:45
   - Lunch & Networking
 
@@ -201,7 +201,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 2:00–2:15 *[Developing Environmental Wireless Sensor Networks with TockOS](./talks/environmental-wireless-sensor-networks-tockos.md)*—John Madden, Colleen Josephson, Jack Lin & Alec Levy (UCSC)
     - 2:15–2:30 *[Building Tools for Police Accountability](./talks/building-tools-for-police-accountability.md)*—Tarak Shah (UC Berkeley / BIDS)
     - 2:30–2:45 *Signal, Matrix, and Breaking Up with Big Tech Surveillance*—Robin Riley
-    - 2:50–3:15 *Facilitated Discussion moderated by Virginia Scarlett (UCSB)*
+    - 2:45–3:15 *Facilitated Discussion moderated by Virginia Scarlett (UCSB)*
 
     **Breakout 2: Open Infrastructure for Collaborative Research**
 
@@ -209,7 +209,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 2:00–2:15 *[PeerSky in Academia: Create, Publish, and Share Research Without the Cloud](./talks/peersky-in-academia.md)*—Akhilesh Thite (UCSC)
     - 2:15–2:30 *[TRACE: Open Provenance Infrastructure for AI-Assisted Research](./talks/who-did-the-thinking.md)*—Oliver Muellerklein (UC Berkeley)
     - 2:30–2:45 *TBA*
-    - 2:50–3:15 *Facilitated Discussion moderated by Peter Brantley (UCD)*
+    - 2:45–3:15 *Facilitated Discussion moderated by Peter Brantley (UCD)*
 * - 3:20–4:00
   - **Keynote:** Kevin Esterling (UC Riverside)—*[Open Source AI and the Public Sphere: Two Paradoxes](./talks/open-source-ai-public-sphere.md)*
 * - 4:00–4:15
