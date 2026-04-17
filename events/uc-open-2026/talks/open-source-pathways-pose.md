@@ -63,3 +63,17 @@ Andrew B. Kahng is Distinguished Professor of CSE and ECE and holder of the endo
 Stephanie Lieggi is the Executive Director of the Center for Research in Open Source Software (CROSS) and the Open Source Program Office (OSPO) at UC Santa Cruz, where she has worked since 2016. She leads initiatives that support academic-based open source projects and has established mentorship programs like the Open Source Research Experience (OSRE). Stephanie is chair of the UC OSPO Network. Stephanie is a board member for the Apereo Foundation and a member of the CHAOSS University Working Group.
 
 :::
+
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/sanjit-seshia.jpg
+:alt: Sanjit Seshia
+:class: speaker-bio-img
+```
+
+### Sanjit A. Seshia | UC Berkeley
+
+Sanjit A. Seshia is the Cadence Founders Chair Professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley. He received an M.S. and Ph.D. in Computer Science from Carnegie Mellon University, and a B.Tech. in Computer Science and Engineering from the Indian Institute of Technology, Bombay. His research interests are in formal methods for dependable and secure computing, spanning the areas of cyber-physical systems, computer security, distributed systems, artificial intelligence, machine learning, and robotics. He has made pioneering contributions to the areas of satisfiability modulo theories (SMT), SMT-based verification, and inductive program synthesis. He is co-author of a widely-used textbook on embedded, cyber-physical systems and has led the development of technologies for cyber-physical systems education based on formal methods. He is a Fellow of the ACM and the IEEE.
+
+:::

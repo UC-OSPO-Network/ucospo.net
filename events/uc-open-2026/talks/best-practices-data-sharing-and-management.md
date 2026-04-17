@@ -8,6 +8,16 @@ This presentation will introduce the California Institute for Regenerative Medic
 
 ---
 
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/alden-conner.jpeg
+:alt: Alden Conner
+:class: speaker-bio-img
+```
+
 ### Alden Conner | California Institute for Regenerative Medicine
 
 Alden Conner is a Science Officer in the R&D Data Infrastructure team at the California Institute for Regenerative Medicine. Before joining CIRM in 2026, she was a Research Application Manager at the UK's Alan Turing Institute, where she worked with a range of research teams in AI and data science to drive adoption of open-source best practices and promote accessibility and collaboration. She has also contributed to open science projects at CZI, where she enabled the sharing of resources and protocols within a grantee network, and Seanome, where she supported the development of open-source computational biology tools.
+
+:::
