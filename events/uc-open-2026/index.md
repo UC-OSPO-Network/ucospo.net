@@ -200,7 +200,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 1:45–2:00 *[An Open-Source Ecosystem for Building Weather Driven Agricultural Decision Tools](./talks/weather-driven-agricultural-decision-tools.md)*—Andy Lyons (UC ANR)
     - 2:00–2:15 *[Developing Environmental Wireless Sensor Networks with TockOS](./talks/environmental-wireless-sensor-networks-tockos.md)*—John Madden, Colleen Josephson, Jack Lin & Alec Levy (UCSC)
     - 2:15–2:30 *[Building Tools for Police Accountability](./talks/building-tools-for-police-accountability.md)*—Tarak Shah (UC Berkeley / BIDS)
-    - 2:30–2:45 *Signal, Matrix, and Breaking Up with Big Tech Surveillance*—Robin Riley
+    - 2:30–2:45 *[Communication Tools for Breaking Up with the Surveillance State](./talks/communication-tools-surveillance-state.md)*—Robin Riley (Open Chapters)
     - 2:45–3:15 *Facilitated Discussion moderated by Virginia Scarlett (UCSB)*
 
     **Breakout 2: Open Infrastructure for Collaborative Research**
