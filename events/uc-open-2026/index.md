@@ -122,7 +122,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 10:40–11:00
   - Break & Networking
 * - 11:00–11:50
-  - **Panel: Understanding Open Source Pathways—A Review of NSF POSE Funded Projects across the UC System**
+  - **Panel: [Understanding Open Source Pathways—A Review of NSF POSE Funded Projects across the UC System](./talks/open-source-pathways-pose.md)**
 
     Chaired by Amber Budden (UCSB)\
     Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew Kahng (UCSD), Stephanie Lieggi (UCSC), Sanjit Seshia (UC Berkeley)

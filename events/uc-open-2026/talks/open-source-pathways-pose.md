@@ -4,7 +4,7 @@ title: "Understanding Open Source Pathways—A Review of NSF POSE Funded Project
 
 ## Abstract
 
-_Details coming soon._
+The NSF Pathways to Enable Open-Source Ecosystems (POSE) program has funded a remarkable range of projects across the UC system—each taking a research software project and asking how it becomes something bigger: a sustainable community, a shared resource, an ecosystem. This panel brings together UC-affiliated POSE principal investigators to reflect on that journey. Panelists will share what their projects do, who their communities are, how POSE funding changed their approach, and what sustainability looks like beyond the grant—followed by open discussion about the lessons, surprises, and hard-won wisdom of building open source at a research university.
 
 ---
 
@@ -60,7 +60,7 @@ Andrew B. Kahng is Distinguished Professor of CSE and ECE and holder of the endo
 
 ### Stephanie Lieggi | UCSC
 
-Stephanie Lieggi is the Executive Director of the Center for Research in Open Source Software (CROSS) and the Open Source Program Office (OSPO) at UC Santa Cruz, where she has worked since 2016. She leads initiatives that support academic-based open source projects and has established mentorship programs like the Open Source Research Experience (OSRE). Stephanie is chair of the UC OSPO Network. Stephanie is a board member for the Apereo Foundation and a member of the CHAOSS University Working Group.
+Stephanie Lieggi is Executive Director of the UC Santa Cruz Open Source Program Office and Chair of the UC OSPO Network. She served as Principal Investigator on the NSF POSE Phase I grant for Skyhook Data Management, a CROSS-incubated project that embeds data management and processing into distributed storage systems using Apache Arrow and Ceph. (She is also part of the ongoing NSF POSE I project.) Stephanie's work aims to support open source community development and student programs at UCSC, including co-developing the Open Source Research Experience (OSRE). She serves on the Board of Directors of the Apereo Foundation, which supports open source software in higher education, and has been active in broader efforts to promote the OSPO model in academia, including co-chairing the CHAOSS University Working Group.
 
 :::
 
