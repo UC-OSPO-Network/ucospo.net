@@ -311,6 +311,10 @@ All sponsors are prominently recognized on signage, the website, and promotional
 
 :::::::
 
+## Code of Conduct
+
+All participants are required to follow the [UC OSPO Network Events Code of Conduct](../code-of-conduct.md).
+
 ## Logistics
 
 **Event Venue:** [The Brower Center, 2150 Allston Way, Berkeley, CA 94704](https://www.openstreetmap.org/directions?from=&to=37.8693,-122.2678#map=19/37.8693/-122.2678)

@@ -41,6 +41,7 @@ project:
           hidden: true
         - pattern: events/uc-open-4-2025/**/*.md
           hidden: true
+        - file: events/code-of-conduct.md
     - title: Blog
       children:
         - file: posts/index.md
