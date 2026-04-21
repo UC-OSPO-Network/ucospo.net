@@ -170,7 +170,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 9:30–10:00
   - **Opening Session—OSPO Network Update**—Virginia Scarlett (UCSB) & Laura Langdon (UC OSPO Network)
 * - 10:00–10:50
-  - **Panel: Influence of AI on Open Source and Open Scholarship**
+  - **Panel: [Influence of AI on Open Source and Open Scholarship](./talks/ai-influence-on-open-source.md)**
 
     Chaired by Leilani Gilpin (UCSC)\
     Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis), Tara Hernandez (MongoDB/UCSC)
