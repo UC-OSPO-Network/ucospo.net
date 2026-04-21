@@ -10,18 +10,18 @@ We will walk through the end-to-end pipeline (signals → features → risk scor
 
 ---
 
-### Yidan (Lena) Hu | Fordham University
+### Yidan (Lena) Hu | Independent Researcher
 
 _Bio coming soon._
 
-### Laisi (Maggie) Ma | George Washington University
+### Laisi (Maggie) Ma | Independent Researcher
 
 _Bio coming soon._
 
-### Hao He | University of Michigan
+### Hao He | Independent Researcher
 
 _Bio coming soon._
 
 ### Yuan-Jiun (David) Sung | Independent Researcher (Principal Investigator, remote)
 
-_Bio coming soon._
+Yuan-Jiun (David) Sung is the Principal Investigator and Lead Architect for the Open Analytics Control Tower (OACT). A senior data professional with over a decade of experience architecting large-scale intelligence systems for top-tier technology and financial institutions, he specializes in translating complex environmental signals into actionable, auditable risk decisions. His current independent research aligns with federal and state resilience initiatives, providing open, reproducible infrastructure to protect critical supply chains and "Missing Middle" operators from climate-driven failures. He holds Master's degrees in Software Management and Electrical and Computer Engineering from Carnegie Mellon University and Purdue University.
