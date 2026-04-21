@@ -50,7 +50,7 @@ If you experience or witness behavior that violates this Code of Conduct, please
 - **In person:** Find any event organizer, or ask any venue staff member to help you locate an organizer
 - **By email:** [lalangdon@ucdavis.edu](mailto:lalangdon@ucdavis.edu) (Laura Langdon, Community Manager)
 
-You don't have to have a complete account of what happened to make a report. You don't have to identify yourself if you'd prefer not to (though it may limit our ability to follow up). We take all reports seriously.
+You don't have to have a complete account of what happened to make a report. We take all reports seriously.
 
 All reports will be kept confidential where legally possible. If a public statement is needed, it will be anonymized.
 
