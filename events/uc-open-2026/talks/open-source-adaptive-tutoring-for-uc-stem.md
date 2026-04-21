@@ -8,9 +8,19 @@ In this presentation, we will cover two open source adaptive tutoring projects, 
 
 ---
 
-### Ioannis Anastasopoulos
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/ioannis-anastasopoulos.jpg
+:alt: Ioannis Anastasopoulos
+:class: speaker-bio-img
+```
+
+### Ioannis Anastasopoulos | UC Berkeley
 
 Ioannis Anastasopoulos is doctoral student in Learning Sciences and Human Development at the UC Berkeley School of Education. His research interests lie in digital learning environments, specifically adaptive tutors and open educational resources (OERs). He has led the content team of OATutor since its initial pilot development and has worked on constructing a unique and sustainable content environment.
+
+:::
 
 :::{div}
 :class: speaker-bio
