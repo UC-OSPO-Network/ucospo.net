@@ -208,7 +208,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     - 1:45–2:00 *[Making Jupyter Notebooks Accessible](./talks/making-jupyter-notebooks-accessible.md)*—Balaji Alwar & Chanbin Park (UC Berkeley)
     - 2:00–2:15 *[PeerSky in Academia: Create, Publish, and Share Research Without the Cloud](./talks/peersky-in-academia.md)*—Akhilesh Thite (UCSC)
     - 2:15–2:30 *[TRACE: Open Provenance Infrastructure for AI-Assisted Research](./talks/who-did-the-thinking.md)*—Oliver Muellerklein (UC Berkeley)
-    - 2:30–2:45 *TBA*
+    - 2:30–2:45 *[Open Analytics Control Tower (OACT): A "Right to Replicate" Prototype for Infrastructure Risk](./talks/oact-right-to-replicate.md)*—Yidan Hu, Laisi Ma & Hao He
     - 2:45–3:15 *Facilitated Discussion moderated by Peter Brantley (UCD)*
 * - 3:20–4:00
   - **Keynote:** Kevin Esterling (UC Riverside)—*[Open Source AI and the Public Sphere: Two Paradoxes](./talks/open-source-ai-public-sphere.md)*
