@@ -118,7 +118,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 9:30–10:00
   - **Welcome from UC Berkeley OSPO**
 * - 10:00–10:40
-  - **Keynote:** David Charron (UC Berkeley)—*Open Software Entrepreneurship*
+  - **Keynote:** David Charron (UC Berkeley)—*[Open Software Entrepreneurship](./talks/open-software-entrepreneurship.md)*
 * - 10:40–11:00
   - Break & Networking
 * - 11:00–11:50
