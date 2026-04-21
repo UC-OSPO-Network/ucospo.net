@@ -44,9 +44,7 @@ jobs:
 
       - name: Build website
         if: github.ref == 'refs/heads/main'
-        run: |
-          export BASE_URL="/uc-ospo-network.github.io"
-          make html
+        run: make html
 
       - name: Deploy website
         if: github.ref == 'refs/heads/main'
