@@ -122,7 +122,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 10:40–11:00
   - Break & Networking
 * - 11:00–11:50
-  - **Panel: Understanding Open Source Pathways—A Review of NSF POSE Funded Projects across the UC System**
+  - **Panel: [Understanding Open Source Pathways—A Review of NSF POSE Funded Projects across the UC System](./talks/open-source-pathways-pose.md)**
 
     Chaired by Amber Budden (UCSB)\
     Panelists: Jarrod Millman (UC Berkeley), Harikrishna Kuttivelil (UCSC), Andrew Kahng (UCSD), Stephanie Lieggi (UCSC), Sanjit Seshia (UC Berkeley)
@@ -170,7 +170,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 9:30–10:00
   - **Opening Session—OSPO Network Update**—Virginia Scarlett (UCSB) & Laura Langdon (UC OSPO Network)
 * - 10:00–10:50
-  - **Panel: Influence of AI on Open Source and Open Scholarship**
+  - **Panel: [Influence of AI on Open Source and Open Scholarship](./talks/ai-influence-on-open-source.md)**
 
     Chaired by Leilani Gilpin (UCSC)\
     Panelists: Fernando Perez (UC Berkeley), Sahiba Chopra (UC Berkeley), Marit MacArthur (UC Davis), Tara Hernandez (MongoDB/UCSC)
