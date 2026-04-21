@@ -168,7 +168,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
 * - 9:00–9:30
   - Coffee, Tea & Registration
 * - 9:30–10:00
-  - **Opening Session—OSPO Network Update**
+  - **Opening Session—OSPO Network Update**—Virginia Scarlett (UCSB) & Laura Langdon (UC OSPO Network)
 * - 10:00–10:50
   - **Panel: Influence of AI on Open Source and Open Scholarship**
 
