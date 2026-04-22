@@ -8,7 +8,7 @@ title: OSS Resources
 
 - Explore the open source landscape across the UC system. ORB provides interactive dashboards showing repository statistics, impact metrics, sustainability indicators (including lottery factor), and security scores across all UC campuses. Built by Juanita Gomez at UCSC.
 
-**[OSSPREY](https://ossprey.cs.ucdavis.edu/)**
+**[OSSPREY](https://oss-prey.github.io/OSSPREY-Website/)**
 
 - Is your open source project on a sustainable path? OSSPREY uses AI to forecast the health of open source projects and gives you concrete, evidence-based recommendations for what to do about it. Point it at any GitHub repository and get month-by-month sustainability forecasts, actionable suggestions ranked by impact, and interactive visualizations of your project's social and technical networks. Built by the [DECAL Lab](https://decallab.cs.ucdavis.edu/) at UC Davis.
 
@@ -29,7 +29,7 @@ title: OSS Resources
 
 ## Further Reading
 
-The [education site](https://uc-ospo-network.github.io/education/) covers tutorials and structured lessons comprehensively. Below are additional articles, guides, and references that complement those lessons.
+The [education site](https://uc-ospo-network.github.io/education/) linked above covers tutorials and structured lessons comprehensively. Below are additional articles, guides, and references that complement those lessons.
 
 - (Our own!) [Growing Community Around Open Source Projects](growing-community.md)
 - [Forge Your Future with Open Source](https://pragprog.com/titles/a-vbopens/forge-your-future-with-open-source/) (book)
