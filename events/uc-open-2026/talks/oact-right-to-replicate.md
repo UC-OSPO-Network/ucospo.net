@@ -10,9 +10,19 @@ We will walk through the end-to-end pipeline (signals → features → risk scor
 
 ---
 
+:::{div}
+:class: speaker-bio
+
+```{image} ./speaker-headshots/yidan-hu.jpg
+:alt: Yidan (Lena) Hu
+:class: speaker-bio-img
+```
+
 ### Yidan (Lena) Hu | Independent Researcher
 
-_Bio coming soon._
+Yidan (Lena) Hu is the Lead Data Scientist for the Open Analytics Control Tower (OACT), where she leads the design and implementation of the system's risk modeling framework, focusing on translating compound environmental signals into predictive, decision-ready indicators of infrastructure disruption. In her professional career, Lena is a senior-level data scientist in a top-tier tech company, specializing in large-scale analytics and machine learning systems within the media and entertainment industry. Her current independent research establishes a reproducible, auditable methodology for operational risk intelligence, directly supporting public-sector resilience efforts and aligning with federal and state priorities for critical infrastructure protection. Lena holds a Master's degree in Business Analytics from Fordham University.
+
+:::
 
 :::{div}
 :class: speaker-bio
@@ -38,7 +48,7 @@ Laisi (Maggie) Ma is a tech leader in a top-tier tech company, dedicated to clou
 
 ### Hao He | Independent Researcher
 
-Hao He is the Data Engineering Lead for the Open Analytics Control Tower (OACT), responsible for designing and building the multi-source ETL pipeline that transforms raw government signals into county-level risk intelligence. Drawing on experience in large-scale data engineering, finance analytics, and operational excellence at Amazon, he specializes in integrating heterogeneous public data streams—including USGS hydrology, ERA5 atmospheric reanalysis, and NOAA forecasts—into reproducible, auditable analytical workflows. His independent research on OACT focuses on making open environmental data operationally useful for supply-chain resilience, aligning with federal and state preparedness goals under S.257. He holds an M.S. in Business Analytics from the University of Texas at Austin and a B.S. in Economics and Mathematics from the University of Michigan, Ann Arbor.
+Hao He is the Data Engineering Lead for the Open Analytics Control Tower (OACT), responsible for designing and building the multi-source ETL pipeline that transforms raw government signals into county-level risk intelligence. Drawing on experience in large-scale data engineering, finance analytics, and operational excellence at a top-tier technology company, he specializes in integrating heterogeneous public data streams including USGS hydrology, ERA5 atmospheric reanalysis, and NOAA forecasts into reproducible, auditable analytical workflows. His independent research on OACT focuses on making open environmental data operationally useful for supply-chain resilience, aligning with federal and state preparedness goals under S.257. Hao holds an M.S. in Business Analytics from the University of Texas at Austin and a B.S. in Economics and Mathematics from the University of Michigan, Ann Arbor.
 
 :::
 
