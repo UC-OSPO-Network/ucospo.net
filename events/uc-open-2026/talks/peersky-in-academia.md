@@ -1,5 +1,5 @@
 ---
-title: "PeerSky in Academia: Create, Publish, and Share Research Without the Cloud"
+title: "Local-First Peer-to-Peer Research Infrastructure: Create, Collaborate, and Publish Without the Cloud"
 ---
 
 ## Abstract
