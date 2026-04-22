@@ -206,7 +206,7 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
     **Breakout 2: Open Infrastructure for Collaborative Research**
 
     - 1:45–2:00 *[Making Jupyter Notebooks Accessible](./talks/making-jupyter-notebooks-accessible.md)*—Balaji Alwar & Chanbin Park (UC Berkeley)
-    - 2:00–2:15 *[PeerSky in Academia: Create, Publish, and Share Research Without the Cloud](./talks/peersky-in-academia.md)*—Akhilesh Thite (UCSC)
+    - 2:00–2:15 *[Local-First Peer-to-Peer Research Infrastructure: Create, Collaborate, and Publish Without the Cloud](./talks/peersky-in-academia.md)*—Akhilesh Thite (UCSC)
     - 2:15–2:30 *[TRACE: Open Provenance Infrastructure for AI-Assisted Research](./talks/who-did-the-thinking.md)*—Oliver Muellerklein (UC Berkeley)
     - 2:30–2:45 *[Open Analytics Control Tower (OACT): A "Right to Replicate" Prototype for Infrastructure Risk](./talks/oact-right-to-replicate.md)*—Yidan Hu, Laisi Ma & Hao He
     - 2:45–3:15 *Facilitated Discussion moderated by Peter Brantley (UCD)*
