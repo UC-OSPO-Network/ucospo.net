@@ -2,15 +2,6 @@
 title: OSS Resources
 ---
 
-## Repo Templates
-
-**We have a [repo template](https://github.com/UC-OSPO-Network/templates) you can use to scaffold the writing of essential project docs, and guides below for using our templates:**
-
-- [README Template Guide](template-guides/readme-guide.md)
-- [Contributing Template Guide](template-guides/contributing-guide.md)
-- [Code of Conduct Template Guide](template-guides/code-of-conduct-guide.md)
-- [License Template Guide](template-guides/license-guide.md)
-
 ## Tools
 
 **[ORB (UC Open Repository Browser)](https://juanis2112-repoexplorer.share.connect.posit.cloud/)**
@@ -20,6 +11,15 @@ title: OSS Resources
 **[OSSPREY](https://ossprey.cs.ucdavis.edu/)**
 
 - Is your open source project on a sustainable path? OSSPREY uses AI to forecast the health of open source projects and gives you concrete, evidence-based recommendations for what to do about it. Point it at any GitHub repository and get month-by-month sustainability forecasts, actionable suggestions ranked by impact, and interactive visualizations of your project's social and technical networks. Built by the [DECAL Lab](https://decallab.cs.ucdavis.edu/) at UC Davis.
+
+## Repo Templates
+
+**We have [repo templates](https://github.com/UC-OSPO-Network/templates) you can use to scaffold the writing of essential project docs, and guides below for using our templates:**
+
+- [README Template Guide](template-guides/readme-guide.md)
+- [Contributing Template Guide](template-guides/contributing-guide.md)
+- [Code of Conduct Template Guide](template-guides/code-of-conduct-guide.md)
+- [License Template Guide](template-guides/license-guide.md)
 
 ## Education
 
