@@ -13,80 +13,29 @@ title: OSS Resources
 
 ## Tools
 
-**[OSSPREY](https://ossprey.cs.ucdavis.edu/)** — Is your open source project on a sustainable path? OSSPREY uses AI to forecast the health of open source projects and gives you concrete, evidence-based recommendations for what to do about it. Point it at any GitHub repository and get month-by-month sustainability forecasts, actionable suggestions ranked by impact, and interactive visualizations of your project's social and technical networks. Built by the [DECAL Lab](https://decallab.cs.ucdavis.edu/) at UC Davis.
+**[ORB (UC Open Repository Browser)](https://juanis2112-repoexplorer.share.connect.posit.cloud/)**
 
-## Tutorials
+- Explore the open source landscape across the UC system. ORB provides interactive dashboards showing repository statistics, impact metrics, sustainability indicators (including lottery factor), and security scores across all UC campuses. Built by Juanita Gomez at UCSC.
 
-These are tutorials we've come across and recommend (with a few we've written ourselves 😊)!
+**[OSSPREY](https://ossprey.cs.ucdavis.edu/)**
 
-## Topics
+- Is your open source project on a sustainable path? OSSPREY uses AI to forecast the health of open source projects and gives you concrete, evidence-based recommendations for what to do about it. Point it at any GitHub repository and get month-by-month sustainability forecasts, actionable suggestions ranked by impact, and interactive visualizations of your project's social and technical networks. Built by the [DECAL Lab](https://decallab.cs.ucdavis.edu/) at UC Davis.
 
-- [Getting Started with Open Source](#getting-started-with-open-source)
-- [Contributing to a Project](#contributing-to-a-project)
-- [Software Development and Best Practices](#software-development-and-best-practices)
-- [Maintaining and Sustaining Software](#maintaining-and-sustaining-software)
-- [Building Community for Your Project](#building-community-for-your-project)
-- [Software Packaging](#software-packaging)
-- [Licensing and Compliance](#understanding-licensing--compliance)
+## Education
 
-## Getting Started with Open Source
+**[UC OSPO Network Education](https://uc-ospo-network.github.io/education/)**
 
-- [Introduction to Git](https://coderefinery.github.io/git-intro/)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- Structured learning pathways for getting started with open source, contributing to projects, maintaining software, building communities, understanding licensing, and more. Browse by topic, role, or experience level.
 
-## Contributing to a Project
+## Further Reading
 
-- [Social Coding and Open Source Collaboration](https://coderefinery.github.io/social-coding/)
-- [Writing Documentation for Software Projects](https://intersect-training.org/Documentation/)
-- [Making Good Pull Requests](https://intersect-training.org/Making-Good-PRs/)
-- [Issue Tracking with GitHub](https://intersect-training.org/Issue-Tracking/)
-- [Collaborative Git for Teams](https://coderefinery.github.io/git-collaborative/)
-- [Collaboration in Open Research Projects](https://book.the-turing-way.org/collaboration/collaboration)
-- [Forge Your Future with Open Source](https://pragprog.com/titles/a-vbopens/forge-your-future-with-open-source/)
-
-## Software Development and Best Practices
-
-- [Continuous Integration and Delivery with GitHub Actions](https://intersect-training.org/CI-CD/)
-- [CI/CD for Research Software with GitLab CI](https://hsf-training.github.io/hsf-training-cicd/)
-- [Unit Testing and TDD in Python](https://intersect-training.org/curriculum/)
-- [Tools and practices for FAIR research software](https://carpentries-incubator.github.io/fair-research-software/)
-- [Reproducible Research](https://book.the-turing-way.org/reproducible-research/reproducible-research)
-- [Intermediate Research Software Development Skills (Python) Lesson Material](https://carpentries-incubator.github.io/python-intermediate-development/)
-- [Introduction to Docker for Research](https://hsf-training.github.io/hsf-training-docker/index.html)
-- [Research Software Engineering Course](https://alan-turing-institute.github.io/rse-course/html/index.html)
-- [Intermediate Python Development](https://carpentries-incubator.github.io/python-intermediate-development/)
-- [Modular Programming with Python](https://coderefinery.github.io/modular-type-along/)
-- [Testing and Test-Driven Development](https://coderefinery.github.io/testing/)
-- [Reproducible Computational Environments using Containers](https://carpentries-incubator.github.io/docker-introduction/)
-
-## Maintaining and Sustaining Software
-
-- [GitHub's Guides](https://opensource.guide/)
-- [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
-- [Finding Users for Your Project](https://opensource.guide/finding-users/)
-- [Best Practices for Maintainers](https://opensource.guide/best-practices/)
-- [Solving the Maker-Taker problem | Dries Buytaert](https://dri.es/solving-the-maker-taker-problem)
-- [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/)
-- [Effective Code Review](https://intersect-training.org/Code-Review/)
-- [PsyArXiv Preprints | "My code is s\*\*t": Negative automatic thoughts and outcomes of a behavioral experiment for code review anxiety](https://osf.io/preprints/psyarxiv/hz3et)
-- [Example Contribution Ladder](https://github.com/withastro/.github/blob/main/GOVERNANCE.md)
-- [Metrics](https://opensource.guide/metrics/)
-
-## Building Community for Your Project
+The [education site](https://uc-ospo-network.github.io/education/) covers tutorials and structured lessons comprehensively. Below are additional articles, guides, and references that complement those lessons.
 
 - (Our own!) [Growing Community Around Open Source Projects](growing-community.md)
-- [Building Community](https://opensource.guide/building-community/)
-- [Leadership and Governance](https://opensource.guide/leadership-and-governance/)
-- [Building Welcoming Communities](https://opensource.guide/building-community/)
-
-## Software Packaging
-
-- [Python Packaging for Beginners](https://intersect-training.org/packaging/)
-- [Python Packaging](https://carpentries-incubator.github.io/python_packaging)
-- [Python Package Development Best Practices](https://education.molssi.org/python-package-best-practices/)
-- [R Packaging](https://carpentries-incubator.github.io/lesson-R-packaging/)
-
-## Understanding Licensing & Compliance
-
+- [Forge Your Future with Open Source](https://pragprog.com/titles/a-vbopens/forge-your-future-with-open-source/) (book)
+- [Tools and practices for FAIR research software](https://carpentries-incubator.github.io/fair-research-software/)
+- [Solving the Maker-Taker problem | Dries Buytaert](https://dri.es/solving-the-maker-taker-problem)
+- [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/)
+- ["My code is s\*\*t": Negative automatic thoughts and outcomes of a behavioral experiment for code review anxiety](https://osf.io/preprints/psyarxiv/hz3et)
+- [Example Contribution Ladder](https://github.com/withastro/.github/blob/main/GOVERNANCE.md) (Astro's governance model)
 - (UC-specific!) [UCoP's guide to choosing a license](https://security.ucop.edu/resources/open-source-software-licensing.html)
-- (General) [Understanding Software Licensing](https://intersect-training.org/software-licensing/)
