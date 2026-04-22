@@ -11,6 +11,11 @@ AI is transforming how open source software is built, who contributes to it, and
 :::{div}
 :class: speaker-bio
 
+```{image} ./speaker-headshots/leilani-gilpin.jpg
+:alt: Leilani Gilpin
+:class: speaker-bio-img
+```
+
 ### Leilani Gilpin | UCSC (Chair)
 
 Leilani Gilpin is an Assistant Professor in the Department of Computer Science and Engineering at UC Santa Cruz. Her research focuses on the design and analysis of methods for autonomous systems to explain themselves. Her work has applications to robust decision-making, system debugging, and accountability. Her current work examines how generative models can be used in iterative XAI stress testing. She holds a PhD in Computer Science from MIT, an M.S. in Computational and Mathematical Engineering from Stanford University, and a B.S. in Mathematics (with honors), B.S. in Computer Science (with highest honors), and a music minor from UC San Diego.
@@ -61,6 +66,11 @@ Marit MacArthur is a continuing lecturer in the University Writing Program at UC
 
 :::{div}
 :class: speaker-bio
+
+```{image} ./speaker-headshots/tara-hernandez.jpeg
+:alt: Tara Hernandez
+:class: speaker-bio-img
+```
 
 ### Tara Hernandez | MongoDB/UCSC
 
