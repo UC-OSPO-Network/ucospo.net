@@ -30,9 +30,9 @@ Jarrod Millman is a Senior Open Source Scientific Python Developer at BIDS and t
 :class: speaker-bio-img
 ```
 
-### Harikrishna Kuttivelil | UCSC
+### Harikrishna (Hari) Kuttivelil | UCSC
 
-Harikrishna Kuttivelil is a Ph.D. student in Computer Science & Engineering at UC Santa Cruz, studying the intersection of networking and machine learning and their applications in environmental monitoring, smart cities, and AI democratization. His research focuses on decentralized strategies for collaborative, privacy-preserving machine learning at the network's edge. He is a member of the InterNetworking Research Group (i-NRG) with Professor Katia Obraczka as his advisor.
+Harikrishna (Hari) Kuttivelil is a Ph.D. Candidate in Computer Engineering working under Dr. Katia Obraczka with the Inter-Networking Research Group (i-NRG) at UCSC. His thesis research explores the potential to optimize and democratize machine learning by enabling responsible and efficient collaborative intelligence between edge devices (like phones or sensors) without having to rely on centralized compute. He has worked with many open source frameworks within deep learning and network simulation. His research necessitated him to co-create NSB, a network and systems co-simulation tool, giving him the opportunity to participate in the NSF I-Corps training program as part of a NSF POSE award. Hari has also been a pedagogy fellow tasked to explore, develop, and teach active learning techniques and universal design principles to address gaps in higher education. In both his teaching and research, Hari is motivated by a belief that both technology and education should be sustainable, equitable, and democratized.
 
 :::
 
