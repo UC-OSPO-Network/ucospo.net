@@ -32,21 +32,25 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1)
   - Add to your calendar: [.ics file](/static/ics-files/OSPO-Virtual-Coffee-Thursdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXA1M2Y4dG1pZGR2djNob2NkcnYwaXV0bTNfMjAyNTA1MTVUMjAwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
-### March
+### All-Campus Virtual Meetups (monthly)
 
-#### All-Campus Virtual Meetup
+**When**: First Thursday of every month at 10am Pacific, starting July 2, 2026\
+**Where**: Zoom (link TBD)\
+**Who**: Anyone across the UC system!
+
+A new monthly gathering for the UC open source community. Each meetup is co-hosted by a different campus in the network—the hosting campus sets the agenda for the first half (demos, workshops, guest speakers, whatever they want to share), and the second half is an open community call for network updates, project sharing, and Q&A.
+
+All roles—students, faculty, staff, researchers—and experience levels are welcome.
+
+## Past Events
+
+### March 2026 All-Campus Virtual Meetup
 
 **When**: Wednesday, March 18 2026 12pm\
 **Where:** Zoom\
 **Who**: Anyone (including students and staff!)
 
 Join us for the winter edition of our all-campus open source meetups! We'll start with a fireside chat with Matthias Köppe of UCD, maintainer of SageMath, followed by a very casual open discussion about whatever folks have on their minds about open source.
-
-All roles—students, faculty, staff, researchers—and experience levels are welcome, as we believe the best learning happens when diverse perspectives come together.
-
-[Register here!](https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw)
-
-## Past Events
 
 ### Open Source Meetup @ Davis
 
