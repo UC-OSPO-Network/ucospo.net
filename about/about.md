@@ -38,55 +38,13 @@ As the first system-wide OSPO network in a large university system, we are setti
 - Organizing hackathons and competitions
 - Promoting open-source sustainability and best practices
 
-## Joining the Network
+## Get Involved
 
-Whether you've just heard about the UC OSPO Network or you've been curious for a while, we're glad you're here.
-
-The UC OSPO Network is open to all UC-affiliated institutions—campuses, labs (such as Lawrence Berkeley National Lab), the California Digital Library (CDL), and other UC entities. Some of our member institutions have formal Open Source Program Offices; others have individuals or teams who champion open source work in various roles. Both are welcome.
-
-Getting involved is a community-first process. Here's a quick overview:
-
-:::{div}
-:class: mermaid-centered
-
-```{mermaid}
-flowchart TD
-    A["Interested in joining?"] --> B["Join our Slack workspace"]
-    B --> C["Attend community events\nand meetings"]
-    C --> D["Connect with the network team"]
-    D --> E["Identify a lead contact\nat your institution"]
-    E --> F["Welcome aboard! 🎉"]
-
-    style A fill:#003cb3,color:#fff
-    style F fill:#003cb3,color:#fff
-```
-
-:::
-
-For more detail on each step, see [Get Involved](get-involved.md).
+Whether you're an individual looking to participate or an institution interested in joining the network, see our [Get Involved](get-involved.md) page for all the ways to connect—Slack, newsletter, events, campus contacts, and more.
 
 ## Contact Us
 
-**Community Manager**: [Laura Langdon](mailto:lalangdon@ucdavis.edu) (if you're not sure who to talk to about something, talk to Laura! 😊)
+- **Laura Langdon**, Community Manager: [lalangdon@ucdavis.edu](mailto:lalangdon@ucdavis.edu) (not sure who to talk to? Talk to Laura!)
+- **Stephanie Lieggi**, Network Chair: [slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)
 
-**Campus contacts**:
-
-- Berkeley
-  - For questions related to the UCB OSPO, [contact Jarrod Millman](mailto:millman@berkeley.edu)
-  - [Send an email to ospo+subscribe@lists.berkeley.edu](mailto:ospo+subscribe@lists.berkeley.edu) to join the UCB OSPO mailing list
-- Davis
-  - For questions related to the UCD OSPO, [contact davis-ospo@ucdavis.edu](mailto:davis-ospo@ucdavis.edu)
-  - Click here to [join the UCD OSPO mailing list](https://lists.ucdavis.edu/sympa/info/opensource-announce)
-- Los Angeles
-  - For questions related to the UCLA OSPO, [contact Tim Dennis](mailto:tdennis@library.ucla.edu)
-  - Click here to [join the UCLA OSPO mailing list](https://groups.google.com/g/ucla-ospo)
-- San Diego
-  - For questions related to the UCSD OSPO, [contact David Minor](mailto:dminor@ucsd.edu)
-- Santa Barbara
-  - For questions related to the UCSB OSPO, [contact Amber Budden](mailto:ospo@library.ucsb.edu)
-  - Click here to [join the UCSB OSPO mailing list](mailto:https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
-- Santa Cruz
-  - For questions related to the UCSC OSPO, [contact Stephanie Lieggi](mailto:ospo-info-group@ucsc.edu)
-  - Click here to [join the UCSC OSPO mailing list](https://groups.google.com/u/0/a/ucsc.edu/g/ucsc-open-source-news-group/about)
-
-If you don't see your campus listed above [contact Laura](mailto:lalangdon@ucdavis.edu) for more details about how the network can help you.
+For campus-specific contacts and mailing lists, see [Get Involved](get-involved.md).
