@@ -74,6 +74,6 @@ Dirk Riehle is a professor of computer science at FAU Erlangen. They are also th
 
 ### Joel Kehle | UCLA
 
-Joel Kehle is a Business Development Officer at UCLA Technology Development Group, where he manages a portfolio of database, algorithm, artificial intelligence, bioinformatics, and other computer science technologies. With over 20 years of industry experience, Joel spent more than a decade at Qualcomm focused on cloud computing, enterprise architecture, infrastructure automation, and middleware software. He previously served as Vice President, Technology for multiple startup companies incubated at Idealab in Los Angeles. Joel holds a Bachelor of Science in Computer Science from MIT and an MBA from UCLA Anderson School of Management.
+Joel Kehle is a Business Development Officer at UCLA's Technology Development Group, where he works with faculty, students, and staff to license and commercialize university research across software, data and AI models. He brings a tech transfer perspective to the question of how universities can better support researchers with source available and open source projects.
 
 :::
