@@ -11,6 +11,10 @@ title: OSS Resources
 - [Code of Conduct Template Guide](template-guides/code-of-conduct-guide.md)
 - [License Template Guide](template-guides/license-guide.md)
 
+## Tools
+
+**[OSSPREY](https://ossprey.cs.ucdavis.edu/)** — Is your open source project on a sustainable path? OSSPREY uses AI to forecast the health of open source projects and gives you concrete, evidence-based recommendations for what to do about it. Point it at any GitHub repository and get month-by-month sustainability forecasts, actionable suggestions ranked by impact, and interactive visualizations of your project's social and technical networks. Built by the [DECAL Lab](https://decallab.cs.ucdavis.edu/) at UC Davis.
+
 ## Tutorials
 
 These are tutorials we've come across and recommend (with a few we've written ourselves 😊)!
