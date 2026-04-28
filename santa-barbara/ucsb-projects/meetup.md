@@ -51,12 +51,13 @@ can get done in just half an hour.
 
 | Date           | Time     | Topic                                                                                                        | Link                                                                     | Other notes                                |
 | -------------- | -------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------ |
-| April 1, 2026  | 12pm-2pm | Open Source Lounge                                                                                           | [Join the meeting now](https://ucsb.zoom.us/j/87499258423)               | Hybrid meeting: Library room 1411 and Zoom |
-| April 15, 2026 | 12pm-1pm | A conversation with Brian Monroe and Scott Williams: IT staff, Fedora Linux contributors, and FOSS advocates | [Register](https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw) | Zoom meeting                               |
-| April 29, 2026 | 12pm-2pm | Open Source Lounge                                                                                           | [Join the meeting now](https://ucsb.zoom.us/j/87499258423)               | Hybrid meeting: Library room 1411 and Zoom |
+| Apr 29, 2026 | 12pm-2pm | Open Source Lounge                                                                                           | [Join the meeting now](https://ucsb.zoom.us/j/87499258423)               | Hybrid meeting: Library room 1411 and Zoom |
+| May 20, 2026 | 12pm-1pm | A conversation with JoAnn Kuchera-Morin: chief designer of the AlloSphere facility, composer, and media artist | [Register](https://ucsb.zoom.us/meeting/register/hU351-40Tp2fkojZX9gLmw) | Zoom meeting                               |
+| Jun 3, 2026 | 12pm-2pm | Open Source Lounge                                                                                           | [Join the meeting now](https://ucsb.zoom.us/j/87499258423)               | Hybrid meeting: Library room 1411 and Zoom |
 
 ### Past topics:
 
+- A conversation with Brian Monroe and Scott Williams: IT staff, Fedora Linux contributors, and FOSS advocates
 - A conversation with Matthias Köppe, maintainer of PassageMath
 - A new project from the UCSB Library: The OSS Sustainability Playbook
 - Open-washing and the EU AI Act
