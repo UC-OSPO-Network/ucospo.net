@@ -8,5 +8,8 @@
     "lists.ucdavis.edu",
     "travel.ucop.edu",
     "github.com/.*/edit/"
+  ],
+  "statusCode": [
+    "403:warn"
   ]
 }
