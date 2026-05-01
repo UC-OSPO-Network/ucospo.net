@@ -216,6 +216,30 @@ _Thanks to the generosity of our sponsors, UC Open is **free to attend** for all
   - **Closing**
 ```
 
+### Poster Presenters
+
+```{list-table}
+
+* - **Balaji Alwar & Chanbin Park** (UC Berkeley)
+  - *[Making Jupyter Notebooks Accessible](./talks/making-jupyter-notebooks-accessible.md)*
+* - **Silas Santini** (UC Berkeley)
+  - *[Accessible Course Site Template](./talks/continuous-integration-accessible-experiences.md)*
+* - **Dan Blizinski** (Openwater)
+  - *Open-Source Medical Devices: How Apache-Licensed Platforms Are Enabling University Research Partnerships in Healthcare*
+* - **Jacob Ankamah** (University of Galway)
+  - *An Open Meta-Analysis Dataset for Valuing Marine Protection: Reproducible Estimates of Public Willingness to Pay*
+* - **Sankalp Kashyap** (UC Davis)
+  - *RepoWise: Conversational AI for Mining, Reasoning About, and Sustaining Open Source Repositories*
+* - **Harikrishna Kuttivelil** (UCSC)
+  - *NSB: Modeling Complex Connected Systems with Network Co-Simulation*
+* - **Yidan (Lena) Hu, Laisi (Maggie) Ma & Hao He**
+  - *[Open Analytics Control Tower (OACT): A "Right-to-Replicate" Prototype for Infrastructure Risk](./talks/oact-right-to-replicate.md)*
+* - **Sam Teplitzky & Anna Sackmann** (UC Berkeley)
+  - *[More Than Just Storage: Support for Open Scholarship through Campus Collaborations](./talks/more-than-just-storage.md)*
+* - **Akhilesh Thite** (UCSC)
+  - *[Local-First Peer-to-Peer Research Infrastructure: Create, Collaborate, and Publish Without the Cloud](./talks/peersky-in-academia.md)*
+```
+
 ## For UC Community
 
 - Showcase your open source work to industry and peer institutions
