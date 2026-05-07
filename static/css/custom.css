@@ -310,7 +310,7 @@ footer.article-grid {
 .uco-footer-brand img {
   height: auto;
   width: 100%;
-  max-width: 360px;
+  max-width: 240px;
   margin-left: 0 !important;
   margin-right: auto !important;
 }
@@ -371,6 +371,61 @@ footer.article-grid {
 [data-theme="dark"] .uco-footer-social img,
 .dark .uco-footer-social img {
   filter: invert(1);
+}
+
+/* ── Footer row layout (logo | nav | social) ──────────────────── */
+
+.uco-footer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+.uco-footer-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.uco-footer-nav p {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  margin: 0;
+}
+
+.uco-footer-nav a {
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.7;
+}
+
+.uco-footer-nav a:hover {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .uco-footer-row {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .uco-footer-nav p {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem 1.25rem;
+  }
+
+  .uco-footer-social {
+    justify-content: center !important;
+    padding-right: 0 !important;
+  }
 }
 
 /* ── Register button ──────────────────────────────────────────── */

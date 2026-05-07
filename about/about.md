@@ -44,7 +44,4 @@ Whether you're an individual looking to participate or an institution interested
 
 ## Contact Us
 
-- **Laura Langdon**, Community Manager: [lalangdon@ucdavis.edu](mailto:lalangdon@ucdavis.edu) (not sure who to talk to? Talk to Laura!)
-- **Stephanie Lieggi**, Network Chair: [slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)
-
-For campus-specific contacts and mailing lists, see [Get Involved](get-involved.md).
+Not sure who to talk to? See our [Contact page](contact.md) for network and campus-specific contacts.
