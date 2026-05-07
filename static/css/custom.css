@@ -409,6 +409,25 @@ footer.article-grid {
   opacity: 1;
 }
 
+@media (max-width: 768px) {
+  .uco-footer-row {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .uco-footer-nav p {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem 1.25rem;
+  }
+
+  .uco-footer-social {
+    justify-content: center !important;
+    padding-right: 0 !important;
+  }
+}
+
 /* ── Register button ──────────────────────────────────────────── */
 
 .register-btn a {
