@@ -20,16 +20,7 @@ No matter how you're joining the community—as an individual or as a new instit
 
 There's no minimum attendance requirement. Come to what interests you, when you can.
 
-If your campus has an OSPO or a presence in the network, connect with your local contact:
-
-- **Berkeley**—[Jarrod Millman](mailto:millman@berkeley.edu) · [join mailing list](mailto:ospo+subscribe@lists.berkeley.edu)
-- **Davis**—[davis-ospo@ucdavis.edu](mailto:davis-ospo@ucdavis.edu) · [join mailing list](https://lists.ucdavis.edu/sympa/info/opensource-announce)
-- **Los Angeles**—[Tim Dennis](mailto:tdennis@library.ucla.edu) · [join mailing list](https://groups.google.com/g/ucla-ospo)
-- **San Diego**—[David Minor](mailto:dminor@ucsd.edu)
-- **Santa Barbara**—[Amber Budden](mailto:ospo@library.ucsb.edu) · [join mailing list](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
-- **Santa Cruz**—[Stephanie Lieggi](mailto:ospo-info-group@ucsc.edu) · [join mailing list](https://groups.google.com/u/0/a/ucsc.edu/g/ucsc-open-source-news-group/about)
-
-If you don't see your campus listed, you're still welcome! Join the Slack workspace and the [network newsletter](https://mailchi.mp/ucdavis/uc-ospo-network), and/or [reach out to Laura](mailto:lalangdon@ucdavis.edu) and she'll point you in the right direction.
+See our [Contact page](contact.md) for campus-specific contacts and mailing lists.
 
 ---
 

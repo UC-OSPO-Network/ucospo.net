@@ -11,6 +11,7 @@ project:
         - file: about/about.md
         - file: about/services.md
         - file: about/get-involved.md
+        - file: about/contact.md
         - file: about/guiding-themes/index.md
           children:
             - file: about/guiding-themes/discovery.md
