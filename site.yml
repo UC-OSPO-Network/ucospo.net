@@ -1,0 +1,13 @@
+version: 1
+site:
+  options:
+    lang: en
+    logo: static/images/logo.svg
+    favicon: static/images/favicon.ico
+    folders: true
+    style: static/css/custom.css
+    logo_text: "UC OSPO Network"
+    hide_footer_links: true
+  template: book-theme
+  parts:
+    footer: footer.md
