@@ -44,9 +44,9 @@ can get done in just half an hour.
 ### Upcoming meetings:
 
 ::::{div} :class: btn-center-wrapper
-
 <a href="https://docs.google.com/spreadsheets/d/19SdbFZwA4JrZBf5GsVqIYkOeVkieI-xvy2NJnR7kFeE/edit?usp=sharing" class="btn-ucsb-primary">Sign
-up to lead a meeting here!</a> ::::
+up to lead a meeting here!</a>
+::::
 
 | Date         | Time     | Topic                                                                                                          | Link                                                                     | Other notes                                |
 | ------------ | -------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------ |
