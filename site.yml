@@ -2,12 +2,12 @@ version: 1
 site:
   options:
     lang: en
-    logo: static/images/logo.svg
-    favicon: static/images/favicon.ico
+    logo: https://raw.githubusercontent.com/UC-OSPO-Network/ucospo.net/refs/heads/main/static/images/logo.svg
+    favicon: https://raw.githubusercontent.com/UC-OSPO-Network/ucospo.net/refs/heads/main/static/images/favicon.ico
     folders: true
-    style: static/css/custom.css
+    style: https://raw.githubusercontent.com/UC-OSPO-Network/ucospo.net/refs/heads/main/static/css/custom.css
     logo_text: "UC OSPO Network"
     hide_footer_links: true
   template: book-theme
   parts:
-    footer: footer.md
+    footer: https://raw.githubusercontent.com/UC-OSPO-Network/ucospo.net/refs/heads/main/footer.md
