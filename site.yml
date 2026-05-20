@@ -1,3 +1,6 @@
+# Use absolute paths instead of relative paths so that sub-projects
+# using the 'extends' key can find static assets.
+# https://jupyterbook.org/blog/posts/2026/multi-repo
 version: 1
 site:
   options:
