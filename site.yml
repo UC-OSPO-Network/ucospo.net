@@ -8,6 +8,7 @@ site:
     style: https://raw.githubusercontent.com/UC-OSPO-Network/ucospo.net/refs/heads/main/static/css/custom.css
     logo_text: "UC OSPO Network"
     hide_footer_links: true
+    internal_domains: ucospo.net
   template: book-theme
   parts:
-    footer: https://raw.githubusercontent.com/UC-OSPO-Network/ucospo.net/refs/heads/main/footer.md
+    footer: footer.md
