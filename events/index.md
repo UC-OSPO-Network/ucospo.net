@@ -12,10 +12,6 @@ Please note: if you add an event from the embedded calendar above, it will defau
 
 ## Upcoming Events
 
-### UC Open 2026
-
-Join researchers, developers, students, and industry leaders at [UC Open Source Summit 2026](uc-open-2026/index.md) for two days exploring how open source is reshaping academia and connecting university innovation with real-world application.
-
 ### Coworking/Office Hours (ongoing)
 
 We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:
@@ -43,6 +39,10 @@ A new monthly gathering for the UC open source community. Each meetup is co-host
 All roles—students, faculty, staff, researchers—and experience levels are welcome.
 
 ## Past Events
+
+### UC Open 2026
+
+View the full [UC Open Source Summit 2026 page](uc-open-2026/index.md) for session recordings, speaker bios, and more.
 
 ### March 2026 All-Campus Virtual Meetup
 
