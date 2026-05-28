@@ -12,7 +12,22 @@ project:
       children:
         - file: about/about.md
         - file: about/services.md
-        - file: about/get-involved.md
+        - file: about/get-involved/index.md
+          children:
+            - file: about/get-involved/what-it-means.md
+              hidden: true
+            - file: about/get-involved/web-presence.md
+              hidden: true
+            - file: about/get-involved/mailing-list.md
+              hidden: true
+            - file: about/get-involved/first-meetup.md
+              hidden: true
+            - file: about/get-involved/local-stakeholders.md
+              hidden: true
+            - file: about/get-involved/network-connection.md
+              hidden: true
+            - file: about/get-involved/next-steps.md
+              hidden: true
         - file: about/contact.md
         - file: about/guiding-themes/index.md
           children:

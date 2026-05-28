@@ -809,3 +809,50 @@ figcaption,
     margin: 0 auto 1rem auto !important;
   }
 }
+
+/* Per-page prev/next nav at the bottom of welcome-packet sequence pages.
+   The site-wide footer prev/next is hidden via hide_footer_links: true
+   in site.yml; these classes provide explicit nav on just the pages that
+   want it. */
+
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.page-nav p {
+  margin: 0;
+}
+
+.page-nav-prev-only {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.page-nav-next-only {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e5e7eb;
+  text-align: right;
+}
+
+.page-nav-prev-only p,
+.page-nav-next-only p {
+  margin: 0;
+}
+
+/* TEMPORARILY HIDDEN: while the packet pages themselves are hidden from
+   nav (myst.yml), the prev/next links would just lead readers to draft
+   stub pages. Remove this block when the packet ships. */
+.page-nav,
+.page-nav-prev-only,
+.page-nav-next-only {
+  display: none;
+}
