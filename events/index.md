@@ -12,6 +12,22 @@ Please note: if you add an event from the embedded calendar above, it will defau
 
 ## Upcoming Events
 
+### All-Campus Virtual Meetups (monthly)
+
+**When**: First Thursday of every month at 10am Pacific, starting July 2, 2026\
+**Where**: [Zoom link](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1)\
+**Who**: Anyone across the UC system!
+
+A monthly gathering for the UC open source community. Each meetup is co-hosted by a different campus in the network, with the hosting campus setting the agenda for the first half (demos, workshops, guest speakers, whatever they want to share), and the second half an open community call for network updates, project sharing, and Q&A.
+
+**Add to your calendar**: [.ics file](/static/ics-files/OSPO-All-Campus-Virtual-Meetup.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MzBnOXM2NzAzYmh2YWNlNTI2NnEyNGVqaXFfMjAyNjA2MDRUMTcwMDAwWiBjXzkyY2E3NDliNGMwMWYyMjFlMTY4NjZjNjI0YmU0Mzc3ZjhjY2VmYmYwYTA3OWVjMzdmNjk2MDY2M2M0ODZlNzlAZw&amp;tmsrc=c_92ca749b4c01f221e16866c624be4377f8ccefbf0a079ec37f6960663c486e79%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+
+#### This month (July 2)
+
+UC Davis hosts with a focus on POSE—the NSF program for building open source ecosystems—and its evolution into PESOSE. We'll look at how the program is structured, what's changed in how proposals are evaluated, and what that means for UC researchers thinking about applying, plus hear from researchers who've won these awards about what they've built. Speakers to be announced!
+
+All roles—students, faculty, staff, researchers—and experience levels are welcome!
+
 ### Coworking/Office Hours (ongoing)
 
 We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:
@@ -27,16 +43,6 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 - **Thursdays** at **1pm** Pacific
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1)
   - Add to your calendar: [.ics file](/static/ics-files/OSPO-Virtual-Coffee-Thursdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXA1M2Y4dG1pZGR2djNob2NkcnYwaXV0bTNfMjAyNTA1MTVUMjAwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
-
-### All-Campus Virtual Meetups (monthly)
-
-**When**: First Thursday of every month at 10am Pacific, starting July 2, 2026\
-**Where**: Zoom (link TBD)\
-**Who**: Anyone across the UC system!
-
-A new monthly gathering for the UC open source community. Each meetup is co-hosted by a different campus in the network—the hosting campus sets the agenda for the first half (demos, workshops, guest speakers, whatever they want to share), and the second half is an open community call for network updates, project sharing, and Q&A.
-
-All roles—students, faculty, staff, researchers—and experience levels are welcome.
 
 ## Past Events
 
