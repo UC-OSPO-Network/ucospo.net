@@ -1,4 +1,6 @@
-## title: Events
+---
+title: Events
+---
 
 ## Calendar
 
