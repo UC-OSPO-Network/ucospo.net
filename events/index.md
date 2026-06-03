@@ -1,6 +1,4 @@
----
-title: Events
----
+## title: Events
 
 ## Calendar
 
@@ -16,7 +14,7 @@ Please note: if you add an event from the embedded calendar above, it will defau
 
 **When**: First Thursday of every month at 10am Pacific, starting July 2, 2026\
 **Where**: [Zoom link](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1)\
-**Who**: Anyone across the UC system!
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
 
 A monthly gathering for the UC open source community. Each meetup is co-hosted by a different campus in the network, with the hosting campus setting the agenda for the first half (demos, workshops, guest speakers, whatever they want to share), and the second half an open community call for network updates, project sharing, and Q&A.
 
