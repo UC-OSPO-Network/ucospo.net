@@ -64,7 +64,7 @@ Other forms of support proposed by survey participants include:
 - Careers: education on open source careers;
 - Guidelines: clear rules for UC employees;
 - Code review: communities of practice.
-::::
+  ::::
 
 We found that the vast majority of students and researchers consider open source
 software to be important for their work. We also found that the majority of open
