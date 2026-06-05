@@ -114,7 +114,7 @@ effort, please reach out to us at
 ## Links to research products
 
 - **Paper:**
-  [doi:10.31235/osf.io/p8bx6_v1](https://doi.org/10.1371/journal/pone.0348894)
+  [doi:10.1371/journal.pone.0348894](https://doi.org/10.1371/journal.pone.0348894)
 - **Preprint:**
   [doi:10.31235/osf.io/p8bx6_v1](https://doi.org/10.31235/osf.io/p8bx6_v1)
   - To find the preprint's supplementary materials, you have to go the 'Project'
