@@ -33,20 +33,20 @@ faculty, and staff.
 
 ### Contents of the infographic.
 
-The University of California Open Source Survey 2025. Brought to you by
-the UC OSPO Network. Key results:
+The University of California Open Source Survey 2025. Brought to you by the UC
+OSPO Network. Key results:
 
-- 92% of students and 93% of researchers report that open source is
-  important for their work.
+- 92% of students and 93% of researchers report that open source is important
+  for their work.
 - 58% of UC open source contributors are project maintainers.
-- 27% of academics and 43% of non-research staff occasionally or
-  frequently contribute to large projects.
-- The number one challenge, that is, the most frequent challenge for
-  experienced contributors, was finding time for documentation.
+- 27% of academics and 43% of non-research staff occasionally or frequently
+  contribute to large projects.
+- The number one challenge, that is, the most frequent challenge for experienced
+  contributors, was finding time for documentation.
 
-A diagram shows the top three solutions preferred by experienced
-contributors and aspiring contributors. The top three solutions preferred
-by experienced contributors were:
+A diagram shows the top three solutions preferred by experienced contributors
+and aspiring contributors. The top three solutions preferred by experienced
+contributors were:
 
 1. grants for open source sustainability
 2. access to free, feature-rich computing environments, and
@@ -113,21 +113,21 @@ effort, please reach out to us at
 
 ## Links to research products
 
+- **Paper:**
+  [doi:10.1371/journal.pone.0348894](https://doi.org/10.1371/journal.pone.0348894)
 - **Preprint:**
   [doi:10.31235/osf.io/p8bx6_v1](https://doi.org/10.31235/osf.io/p8bx6_v1)
   - To find the preprint's supplementary materials, you have to go the 'Project'
     in OSF that has the same title as the preprint. Find it here:
     [osf.io/m5ft6/overview](https://osf.io/m5ft6/overview)
-- The **data** will be here\*:
+- **Dataset on Dryad**:
   [doi:10.5061/dryad.2280gb662](https://doi.org/10.5061/dryad.2280gb662)
-- An archived snapshot of the **code** will be here\*:
-  [doi:10.5281/zenodo.17783102](https://doi.org/10.5281/zenodo.17783102)
-  - \*These two DOIs will be functional after peer review. Please contact the
-    authors if access is needed sooner.
+- **Archived code** snapshot on Zenodo:
+  [doi:10.5281/zenodo.17783101](https://doi.org/10.5281/zenodo.17783101)
 - **Living code** repository:
   [UC-OSPO-Network/ospo-survey-analysis](https://github.com/UC-OSPO-Network/ospo-survey-analysis)
-- **Survey instrument** is available as a PDF in the preprint's supplementary
-  materials and in the GitHub repo. It will also available in .docx and .qsf
+- **Survey instrument** is available as a PDF in the paper's supplementary
+  materials and in the GitHub repo. It is also available in .docx and .qsf
   formats in the Dryad dataset.
 - **Lessons learned**, a retrospective on the survey instrument:
   [lessons_learned.md](https://github.com/UC-OSPO-Network/ospo-survey-analysis/blob/main/lessons_learned.md)
