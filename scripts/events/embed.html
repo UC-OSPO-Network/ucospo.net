@@ -17,6 +17,15 @@
     <title>UC OSPO Network events</title>
     <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css" rel="stylesheet" />
     <style>
+      :root {
+        /* Mirror the site brand palette (static/css/custom.css) so the popover
+           matches the rest of the page. This iframe is a separate document and
+           does NOT inherit the parent's --pst-* variables, so they're restated
+           here; keep in sync with custom.css if the brand colors change. */
+        --uco-primary: #003cb3; /* --pst-color-primary / --pst-color-link */
+        --uco-link-hover: #ff9100; /* --pst-color-link-hover */
+        --uco-text: #222832; /* --tw-prose-body */
+      }
       body {
         margin: 0;
         font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -246,6 +255,18 @@
         function sanitize(html) {
           return DOMPurify.sanitize(html || "");
         }
+        // True if the sanitized description already contains a link to `url`. When
+        // it does, the standalone "Open event link" button would just duplicate it
+        // (for our events `url` is the Zoom/registration link shown inline), so we
+        // suppress the button to avoid two competing links in the popover.
+        function descContainsUrl(html, url) {
+          if (!html || !url) return false;
+          const tmp = document.createElement("div");
+          tmp.innerHTML = html;
+          return [...tmp.querySelectorAll("a[href]")].some(
+            (a) => a.getAttribute("href") === url,
+          );
+        }
         function icsDate(d) {
           return d.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}/, "");
         }
@@ -301,7 +322,7 @@
           refs.desc.style.display = descHtml ? "" : "none";
           refs.ics.onclick = () => addToCalendar(ev);
           refs.link.innerHTML = "";
-          if (p.url) {
+          if (p.url && !descContainsUrl(descHtml, p.url)) {
             const a = document.createElement("a");
             a.href = p.url;
             a.target = "_blank";
