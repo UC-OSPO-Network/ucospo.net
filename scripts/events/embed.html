@@ -1,0 +1,349 @@
+<!doctype html>
+<!--
+  Standalone calendar embed for the Events page. Loaded via <iframe> from
+  events/index.md because MyST sanitizes page-level <script> tags—an iframe
+  is a separate document, so its scripts run normally.
+
+  Reads /feeds/events.json, written at build time by scripts/aggregate-events.js.
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Standalone fragment, meant only to be iframed into /events/. Keep it out
+         of search so it is never indexed as an orphan page. -->
+    <meta name="robots" content="noindex" />
+    <base target="_blank" />
+    <title>UC OSPO Network events</title>
+    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css" rel="stylesheet" />
+    <style>
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        color: #1a1a1a;
+      }
+      #calendar {
+        max-width: 100%;
+      }
+      /* Drop FullCalendar's own outer frame so it doesn't double up with the
+         wrapper border on the parent page. */
+      .fc .fc-scrollgrid {
+        border: 0;
+      }
+      /* Brand-blue event tiles. FullCalendar's default event color renders white
+         text at ~3.7:1 (fails WCAG AA); #00609c gives ~6.6:1. */
+      .fc {
+        --fc-event-bg-color: #00609c;
+        --fc-event-border-color: #00609c;
+      }
+      /* FullCalendar's default day numbers are low-contrast: current-month ones
+         are a light gray, and other-month ones are faded with opacity (which
+         tanks contrast regardless of color). Darken current-month, and replace
+         the other-month opacity with a muted-but-AA-passing gray. */
+      .fc .fc-daygrid-day-number {
+        color: #1a1a1a;
+      }
+      .fc .fc-daygrid-day.fc-day-other .fc-daygrid-day-top {
+        opacity: 1;
+      }
+      .fc .fc-day-other .fc-daygrid-day-number {
+        color: #6b6b6b;
+      }
+      a {
+        color: #00609c;
+      }
+      .evt-modal {
+        position: fixed;
+        inset: 0;
+        z-index: 100000;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 12px;
+        background: rgba(0, 0, 0, 0.4);
+      }
+      .evt-modal[hidden] {
+        display: none;
+      }
+      .evt-card {
+        position: relative;
+        background: #fff;
+        width: 100%;
+        max-width: 420px;
+        max-height: 90%;
+        overflow-y: auto;
+        border-radius: 8px;
+        padding: 18px 18px 20px;
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+      }
+      .evt-close {
+        position: absolute;
+        top: 6px;
+        right: 10px;
+        border: 0;
+        background: none;
+        font-size: 22px;
+        line-height: 1;
+        color: #666;
+        cursor: pointer;
+      }
+      .evt-source {
+        font-size: 0.8em;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        color: #767676;
+      }
+      .evt-card .evt-title {
+        margin: 4px 24px 8px 0;
+        font-size: 1.1rem;
+      }
+      .evt-when,
+      .evt-where {
+        margin: 2px 0;
+        color: #333;
+      }
+      .evt-desc {
+        margin: 8px 0;
+        color: #444;
+        font-size: 0.92em;
+        white-space: pre-wrap;
+      }
+      .evt-link a {
+        display: inline-block;
+        margin-top: 6px;
+        font-weight: 600;
+      }
+      .evt-desc :is(ul, ol) {
+        margin: 6px 0;
+        padding-left: 20px;
+      }
+      .evt-actions {
+        margin: 12px 0 0;
+      }
+      .evt-ics {
+        border: 1px solid #00609c;
+        background: #fff;
+        color: #00609c;
+        border-radius: 6px;
+        padding: 7px 12px;
+        font-size: 0.9em;
+        font-weight: 600;
+        cursor: pointer;
+      }
+      .evt-ics:hover {
+        background: #00609c;
+        color: #fff;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="calendar"></div>
+    <div id="evt-modal" class="evt-modal" hidden>
+      <div class="evt-card" role="dialog" aria-modal="true" aria-labelledby="evt-title">
+        <button type="button" class="evt-close" aria-label="Close">&times;</button>
+        <div class="evt-source"></div>
+        <h3 id="evt-title" class="evt-title">Event details</h3>
+        <p class="evt-when"></p>
+        <p class="evt-where"></p>
+        <div class="evt-desc"></div>
+        <p class="evt-link"></p>
+        <p class="evt-actions">
+          <button type="button" class="evt-ics">Add to calendar</button>
+        </p>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
+    <!-- Vendored at build time by scripts/aggregate-events.js (served from our
+         own origin, not a CDN). Version pinned in package.json. -->
+    <script src="/purify.min.js"></script>
+    <script>
+      (async () => {
+        let events = [];
+        try {
+          const res = await fetch("/feeds/events.json?v=" + Date.now());
+          if (res.ok) events = await res.json();
+        } catch (e) {
+          /* feed unavailable—render empty */
+        }
+
+        // Interactive calendar (month grid + agenda-style list toggle).
+        const cal = new FullCalendar.Calendar(document.getElementById("calendar"), {
+          initialView: "dayGridMonth",
+          headerToolbar: {
+            left: "prev,next today",
+            center: "title",
+            right: "dayGridMonth,listMonth",
+          },
+          height: "auto",
+          eventDisplay: "block",
+          datesSet: fit,
+          eventClick: function (info) {
+            // Show event details in a popover instead of navigating straight to
+            // the link (which would, e.g., drop people into a Zoom meeting).
+            info.jsEvent.preventDefault();
+            showEvent(info.event);
+          },
+          events: events.map((e) => ({
+            title: e.title,
+            start: e.start,
+            end: e.end,
+            allDay: e.allDay,
+            extendedProps: {
+              url: e.url || null,
+              location: e.location || null,
+              description: e.description || null,
+              descriptionHtml: e.descriptionHtml || null,
+              sourceLabel: e.sourceLabel || null,
+            },
+          })),
+        });
+        // Size the parent iframe wrapper to the calendar's real height so there
+        // is no empty space below it (and no clipping). Refit on view change
+        // (datesSet) and window resize. Same origin, so frameElement is reachable.
+        function fit() {
+          requestAnimationFrame(() => {
+            const calEl = document.getElementById("calendar");
+            if (!calEl) return;
+            const h = Math.ceil(calEl.getBoundingClientRect().bottom) + 2;
+            const wrap = window.frameElement && window.frameElement.parentElement;
+            if (wrap) wrap.style.height = h + "px";
+          });
+        }
+
+        cal.render();
+        fit();
+        window.addEventListener("resize", fit);
+
+        // Event-details popover (instead of navigating straight to the link).
+        const modal = document.getElementById("evt-modal");
+        const refs = {
+          source: modal.querySelector(".evt-source"),
+          title: modal.querySelector(".evt-title"),
+          when: modal.querySelector(".evt-when"),
+          where: modal.querySelector(".evt-where"),
+          desc: modal.querySelector(".evt-desc"),
+          link: modal.querySelector(".evt-link"),
+          ics: modal.querySelector(".evt-ics"),
+        };
+        function set(el, text) {
+          el.textContent = text;
+          el.style.display = text ? "" : "none";
+        }
+        // DOMPurify does the sanitizing (allowlist: drops scripts, event
+        // handlers, dangerous URIs, and stray tags like <base>/<form>). This
+        // hook adds the one non-sanitizing touch we want: force event links to
+        // open safely in a new tab.
+        DOMPurify.addHook("afterSanitizeAttributes", (node) => {
+          if (node.tagName === "A") {
+            node.setAttribute("target", "_blank");
+            node.setAttribute("rel", "noopener noreferrer");
+          }
+        });
+        function sanitize(html) {
+          return DOMPurify.sanitize(html || "");
+        }
+        function icsDate(d) {
+          return d.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}/, "");
+        }
+        function icsEscape(s) {
+          return String(s || "")
+            .replace(/([,;])/g, "\\$1")
+            .replace(/\r?\n/g, "\\n");
+        }
+        function addToCalendar(ev) {
+          const p = ev.extendedProps || {};
+          const lines = [
+            "BEGIN:VCALENDAR",
+            "VERSION:2.0",
+            "PRODID:-//UC OSPO Network//Events//EN",
+            "BEGIN:VEVENT",
+            "UID:" + (ev.id || "evt-" + ev.start.getTime()) + "@ucospo.net",
+            "DTSTAMP:" + icsDate(new Date()),
+            "DTSTART:" + icsDate(ev.start),
+          ];
+          if (ev.end) lines.push("DTEND:" + icsDate(ev.end));
+          lines.push("SUMMARY:" + icsEscape(ev.title));
+          if (p.location) lines.push("LOCATION:" + icsEscape(p.location));
+          if (p.description) lines.push("DESCRIPTION:" + icsEscape(p.description));
+          if (p.url) lines.push("URL:" + p.url);
+          lines.push("END:VEVENT", "END:VCALENDAR");
+          const blob = new Blob([lines.join("\r\n")], { type: "text/calendar" });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download =
+            (ev.title || "event").replace(/[^a-z0-9]+/gi, "-").toLowerCase() + ".ics";
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          setTimeout(() => URL.revokeObjectURL(url), 1000);
+        }
+        let lastFocused = null;
+        function showEvent(ev) {
+          const p = ev.extendedProps || {};
+          set(refs.source, p.sourceLabel || "");
+          refs.title.textContent = ev.title || "Event";
+          const dOpts = { weekday: "long", month: "long", day: "numeric", year: "numeric" };
+          const tOpts = { hour: "numeric", minute: "2-digit" };
+          let when = ev.start ? ev.start.toLocaleDateString("en-US", dOpts) : "";
+          if (ev.start && !ev.allDay) {
+            when += " at " + ev.start.toLocaleTimeString("en-US", tOpts);
+            if (ev.end) when += " to " + ev.end.toLocaleTimeString("en-US", tOpts);
+          }
+          set(refs.when, when);
+          set(refs.where, p.location ? "Where: " + p.location : "");
+          const descHtml = sanitize(p.descriptionHtml || "");
+          refs.desc.innerHTML = descHtml;
+          refs.desc.style.display = descHtml ? "" : "none";
+          refs.ics.onclick = () => addToCalendar(ev);
+          refs.link.innerHTML = "";
+          if (p.url) {
+            const a = document.createElement("a");
+            a.href = p.url;
+            a.target = "_blank";
+            a.rel = "noopener noreferrer";
+            a.textContent = "Open event link";
+            refs.link.appendChild(a);
+            refs.link.style.display = "";
+          } else {
+            refs.link.style.display = "none";
+          }
+          lastFocused = document.activeElement;
+          modal.hidden = false;
+          modal.querySelector(".evt-close").focus();
+        }
+        function hideEvent() {
+          modal.hidden = true;
+          if (lastFocused && lastFocused.focus) lastFocused.focus();
+          lastFocused = null;
+        }
+        modal.addEventListener("click", (e) => {
+          if (e.target === modal) hideEvent();
+        });
+        modal.querySelector(".evt-close").addEventListener("click", hideEvent);
+        document.addEventListener("keydown", (e) => {
+          if (e.key === "Escape" && !modal.hidden) hideEvent();
+        });
+        // Trap Tab within the open dialog (focus is moved in on open and restored
+        // on close above) so keyboard users can't tab to the calendar behind it.
+        modal.addEventListener("keydown", (e) => {
+          if (e.key !== "Tab" || modal.hidden) return;
+          const f = [...modal.querySelectorAll('a[href], button:not([disabled])')].filter(
+            (el) => el.offsetParent !== null,
+          );
+          if (!f.length) return;
+          const first = f[0];
+          const last = f[f.length - 1];
+          if (e.shiftKey && document.activeElement === first) {
+            e.preventDefault();
+            last.focus();
+          } else if (!e.shiftKey && document.activeElement === last) {
+            e.preventDefault();
+            first.focus();
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>
