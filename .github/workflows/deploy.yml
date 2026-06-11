@@ -3,6 +3,11 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  # Rebuild on a schedule so the aggregated event feeds (built by `make html`)
+  # stay current with upstream campus calendars even when no one pushes for a
+  # while.
+  schedule:
+    - cron: "0 */12 * * *" # every 12h
   workflow_dispatch:
 
 permissions:
@@ -19,6 +24,7 @@ jobs:
     # Do not attempt to deploy documentation on forks
     if: github.repository_owner == 'UC-OSPO-Network'
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
