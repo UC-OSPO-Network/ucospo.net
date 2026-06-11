@@ -24,19 +24,21 @@ jobs:
           node-version: 24
           cache: npm
 
-      # Skip Puppeteer's postinstall download here: on this runner it lands only
-      # partially (folder without binary), which breaks pa11y. Chrome is installed
-      # cleanly in the next step. (The skip flag must NOT be set on that step, or
-      # it muzzles the explicit install too.)
+      # Puppeteer's own Chrome download is unreliable on the runner (it lands only
+      # partially, or the install no-ops), so skip it everywhere...
       - run: npm ci
         env:
           PUPPETEER_SKIP_DOWNLOAD: "true"
 
-      - name: Install Chrome for Puppeteer (pa11y a11y checks)
-        run: npx puppeteer browsers install chrome
+      # ...and point pa11y/Puppeteer at the Chrome the ubuntu image already ships.
+      - name: Point Puppeteer at the runner's system Chrome
+        run: |
+          CHROME="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || true)"
+          echo "Using Chrome at: ${CHROME:-<none found>}"
+          test -n "$CHROME"
+          "$CHROME" --version
+          echo "PUPPETEER_EXECUTABLE_PATH=$CHROME" >> "$GITHUB_ENV"
 
-      # `make check` runs `npm ci` again internally; skip its Puppeteer download
-      # too so it doesn't re-create the partial folder over the clean install.
       - run: make check
         env:
           PUPPETEER_SKIP_DOWNLOAD: "true"
