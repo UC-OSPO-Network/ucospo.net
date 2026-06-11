@@ -10,7 +10,6 @@ title: Events
 
 Add UC OSPO events to your own calendar app (Google, Apple, Outlook). Subscribe to as many feeds as you like:
 
-- [**All UC OSPO events**](https://ucospo.net/feeds/uc-ospo-all.ics) (everything below, in one feed)
 - [**Network-wide events**](https://ucospo.net/feeds/network.ics) (all-campus meetups and network-level events)
 - By campus:
   - [**UC Davis**](https://ucospo.net/feeds/davis.ics)

@@ -1,7 +1,6 @@
 // Writes the build artifacts the events page consumes:
 //   - events.json        : merged, windowed feed for the calendar embed + list
 //   - <source>.ics        : one subscribable feed per campus (+ network)
-//   - uc-ospo-all.ics      : everything merged, for "subscribe to all"
 //
 // Subscribe-to-any-combination is covered by per-source feeds: a user who wants
 // "network + my campus" subscribes to network.ics and their campus's .ics.
@@ -47,16 +46,10 @@ export function writeOutputs(events, outDir, failedIds = new Set()) {
   }));
   fs.writeFileSync(path.join(outDir, "events.json"), JSON.stringify(json, null, 2));
 
-  // 2. Merged "everything" feed.
-  // TODO: pass through original RRULEs for true recurring subscriptions;
-  // right now feeds carry the in-window expanded occurrences only.
-  fs.writeFileSync(
-    path.join(outDir, "uc-ospo-all.ics"),
-    buildCalendar("UC OSPO Network—All Campuses", events),
-  );
-
-  // 3. One feed per source. Skip sources that failed this run so we keep the
+  // 2. One feed per source. Skip sources that failed this run so we keep the
   //    last good feed instead of overwriting it with an empty one.
+  // TODO: pass through original RRULEs for true recurring subscriptions;
+  //       right now feeds carry the in-window expanded occurrences only.
   let perSourceFeeds = 0;
   for (const source of SOURCES) {
     if (failedIds.has(source.id)) continue;
@@ -68,5 +61,5 @@ export function writeOutputs(events, outDir, failedIds = new Set()) {
     perSourceFeeds++;
   }
 
-  return { count: events.length, icsFeeds: perSourceFeeds + 1, outDir, site: SITE_URL };
+  return { count: events.length, icsFeeds: perSourceFeeds, outDir, site: SITE_URL };
 }

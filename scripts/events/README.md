@@ -22,7 +22,6 @@ It fetches all sources, merges/de-duplicates
 | Output           | Path                                                 | Used by                      |
 | ---------------- | ---------------------------------------------------- | ---------------------------- |
 | Merged feed      | `/feeds/events.json`                                 | the calendar embed + list    |
-| Subscribe-all    | `/feeds/uc-ospo-all.ics`                             | "subscribe to everything"    |
 | Per-source feeds | `/feeds/{network,davis,ucsb,berkeley,ucsd,ucsc}.ics` | subscribe to any combination |
 
 ## Staying fresh & deploy wiring
