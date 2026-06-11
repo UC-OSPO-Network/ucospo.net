@@ -24,4 +24,9 @@ jobs:
           node-version: 24
           cache: npm
 
+      - run: npm ci
+
+      - name: Install Chrome for Puppeteer (pa11y a11y checks)
+        run: npx puppeteer browsers install chrome
+
       - run: make check
