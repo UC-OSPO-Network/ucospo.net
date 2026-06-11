@@ -16,6 +16,12 @@ jobs:
   build-and-check:
     if: github.event.action != 'closed'
     runs-on: ubuntu-latest
+    env:
+      # Puppeteer's npm-ci postinstall download lands only partially on the
+      # runner (folder without binary), which breaks pa11y. Skip the implicit
+      # download in every `npm ci` (including the one inside `make check`) and
+      # install Chrome once, cleanly, in the explicit step below.
+      PUPPETEER_SKIP_DOWNLOAD: "true"
     steps:
       - uses: actions/checkout@v4
 
