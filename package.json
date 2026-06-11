@@ -9,7 +9,7 @@
     "feed": "node scripts/generate-feed.js",
     "events": "node scripts/aggregate-events.js",
     "validate-events": "node scripts/aggregate-events.js --validate-only",
-    "test": "node --test 'scripts/events/*.test.js'",
+    "test": "node --test scripts/events/*.test.js",
     "start": "myst start"
   },
   "devDependencies": {
