@@ -2,7 +2,6 @@
 title: UC Los Angeles OSPO
 ---
 
-# UCLA Open Source Program Office (OSPO)
 
 The UCLA OSPO is based at the [UCLA Library Data Science Center](https://www.library.ucla.edu/visit/locations/data-science-center) and coordinates UCLA's participation in the UC OSPO Network.
 
