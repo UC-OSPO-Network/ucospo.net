@@ -12,7 +12,6 @@ UCLA's OSPO is integrated with DataSquad, the Library Data Science Center's stud
 
 ## Team
 
-
 See more at [**UCLA joins multi-UC campus effort to build network of open source program offices**](https://www.library.ucla.edu/about/news/ucla-joins-multi-uc-campus-effort-to-build-network-of-open-source-program-offices/)
 
 ### Program leads
