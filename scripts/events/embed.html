@@ -17,28 +17,11 @@
     <title>UC OSPO Network events</title>
     <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css" rel="stylesheet" />
     <style>
-      /* Site font (Atkinson Hyperlegible), mirrored from static/css/custom.css.
-         The iframe is a separate document, so the @font-face must be redeclared
-         here. MyST hashes files under static/, so the build (aggregate-events.js)
-         vendors these woff2s to /fonts/ next to the embed, same as purify.min.js. */
-      @font-face {
-        font-family: "Atkinson Hyperlegible";
-        font-style: normal;
-        font-weight: 400;
-        src: url("/fonts/atkinson-hyperlegible-latin-400-normal.woff2") format("woff2");
-      }
-      @font-face {
-        font-family: "Atkinson Hyperlegible";
-        font-style: normal;
-        font-weight: 700;
-        src: url("/fonts/atkinson-hyperlegible-latin-700-normal.woff2") format("woff2");
-      }
       :root {
-        /* Mirror the site brand palette + font (static/css/custom.css) so the
-           embed matches the rest of the page. This iframe is a separate document
-           and does NOT inherit the parent's --pst-* variables, so they're
-           restated here. Change them in one place; keep in sync with custom.css. */
-        --uco-font: "Atkinson Hyperlegible", sans-serif;
+        /* Mirror the site brand palette (static/css/custom.css) so the embed
+           matches the rest of the page. This iframe is a separate document and
+           does NOT inherit the parent's --pst-* variables, so they're restated
+           here. Change them in one place; keep in sync with custom.css. */
         --uco-primary: #003cb3; /* links, event tiles, button (--pst-color-link) */
         --uco-link-hover: #ff9100; /* --pst-color-link-hover */
         --uco-text: #222832; /* body / popover text (--tw-prose-body) */
@@ -66,7 +49,11 @@
       }
       body {
         margin: 0;
-        font-family: var(--uco-font);
+        /* Mirror the site's body font (static/css/custom.css) so the embed
+           behaves the same way the rest of the site does. No @font-face here, so
+           (like the site) this falls back to the reader's sans-serif unless
+           Atkinson is installed locally. */
+        font-family: "Atkinson Hyperlegible", sans-serif;
         color: var(--uco-text);
         /* The parent page sizes this iframe to fit its content, so an internal
            scrollbar is never needed; hide the sub-pixel-overflow one. */
