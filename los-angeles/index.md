@@ -21,7 +21,7 @@ See more at [**UCLA joins multi-UC campus effort to build network of open source
 
 ### Program leads
 
-- Tim Dennis <tdennis@library.ucla.edu>
+- Tim Dennis: [tdennis@library.ucla.edu](mailto:tdennis@library.ucla.edu)
 - Leigh Phan
 
 ### Administrative sponsorship
