@@ -14,7 +14,6 @@ UCLA's OSPO is integrated with DataSquad, the Library Data Science Center's stud
 
 ## Team
 
----
 
 ## title: UC Los Angeles OSPO
 
