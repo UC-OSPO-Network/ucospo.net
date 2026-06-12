@@ -13,17 +13,20 @@ UCLA leads the network's [education and workforce development activities](../abo
 UCLA's OSPO is integrated with DataSquad, the Library Data Science Center's student workforce development program. DataSquad gives students hands-on experience supporting research projects while building practical skills in open source tools and workflows, documentation, software stewardship, and research computing. It's a direct path into open source contribution work that most coursework doesn't cover.
 
 ## Team
+
 ---
-title: UC Los Angeles OSPO
----
+
+## title: UC Los Angeles OSPO
 
 See more at [**UCLA joins multi-UC campus effort to build network of open source program offices**](https://www.library.ucla.edu/about/news/ucla-joins-multi-uc-campus-effort-to-build-network-of-open-source-program-offices/)
 
 **Program leads**
+
 - Tim Dennis <tdennis@library.ucla.edu>
 - Leigh Phan
 
 **Administrative sponsorship**
+
 - Athena Jackson, Campus PI
 - Todd Grappone, Former Campus PI
 
