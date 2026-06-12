@@ -3,18 +3,25 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "myst build --html && node scripts/generate-feed.js",
+    "build": "myst build --html && node scripts/generate-feed.js && node scripts/aggregate-events.js",
     "check-a11y": "serve _build/html -p 4117 & sleep 2 && pa11y-ci --sitemap http://localhost:4117/sitemap.xml --sitemap-find 'http://localhost:[0-9]+' --sitemap-replace 'http://localhost:4117'; kill %1",
     "check-links": "linkinator ./_build/html/ --recurse",
     "feed": "node scripts/generate-feed.js",
+    "events": "node scripts/aggregate-events.js",
+    "validate-events": "node scripts/aggregate-events.js --validate-only",
+    "test": "node --test scripts/events/*.test.js",
     "start": "myst start"
   },
   "devDependencies": {
+    "dompurify": "^3.4.9",
     "feed": "^5.2.0",
     "gray-matter": "^4.0.3",
+    "ical-generator": "^8.0.1",
     "linkinator": "^7.0.0",
     "mystmd": "^1.8.2",
+    "node-ical": "^0.20.1",
     "pa11y-ci": "^4.1.0",
+    "rss-parser": "^3.13.0",
     "serve": "^14.2.6"
   },
   "dependencies": {
