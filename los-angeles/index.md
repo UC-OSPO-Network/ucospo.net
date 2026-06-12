@@ -2,7 +2,6 @@
 title: UC Los Angeles OSPO
 ---
 
-
 The UCLA OSPO is based at the [UCLA Library Data Science Center](https://www.library.ucla.edu/visit/locations/data-science-center) and coordinates UCLA's participation in the UC OSPO Network.
 
 UCLA leads the network's [education and workforce development activities](../about/guiding-themes/education), including open source curriculum development, UC Carpentries workshops, and system-wide training programs.
