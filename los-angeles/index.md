@@ -24,7 +24,7 @@ See more at [**UCLA joins multi-UC campus effort to build network of open source
 - Tim Dennis <tdennis@library.ucla.edu>
 - Leigh Phan
 
-**Administrative sponsorship**
+### Administrative sponsorship
 
 - Athena Jackson, Campus PI
 - Todd Grappone, Former Campus PI
