@@ -17,19 +17,60 @@
     <title>UC OSPO Network events</title>
     <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css" rel="stylesheet" />
     <style>
+      /* Site font (Atkinson Hyperlegible), mirrored from static/css/custom.css.
+         The iframe is a separate document, so the @font-face must be redeclared
+         here. MyST hashes files under static/, so the build (aggregate-events.js)
+         vendors these woff2s to /fonts/ next to the embed, same as purify.min.js. */
+      @font-face {
+        font-family: "Atkinson Hyperlegible";
+        font-style: normal;
+        font-weight: 400;
+        src: url("/fonts/atkinson-hyperlegible-latin-400-normal.woff2") format("woff2");
+      }
+      @font-face {
+        font-family: "Atkinson Hyperlegible";
+        font-style: normal;
+        font-weight: 700;
+        src: url("/fonts/atkinson-hyperlegible-latin-700-normal.woff2") format("woff2");
+      }
       :root {
-        /* Mirror the site brand palette (static/css/custom.css) so the popover
-           matches the rest of the page. This iframe is a separate document and
-           does NOT inherit the parent's --pst-* variables, so they're restated
-           here; keep in sync with custom.css if the brand colors change. */
-        --uco-primary: #003cb3; /* --pst-color-primary / --pst-color-link */
+        /* Mirror the site brand palette + font (static/css/custom.css) so the
+           embed matches the rest of the page. This iframe is a separate document
+           and does NOT inherit the parent's --pst-* variables, so they're
+           restated here. Change them in one place; keep in sync with custom.css. */
+        --uco-font: "Atkinson Hyperlegible", sans-serif;
+        --uco-primary: #003cb3; /* links, event tiles, button (--pst-color-link) */
         --uco-link-hover: #ff9100; /* --pst-color-link-hover */
-        --uco-text: #222832; /* --tw-prose-body */
+        --uco-text: #222832; /* body / popover text (--tw-prose-body) */
+        --uco-surface: #fff; /* popover card + button background */
+        --uco-border: #e0e0e0; /* popover card border */
+        --uco-muted: #767676; /* source label, close button */
+        --uco-daynum: #1a1a1a; /* current-month day number */
+        --uco-daynum-muted: #6b6b6b; /* other-month day number */
+        --uco-event-text: #fff; /* text on event tiles + button hover */
+      }
+      /* Dark mode follows the OS (prefers-color-scheme), which is how the site's
+         book-theme resolves its default/"system" appearance. Values mirror the
+         site's dark palette (#7ab3ff accent, light text on dark surfaces). */
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --uco-primary: #7ab3ff; /* .dark .article a in custom.css */
+          --uco-text: #e3e3e8;
+          --uco-surface: #1f1f1f;
+          --uco-border: #3a3a3a;
+          --uco-muted: #9aa0a6;
+          --uco-daynum: #e3e3e8;
+          --uco-daynum-muted: #8a8a8a;
+          --uco-event-text: #10243f; /* dark text on the lighter dark-mode tiles */
+        }
       }
       body {
         margin: 0;
-        font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        font-family: var(--uco-font);
         color: var(--uco-text);
+        /* The parent page sizes this iframe to fit its content, so an internal
+           scrollbar is never needed; hide the sub-pixel-overflow one. */
+        overflow: hidden;
       }
       #calendar {
         max-width: 100%;
@@ -39,24 +80,25 @@
       .fc .fc-scrollgrid {
         border: 0;
       }
-      /* Brand-blue event tiles. FullCalendar's default event color renders white
-         text at ~3.7:1 (fails WCAG AA); #00609c gives ~6.6:1. */
+      /* Brand-blue event tiles (site --uco-primary). FullCalendar's default event
+         color renders white text at ~3.7:1 (fails WCAG AA); #003cb3 gives ~9:1. */
       .fc {
-        --fc-event-bg-color: #00609c;
-        --fc-event-border-color: #00609c;
+        --fc-event-bg-color: var(--uco-primary);
+        --fc-event-border-color: var(--uco-primary);
+        --fc-event-text-color: var(--uco-event-text);
       }
       /* FullCalendar's default day numbers are low-contrast: current-month ones
          are a light gray, and other-month ones are faded with opacity (which
          tanks contrast regardless of color). Darken current-month, and replace
          the other-month opacity with a muted-but-AA-passing gray. */
       .fc .fc-daygrid-day-number {
-        color: #1a1a1a;
+        color: var(--uco-daynum);
       }
       .fc .fc-daygrid-day.fc-day-other .fc-daygrid-day-top {
         opacity: 1;
       }
       .fc .fc-day-other .fc-daygrid-day-number {
-        color: #6b6b6b;
+        color: var(--uco-daynum-muted);
       }
       a {
         color: var(--uco-primary);
@@ -79,7 +121,8 @@
       }
       .evt-card {
         position: relative;
-        background: #fff;
+        background: var(--uco-surface);
+        border: 1px solid var(--uco-border);
         width: 100%;
         max-width: 420px;
         max-height: 90%;
@@ -96,14 +139,14 @@
         background: none;
         font-size: 22px;
         line-height: 1;
-        color: #666;
+        color: var(--uco-muted);
         cursor: pointer;
       }
       .evt-source {
         font-size: 0.8em;
         text-transform: uppercase;
         letter-spacing: 0.03em;
-        color: #767676;
+        color: var(--uco-muted);
       }
       .evt-card .evt-title {
         margin: 4px 24px 8px 0;
@@ -134,7 +177,7 @@
       }
       .evt-ics {
         border: 1px solid var(--uco-primary);
-        background: #fff;
+        background: var(--uco-surface);
         color: var(--uco-primary);
         border-radius: 6px;
         padding: 7px 12px;
@@ -144,7 +187,7 @@
       }
       .evt-ics:hover {
         background: var(--uco-primary);
-        color: #fff;
+        color: var(--uco-event-text);
       }
     </style>
   </head>

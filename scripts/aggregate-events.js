@@ -84,6 +84,18 @@ try {
     path.join(buildRoot, "purify.min.js"),
   );
   console.log("Copied purify.min.js to build root");
+
+  // Vendor the site's Atkinson Hyperlegible font next to the embed so the iframe
+  // (a separate document that can't inherit the page's @font-face) renders in the
+  // site font. Served at /fonts/; keep the weights in sync with the @font-face in
+  // embed.html and static/css/custom.css.
+  const fontsDir = path.join(buildRoot, "fonts");
+  fs.mkdirSync(fontsDir, { recursive: true });
+  for (const weight of ["400", "700"]) {
+    const file = `atkinson-hyperlegible-latin-${weight}-normal.woff2`;
+    fs.copyFileSync(path.join(__dirname, "..", "static", "fonts", file), path.join(fontsDir, file));
+  }
+  console.log("Copied Atkinson Hyperlegible fonts to build root /fonts");
 } catch (err) {
   console.error(`\nFailed to write build outputs: ${err.message}`);
   process.exit(1);
