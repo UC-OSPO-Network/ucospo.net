@@ -7,58 +7,52 @@ author: Tim Dennis
 tags: [carpentries, ospo, education, lesson, open-source, ucospo]
 ---
 
-The UC OSPO Network is running four Carpentries Collaborative Lesson Development Training (CLDT) cohorts this summer and fall. The software licensing cohort is confirmed and already full.
+Four [Carpentries Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/) (CLDT) cohorts are running through the UC OSPO Network this summer and fall. The software licensing cohort is confirmed and already full.
 
-We're looking for people to fill two roles: join an already-scoped lesson team, or propose a new lesson and form your own team.
+Three cohorts are still forming. You can join an already-scoped team or propose a new lesson and build your own.
 
-## What is Carpentries Collaborative Lesson Development Training (CLDT)?
+## What is CLDT?
 
-Teams of 2-5 people spend the training applying backward design to their lesson idea: who they're teaching, what learners need to be able to do, what exercises will help them get there, and how to structure the lesson in the Carpentries Workbench.
+Teams of 2-5 people spend the training applying backward design to a lesson: who they're teaching, what learners need to be able to do, what exercises get them there, and how to structure it in the [Carpentries Workbench](https://carpentries.github.io/workbench/).
 
-By the end of the training, you'll have a complete lesson outline and a working draft of lesson sections.
+By the end, you'll have a complete outline and a working draft of several sections.
 
-Carpentries certification requires one additional step: teaching part of the lesson and then debriefing with a trainer about what you learned and how the lesson can be improved.
+Certification requires one more step: teaching part of the lesson and debriefing with a trainer on what you learned and what to improve.
 
-Before joining the training, at least one team member must have completed Carpentries Instructor Training or Learner-Centered Teaching.
+Before joining, at least one team member must have completed [Carpentries Instructor Training](https://carpentries.org/instructor-training/) or [Learner-Centered Teaching](https://carpentries.org/learner-centered-teaching/).
 
-## Option 1: Join the "Librarians as Open Source Stewards" Cohort
+## Option 1: join the "Librarians as Open Source Stewards" cohort
 
-This lesson is scoped and ready for a development team. It builds on skills librarians already have: curation, preservation, metadata, and community stewardship, and frames them as open source contributions.
+This lesson is scoped and ready. It builds on skills librarians already have - curation, preservation, metadata, community stewardship - and treats them as open source contributions.
 
-We're looking for 2-4 people to help develop and pilot the lesson.
+We need 2-4 people to help develop and pilot it.
 
-## Option 2: Propose a New Lesson
+## Option 2: propose a new lesson
 
-If you have a lesson idea that fits the open source and OSPO ecosystem - for example security practices for academic open source, open source in non-CS research, governance models, contributing as a non-coder, or reproducibility and open data - we have one remaining slot available for a new team.
+Two slots are open for new lesson ideas. If you have a topic that fits the open source and OSPO ecosystem - security practices for academic open source, open source in non-CS research, governance models, contributing as a non-coder, reproducibility and open data - pitch it.
 
-This is not a firm commitment. All that is required to get started is a topic, a rough sense of who you're teaching, and 2-4 colleagues who would work on it with you.
+To propose, you need a topic and a rough sense of who you're teaching. That's it. If the idea is a good fit, we'll work with you to recruit a development team before the cohort starts.
 
-Finished lessons live in the UC OSPO curriculum catalog and are intended to be taught through UC OSPO and partner programs.
+Finished lessons live in the UC OSPO curriculum catalog and get taught through UC OSPO and partner programs. From there, lessons can move into the broader Carpentries lesson programs or go through [Carpentries Lab](https://carpentries-lab.org), an open peer-review process focused on lesson design, content quality, and accessibility.
 
-From there, there are two possible routes. Lessons can move into the broader Carpentries lesson programs, or they can go through Carpentries Lab, an open peer-review process focused on lesson design, content quality, and accessibility.
+The Lab is currently reviewing by invitation, so early contact matters.
 
-Lab-accepted lessons receive a URL on carpentries-lab.org and are publicized through the Carpentries community. The Lab is currently reviewing by invitation, so reaching out early is helpful.
+## What authors get
 
-## What Authors Get
+Lab acceptance qualifies you to submit to [JOSE](https://jose.theoj.org) (Journal of Open Source Education). The JOSE review is separate - it evaluates an accompanying paper, not the lesson itself.
 
-Lab acceptance creates the option to submit to JOSE (Journal of Open Source Education). The JOSE review is separate - it evaluates an accompanying paper rather than the lesson itself.
+Authors who complete both get a Crossref DOI. The publication is peer-reviewed, indexed by Google Scholar, and follows you if you move institutions. The UC OSPO Network will provide editorial support for teams pursuing JOSE, including mentorship through submission and review.
 
-Authors who complete both processes receive a Crossref DOI. The publication is peer-reviewed, indexed by Google Scholar, and remains part of your scholarly record if you move institutions.
+Lessons staying institutional can still get a Zenodo DOI. We maintain a Zenodo community connected to our GitHub organization, and DOI minting is part of the publication process before a lesson goes public.
 
-The UC OSPO Network will provide editorial support for teams interested in pursuing JOSE publication, including mentorship through the submission and review process.
+You don't need broad adoption to get credit for your work.
 
-Lessons that remain institutional can still receive a Zenodo DOI. The UC OSPO Network maintains a Zenodo community connected to our GitHub organization, and DOI minting is part of the publication process before a lesson goes public.
+We provide Workbench-compatible repository templates and setup support so teams arrive at CLDT ready to build. Most lessons stall at the pilot stage. We actively create teaching opportunities through UC Carpentries and the [CURIOSS network](https://curioss.org/) so lessons get tested and refined.
 
-You do not need broad community adoption to receive credit for your work.
+If contributors move institutions, lessons hosted in the [UC OSPO GitHub organization](https://github.com/UC-OSPO-Network) can continue to be maintained through network oversight.
 
-The UC OSPO Network provides Workbench-compatible repository templates and setup support, so teams arrive at CLDT ready to build.
+## Express interest by June 30
 
-Most lessons stall at the pilot stage. We actively create teaching opportunities through UC Carpentries and the CURIOSS network so lessons can be tested and refined.
+Open an issue on [GitHub](https://github.com/UC-OSPO-Network/education/issues/new?template=cldt-interest.yml) or email [tdennis@library.ucla.edu](mailto:tdennis@library.ucla.edu).
 
-If contributors move institutions, lessons hosted in the UC OSPO GitHub organization can continue to be maintained through network oversight.
-
-## Express Interest by June 30
-
-Open an issue on GitHub or email [tdennis@library.ucla.edu](mailto:tdennis@library.ucla.edu).
-
-Tell us which option you're responding to, who would be joining you, and, for Option 2, a brief description of the lesson idea.
+Tell us which option you're responding to, who would be joining you, and for Option 2, a brief description of the lesson idea.
