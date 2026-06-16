@@ -1,6 +1,5 @@
 ---
 date: 2026-06-15
-draft: true
 title: "Develop an Open Source Lesson with the UC OSPO Network"
 description: "The UC OSPO Network is running four Carpentries Collaborative Lesson Development Training cohorts this summer and fall. We're looking for people to join an already-scoped lesson team or propose a new lesson."
 author: Tim Dennis
