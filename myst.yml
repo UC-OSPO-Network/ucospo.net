@@ -48,6 +48,7 @@ project:
     - title: Blog
       children:
         - file: posts/index.md
+        - file: posts/survey-results/index.md
         - file: posts/repowise-announcement/index.md
         - file: posts/ossprey-announcement/index.md
         - file: posts/uc-open-25-report/index.md
