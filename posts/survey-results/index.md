@@ -6,7 +6,7 @@ author: Virginia Scarlett
 tags: [network, survey, research]
 ---
 
-We are very excited to share that our latest analysis of University of California open source contributors is now live on PLOS One!
+We are very excited to share that our latest analysis of University of California open source contributors is now live on PLOS One! 🚀
 
 Last year, the UC OSPO Network ran a network-wide survey, "Challenges and Opportunities in Open Source," to better understand the open source practices and needs of the UC community. Led by a research team at UC Santa Barbara and encompassing all campuses in the network, the survey set out to identify where open source support is most needed across the UC system. That work is now published, and the UC OSPO Network is already using these findings to guide our strategic priorities. This is just one of our ongoing efforts to make open source work at UC more visible, accessible, rewarding, and sustainable.
 
