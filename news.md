@@ -7,7 +7,7 @@ title: News
 Our analysis of UC open source contributors is now live! Read the
 [blog post](posts/survey-results/index.md).
 
-Develop an Open Source Lesson with the UC OSPO Network
+## Develop an Open Source Lesson with the UC OSPO Network
 
 Four Carpentries CLDT cohorts are running this summer and fall. Express interest by June 30. [Learn more](posts/develop-open-source-lesson-cldt/index.md).
 
