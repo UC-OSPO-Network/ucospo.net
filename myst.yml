@@ -24,9 +24,9 @@ project:
               hidden: true
             - file: about/get-involved/local-stakeholders.md
               hidden: true
-            - file: about/get-involved/network-connection.md
-              hidden: true
             - file: about/get-involved/next-steps.md
+              hidden: true
+            - file: about/get-involved/working-groups.md
               hidden: true
         - file: about/contact.md
         - file: about/guiding-themes/index.md
