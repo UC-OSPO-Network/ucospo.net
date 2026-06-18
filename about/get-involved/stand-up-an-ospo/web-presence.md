@@ -4,7 +4,7 @@ title: Web presence
 
 You need a place on the public web where people can find your OSPO. There are two patterns we've seen in the network:
 
-**Path A: page(s) on ucospo.net.** The network site has space for every campus, and adding your page is a single PR. Examples in the network: [UCSB](../../santa-barbara/).
+**Path A: page(s) on ucospo.net.** The network site has space for every campus, and adding your page is a single PR. Examples in the network: [UCSB](../../../santa-barbara/).
 
 **Path B: page(s) on a campus URL.** Examples in the network: [UCSD](https://datanexus.ucsd.edu/ospo/), [UCSC](https://ucsc-ospo.github.io).
 
@@ -17,7 +17,7 @@ You need a place on the public web where people can find your OSPO. There are tw
     <!-- TODO: governance pending—PI/department sponsor may become a required element. Revisit once the governance proposal is finalized. -->
     <!-- TODO: discuss in leadership group. No campus is currently listing specific projects on their page; reinstating this bullet effectively makes it network practice. -->
     <!-- - **Projects.** Projects you're supporting, stewarding, or affiliated with. If you don't have any yet, list aspirations ("we hope to support…") rather than leaving the section blank—it signals direction. -->
-- **News/events:** upcoming meetups, workshops, talks. Even one upcoming event is enough; the section signals "we're alive." Link also to the [network events page](../../events/index.md).
+- **News/events:** upcoming meetups, workshops, talks. Even one upcoming event is enough; the section signals "we're alive." Link also to the [network events page](../../../events/index.md).
   <!-- TODO: events/calendar handling needs its own page or major subsection. Team Up vs. campus Google Calendar push/pull direction TBD—verify how Santa Barbara is currently set up. Link to events calendar once it exists. -->
 - **Get involved:** spell out concrete next steps for visitors—joining the [public UC OSPO Network Slack](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg), subscribing to your campus mailing list, attending the next meetup. Even one of these is enough to start.
 
@@ -29,7 +29,7 @@ You need a place on the public web where people can find your OSPO. There are tw
 :::{div}
 :class: page-nav
 
-[← What it means to declare yourself an OSPO](./what-it-means.md)
+[← Connecting with local stakeholders](./local-stakeholders.md)
 
 [Mailing list →](./mailing-list.md)
 :::

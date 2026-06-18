@@ -13,14 +13,14 @@ An OSPO works largely by connecting efforts that already exist on your campus ra
 
 ## How to approach them
 
-Start where the energy already is—the office or person already leaning toward open source. You're connecting existing work, not asking for a budget on day one, so a warm, specific introduction tends to land better than a broad campaign. One good partnership often opens the next.
+Start where the energy already is—an office or person already leaning toward open source. You're connecting existing work, not asking for a budget on day one, so a warm, specific introduction tends to land better than a broad campaign. One good partnership often opens the next.
 
 Reach out to Laura (community manager) for help here too: the Network can tell you who plays these roles at other campuses, share what kinds of partnerships have worked, and sometimes make an introduction directly.
 
 :::{div}
 :class: page-nav
 
-[← First meetup](./first-meetup.md)
+[← What it means to declare yourself an OSPO](./what-it-means.md)
 
-[Where to go from here →](./next-steps.md)
+[Web presence →](./web-presence.md)
 :::

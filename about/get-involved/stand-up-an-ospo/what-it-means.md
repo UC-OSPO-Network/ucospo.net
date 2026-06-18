@@ -20,7 +20,7 @@ Joining the Network as a Member Organization comes with a few concrete commitmen
 - Sponsors champion the vitality, viability and long-term sustainability of the Network at their Member Organization and across the UC system. Ideally, they also identify opportunities for increased coherence within the Member Organization, building connections with entities whose mission overlaps with that of the UC OSPO Network.
 - The acceptance of a Member Organization into the Network is ultimately a bilateral agreement between the Stewardship Group and the Sponsor. Member Organizations can also withdraw from the Network—this is a unilateral action that rests with the Sponsor.
 - Sponsors should be leaders with division-wide executive authority and final oversight of institutional budgets and strategic operations. For university campuses, they should either be, or report directly to, the Chancellor, Executive Vice Chancellor, Provost, or a Vice Chancellor. Exceptions will be considered on a case-by-case basis.
-- **Participation in at least one Working Group:** every Member Organization commits to taking part in at least one of the Network's [Working Groups](./working-groups.md).
+- **Participation in at least one Working Group:** every Member Organization commits to taking part in at least one of the Network's [Working Groups](../working-groups.md).
 - **A delegate to the Stewardship Group:** each Member Organization names one delegate to take part in the Network's stewardship and decision-making (a back-up delegate is allowed).
 
 How you meet these is up to you—the autonomy principle applies here too.
@@ -40,7 +40,7 @@ Beyond your Sponsor, the earliest conversations are usually with the people whos
 :::{div}
 :class: page-nav
 
-[← Get Involved](./)
+[← Stand up an OSPO](./)
 
-[Web presence →](./web-presence.md)
+[Connecting with local stakeholders →](./local-stakeholders.md)
 :::

@@ -847,12 +847,3 @@ figcaption,
 .page-nav-next-only p {
   margin: 0;
 }
-
-/* TEMPORARILY HIDDEN: while the packet pages themselves are hidden from
-   nav (myst.yml), the prev/next links would just lead readers to draft
-   stub pages. Remove this block when the packet ships. */
-.page-nav,
-.page-nav-prev-only,
-.page-nav-next-only {
-  display: none;
-}

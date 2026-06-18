@@ -12,7 +12,7 @@ Before planning anything of your own, point your community to what the Network a
 - **Coworking & Office Hours:** casual drop-in sessions on Tuesdays and Thursdays where you and your community can show up anytime.
 - **Workshops:** the Network runs workshops on open source topics like licensing, governance, and contribution—some in collaboration with [CURIOSS](https://curioss.org/).
 
-See the [events calendar](../../events/index.md) for what's coming up. Because the Network has the virtual side well covered, your own first meetup is a chance to do the one thing it can't do for you: bring your local community together in person.
+See the [events calendar](../../../events/index.md) for what's coming up. Because the Network has the virtual side well covered, your own first meetup is a chance to do the one thing it can't do for you: bring your local community together in person.
 
 ## Make it in person
 
@@ -37,7 +37,7 @@ All roles and experience levels are welcome—students, staff, faculty, research
 ## A few practical tips
 
 - **Pick an easy time:** noon works well across the Network and tends to dodge teaching conflicts.
-- **Capture sign-ups:** put out two QR codes—one linking the [Get Involved page](./) on ucospo.net, so attendees meet the Network and can join Slack, and one linking your own mailing-list signup. Your attendees are your most engaged audience.
+- **Capture sign-ups:** put out two QR codes—one linking the [Get Involved page](../) on ucospo.net, so attendees meet the Network and can join Slack, and one linking your own mailing-list signup. Your attendees are your most engaged audience.
 
 Reach out to Laura (community manager) to help plan your first meetup, cross-promote it across the Network, and talk through what's worked on other campuses.
 
@@ -46,5 +46,5 @@ Reach out to Laura (community manager) to help plan your first meetup, cross-pro
 
 [← Mailing list](./mailing-list.md)
 
-[Connecting with local stakeholders →](./local-stakeholders.md)
+[Where to go from here →](./next-steps.md)
 :::
