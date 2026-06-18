@@ -1,0 +1,27 @@
+name: Validate event sources
+
+# Source-health alert for the campus event aggregator. Runs on a schedule and
+# fails loudly (red run + GitHub notification) if any campus feed breaks, so a
+# campus can't silently drop off the calendar.
+#
+# This does NOT deploy anything. Refreshing the live feeds is handled by the
+# scheduled run in deploy.yml (which rebuilds and redeploys to GitHub Pages).
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12h
+  workflow_dispatch: {}
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
+      - run: npm ci
+      # Exits non-zero (failing the run) if any source errors.
+      - run: npm run validate-events

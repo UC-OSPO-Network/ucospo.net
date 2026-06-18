@@ -76,6 +76,65 @@ static/          # images, CSS, and other static assets
 - Blog post frontmatter uses `tags` as an array: `tags: [tag1, tag2]`.
 - Admonitions use MyST syntax: `:::{note}`, `:::{tip}`, `:::{important}`.
 
+## Writing a blog post
+
+Blog posts live in `posts/`. Each post is a folder containing an `index.md` plus any images it uses. Adding a post involves creating the post itself and then registering it in a few places so it appears in the site's navigation, blog index, and news feed.
+
+### 1. Create the post
+
+Make a folder named with the post's URL slug and add an `index.md`:
+
+```text
+posts/my-post-slug/index.md
+```
+
+Start it with frontmatter:
+
+```yaml
+---
+date: 2026-06-16
+title: "Your Post Title"
+description: "One-sentence summary used on the blog card and in the Atom feed."
+author: Author Name
+tags: [tag1, tag2] # optional
+---
+```
+
+- `date` (required) drives the newest-first ordering everywhere. Use `YYYY-MM-DD`.
+- `title` and `description` (required) are reused on the blog index card and in the Atom feed.
+- For multiple authors, use a list instead of `author`:
+
+  ```yaml
+  authors:
+    - First Author
+    - Second Author
+  ```
+
+- Put images in the same folder as the post and reference them by filename (e.g. `![Alt text](my-image.png)` or a `:::{figure}` directive). Include descriptive alt text, which both markdownlint and pa11y-ci check for.
+
+### 2. Register the post
+
+Update these three files so the post is linked from the rest of the site:
+
+| File             | What to add                                                                         |
+| ---------------- | ----------------------------------------------------------------------------------- |
+| `posts/index.md` | A `:::{card}` block linking to `/posts/my-post-slug`, newest-first.                 |
+| `myst.yml`       | A `- file: posts/my-post-slug/index.md` entry under the Blog section, newest-first. |
+| `news.md`        | A short heading and a line linking to the post (only if it's newsworthy).           |
+
+Copy an existing entry in each file and adjust the title, link, and date.
+
+### 3. What updates automatically
+
+You do **not** need to touch these; they regenerate from post frontmatter at build time:
+
+- **Atom feed** (`scripts/generate-feed.js`, run during `make html`): picks up any `posts/*/index.md` that has a `date` and `title`.
+- **Sitemap**: MyST generates `_build/html/sitemap.xml` on build.
+
+### 4. Preview and check
+
+Run `make serve` and confirm the post renders, appears on the blog index, and is linked from the sidebar nav. `make html` followed by the link and accessibility checks (see below) catches broken links and missing alt text before you open a PR.
+
 ## Linting and formatting
 
 This project uses [pre-commit](https://pre-commit.com) with:

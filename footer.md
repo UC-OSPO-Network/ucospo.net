@@ -1,4 +1,4 @@
-% Site footer — referenced from myst.yml site.parts.footer
+% Site footer — referenced from site.yml
 
 :::::{div}
 :class: uco-footer col-screen

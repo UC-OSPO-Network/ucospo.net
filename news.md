@@ -2,6 +2,15 @@
 title: News
 ---
 
+## Survey Analysis Published in PLOS One
+
+Our analysis of UC open source contributors is now live! Read the
+[blog post](posts/survey-results/index.md).
+
+## Develop an Open Source Lesson with the UC OSPO Network
+
+Four Carpentries CLDT cohorts are running this summer and fall. Express interest by June 30. [Learn more](posts/develop-open-source-lesson-cldt/index.md).
+
 ## UC Open 2026 CfP
 
 Save the date! [UC Open 2026](events/uc-open-2026/index.md) will be held 22-23 April at Berkeley.

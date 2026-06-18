@@ -21,7 +21,24 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
           cache: npm
 
+      # Puppeteer's own Chrome download is unreliable on the runner (it lands only
+      # partially, or the install no-ops), so skip it everywhere...
+      - run: npm ci
+        env:
+          PUPPETEER_SKIP_DOWNLOAD: "true"
+
+      # ...and point pa11y/Puppeteer at the Chrome the ubuntu image already ships.
+      - name: Point Puppeteer at the runner's system Chrome
+        run: |
+          CHROME="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || true)"
+          echo "Using Chrome at: ${CHROME:-<none found>}"
+          test -n "$CHROME"
+          "$CHROME" --version
+          echo "PUPPETEER_EXECUTABLE_PATH=$CHROME" >> "$GITHUB_ENV"
+
       - run: make check
+        env:
+          PUPPETEER_SKIP_DOWNLOAD: "true"

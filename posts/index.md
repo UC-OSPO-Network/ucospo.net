@@ -6,6 +6,20 @@ title: Blog
 :class: blog-cards
 ::::{grid} 1 2 3 3
 
+:::{card} Our Open Source Survey Analysis Is Live on PLOS One
+:link: /posts/survey-results
+:footer: June 16, 2026
+
+The UC OSPO Network's analysis of UC open source contributors is now published in PLOS One, alongside an infographic and project summary.
+:::
+
+:::{card} Develop an Open Source Lesson with the UC OSPO Network
+:link: /posts/develop-open-source-lesson-cldt
+:footer: June 15, 2026
+
+The UC OSPO Network is running four Carpentries CLDT cohorts this summer and fall. Join an already-scoped lesson team or propose a new lesson idea.
+:::
+
 :::{card} Introducing RepoWise
 :link: /posts/repowise-announcement
 :footer: November 25, 2025
