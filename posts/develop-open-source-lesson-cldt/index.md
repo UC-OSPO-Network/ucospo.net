@@ -50,7 +50,7 @@ We provide Workbench-compatible repository templates and setup support so teams 
 
 If contributors move institutions, lessons hosted in the [UC OSPO GitHub organization](https://github.com/UC-OSPO-Network) can continue to be maintained through network oversight.
 
-## Express interest by June 30
+## Express interest by July 17
 
 Open an issue on [GitHub](https://github.com/UC-OSPO-Network/education/issues/new?template=cldt-interest.yml) or email [tdennis@library.ucla.edu](mailto:tdennis@library.ucla.edu).
 
