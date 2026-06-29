@@ -12,7 +12,18 @@ project:
       children:
         - file: about/about.md
         - file: about/services.md
-        - file: about/get-involved.md
+        - title: Get Involved
+          children:
+            - file: about/get-involved/index.md
+            - file: about/get-involved/stand-up-an-ospo/index.md
+              children:
+                - file: about/get-involved/stand-up-an-ospo/what-it-means.md
+                - file: about/get-involved/stand-up-an-ospo/local-stakeholders.md
+                - file: about/get-involved/stand-up-an-ospo/web-presence.md
+                - file: about/get-involved/stand-up-an-ospo/mailing-list.md
+                - file: about/get-involved/stand-up-an-ospo/first-meetup.md
+                - file: about/get-involved/stand-up-an-ospo/next-steps.md
+            - file: about/get-involved/working-groups.md
         - file: about/contact.md
         - file: about/guiding-themes/index.md
           children:
