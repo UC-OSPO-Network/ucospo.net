@@ -13,7 +13,7 @@ Thank you for investing your time in contributing to our project!
 
 - You can preview your changes to the site either:
   - Locally, as follows:
-    - Install Node.js v20+ and run `npm install`
+    - Install Node.js and run `npm install` (use the version in [`.nvmrc`](.nvmrc); run `nvm use`)
     - Run `make serve` (or `npx myst start`)
   - Via deploy preview (branch PRs only—not available for fork PRs):
     - Open a PR from a branch in this repo
@@ -81,7 +81,7 @@ Here are some resources to help you get started with open source contributions:
 
     - Commit locally as you progress (`git add` and `git commit`)
     - To preview your changes:
-      - Install Node.js v20+ and run `npm install`
+      - Install Node.js and run `npm install` (use the version in [`.nvmrc`](.nvmrc); run `nvm use`)
       - Run `make serve` (or `npx myst start`)
     - To check accessibility: run `npm run build` then `npm run check-a11y`
     - To make sure your code passes linting and formatting checks, you can:
