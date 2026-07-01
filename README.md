@@ -4,7 +4,7 @@ The [UC OSPO Network](https://ucospo.net) website, built with [MyST](https://mys
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org) v20+ and npm
+- [Node.js](https://nodejs.org) and npm. Use the version in [`.nvmrc`](.nvmrc) (run `nvm use`); Node 24.17.0+ currently breaks the accessibility check due to an upstream regression.
 - [Python](https://www.python.org) 3.10+ (optional, for pre-commit hooks)
 
 ## Local development

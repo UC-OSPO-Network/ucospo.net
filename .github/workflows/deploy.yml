@@ -30,7 +30,11 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 24
+          # Pinned to match pr.yml: Node 24.17.0 regressed reading gzipped HTTP
+          # responses (node-fetch "Premature close"). `make html` fetches
+          # external calendar feeds, so keep deploy on the same known-good Node.
+          # Revisit the pin once a fixed Node 24.x ships.
+          node-version: 24.16.0
           cache: npm
 
       # To set up a cross-repository deploy key:
