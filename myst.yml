@@ -49,6 +49,7 @@ project:
     - title: Blog
       children:
         - file: posts/index.md
+        - file: posts/sloan-sustainability-grant/index.md
         - file: posts/survey-results/index.md
         - file: posts/develop-open-source-lesson-cldt/index.md
         - file: posts/repowise-announcement/index.md
