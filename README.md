@@ -148,11 +148,11 @@ If you push without running pre-commit locally, the `pre-commit.ci` bot will che
 
 ## CI and deployment
 
-The site is deployed to [GitHub Pages](https://pages.github.com) via GitHub Actions.
+The site's production build is deployed to [GitHub Pages](https://pages.github.com) via GitHub Actions.
 
-**On push to `main`:** the site is built, checked (linkinator + pa11y-ci), and deployed to the `gh-pages` branch.
+**On push to `main`:** `.github/workflows/deploy.yml` builds the site with `make html` and publishes it to the `UC-OSPO-Network.github.io` repo (also on a 12-hour schedule, to keep the aggregated event feeds current).
 
-**On pull requests:** the same build and checks run. Branch PRs also get a deploy preview at `ucospo.net/pr-preview/pr-<number>/` (fork PRs get the build check but not the preview).
+**On pull requests:** `.github/workflows/pr.yml` runs the build and checks (linkinator + pa11y-ci). Branch PRs also get a **Netlify deploy preview** (built from `netlify.toml`, linked from the PR's checks); fork PRs get the build check but not the preview. The Netlify preview is not production.
 
 CI checks that run on every PR:
 
