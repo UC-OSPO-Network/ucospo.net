@@ -18,7 +18,7 @@ The grant supports work across several fronts:
 - **A Sustainability Playbook:** documenting the UC model's practices, resources, and successes for other universities to adapt, including procurement guidance for UCOP
 - **Network services:** completing the [UC Open Source Repository Browser (UC ORB)](../../oss-resources/index.md), extending it across UC and to peer institutions, and advancing systemwide guidance on open source release practices
 - **Education:** delivering field-tested [curriculum on open source contribution](https://ucospo.net/education), community engagement, licensing, and security, integrated with the [Carpentries](../develop-open-source-lesson-cldt/index.md)
-- **Events:** coordinating [open source events](<(../../events/index.md)>) across the system, including the UC Open 2027 conference and campus community gatherings
+- **Events:** coordinating [open source events](../../events/index.md) across the system, including the UC Open 2027 conference and campus community gatherings
 - **Documentation and dissemination:** maintaining the Network's public presence (ucospo.net, its UC GitHub repositories, and this blog) and sharing what it learns through peer-reviewed publications, conference talks, and CURIOSS white papers
 
 This work runs on participation. Come to an [all-campus virtual meetup or campus event](../../events/index.md), or [get in touch](../../about/get-involved.md) to join the community! If your campus is weighing whether to start an OSPO, or you are at another university system curious about the model or the UC ORB, we would especially like to hear from you.
