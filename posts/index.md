@@ -6,6 +6,13 @@ title: Blog
 :class: blog-cards
 ::::{grid} 1 2 3 3
 
+:::{card} New Sloan Foundation Grant Will Help Make the UC OSPO Network Permanent
+:link: /posts/sloan-sustainability-grant
+:footer: July 1, 2026
+
+A new Alfred P. Sloan Foundation grant funds the next phase of the UC OSPO Network: permanent footing, plus growth across shared services, education, events, and open dissemination.
+:::
+
 :::{card} Our Open Source Survey Analysis Is Live on PLOS One
 :link: /posts/survey-results
 :footer: June 16, 2026
