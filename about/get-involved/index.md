@@ -15,12 +15,12 @@ No matter how you're joining the community—as an individual or as a new instit
 ### Attend events
 
 - **All-Campus Virtual Meetups**: First Thursday of every month at 10am. Each campus takes turns hosting.
-- **Coworking & Office Hours**: Tuesdays at 10am, Thursdays at 1pm ([see the events calendar](../events/index.md)).
-- **Campus Meetups**: Some campuses hold their own local events. Check the [events calendar](../events/index.md) or ask in Slack.
+- **Coworking & Office Hours**: Tuesdays at 10am, Thursdays at 1pm ([see the events calendar](../../events/index.md)).
+- **Campus Meetups**: Some campuses hold their own local events. Check the [events calendar](../../events/index.md) or ask in Slack.
 
 There's no minimum attendance requirement. Come to what interests you, when you can.
 
-See our [Contact page](contact.md) for campus-specific contacts and mailing lists.
+See our [Contact page](../contact.md) for campus-specific contacts and mailing lists.
 
 ---
 
