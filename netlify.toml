@@ -1,5 +1,10 @@
 [build.environment]
   NODE_VERSION = "20"
+  # pa11y-ci pulls in puppeteer, whose Chrome download is unreliable and breaks
+  # `npm ci` on Netlify's build cache. The Netlify build never runs puppeteer
+  # (myst + feed + events + linkinator only), so skip the download. Mirrors the
+  # PUPPETEER_SKIP_DOWNLOAD fix applied to the GitHub Actions workflows in #342.
+  PUPPETEER_SKIP_DOWNLOAD = "true"
 
 [build]
   publish = "_build/html"

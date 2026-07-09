@@ -41,8 +41,8 @@ flowchart TD
     D --> E["Identify a lead contact\nat your institution"]
     E --> F["Welcome aboard! 🎉"]
 
-    style A fill:#fef3c7,color:#000,stroke:#fef3c7
-    style F fill:#fef3c7,color:#000,stroke:#fef3c7
+    style A fill:#fef3c7,stroke:#fef3c7
+    style F fill:#fef3c7,stroke:#fef3c7
 ```
 
 :::

@@ -25,6 +25,7 @@ project:
                 - file: about/get-involved/stand-up-an-ospo/next-steps.md
             - file: about/get-involved/working-groups.md
         - file: about/contact.md
+        - file: about/governance.md
         - file: about/guiding-themes/index.md
           children:
             - file: about/guiding-themes/discovery.md

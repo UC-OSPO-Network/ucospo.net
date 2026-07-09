@@ -30,7 +30,12 @@ A monthly gathering for the UC open source community. Each meetup is co-hosted b
 
 #### This month (July 2)
 
-UC Davis hosts with a focus on POSE—the NSF program for building open source ecosystems—and its evolution into PESOSE. We'll look at how the program is structured, what's changed in how proposals are evaluated, and what that means for UC researchers thinking about applying, plus hear from researchers who've won these awards about what they've built. Speakers to be announced!
+UC Davis hosts with a focus on POSE—the NSF program for building open source ecosystems—and its evolution into PESOSE. We'll look at how the program is structured, what's changed in how proposals are evaluated, and what that means for UC researchers thinking about applying, plus hear from researchers who've won these awards about what they've built.
+
+We’ll have two guest speakers:
+
+- Ana Lucia Cordova, Director of Strategic Initiatives and Research Funding, UC Davis Office of Research
+- Katia Obraczka, Professor of Computer Science and Engineering, UC Santa Cruz
 
 All roles—students, faculty, staff, researchers—and experience levels are welcome!
 
