@@ -28,14 +28,14 @@ Add UC OSPO events to your own calendar app (Google, Apple, Outlook). Subscribe 
 
 A monthly gathering for the UC open source community. Each meetup is co-hosted by a different campus in the network, with the hosting campus setting the agenda for the first half (demos, workshops, guest speakers, whatever they want to share), and the second half an open community call for network updates, project sharing, and Q&A.
 
-#### This month (July 2)
+#### This month (August 6)
 
-UC Davis hosts with a focus on POSE—the NSF program for building open source ecosystems—and its evolution into PESOSE. We'll look at how the program is structured, what's changed in how proposals are evaluated, and what that means for UC researchers thinking about applying, plus hear from researchers who've won these awards about what they've built.
+UC Santa Barbara is hosting this month, with a focus on how AI is changing open source workflows. We'll look at where AI tools are showing up across the open source lifecycle—writing and reviewing code, documentation, maintenance, and community work—and chat about what we find is actually useful, where the friction is, and what it means for maintainers and researchers working in the open.
 
-We’ll have two guest speakers:
+We'll have two guest speakers:
 
-- Ana Lucia Cordova, Director of Strategic Initiatives and Research Funding, UC Davis Office of Research
-- Katia Obraczka, Professor of Computer Science and Engineering, UC Santa Cruz
+- Rachel King, Postdoctoral Researcher, NCEAS, UC Santa Barbara
+- Carlo Broderick, Data Science Researcher, NCEAS, UC Santa Barbara
 
 All roles—students, faculty, staff, researchers—and experience levels are welcome!
 
