@@ -9,7 +9,7 @@ You don't have to do everything at once. Here's a rough sequence that's worked f
 - **Join the conversation:** hop into the [Network Slack](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg) and introduce yourself, and come to an [All-Campus Virtual Meetup or coworking session](../../../events/index.md) to meet people.
 - **Claim a little space on the web:** even a single [page on ucospo.net](./web-presence.md) tells people you exist and gives you somewhere to point them.
 - **Start finding your people:** discovery is the heart of an OSPO—begin a [mailing list](./mailing-list.md) and start surfacing who's already doing open source around you.
-- **Open the Sponsor conversation:** identifying an [executive Sponsor](./what-it-means.md) can e the slowest step, so start it early.
+- **Open the Sponsor conversation:** identifying an [executive Sponsor](./what-it-means.md) can be the slowest step, so start it early.
 
 ## In your first few months
 

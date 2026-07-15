@@ -2,7 +2,7 @@
 title: Mailing list
 ---
 
-A mailing list is one of the most durable ways to stay in touch with your community. We gently encourage folks to join our [Slack](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg) workspace so they can participate fully in our community the benefits of the Network, but maintain mailing lists for those who don't want join us on Slack.
+A mailing list is one of the most durable ways to stay in touch with your community. We gently encourage folks to join our [Slack](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg) workspace so they can participate fully in our community and enjoy the benefits of the Network, but we maintain mailing lists for those who don't want to join us on Slack.
 
 ## Platform options
 
