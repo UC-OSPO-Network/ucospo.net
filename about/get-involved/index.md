@@ -28,24 +28,9 @@ See our [Contact page](../contact.md) for campus-specific contacts and mailing l
 
 The UC OSPO Network is open to all UC-affiliated institutions—campuses, labs (such as Lawrence Berkeley National Lab), the California Digital Library (CDL), and other UC entities. Some of our member institutions have formal Open Source Program Offices; others have individuals or teams who champion open source work in various roles. Both are welcome.
 
-Joining the network is less like filling out an application and more like joining a community—because that's what it is. We encourage you to spend some time getting to know the people, the work, and the rhythm of the network before taking on a more formal role.
+Coming in as an institution goes a little deeper than joining as an individual: institutions join the Network as **Member Organizations**, which comes with a few commitments—an executive Sponsor, participation in a Working Group, and a delegate to the Stewardship Group.
 
-:::{div}
-:class: mermaid-centered
-
-```{mermaid}
-flowchart TD
-    A["Interested in joining?"] --> B["Join our Slack workspace"]
-    B --> C["Attend community events\nand meetings"]
-    C --> D["Connect with the network team"]
-    D --> E["Identify a lead contact\nat your institution"]
-    E --> F["Welcome aboard! 🎉"]
-
-    style A fill:#fef3c7,stroke:#fef3c7
-    style F fill:#fef3c7,stroke:#fef3c7
-```
-
-:::
+Our **[Stand up an OSPO](stand-up-an-ospo/index.md)** guide covers what membership means and walks through the practical first moves—declaring yourself an OSPO, building a web presence and mailing list, hosting a first meetup, connecting with local stakeholders, and where to go from there—in order, and with the trade-offs.
 
 ### Start a conversation
 
@@ -55,11 +40,3 @@ When you're ready to explore a closer connection to the network, get in touch:
 - **Stephanie Lieggi**, Network Chair: [slieggi@ucsc.edu](mailto:slieggi@ucsc.edu)
 
 We'll talk with you about what open source work looks like at your institution, what you're hoping to get out of the network, and how we can support you.
-
-### Identify a lead contact
-
-As the relationship develops, we'll ask your institution to identify a lead contact—someone who can serve as the primary point of connection between your institution and the network. This person doesn't need to run an OSPO (not every member institution has one). They just need to be engaged with open source work and willing to participate in network activities.
-
-### Join the network
-
-From there, you'll be welcomed into the network's regular activities, including working groups and leadership discussions. The specifics of how new members are integrated into network governance are still evolving, and we're committed to making the process transparent and collaborative.
