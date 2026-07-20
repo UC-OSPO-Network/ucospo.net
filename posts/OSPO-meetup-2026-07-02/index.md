@@ -14,7 +14,7 @@ The OSPO Monthly Meetup also has expanded its network by inviting participants f
 
 ## Demystifying the NSF PESOSE Grant
 
-![Logo Banner of the US National Science Foundation.](https://ucospo.net/posts/OSPO-meetup-2026-07-02/nsf-banner.png)
+![Logo Banner of the US National Science Foundation.](nsf-banner.png)
 
 The logo of the US National Science Foundation in the middle with a person in a lab outfit on the right edge of the banner.
 
