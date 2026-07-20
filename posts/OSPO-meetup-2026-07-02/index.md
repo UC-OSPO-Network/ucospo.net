@@ -14,6 +14,10 @@ The OSPO Monthly Meetup also has expanded its network by inviting participants f
 
 ## Demystifying the NSF PESOSE Grant
 
+![Logo Banner of the US National Science Foundation.](https://ucospo.net/posts/OSPO-meetup-2026-07-02/nsf-banner.png)
+
+The logo of the US National Science Foundation in the middle with a person in a lab outfit on the right edge of the banner.
+
 The spotlight of the July meetup was an in-depth panel discussion on the National Science Foundation’s [PESOSE](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems/nsf26-506/solicitation) (Pathways to Enable Secure Open-Source Ecosystems) program. 
 [Vessela Ensberg](https://library.ucdavis.edu/person/vessela-ensberg/), UC Davis Library’s Associate Director of Product & Strategy, introduced the three tracks of PESOSE that cover a wide range of awards: 
 1) Scoping and planning governance for the open source tool;
