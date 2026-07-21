@@ -7,7 +7,7 @@ author: Chenrong Zheng
 
 On July 2, 2026, the UC open source community reached an exciting new milestone.
 Our monthly campus-specific gatherings officially transitioned into one unified all-campus virtual meetup.
-Hosted by the [UC Davis OSPO](https://library.ucdavis.edu/ospo/) team, this kickoff event set a powerful precedent for how our network can collaborate, share resources, and grow together.
+This first meetup in the series was hosted by the [UC Davis OSPO](https://library.ucdavis.edu/ospo/) team, setting a powerful precedent for how our network can collaborate, share resources, and grow together.
 Under this new format, the first half of the meeting consists of workshops or guest speakers moderated by one UC campus.
 The second half is dedicated to community updates and chats.
 The OSPO Monthly Meetup also has expanded its network by inviting participants from outside the UC system, such as a program manager from ArchivesSpace, proving that our network is becoming a hub for the broader open source community.
