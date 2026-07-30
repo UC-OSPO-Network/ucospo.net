@@ -20,6 +20,7 @@ title: OSS Resources
 - [Contributing Template Guide](template-guides/contributing-guide.md)
 - [Code of Conduct Template Guide](template-guides/code-of-conduct-guide.md)
 - [License Template Guide](template-guides/license-guide.md)
+- [Citation Template Guide](template-guides/citation-guide.md)
 
 ## Education
 
