@@ -82,6 +82,7 @@ project:
             - file: oss-resources/template-guides/contributing-guide.md
             - file: oss-resources/template-guides/code-of-conduct-guide.md
             - file: oss-resources/template-guides/license-guide.md
+            - file: oss-resources/template-guides/citation-guide.md
         - file: oss-resources/survey/index.md
         - title: Educational resources
           url: https://ucospo.net/education
