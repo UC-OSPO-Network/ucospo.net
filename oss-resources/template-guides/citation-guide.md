@@ -22,7 +22,7 @@ Would you rather write it by hand? Our [CITATION.cff template](https://github.co
 
 ## The essentials
 
-Four fields are required—here's what each one is for:
+Four fields are required, and here's what each one is for:
 
 - `cff-version`: which version of the Citation File Format you're using. Leave this as `1.2.0` unless you have a reason to change it.
 - `message`: the note tools show alongside your citation, e.g. "If you use this software, please cite it using the metadata from this file."
