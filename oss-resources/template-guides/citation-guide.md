@@ -1,5 +1,5 @@
 ---
-title: Citation Guide
+title: CITATION Guide
 date: 2026-07-30
 description: "How to Make Your Software Citable with CITATION.cff"
 author: Laura Langdon
