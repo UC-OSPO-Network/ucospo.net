@@ -89,7 +89,7 @@ A monthly gathering for the UC open source community. Each meetup is hosted by a
 ::::{div}
 :class: btn-center-wrapper
 
-<a href="/events#all-campus-virtual-meetups-monthly" class="btn-ucsb-secondary">Register for the meetup</a>
+<a href="/events#all-campus-virtual-meetups-monthly" class="btn-ucsb-primary">Register for the meetup</a>
 ::::
 
 

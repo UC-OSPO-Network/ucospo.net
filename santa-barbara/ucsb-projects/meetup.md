@@ -42,7 +42,7 @@ backgrounds and experience levels are welcome.
 
 If the Open Source Lounge doesn't work for you, you can still socialize with us!
 We're on Slack (see [Stay informed](#ucsb-stay-informed) section above), and
-we're in the [monthly all-campus virtual open source meetup](https://ucospo.net/events/#all-campus-virtual-meetups-monthly).
+we're in the [monthly all-campus virtual open source meetup](https://ucospo.net/events/#all-campus-virtual-meetups-monthly). Note: The UCSB Open Source Meetup has now merged with the all-campus open source meetup.
 
 ## Get involved!
 
