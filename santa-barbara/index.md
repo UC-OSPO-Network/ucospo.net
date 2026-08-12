@@ -48,7 +48,6 @@ You can unsubscribe at any time.
 
 :::::{card} Current projects
 
-
 ### UCSB Open Source Lounge
 
 ::::{div}
@@ -72,7 +71,6 @@ be a part of a larger open source community at UCSB.
 <a href="/santa-barbara/ucsb-projects/meetup" class="btn-ucsb-secondary">Visit the lounge webpage</a>
 ::::
 
-
 ### All-campus meetup
 
 ::::{div}
@@ -91,7 +89,6 @@ A monthly gathering for the UC open source community. Each meetup is hosted by a
 
 <a href="/events#all-campus-virtual-meetups-monthly" class="btn-ucsb-primary">Register for the meetup</a>
 ::::
-
 
 ### Sustainability Playbook
 
