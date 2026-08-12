@@ -2,6 +2,10 @@
 title: News
 ---
 
+## New Sloan Grant Keeps the UC OSPO Network Building Toward Long-Term Sustainability
+
+[A new Alfred P. Sloan Foundation grant](./posts/sloan-sustainability-grant//index.md) funds the next phase of the UC OSPO Network: permanent footing, plus growth across shared services, education, events, and open dissemination.
+
 ## Survey Analysis Published in PLOS One
 
 Our analysis of UC open source contributors is now live! Read the

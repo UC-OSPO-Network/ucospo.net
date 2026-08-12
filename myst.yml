@@ -12,8 +12,20 @@ project:
       children:
         - file: about/about.md
         - file: about/services.md
-        - file: about/get-involved.md
+        - title: Get Involved
+          children:
+            - file: about/get-involved/index.md
+            - file: about/get-involved/stand-up-an-ospo/index.md
+              children:
+                - file: about/get-involved/stand-up-an-ospo/what-it-means.md
+                - file: about/get-involved/stand-up-an-ospo/local-stakeholders.md
+                - file: about/get-involved/stand-up-an-ospo/web-presence.md
+                - file: about/get-involved/stand-up-an-ospo/mailing-list.md
+                - file: about/get-involved/stand-up-an-ospo/first-meetup.md
+                - file: about/get-involved/stand-up-an-ospo/next-steps.md
+            - file: about/get-involved/working-groups.md
         - file: about/contact.md
+        - file: about/governance.md
         - file: about/guiding-themes/index.md
           children:
             - file: about/guiding-themes/discovery.md
@@ -48,6 +60,8 @@ project:
     - title: Blog
       children:
         - file: posts/index.md
+        - file: posts/OSPO-meetup-2026-07-02/index.md
+        - file: posts/sloan-sustainability-grant/index.md
         - file: posts/survey-results/index.md
         - file: posts/develop-open-source-lesson-cldt/index.md
         - file: posts/repowise-announcement/index.md
@@ -69,6 +83,7 @@ project:
             - file: oss-resources/template-guides/contributing-guide.md
             - file: oss-resources/template-guides/code-of-conduct-guide.md
             - file: oss-resources/template-guides/license-guide.md
+            - file: oss-resources/template-guides/citation-guide.md
         - file: oss-resources/survey/index.md
         - title: Educational resources
           url: https://ucospo.net/education
