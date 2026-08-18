@@ -28,14 +28,9 @@ Add UC OSPO events to your own calendar app (Google, Apple, Outlook). Subscribe 
 
 A monthly gathering for the UC open source community. Each meetup is co-hosted by a different campus in the network, with the hosting campus setting the agenda for the first half (demos, workshops, guest speakers, whatever they want to share), and the second half an open community call for network updates, project sharing, and Q&A.
 
-#### This month (August 6)
+#### This month (September 3)
 
-UC Santa Barbara is hosting this month, with a focus on how AI is changing open source workflows. We'll look at where AI tools are showing up across the open source lifecycle—writing and reviewing code, documentation, maintenance, and community work—and chat about what we find is actually useful, where the friction is, and what it means for maintainers and researchers working in the open.
-
-We'll have two guest speakers:
-
-- Rachel King, Postdoctoral Researcher, NCEAS, UC Santa Barbara
-- Carlo Broderick, Data Science Researcher, NCEAS, UC Santa Barbara
+UC Santa Cruz is hosting this month, with a focus on mentorship as a way to build community. We'll explore how mentoring—formal and informal—helps open source projects grow their contributors, pass on knowledge, and build the relationships that keep a community healthy over the long term.
 
 All roles—students, faculty, staff, researchers—and experience levels are welcome!
 
@@ -60,11 +55,34 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1)
   - Add to your calendar: [.ics file](/static/ics-files/OSPO-Virtual-Coffee-Thursdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXA1M2Y4dG1pZGR2djNob2NkcnYwaXV0bTNfMjAyNTA1MTVUMjAwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
+### Alignment Group (open governance meeting)
+
+The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community is welcome to join and listen in. We meet on the fourth Wednesday of the month at 11am Pacific / 18:00 UTC.
+
+**When**: Wednesday, August 26 2026 at 11am Pacific / 18:00 UTC\
+**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
+**Who**: Working-group delegates, and anyone interested in how the Network is run
+
 ## Past Events
 
 ### UC Open 2026
 
 View the full [UC Open Source Summit 2026 page](uc-open-2026/index.md) for session recordings, speaker bios, and more.
+
+### August 2026 All-Campus Virtual Meetup
+
+**When**: Thursday, August 6 2026 at 10am\
+**Where**: Zoom\
+**Who**: Anyone (including students and staff!)
+
+UC Santa Barbara hosted this month's meetup, with a focus on how AI is changing open source workflows—where AI tools are showing up across the open source lifecycle (writing and reviewing code, documentation, maintenance, and community work), what's actually useful, where the friction is, and what it means for maintainers and researchers working in the open.
+
+Guest speakers:
+
+- Rachel King, Postdoctoral Researcher, NCEAS, UC Santa Barbara
+- Carlo Broderick, Data Science Researcher, NCEAS, UC Santa Barbara
+
+You can [watch the recording](https://youtu.be/j1o5z6V23TA) if you missed it!
 
 ### March 2026 All-Campus Virtual Meetup
 
