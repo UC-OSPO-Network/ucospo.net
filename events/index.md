@@ -28,14 +28,9 @@ Add UC OSPO events to your own calendar app (Google, Apple, Outlook). Subscribe 
 
 A monthly gathering for the UC open source community. Each meetup is co-hosted by a different campus in the network, with the hosting campus setting the agenda for the first half (demos, workshops, guest speakers, whatever they want to share), and the second half an open community call for network updates, project sharing, and Q&A.
 
-#### This month (August 6)
+#### This month (September 3)
 
-UC Santa Barbara is hosting this month, with a focus on how AI is changing open source workflows. We'll look at where AI tools are showing up across the open source lifecycle—writing and reviewing code, documentation, maintenance, and community work—and chat about what we find is actually useful, where the friction is, and what it means for maintainers and researchers working in the open.
-
-We'll have two guest speakers:
-
-- Rachel King, Postdoctoral Researcher, NCEAS, UC Santa Barbara
-- Carlo Broderick, Data Science Researcher, NCEAS, UC Santa Barbara
+UC Santa Cruz is hosting this month, with a focus on mentorship as a way to build community. We'll explore how mentoring—formal and informal—helps open source projects grow their contributors, pass on knowledge, and build the relationships that keep a community healthy over the long term.
 
 All roles—students, faculty, staff, researchers—and experience levels are welcome!
 
