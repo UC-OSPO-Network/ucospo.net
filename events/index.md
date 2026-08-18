@@ -59,7 +59,7 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 
 The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community is welcome to join and listen in. We meet on the fourth Wednesday of the month at 11am Pacific / 18:00 UTC.
 
-**When**: Wednesday, August 26 2026 at 11am Pacific / 18:00 UTC
+**When**: Wednesday, August 26 2026 at 11am Pacific / 18:00 UTC\
 **Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
 **Who**: Working-group delegates, and anyone interested in how the Network is run
 
