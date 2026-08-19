@@ -30,9 +30,9 @@ A monthly gathering for the UC open source community. Each meetup is co-hosted b
 
 #### This month (September 3)
 
-UC Santa Cruz is hosting this month, with a focus on mentorship as a way to build community. We'll explore how mentoring—formal and informal—helps open source projects grow their contributors, pass on knowledge, and build the relationships that keep a community healthy over the long term.
+This month UC Santa Cruz hosts and the topic is mentorship as community building: how mentoring and peer mentorship help build and sustain open source communities. We'll hear about UC Santa Cruz's Open Source Research Experience (OSRE) and peer-mentorship programs, including how participants go on to become mentors themselves and build capacity even when faculty can't mentor directly. Speakers: Stephanie Lieggi and Hari Kuttivelil (OSRE mentoring), and Emily Lovell and Silas Morgan (peer mentorship). The second half is an open community call for network updates, project sharing, and general OSS chat.
 
-All roles—students, faculty, staff, researchers—and experience levels are welcome!
+Students, staff, faculty, researchers, and folks outside UC all welcome!
 
 :::{div}
 :class: register-btn
