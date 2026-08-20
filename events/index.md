@@ -39,6 +39,19 @@ Students, staff, faculty, researchers, and folks outside UC all welcome!
 [Register here](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1)
 :::
 
+### Git & GitHub Workshop
+
+**When**: Tuesday, September 15 2026, 10am-12pm Pacific / 1-3pm Eastern\
+**Where**: Online (registration required)\
+**Who**: Anyone—no programming or Git experience required, all instituitional affialtions welcome!
+
+Working with collaborators on code and code-like documents can be quite a headache. Traditional version history often has poor tools for managing conflicting contributions, saving and accessing historical checkpoints, and handling experimentation. This workshop will introduce participants to Git, a piece of software and a collaboration mindset that resolves all of these issues and more. Representatives from the Syracuse University and University of California Open Source Program Offices will walk participants through their first Git contributions, help them collaborate with each other using GitHub, and discuss Git's place in the world of AI coding. No programming or Git experience required. No software installations required.
+
+:::{div}
+:class: register-btn
+[Register here](https://www.eventbrite.com/e/1998342861292)
+:::
+
 ### Coworking/Office Hours (ongoing)
 
 We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:
