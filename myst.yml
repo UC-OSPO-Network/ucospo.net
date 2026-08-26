@@ -23,7 +23,15 @@ project:
                 - file: about/get-involved/stand-up-an-ospo/mailing-list.md
                 - file: about/get-involved/stand-up-an-ospo/first-meetup.md
                 - file: about/get-involved/stand-up-an-ospo/next-steps.md
-            - file: about/get-involved/working-groups.md
+            - file: about/get-involved/working-groups/index.md
+              title: Working Groups
+              children:
+                - file: about/get-involved/working-groups/discovery.md
+                - file: about/get-involved/working-groups/sustainability-playbook.md
+                - file: about/get-involved/working-groups/oss-licensing.md
+                - file: about/get-involved/working-groups/education.md
+                - file: about/get-involved/working-groups/uc-open-steering-committee.md
+                - file: about/get-involved/working-groups/high-level-outreach.md
         - file: about/contact.md
         - file: about/governance.md
         - file: about/guiding-themes/index.md
