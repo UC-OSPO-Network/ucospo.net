@@ -40,4 +40,4 @@ The BoF session filled its room and revealed strong and enthusiastic interest in
 
 ## Looking to the Future
 
-Over the coming months, the OSPO Network will continue to develop its Open Source Repository Browser (ORB), and begin connecting open source projects with aspiring contributors. Santa Cruz will host UC Open, a UC-wide conference aiming to bring attention to open source efforts throughout the UC system and collaborative activities under the UC OSPO Network. Stay tuned!
+Over the coming months, the OSPO Network will continue to develop its Open Repository Browser (ORB), and begin connecting open source projects with aspiring contributors. Santa Cruz will host UC Open, a UC-wide conference aiming to bring attention to open source efforts throughout the UC system and collaborative activities under the UC OSPO Network. Stay tuned!

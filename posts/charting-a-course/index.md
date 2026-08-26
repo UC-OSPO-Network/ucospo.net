@@ -40,7 +40,7 @@ Morning sessions included:
    The afternoon was dedicated to thematic discussions on Discovery, Sustainability, and Education before continuing our Timeline and Deliverable discussion:
 
 6. **Discovery Theme.**
-   Facilitated by Amber Budden (UCSB) and Emily Lovell (UCSC), the priority is to get the GitHub scraping run at each of the campuses to enable discovery of open source projects and the development of a UC Open Source Repository Browser (ORB).
+   Facilitated by Amber Budden (UCSB) and Emily Lovell (UCSC), the priority is to get the GitHub scraping run at each of the campuses to enable discovery of open source projects and the development of a UC Open Repository Browser (ORB).
    We discussed the need for more meetings across the people working on this theme to determine what kind of data is useful, how to get clean and useful data, and what data to collect.
 
 7. **Sustainability Theme.**
