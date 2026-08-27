@@ -12,8 +12,6 @@ The UCSB Open Source lounge is a casual co-working group where students, faculty
 and staff come together and work on their open source goals in a supportive
 environment. Join us and be a part of a larger open source community at UC.
 
-(ucsb-stay-informed)=
-
 ## Stay informed
 
 - **Google calendar:** You can
@@ -27,7 +25,7 @@ environment. Join us and be a part of a larger open source community at UC.
 
 ## Logistics
 
-**NEW!** Starting in September 2026, we will meet every week at a new time:
+**NEW!** Starting on October 1st, 2026, we will meet every week at a new time:
 
 **Thursdays, 2-4pm in Library room 1411 or on Zoom.**
 
