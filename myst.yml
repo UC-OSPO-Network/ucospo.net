@@ -43,6 +43,9 @@ project:
               title: San Diego
             - file: santa-barbara/index.md
               title: Santa Barbara
+              children:
+                - file: santa-barbara/ucsb-projects/lounge.md
+                  hidden: true
             - title: Santa Cruz
               url: https://ucsc-ospo.github.io/
     - file: news.md
