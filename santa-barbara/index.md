@@ -150,7 +150,6 @@ an OSPO. Building on the work of the Open Source Programs Team, the OSPO will
 draw on resources developed by the UC OSPO Network, and its priorities will be
 shaped by both UC leadership and the UCSB open source community.
 
-
 ## Get connected
 
 <!-- ::::{div}
