@@ -15,7 +15,7 @@ You don't have to do everything at once. Here's a rough sequence that's worked f
 
 - **Hold a first meetup:** an in-person [first gathering](./first-meetup.md) makes the OSPO real and surfaces your community.
 - **Map your local partners:** reach out to the [stakeholders](./local-stakeholders.md) whose work already touches open source.
-- **Join a Working Group:** plug into a [Working Group](../working-groups.md) so you're connected to the Network's actual work, not just its meetings.
+- **Join a Working Group:** plug into a [Working Group](../working-groups/index.md) so you're connected to the Network's actual work, not just its meetings.
 
 ## Staying connected
 
@@ -23,7 +23,7 @@ The Network runs on a few simple channels—keep these handy:
 
 - **Slack:** [the Network workspace](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg) for day-to-day conversation.
 - **Events:** the [events calendar](../../../events/index.md) for meetups, coworking, and workshops.
-- **Working Groups:** [where the work happens](../working-groups.md).
+- **Working Groups:** [where the work happens](../working-groups/index.md).
 
 ## When to ask for help
 

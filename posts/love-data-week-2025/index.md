@@ -18,7 +18,7 @@ The **UC OSPO Network** is a multi-campus initiative designed to **support open-
 
 Our efforts focus on three key areas:
 
-- **Discovery** – Identifying and tracking open-source projects within UC to better understand trends, contributions, and opportunities. Tools like the **UC Open Source Repository Browser (UC ORB)** will help visualize UC's OSS footprint.
+- **Discovery** – Identifying and tracking open-source projects within UC to better understand trends, contributions, and opportunities. Tools like the **UC Open Repository Browser (UC ORB)** will help visualize UC's OSS footprint.
 - **Education** – Conducting a **gap analysis** of existing open-source training resources (Carpentries, CodeRefinery, Turing Way, and UC-developed materials) and developing new content to address gaps.
 - **Sustainability** – Creating **best practices, governance models, and community-building strategies** to help ensure long-term viability for UC open-source projects.
 
