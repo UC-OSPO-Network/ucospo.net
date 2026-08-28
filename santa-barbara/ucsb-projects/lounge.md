@@ -27,7 +27,7 @@ environment. Join us and be a part of a larger open source community at UC.
 
 **NEW!** Starting on October 1st, 2026, we will meet every week at a new time:
 
-**Thursdays, 2-4pm in Library room 1411 or on Zoom.**
+**Thursdays, 2:30-4:30pm in Library room 1411 or on Zoom.**
 
 Room 1411 is in the Sara Miller McCune Arts Library, which is inside the UCSB
 library.
