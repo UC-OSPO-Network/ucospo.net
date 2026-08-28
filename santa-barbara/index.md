@@ -23,7 +23,7 @@ source activities, expertise, and community connections.
 We're here to answer any and all questions about open source at UCSB. We
 provide all the services described on the
 [Network's Services page](../about/services.md), in collaboration with our
-partners across the Network. Send us an email at ospo@library.ucsb.edu to
+partners across the Network. Send us an email at [ospo@library.ucsb.edu](ospo@library.ucsb.edu) to
 introduce yourself today.
 
 If you'd like to keep up with our activities, please consider joining our
