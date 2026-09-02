@@ -1,0 +1,73 @@
+name: "All-Campus Virtual Meetup: host intake"
+description: Host campuses submit their session details for a monthly all-campus virtual meetup.
+title: "[Meetup] Host intake: <month> <year>, <campus>"
+labels: ["meetup-intake"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for hosting an all-campus virtual meetup! Fill this out and we'll turn it into the event listing on [ucospo.net/events](https://ucospo.net/events).
+
+        These meetups are the **first Thursday of the month at 10am Pacific**. Your campus sets the agenda for the first half (or up to about 45 minutes if there aren't many community updates).
+
+        The event will link to the ongoing Zoom registration page for this series of meetups, so there's nothing you need to do there.
+  - type: dropdown
+    id: host-campus
+    attributes:
+      label: Host campus
+      options:
+        - UC Berkeley
+        - UC Davis
+        - UCLA
+        - UC Law SF
+        - UC San Diego
+        - UC San Francisco
+        - UC Santa Barbara
+        - UC Santa Cruz
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Meetup date
+      description: Meetups are the first Thursday of the month at 10am Pacific. Enter the date as YYYY-MM-DD.
+    validations:
+      required: true
+  - type: input
+    id: topic-title
+    attributes:
+      label: Topic title
+      description: Short title for the events page (e.g. "How AI is changing open source workflows").
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: 2-3 sentences on what attendees can expect.
+    validations:
+      required: true
+  - type: dropdown
+    id: format
+    attributes:
+      label: Session format
+      options:
+        - Talk + Q&A
+        - Fireside chat
+        - Panel
+        - Demo
+        - Workshop
+        - Discussion
+        - Other (describe in "Anything else")
+    validations:
+      required: true
+  - type: textarea
+    id: speakers
+    attributes:
+      label: Speaker(s)
+      description: "One speaker per line, each on a single line: name, campus or affiliation, role, then a sentence or two of bio."
+      placeholder: |
+        Jane Doe (UC Berkeley), PI on SomeProject. Jane is a researcher at SomeOrg working on something.
+        Sam Lee (UC Davis), maintainer of OtherProject. Sam has run OtherProject's contributor onboarding since 2024.
+    validations:
+      required: false
