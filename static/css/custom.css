@@ -115,7 +115,7 @@ html {
   border-color: var(--ucsb-panel2-bg);
 }
 
-.suspb-image {
+.ucsb-float-left {
   float: left;
   width: 250px;
   height: auto;
@@ -154,14 +154,9 @@ html {
   position: absolute;
 }
 
-.ucsb-hero-img {
-  width: 100%;
-  height: auto;
-}
-
-.ucsb-hero-caption {
-  font-size: 0.5rem;
-  margin-top: 0;
+.ucsb-fig-caption-text figcaption {
+  font-weight: normal !important;
+  font-size: 16px !important;
 }
 
 @media screen and (max-width: 480px) {
@@ -241,7 +236,7 @@ html {
 
 .ucsb-float-right {
   float: right;
-  width: 360px;
+  width: 250px;
   margin: 0 0 1em 1em;
 }
 

@@ -4,12 +4,13 @@ title: UC Santa Barbara Open Source Program
 
 <!-- HERO IMAGE -->
 
-:::{figure} ../static/images/ucsb/library2_1600.jpg
+```{figure} ../static/images/ucsb/library2_1600.jpg
 :alt: UCSB library exterior
-:class: ucsb-hero-img
+:class: ucsb-fig-caption-text
 
-_Image courtesy of UCSB_
-:::
+Image courtesy of the UCSB library
+
+```
 
 ## About us
 
@@ -19,14 +20,11 @@ have traditionally been distributed across various parts of the campus. The Open
 Source Programs Team at UCSB serves as a central hub, bringing together open
 source activities, expertise, and community connections.
 
-UC Santa Barbara is a proud partner in the UC OSPO Network, collaborating
-alongside five other UC campuses. Our support for both the UCSB community and
-the broader network includes:
-
-- Identifying and cataloging open source projects developed at UC campuses
-- Creating educational materials, curricula, and best practice guidelines
-- Offering services and resources aimed at ensuring the sustainability of open
-  source projects
+We're here to answer any and all questions about open source at UCSB. We
+provide all the services described on the
+[Network's Services page](../about/services.md), in collaboration with our
+partners across the Network. Send us an email at [ospo@library.ucsb.edu](ospo@library.ucsb.edu) to
+introduce yourself today.
 
 If you'd like to keep up with our activities, please consider joining our
 mailing list, which includes a monthly newsletter and occasional announcements.
@@ -47,7 +45,7 @@ You can unsubscribe at any time.
 
 :::::{card} Current projects
 
-### UCSB Open Source Meetup
+### UCSB Open Source Lounge
 
 ::::{div}
 :class: ucsb-float-right
@@ -58,18 +56,35 @@ You can unsubscribe at any time.
 
 ::::
 
-Once a month, the UCSB Open Source Programs Team hosts a casual, virtual, open
-source meetup. The meetup is open to UCSB students, faculty, and staff of all
-backgrounds and experience levels. The format rotates between attendee-led
-discussions and the "Open Source Lounge", a coworking group where we tackle our
-individual open source goals. This is a great opportunity to meet others
-interested in open source, share tips and experiences, and be a part of a larger
-open source community at UCSB.
+Starting October 1 2026, the UCSB Open Source Lounge will meet every week!
+The UCSB Open Source Lounge is a co-working space where UCSB students, faculty,
+and staff of all experience levels can come work on their open source goals in
+a supportive environment. Join us to meet others interested in open source and
+be a part of a larger open source community at UCSB.
 
 ::::{div}
 :class: btn-center-wrapper
 
-<a href="/santa-barbara/ucsb-projects/meetup" class="btn-ucsb-secondary">Visit the meetup webpage!</a>
+<a href="/santa-barbara/ucsb-projects/lounge" class="btn-ucsb-secondary">Visit the lounge webpage</a>
+::::
+
+### All-campus meetup
+
+::::{div}
+:class: ucsb-clearfix
+
+```{image} ../static/images/ucsb/chris_montgomery_unsplash.jpg
+:alt: A cozy scene of a Zoom meeting on a laptop, with a mug next to the laptop
+:class: ucsb-float-left
+```
+
+A monthly gathering for the UC open source community. Each meetup is hosted by a different campus in the network. The main content may consist of demos, guest speakers, or something else, and the end of the meeting is reserved for network updates and Q&A.
+::::
+
+::::{div}
+:class: btn-center-wrapper
+
+<a href="/events#all-campus-virtual-meetups-monthly" class="btn-ucsb-secondary">Register for the meetup</a>
 ::::
 
 ### Sustainability Playbook
@@ -79,11 +94,11 @@ open source community at UCSB.
 
 ```{image} ../static/images/ucsb/susPB_logo.svg
 :alt: UC OSPO Logo with the words 'sustainability playbook' in stylized text
-:class: suspb-image
+:class: ucsb-float-right
 ```
 
 Since our recent survey showed that many open source contributors are struggling
-with project sustainability, we plan to create a website with resources on the topic.
+with project sustainability, we are creating a website with resources on the topic.
 We are calling it the "Sustainability Playbook". It will be tailored to UC throughout,
 pointing readers to the relevant staff offices that can help, with tips and tricks for
 navigating UC's administrative channels. The playbook will be rich with interviews
@@ -117,10 +132,9 @@ sustaining an open source project.
 
 :::
 
-Our team recently spearheaded a survey of nearly 300 open source contributors
+In 2025, our team spearheaded a survey of nearly 300 open source contributors
 as part of the UC OSPO Network's discovery activities. You can
-[read more about the UC Open Source Contributor Survey](https://ucospo.net/oss-resources/survey/). The
-preprint is available now, and the paper is undergoing peer review.
+[read more about the UC Open Source Contributor Survey here](https://ucospo.net/oss-resources/survey/).
 ::::
 
 :::::
@@ -130,25 +144,11 @@ preprint is available now, and the paper is undergoing peer review.
 ## What's the status of the UCSB OSPO?
 
 At present, UCSB does not have a dedicated Open Source Programs Office. Rather,
-we have a cross-functional team of UCSB staff with knowledge and expertise in
-open source who are developing the strategies, know-how, and connections needed
-to create an OSPO.
-
-We envision that the UCSB OSPO will:
-
-- Help students, faculty, and staff to exchange knowledge and build connections,
-- Promote open source awareness on campus,
-- Advise on open source licenses,
-- Help our campus to leverage the full potential of open source,
-- And more!
-
-Building on the work of the Open Source Programs Team, the OSPO will draw on
-resources developed by the UC OSPO Network, and its priorities will be shaped by
-both UC leadership and the UCSB open source community.
-
-The current UCSB open source programs team includes staff members at the UCSB
-Library, and we expect that the Library will continue to be the center of
-gravity for this work for the foreseeable future.
+we have a cross-functional team of UCSB staff with expertise in open source
+who are developing the strategies, know-how, and connections needed to create
+an OSPO. Building on the work of the Open Source Programs Team, the OSPO will
+draw on resources developed by the UC OSPO Network, and its priorities will be
+shaped by both UC leadership and the UCSB open source community.
 
 ## Get connected
 
@@ -162,7 +162,7 @@ gravity for this work for the foreseeable future.
 - To stay informed about our activities,
   [join our mailing list](https://signup.e2ma.net/signup/2045162/1984731/).
 - For inquiries, [email us](mailto:ospo@library.ucsb.edu).
-- We're also on Slack! If you'd like an invitation, please email us.
+- We're also on Slack! [Get the invite link here](../about/contact.md).
 - Our team:
   - Virginia Scarlett, Open Source Programs Specialist
   - Amber Budden, Associate University Librarian for Digital Strategies
