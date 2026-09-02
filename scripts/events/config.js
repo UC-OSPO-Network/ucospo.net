@@ -76,6 +76,12 @@ export const SOURCES = [
     // a project dependency.
     url: "https://ucsc-ospo.github.io/event/index.xml",
   },
-  // UCLA: intentionally omitted. No OSPO calendar yet—events only land on the
-  // library's general events list. Add a source here when UCLA exposes a feed.
+  {
+    id: "ucla",
+    label: "UCLA",
+    type: "ics",
+    // LibCal "Data Science Center" calendar. Carries the UC Carpentries
+    // workshop series alongside the UCLA Open Source Meetup.
+    url: "https://calendar.library.ucla.edu/ical_subscribe.php?k=a90ea6388b&cid=7056",
+  },
 ];

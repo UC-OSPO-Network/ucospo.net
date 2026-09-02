@@ -19,10 +19,10 @@ It fetches all sources, merges/de-duplicates
 /windows them, and writes into
 `_build/html/feeds/`:
 
-| Output           | Path                                                 | Used by                      |
-| ---------------- | ---------------------------------------------------- | ---------------------------- |
-| Merged feed      | `/feeds/events.json`                                 | the calendar embed + list    |
-| Per-source feeds | `/feeds/{network,davis,ucsb,berkeley,ucsd,ucsc}.ics` | subscribe to any combination |
+| Output           | Path                                                      | Used by                      |
+| ---------------- | --------------------------------------------------------- | ---------------------------- |
+| Merged feed      | `/feeds/events.json`                                      | the calendar embed + list    |
+| Per-source feeds | `/feeds/{network,davis,ucsb,berkeley,ucsd,ucsc,ucla}.ics` | subscribe to any combination |
 
 ## Staying fresh & deploy wiring
 
@@ -64,7 +64,7 @@ Two consequences worth knowing:
 | UC Berkeley / BIDS (LiveWhale) | `ics` + `rssUrl` | ✅ .ics for times/location, RSS for descriptions (see below) |
 | UC San Diego (Localist)        | `localist`       | ✅ library group + `ospo` tag filter (0 upcoming now)        |
 | UC Santa Cruz (Hugo)           | `ucsc-rss`       | ✅ MVP via RSS; frontmatter upgrade pending                  |
-| UCLA                           | (none)           | omitted: no OSPO calendar yet                                |
+| UCLA (LibCal)                  | `ics`            | ✅ "Data Science Center" calendar                            |
 
 LiveWhale's `.ics` export omits `DESCRIPTION` entirely, so the Berkeley source
 also sets `rssUrl`: `fetchIcs` keeps the `.ics` for location/times/all-day and
