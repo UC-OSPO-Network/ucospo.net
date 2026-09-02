@@ -1,6 +1,6 @@
-name: "All-Campus Virtual Meetup: host intake"
-description: Host campuses submit their session details for a monthly all-campus virtual meetup.
-title: "[Meetup] Host intake: <month> <year>, <campus>"
+name: "Host an all-campus virtual meetup"
+description: Tell us about the session your campus is hosting.
+title: "Meetup: "
 labels: ["meetup-intake"]
 body:
   - type: markdown
@@ -11,6 +11,8 @@ body:
         These meetups are the **first Thursday of the month at 10am Pacific**. Your campus sets the agenda for the first half (or up to about 45 minutes if there aren't many community updates).
 
         The event will link to the ongoing Zoom registration page for this series of meetups, so there's nothing you need to do there.
+
+        Please finish the issue title above with the month and your campus, like `Meetup: October 2026, UC Santa Barbara`.
   - type: dropdown
     id: host-campus
     attributes:
@@ -45,20 +47,6 @@ body:
     attributes:
       label: Description
       description: 2-3 sentences on what attendees can expect.
-    validations:
-      required: true
-  - type: dropdown
-    id: format
-    attributes:
-      label: Session format
-      options:
-        - Talk + Q&A
-        - Fireside chat
-        - Panel
-        - Demo
-        - Workshop
-        - Discussion
-        - Other (describe in "Anything else")
     validations:
       required: true
   - type: textarea
