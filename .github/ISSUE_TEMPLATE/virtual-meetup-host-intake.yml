@@ -30,8 +30,7 @@ body:
     id: date
     attributes:
       label: Meetup date
-      description: Meetups are the first Thursday of the month at 10am Pacific. Give the date as YYYY-MM-DD, as in the example below.
-      placeholder: "2026-10-01"
+      description: Meetups are the first Thursday of the month at 10am Pacific. Enter the date as YYYY-MM-DD.
     validations:
       required: true
   - type: input
