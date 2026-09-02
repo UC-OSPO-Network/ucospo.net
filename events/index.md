@@ -80,6 +80,38 @@ Working with collaborators on code and code-like documents can be quite a headac
 [Register here](https://www.eventbrite.com/e/1998342861292)
 :::
 
+### UC Carpentries: Core Elements of Citable and Discoverable Research Software
+
+**When**: Wednesday, September 23 2026, 8:30am-12:30pm Pacific / 15:30-19:30 UTC\
+**Where**: Zoom ([registration required](https://calendar.library.ucla.edu/event/17386215))\
+**Who**: Researchers and the professionals who support them; no prior setup needed
+
+Learn practical steps for making research software citable, discoverable, and reusable. Working in your browser with a GitHub repository, you'll add an open source license, create a `CITATION.cff` file, make a versioned release with a DOI, and improve your project's documentation and metadata.
+
+Co-presented by the **UC OSPO Network** and **UC Carpentries**, and hosted by UCLA. It's one session in a wider UC Carpentries series running September 8-23; you can register for this workshop on its own or for as many of the others as you like.
+
+:::{div}
+:class: register-btn
+[Register here](https://calendar.library.ucla.edu/event/17386215)
+:::
+
+### UCLA Open Source Meetup: Keeping the World on Time
+
+**When**: Tuesday, October 6 2026, 12-1pm Pacific / 19:00-20:00 UTC\
+**Where**: Hybrid. In person at the Charles E. Young Research Library, Data Science Center, Room 11630L, and online ([registration required](https://calendar.library.ucla.edu/event/17080330))\
+**Who**: Anyone at UCLA or across the UC system
+
+A lunch-hour conversation with **Paul Eggert**, UCLA Computer Science Teaching Professor, primary coordinator of the public-domain Time Zone Database (TZDB) and a longtime GNU contributor.
+
+TZDB does far more than keep the clocks on our phones accurate. It underpins timestamps on documents and photographs, preserves historical time-zone information that software depends on, and has to respond when governments change their clocks with little warning. Eggert will introduce this widely used but largely invisible infrastructure and discuss the technical, legal, political and collaborative challenges of sustaining it, in a 30-40 minute talk followed by an extended Q&A.
+
+**In-person seating is limited to 16 and advance registration is required.** Bring your own lunch; light refreshments and beverages provided. Online participation is open to the wider UC community.
+
+:::{div}
+:class: register-btn
+[Register here](https://calendar.library.ucla.edu/event/17080330)
+:::
+
 ## Past Events
 
 ### UC Open 2026
