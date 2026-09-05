@@ -46,9 +46,9 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
 
 A monthly gathering for the UC open source community. Each meetup is co-hosted by a different campus in the network, with the hosting campus setting the agenda for the first half (demos, workshops, guest speakers, whatever they want to share), and the second half an open community call for network updates, project sharing, and Q&A.
 
-#### Next meetup (September 3)
+#### Next meetup (October 1)
 
-For September UC Santa Cruz hosts and the topic is mentorship as community building: how mentoring and peer mentorship help build and sustain open source communities. We'll hear about UC Santa Cruz's Open Source Research Experience (OSRE) and peer-mentorship programs, including how participants go on to become mentors themselves and build capacity even when faculty can't mentor directly. Speakers: Stephanie Lieggi and Hari Kuttivelil (OSRE mentoring), and Emily Lovell and Silas Morgan (peer mentorship). The second half is an open community call for network updates, project sharing, and general OSS chat.
+For October UC Berkeley hosts speakers Liam Parker and Francois Lanusse to discuss [Lightcone Research](https://www.lightconeresearch.org), an open source initiative from UC Berkeley and CNRS aiming at "AI-assisted science with rigor at its core." AI is making more ambitious research questions tractable, and Lightcone builds the open source tools and standards—including the [ASTRA specification](https://astra-spec.org) and the [Lightcone CLI](https://docs.lightconeresearch.org/)—that turn that expanded reach into results other scientists can reproduce, inspect, and build on. Part of that is tracking provenance through agentic workflows: when lots of agents are making decisions at each stage of a scientific process, how do you go back afterwards and verify those decisions were sensible?
 
 Students, staff, faculty, researchers, and folks outside UC all welcome!
 
@@ -117,6 +117,23 @@ TZDB does far more than keep the clocks on our phones accurate. It underpins tim
 ### UC Open 2026
 
 View the full [UC Open Source Summit 2026 page](uc-open-2026/index.md) for session recordings, speaker bios, and more.
+
+### September 2026 All-Campus Virtual Meetup
+
+**When**: Thursday, September 3 2026 at 10am\
+**Where**: Zoom\
+**Who**: Anyone (including students and staff!)
+
+UC Santa Cruz hosted this month's meetup on mentorship as community building. We heard about the Open Source Research Experience (OSRE), the Google Summer of Code-modelled summer program UC Santa Cruz runs as umbrella org for the whole UC system, so any UC project can take part without standing up its own GSoC org, along with a mentor's view of what makes the model work. We also heard about Contributor Catalyst, an eight-week cohort program for students from HBCUs, now in its fourth year, built on layered mentorship and ending with participants opening issues and filing pull requests upstream in public.
+
+Guest speakers:
+
+- Stephanie Lieggi, Executive Director, CROSS, UC Santa Cruz
+- Hari Kuttivelil, OSRE mentor, Network Simulation Bridge, UC Santa Cruz
+- Emily Lovell, Associate Director, CROSS, UC Santa Cruz
+- Silas Morgan, Norfolk State University
+
+You can [watch the recording](https://youtu.be/BgmbkN7fpCg) if you missed it!
 
 ### August 2026 All-Campus Virtual Meetup
 
