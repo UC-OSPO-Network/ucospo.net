@@ -17,10 +17,11 @@ Add UC OSPO events to your own calendar app (Google, Apple, Outlook). Subscribe 
   - [**UC Berkeley**](https://ucospo.net/feeds/berkeley.ics)
   - [**UC San Diego**](https://ucospo.net/feeds/ucsd.ics)
   - [**UC Santa Cruz**](https://ucospo.net/feeds/ucsc.ics)
+  - [**UCLA**](https://ucospo.net/feeds/ucla.ics)
 
-## Ongoing & Drop-in
+## Weekly Events
 
-### Coworking/Office Hours (ongoing)
+### Coworking/Office Hours
 
 We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:
 
@@ -36,26 +37,15 @@ We'd love to see you at our coworking sessions! These are casual, drop-in-if-fee
   - [Direct Zoom link](https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1)
   - Add to your calendar: [.ics file](/static/ics-files/OSPO-Virtual-Coffee-Thursdays.ics) or <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXA1M2Y4dG1pZGR2djNob2NkcnYwaXV0bTNfMjAyNTA1MTVUMjAwMDAwWiBjX2VjYWExZTAyMGZhZDA3MDVjNzJiZjE5YWM5NTAyYjBmYjdkOWRiYzJmZmQ5ZjA1N2Q3OWY1YmJmZGVjYTk3MTFAZw&amp;tmsrc=c_ecaa1e020fad0705c72bf19ac9502b0fb7d9dbc2ffd9f057d79f5bbfdeca9711%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
+### UCSB Open Source Lounge
+
+**When**: **Thursdays** at **2:30-4:30pm** Pacific\
+**Where**: Hybrid. In person at the UCSB Library, Room 1411 (in the Sara Miller McCune Arts Library), and on [Zoom](https://ucsb.zoom.us/j/87889247304)\
+**Who**: Anyone (including students and staff!)
+
+The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-working space for working on your open source goals in a supportive, motivating environment. Bring your laptop and some work to do, such as documentation cleanup, a feature you've been meaning to write, or learning exercises to hone your coding skills. Light refreshments are served for in-person attendees.
+
 ## Upcoming Events
-
-### All-Campus Virtual Meetups (monthly)
-
-**When**: First Thursday of every month at 10am Pacific / 17:00 UTC\
-**Where**: Zoom ([registration required](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1)) \
-**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
-
-A monthly gathering for the UC open source community. Each meetup is co-hosted by a different campus in the network, with the hosting campus setting the agenda for the first half (demos, workshops, guest speakers, whatever they want to share), and the second half an open community call for network updates, project sharing, and Q&A.
-
-#### Next meetup (October 1)
-
-For October UC Berkeley hosts speakers Liam Parker and Francois Lanusse to discuss [Lightcone Research](https://www.lightconeresearch.org), an open source initiative from UC Berkeley and CNRS aiming at "AI-assisted science with rigor at its core." AI is making more ambitious research questions tractable, and Lightcone builds the open source tools and standards—including the [ASTRA specification](https://astra-spec.org) and the [Lightcone CLI](https://docs.lightconeresearch.org/)—that turn that expanded reach into results other scientists can reproduce, inspect, and build on. Part of that is tracking provenance through agentic workflows: when lots of agents are making decisions at each stage of a scientific process, how do you go back afterwards and verify those decisions were sensible?
-
-Students, staff, faculty, researchers, and folks outside UC all welcome!
-
-:::{div}
-:class: register-btn
-[Register here](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1)
-:::
 
 ### Git & GitHub Workshop
 
@@ -68,6 +58,19 @@ Working with collaborators on code and code-like documents can be quite a headac
 :::{div}
 :class: register-btn
 [Register here](https://www.eventbrite.com/e/1998342861292)
+:::
+
+### UC Berkeley OSPO Monthly Meetup: scikit-image with Stéfan van der Walt
+
+**When**: Thursday, September 17 2026, 3-5:30pm Pacific (in person from 3pm, online from 3:30pm)\
+**Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online ([sign up for the Zoom link](https://forms.gle/fKjzxbKFScfAMxks5))\
+**Who**: Anyone (including students and staff!)
+
+Berkeley's OSPO, BIDS, and D-Lab host a monthly fireside chat and Q&A, followed by community gathering time with drinks and snacks. September's guest is **Stéfan van der Walt**, Senior Research Data Scientist at the Berkeley Institute for Data Science, founder of [scikit-image](https://scikit-image.org/), co-founder of [Scientific Python](https://scientific-python.org/), and co-author of _Elegant SciPy: The Art of Scientific Python_. He'll talk about scikit-image v2, a major overhaul with a cleaner and more intuitive API, and about the team and community who sustain the project.
+
+:::{div}
+:class: register-btn
+[Register here](https://events.berkeley.edu/BIDS/event/327501-ospo-monthly-meetup-scikit-image-with-stfan-van-der-w)
 :::
 
 ### UC Carpentries: Core Elements of Citable and Discoverable Research Software
@@ -87,13 +90,24 @@ Co-presented by the **UC OSPO Network** and **UC Carpentries**, and hosted by UC
 
 ### Alignment Group (open governance meeting)
 
-The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in. We meet on the fourth Wednesday of the month at 11am Pacific / 18:00 UTC.
-
-#### Next meeting
-
-**When**: Wednesday, September 23 2026 at 11am Pacific / 18:00 UTC\
+**When**: Wednesday, September 23 2026 at 11am Pacific / 18:00 UTC; fourth Wednesday of every month\
 **Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
 **Who**: Working-group delegates, and anyone interested in how the Network is run
+
+The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
+
+### All-Campus Virtual Meetup: Lightcone Research
+
+**When**: Thursday, October 1 2026 at 10am Pacific / 17:00 UTC\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1))\
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
+
+For October UC Berkeley hosts speakers Liam Parker and Francois Lanusse to discuss [Lightcone Research](https://www.lightconeresearch.org), an open source initiative from UC Berkeley and CNRS aiming at "AI-assisted science with rigor at its core." AI is making more ambitious research questions tractable, and Lightcone builds the open source tools and standards—including the [ASTRA specification](https://astra-spec.org) and the [Lightcone CLI](https://docs.lightconeresearch.org/)—that turn that expanded reach into results other scientists can reproduce, inspect, and build on. Part of that is tracking provenance through agentic workflows: when lots of agents are making decisions at each stage of a scientific process, how do you go back afterwards and verify those decisions were sensible?
+
+:::{div}
+:class: register-btn
+[Register here](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1)
+:::
 
 ### UCLA Open Source Meetup: Keeping the World on Time
 
@@ -110,6 +124,75 @@ TZDB does far more than keep the clocks on our phones accurate. It underpins tim
 :::{div}
 :class: register-btn
 [Register here](https://calendar.library.ucla.edu/event/17080330)
+:::
+
+### UC Berkeley OSPO Monthly Meetup: Open Source AI Models
+
+**When**: Thursday, October 15 2026, 3-5:30pm Pacific (in person from 3pm, online from 3:30pm)\
+**Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online ([sign up for the Zoom link](https://forms.gle/fKjzxbKFScfAMxks5))\
+**Who**: Anyone (including students and staff!)
+
+Berkeley's OSPO, BIDS, and D-Lab host a monthly fireside chat and Q&A, followed by community gathering time with drinks and snacks. October's topic is open source AI: sovereign implementations, data privacy, researcher and user surveillance, and building a more diverse AI ecosystem.
+
+:::{div}
+:class: register-btn
+[Register here](https://events.berkeley.edu/BIDS/event/327522-ospo-monthly-meetup-open-source-ai-models)
+:::
+
+### CruzCon: Open Source for Research & Innovation
+
+**When**: Thursday, October 22 2026, 10am-5pm Pacific\
+**Where**: Seymour Marine Discovery Center, UC Santa Cruz\
+**Who**: UC researchers, faculty, students, campus leadership, and industry partners
+
+CruzCon is a day exploring open source in research and innovation, hosted by the UC Santa Cruz Open Source Program Office and the Center for Research in Open Source Software (CROSS) together with CITRIS.
+
+The draft program runs two panels, "Open Source Ecosystems as a Pathway to University Innovation" and "Campus Infrastructure Supporting Open Source and Impact", alongside a fireside chat, a keynote, lunch and demos, and a closing discussion on institutionalizing open source infrastructure. Attendees are also invited to the CROSS Annual Oktoberfest, held immediately after the conference.
+
+Full schedule on the [UCSC OSPO website](https://ucsc-ospo.github.io/event/20261022-cruzcon/).
+
+:::{div}
+:class: register-btn
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLSe9kqcmwp-OotTb9cUlhJ5CGttoGitT-aHg8JIqcKZC1-T0WQ/viewform)
+:::
+
+### All-Campus Virtual Meetup: November
+
+**When**: Thursday, November 5 2026 at 10am Pacific / 18:00 UTC\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1))\
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
+
+Speakers and host campus TBA!
+
+:::{div}
+:class: register-btn
+[Register here](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1)
+:::
+
+### UC Berkeley OSPO Monthly Meetup: November
+
+**When**: Thursday, November 19 2026, 3-5:30pm Pacific (in person from 3pm, online from 3:30pm)\
+**Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online ([sign up for the Zoom link](https://forms.gle/fKjzxbKFScfAMxks5))\
+**Who**: Anyone (including students and staff!)
+
+Berkeley's OSPO, BIDS, and D-Lab host a monthly fireside chat and Q&A, followed by community gathering time with drinks and snacks. November's guest and topic are still to be announced; see the [full series](https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for updates.
+
+:::{div}
+:class: register-btn
+[Register here](https://events.berkeley.edu/BIDS/event/327532-ospo-monthly-meetup-november)
+:::
+
+### All-Campus Virtual Meetup: December
+
+**When**: Thursday, December 3 2026 at 10am Pacific / 18:00 UTC\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1))\
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
+
+Speakers and host campus TBA!
+
+:::{div}
+:class: register-btn
+[Register here](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1)
 :::
 
 ## Past Events
