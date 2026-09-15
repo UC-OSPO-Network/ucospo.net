@@ -87,13 +87,38 @@ html {
 :root {
   --ucsb-panel1-bg: #e9e6e2;
   --ucsb-panel2-bg: #dcd6cc;
+  --ucsb-panel-text: #333333;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --ucsb-panel1-bg: #3e3636;
     --ucsb-panel2-bg: #1b2b34;
+    --ucsb-panel-text: #f0f0f0;
   }
+}
+
+/* Ensure that when user clicks the light mode/dark mode button,
+their choice will override their browser default.
+(Hence the !important tags.) */
+
+/* Manual Toggle (Dark) */
+/* Covers both MyST JS (html.dark) and Sphinx-based MyST themes (data-theme="dark") */
+html.dark,
+html[data-theme="dark"],
+body[data-theme="dark"] {
+  --ucsb-panel1-bg: #3e3636 !important;
+  --ucsb-panel2-bg: #1b2b34 !important;
+  --ucsb-panel-text: #f0f0f0 !important;
+}
+
+/* Manual Toggle (Light) */
+html.light,
+html[data-theme="light"],
+body[data-theme="light"] {
+  --ucsb-panel1-bg: #e9e6e2 !important;
+  --ucsb-panel2-bg: #dcd6cc !important;
+  --ucsb-panel-text: #333333 !important;
 }
 
 .ucsb-panel-light {
@@ -108,11 +133,13 @@ html {
 .ucsb-panel-light .myst-card {
   background-color: var(--ucsb-panel1-bg);
   border-color: var(--ucsb-panel1-bg);
+  color: var(--ucsb-panel-text);
 }
 
 .ucsb-panel-dark .myst-card {
   background-color: var(--ucsb-panel2-bg);
   border-color: var(--ucsb-panel2-bg);
+  color: var(--ucsb-panel-text);
 }
 
 .ucsb-float-left {
