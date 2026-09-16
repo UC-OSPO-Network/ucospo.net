@@ -119,7 +119,7 @@ TZDB does far more than keep the clocks on our phones accurate. It underpins tim
 **Where**: Zoom ([registration required](https://www.eventbrite.com/e/2000937230119))\
 **Who**: Anyone—no experience required, all institutional affiliations welcome!
 
-Come learn the best ways to get started as a contributor to open source software. This webinar will guide you through the processes needed to begin contributing to and publishing open source software today: where to start, how open source communities work and the norms they follow, and the skills you'll need along the way. Representatives from the Syracuse University and University of California Open Source Program Offices will lead the session, the second in a CURIOSS pilot series that began with September's Git & GitHub workshop.
+Come learn the best ways to get started as a contributor to open source software. This webinar will guide you through the processes needed to begin contributing to and publishing open source software today: where to start, how open source communities work and the norms they follow, and the skills you'll need along the way. Representatives from the Syracuse University and University of California Open Source Program Offices will lead the session, the second in a [CURIOSS](https://curioss.org/) pilot series that began with September's Git & GitHub workshop.
 
 :::{div}
 :class: register-btn
@@ -207,7 +207,7 @@ View the full [UC Open Source Summit 2026 page](uc-open-2026/index.md) for sessi
 **Where**: Zoom\
 **Who**: Anyone—no programming or Git experience required, all institutional affiliations welcome!
 
-Representatives from the Syracuse University and University of California Open Source Program Offices introduced participants to Git, a piece of software and a collaboration mindset for managing conflicting contributions, saving and accessing historical checkpoints, and handling experimentation. Participants made their first Git contributions, collaborated with each other using GitHub, and discussed Git's place in the world of AI coding. This was the first session in a CURIOSS pilot series.
+Representatives from the Syracuse University and University of California Open Source Program Offices introduced participants to Git, a piece of software and a collaboration mindset for managing conflicting contributions, saving and accessing historical checkpoints, and handling experimentation. Participants made their first Git contributions, collaborated with each other using GitHub, and discussed Git's place in the world of AI coding. This was the first session in a [CURIOSS](https://curioss.org/) pilot series.
 
 ### September 2026 All-Campus Virtual Meetup
 
