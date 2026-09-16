@@ -47,19 +47,6 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Upcoming Events
 
-### Git & GitHub Workshop
-
-**When**: Tuesday, September 15 2026, 10am-12pm Pacific / 1-3pm Eastern / 17:00-19:00 UTC\
-**Where**: Zoom ([registration required](https://www.eventbrite.com/e/1998342861292))\
-**Who**: Anyone—no programming or Git experience required, all institutional affiliations welcome!
-
-Working with collaborators on code and code-like documents can be quite a headache. Traditional version history often has poor tools for managing conflicting contributions, saving and accessing historical checkpoints, and handling experimentation. This workshop will introduce participants to Git, a piece of software and a collaboration mindset that resolves all of these issues and more. Representatives from the Syracuse University and University of California Open Source Program Offices will walk participants through their first Git contributions, help them collaborate with each other using GitHub, and discuss Git's place in the world of AI coding. No programming or Git experience required. No software installations required.
-
-:::{div}
-:class: register-btn
-[Register here](https://www.eventbrite.com/e/1998342861292)
-:::
-
 ### UC Berkeley OSPO Monthly Meetup: scikit-image with Stéfan van der Walt
 
 **When**: Thursday, September 17 2026, 3-5:30pm Pacific (in person from 3pm, online from 3:30pm)\
@@ -124,6 +111,19 @@ TZDB does far more than keep the clocks on our phones accurate. It underpins tim
 :::{div}
 :class: register-btn
 [Register here](https://calendar.library.ucla.edu/event/17080330)
+:::
+
+### How to Contribute to Open Source Software
+
+**When**: Thursday, October 8 2026, 11am-1pm Pacific / 2-4pm Eastern / 18:00-20:00 UTC\
+**Where**: Zoom ([registration required](https://www.eventbrite.com/e/2000937230119))\
+**Who**: Anyone—no experience required, all institutional affiliations welcome!
+
+Come learn the best ways to get started as a contributor to open source software. This webinar will guide you through the processes needed to begin contributing to and publishing open source software today: where to start, how open source communities work and the norms they follow, and the skills you'll need along the way. Representatives from the Syracuse University and University of California Open Source Program Offices will lead the session, the second in a [CURIOSS](https://curioss.org/) pilot series that began with September's Git & GitHub workshop.
+
+:::{div}
+:class: register-btn
+[Register here](https://www.eventbrite.com/e/2000937230119)
 :::
 
 ### UC Berkeley OSPO Monthly Meetup: Open Source AI Models
@@ -200,6 +200,14 @@ Speakers and host campus TBA!
 ### UC Open 2026
 
 View the full [UC Open Source Summit 2026 page](uc-open-2026/index.md) for session recordings, speaker bios, and more.
+
+### Git & GitHub Workshop
+
+**When**: Tuesday, September 15 2026, 10am-12pm Pacific\
+**Where**: Zoom\
+**Who**: Anyone—no programming or Git experience required, all institutional affiliations welcome!
+
+Representatives from the Syracuse University and University of California Open Source Program Offices introduced participants to Git, a piece of software and a collaboration mindset for managing conflicting contributions, saving and accessing historical checkpoints, and handling experimentation. Participants made their first Git contributions, collaborated with each other using GitHub, and discussed Git's place in the world of AI coding. This was the first session in a [CURIOSS](https://curioss.org/) pilot series.
 
 ### September 2026 All-Campus Virtual Meetup
 
