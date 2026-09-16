@@ -92,8 +92,8 @@ A monthly gathering for the UC open source community. Each meetup is hosted by a
 ::::{div}
 :class: ucsb-clearfix
 
-```{image} ../static/images/ucsb/susPB_logo.svg
-:alt: UC OSPO Logo with the words 'sustainability playbook' in stylized text
+```{image} ../static/images/ucsb/umbrella_logo.svg
+:alt: UC OSPO Logo, which looks like an abstract person, modified so it's holding an umbrella
 :class: ucsb-float-right
 ```
 
