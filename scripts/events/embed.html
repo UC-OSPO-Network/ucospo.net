@@ -15,7 +15,10 @@
     <meta name="robots" content="noindex" />
     <base target="_blank" />
     <title>UC OSPO Network events</title>
-    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css" rel="stylesheet" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css"
+      rel="stylesheet"
+    />
     <style>
       :root {
         /* Mirror the site brand palette (static/css/custom.css) so the embed
@@ -32,11 +35,11 @@
         --uco-daynum-muted: #6b6b6b; /* other-month day number */
         --uco-event-text: #fff; /* text on event tiles + button hover */
       }
-      /* Dark mode follows the OS (prefers-color-scheme), which is how the site's
-         book-theme resolves its default/"system" appearance. Values mirror the
-         site's dark palette (#7ab3ff accent, light text on dark surfaces). */
+      /* Dark mode follows the OS (prefers-color-scheme) when no explicit theme class is set,
+         or when .dark / data-theme="dark" is active on documentElement / :root.
+         Values mirror the site's dark palette (#7ab3ff accent, light text on dark surfaces). */
       @media (prefers-color-scheme: dark) {
-        :root {
+        :root:not(.light) {
           --uco-primary: #7ab3ff; /* .dark .article a in custom.css */
           --uco-text: #e3e3e8;
           --uco-surface: #1f1f1f;
@@ -46,6 +49,29 @@
           --uco-daynum-muted: #8a8a8a;
           --uco-event-text: #10243f; /* dark text on the lighter dark-mode tiles */
         }
+      }
+      :root.dark,
+      [data-theme="dark"] {
+        --uco-primary: #7ab3ff;
+        --uco-text: #e3e3e8;
+        --uco-surface: #1f1f1f;
+        --uco-border: #3a3a3a;
+        --uco-muted: #9aa0a6;
+        --uco-daynum: #e3e3e8;
+        --uco-daynum-muted: #8a8a8a;
+        --uco-event-text: #10243f;
+      }
+      :root.light,
+      [data-theme="light"] {
+        --uco-primary: #003cb3;
+        --uco-link-hover: #ff9100;
+        --uco-text: #222832;
+        --uco-surface: #fff;
+        --uco-border: #e0e0e0;
+        --uco-muted: #767676;
+        --uco-daynum: #1a1a1a;
+        --uco-daynum-muted: #6b6b6b;
+        --uco-event-text: #fff;
       }
       body {
         margin: 0;
@@ -181,8 +207,15 @@
   <body>
     <div id="calendar"></div>
     <div id="evt-modal" class="evt-modal" hidden>
-      <div class="evt-card" role="dialog" aria-modal="true" aria-labelledby="evt-title">
-        <button type="button" class="evt-close" aria-label="Close">&times;</button>
+      <div
+        class="evt-card"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="evt-title"
+      >
+        <button type="button" class="evt-close" aria-label="Close">
+          &times;
+        </button>
         <div class="evt-source"></div>
         <h3 id="evt-title" class="evt-title">Event details</h3>
         <p class="evt-when"></p>
@@ -200,6 +233,58 @@
          own origin, not a CDN). Version pinned in package.json. -->
     <script src="/purify.min.js"></script>
     <script>
+      // Sync theme with parent site's theme toggle (.dark / data-theme="dark" on documentElement)
+      (function syncParentTheme() {
+        function updateTheme() {
+          try {
+            if (
+              window.parent &&
+              window.parent.document &&
+              window.parent.document.documentElement
+            ) {
+              const pDoc = window.parent.document.documentElement;
+              const isDark =
+                pDoc.classList.contains("dark") ||
+                pDoc.getAttribute("data-theme") === "dark";
+              const isLight =
+                pDoc.classList.contains("light") ||
+                pDoc.getAttribute("data-theme") === "light";
+              if (isDark) {
+                document.documentElement.classList.add("dark");
+                document.documentElement.classList.remove("light");
+              } else if (isLight) {
+                document.documentElement.classList.add("light");
+                document.documentElement.classList.remove("dark");
+              } else {
+                document.documentElement.classList.remove("dark", "light");
+              }
+            }
+          } catch (e) {
+            /* Parent document unreadable or cross-origin fallback */
+            document.documentElement.classList.remove("dark", "light");
+          }
+        }
+
+        updateTheme();
+
+        try {
+          if (
+            window.parent &&
+            window.parent.document &&
+            window.parent.document.documentElement
+          ) {
+            const pDoc = window.parent.document.documentElement;
+            const observer = new MutationObserver(updateTheme);
+            observer.observe(pDoc, {
+              attributes: true,
+              attributeFilter: ["class", "data-theme"],
+            });
+          }
+        } catch (e) {
+          /* MutationObserver unavailable or parent doc unreadable */
+        }
+      })();
+
       (async () => {
         let events = [];
         try {
@@ -210,36 +295,39 @@
         }
 
         // Interactive calendar (month grid + agenda-style list toggle).
-        const cal = new FullCalendar.Calendar(document.getElementById("calendar"), {
-          initialView: "dayGridMonth",
-          headerToolbar: {
-            left: "prev,next today",
-            center: "title",
-            right: "dayGridMonth,listMonth",
-          },
-          height: "auto",
-          eventDisplay: "block",
-          datesSet: fit,
-          eventClick: function (info) {
-            // Show event details in a popover instead of navigating straight to
-            // the link (which would, e.g., drop people into a Zoom meeting).
-            info.jsEvent.preventDefault();
-            showEvent(info.event);
-          },
-          events: events.map((e) => ({
-            title: e.title,
-            start: e.start,
-            end: e.end,
-            allDay: e.allDay,
-            extendedProps: {
-              url: e.url || null,
-              location: e.location || null,
-              description: e.description || null,
-              descriptionHtml: e.descriptionHtml || null,
-              sourceLabel: e.sourceLabel || null,
+        const cal = new FullCalendar.Calendar(
+          document.getElementById("calendar"),
+          {
+            initialView: "dayGridMonth",
+            headerToolbar: {
+              left: "prev,next today",
+              center: "title",
+              right: "dayGridMonth,listMonth",
             },
-          })),
-        });
+            height: "auto",
+            eventDisplay: "block",
+            datesSet: fit,
+            eventClick: function (info) {
+              // Show event details in a popover instead of navigating straight to
+              // the link (which would, e.g., drop people into a Zoom meeting).
+              info.jsEvent.preventDefault();
+              showEvent(info.event);
+            },
+            events: events.map((e) => ({
+              title: e.title,
+              start: e.start,
+              end: e.end,
+              allDay: e.allDay,
+              extendedProps: {
+                url: e.url || null,
+                location: e.location || null,
+                description: e.description || null,
+                descriptionHtml: e.descriptionHtml || null,
+                sourceLabel: e.sourceLabel || null,
+              },
+            })),
+          },
+        );
         // Size the parent iframe wrapper to the calendar's real height so there
         // is no empty space below it (and no clipping). Refit on view change
         // (datesSet) and window resize. Same origin, so frameElement is reachable.
@@ -248,7 +336,8 @@
             const calEl = document.getElementById("calendar");
             if (!calEl) return;
             const h = Math.ceil(calEl.getBoundingClientRect().bottom) + 2;
-            const wrap = window.frameElement && window.frameElement.parentElement;
+            const wrap =
+              window.frameElement && window.frameElement.parentElement;
             if (wrap) wrap.style.height = h + "px";
           });
         }
@@ -298,7 +387,10 @@
           );
         }
         function icsDate(d) {
-          return d.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}/, "");
+          return d
+            .toISOString()
+            .replace(/[-:]/g, "")
+            .replace(/\.\d{3}/, "");
         }
         function icsEscape(s) {
           return String(s || "")
@@ -319,15 +411,19 @@
           if (ev.end) lines.push("DTEND:" + icsDate(ev.end));
           lines.push("SUMMARY:" + icsEscape(ev.title));
           if (p.location) lines.push("LOCATION:" + icsEscape(p.location));
-          if (p.description) lines.push("DESCRIPTION:" + icsEscape(p.description));
+          if (p.description)
+            lines.push("DESCRIPTION:" + icsEscape(p.description));
           if (p.url) lines.push("URL:" + p.url);
           lines.push("END:VEVENT", "END:VCALENDAR");
-          const blob = new Blob([lines.join("\r\n")], { type: "text/calendar" });
+          const blob = new Blob([lines.join("\r\n")], {
+            type: "text/calendar",
+          });
           const url = URL.createObjectURL(blob);
           const a = document.createElement("a");
           a.href = url;
           a.download =
-            (ev.title || "event").replace(/[^a-z0-9]+/gi, "-").toLowerCase() + ".ics";
+            (ev.title || "event").replace(/[^a-z0-9]+/gi, "-").toLowerCase() +
+            ".ics";
           document.body.appendChild(a);
           a.click();
           a.remove();
@@ -338,12 +434,20 @@
           const p = ev.extendedProps || {};
           set(refs.source, p.sourceLabel || "");
           refs.title.textContent = ev.title || "Event";
-          const dOpts = { weekday: "long", month: "long", day: "numeric", year: "numeric" };
+          const dOpts = {
+            weekday: "long",
+            month: "long",
+            day: "numeric",
+            year: "numeric",
+          };
           const tOpts = { hour: "numeric", minute: "2-digit" };
-          let when = ev.start ? ev.start.toLocaleDateString("en-US", dOpts) : "";
+          let when = ev.start
+            ? ev.start.toLocaleDateString("en-US", dOpts)
+            : "";
           if (ev.start && !ev.allDay) {
             when += " at " + ev.start.toLocaleTimeString("en-US", tOpts);
-            if (ev.end) when += " to " + ev.end.toLocaleTimeString("en-US", tOpts);
+            if (ev.end)
+              when += " to " + ev.end.toLocaleTimeString("en-US", tOpts);
           }
           set(refs.when, when);
           set(refs.where, p.location ? "Where: " + p.location : "");
@@ -383,9 +487,9 @@
         // on close above) so keyboard users can't tab to the calendar behind it.
         modal.addEventListener("keydown", (e) => {
           if (e.key !== "Tab" || modal.hidden) return;
-          const f = [...modal.querySelectorAll('a[href], button:not([disabled])')].filter(
-            (el) => el.offsetParent !== null,
-          );
+          const f = [
+            ...modal.querySelectorAll("a[href], button:not([disabled])"),
+          ].filter((el) => el.offsetParent !== null);
           if (!f.length) return;
           const first = f[0];
           const last = f[f.length - 1];
