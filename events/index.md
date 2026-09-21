@@ -47,19 +47,6 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Upcoming Events
 
-### UC Berkeley OSPO Monthly Meetup: scikit-image with Stéfan van der Walt
-
-**When**: Thursday, September 17 2026, 3-5:30pm Pacific (in person from 3pm, online from 3:30pm)\
-**Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online ([sign up for the Zoom link](https://forms.gle/fKjzxbKFScfAMxks5))\
-**Who**: Anyone (including students and staff!)
-
-Berkeley's OSPO, BIDS, and D-Lab host a monthly fireside chat and Q&A, followed by community gathering time with drinks and snacks. September's guest is **Stéfan van der Walt**, Senior Research Data Scientist at the Berkeley Institute for Data Science, founder of [scikit-image](https://scikit-image.org/), co-founder of [Scientific Python](https://scientific-python.org/), and co-author of _Elegant SciPy: The Art of Scientific Python_. He'll talk about scikit-image v2, a major overhaul with a cleaner and more intuitive API, and about the team and community who sustain the project.
-
-:::{div}
-:class: register-btn
-[Register here](https://events.berkeley.edu/BIDS/event/327501-ospo-monthly-meetup-scikit-image-with-stfan-van-der-w)
-:::
-
 ### UC Carpentries: Core Elements of Citable and Discoverable Research Software
 
 **When**: Wednesday, September 23 2026, 8:30am-12:30pm Pacific / 15:30-19:30 UTC\
@@ -89,7 +76,9 @@ The Alignment Group brings together the chairs and delegates of the Network's Wo
 **Where**: Zoom ([registration required](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1))\
 **Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
 
-For October UC Berkeley hosts speakers Liam Parker and Francois Lanusse to discuss [Lightcone Research](https://www.lightconeresearch.org), an open source initiative from UC Berkeley and CNRS aiming at "AI-assisted science with rigor at its core." AI is making more ambitious research questions tractable, and Lightcone builds the open source tools and standards—including the [ASTRA specification](https://astra-spec.org) and the [Lightcone CLI](https://docs.lightconeresearch.org/)—that turn that expanded reach into results other scientists can reproduce, inspect, and build on. Part of that is tracking provenance through agentic workflows: when lots of agents are making decisions at each stage of a scientific process, how do you go back afterwards and verify those decisions were sensible?
+For October UC Berkeley hosts speakers Liam Parker and François Lanusse to discuss [Lightcone Research](https://www.lightconeresearch.org), an international open source initiative based at the [Berkeley Institute for Data Science](https://bids.berkeley.edu/) at UC Berkeley and the [AI for Science and Science for AI Center](https://aissai.cnrs.fr/) at CNRS, aiming at "AI-assisted science with rigor at its core." AI is making more ambitious research questions tractable, and Lightcone builds the open source tools and standards—including the [ASTRA specification](https://astra-spec.org) and the [Lightcone CLI](https://docs.lightconeresearch.org/)—that turn that expanded reach into results other scientists can reproduce, inspect, and build on. Part of that is tracking provenance through agentic workflows: when lots of agents are making decisions at each stage of a scientific process, how do you go back afterwards and verify those decisions were sensible?
+
+They're also keen to discuss how to make Lightcone a sustainable, community-governed project: governance models, transparent decision-making, and pathways for researchers and developers to contribute and take on shared stewardship, so the communities the project serves help steer its direction.
 
 :::{div}
 :class: register-btn
@@ -156,6 +145,21 @@ Full schedule on the [UCSC OSPO website](https://ucsc-ospo.github.io/event/20261
 [Register here](https://docs.google.com/forms/d/e/1FAIpQLSe9kqcmwp-OotTb9cUlhJ5CGttoGitT-aHg8JIqcKZC1-T0WQ/viewform)
 :::
 
+### Reboot the Earth Hackathon @ Davis
+
+**When**: Friday, October 23 and Saturday, October 24 2026\
+**Where**: UC Davis campus\
+**Who**: Students (see the registration page for eligibility)
+
+UC Davis joins the United Nations' Reboot the Earth hackathon series, in which student teams spend two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two. This edition includes a wildfire track.
+
+**Registration closes October 15 2026.**
+
+:::{div}
+:class: register-btn
+[Register here](https://events.library.ucdavis.edu/event/reboot-the-earth-hackathon-ucdavis)
+:::
+
 ### All-Campus Virtual Meetup: November
 
 **When**: Thursday, November 5 2026 at 10am Pacific / 18:00 UTC\
@@ -200,6 +204,14 @@ Speakers and host campus TBA!
 ### UC Open 2026
 
 View the full [UC Open Source Summit 2026 page](uc-open-2026/index.md) for session recordings, speaker bios, and more.
+
+### UC Berkeley OSPO Monthly Meetup: scikit-image with Stéfan van der Walt
+
+**When**: Thursday, September 17 2026, 3-5:30pm Pacific\
+**Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online\
+**Who**: Anyone (including students and staff!)
+
+Berkeley's OSPO, BIDS, and D-Lab hosted their monthly fireside chat and Q&A, followed by community gathering time with drinks and snacks. September's guest was **Stéfan van der Walt**, Senior Research Data Scientist at the Berkeley Institute for Data Science, founder of [scikit-image](https://scikit-image.org/), co-founder of [Scientific Python](https://scientific-python.org/), and co-author of _Elegant SciPy: The Art of Scientific Python_. He talked about scikit-image v2, a major overhaul with a cleaner and more intuitive API, and about the team and community who sustain the project.
 
 ### Git & GitHub Workshop
 
