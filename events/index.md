@@ -148,10 +148,17 @@ Full schedule on the [UCSC OSPO website](https://ucsc-ospo.github.io/event/20261
 ### Reboot the Earth Hackathon @ Davis
 
 **When**: Friday, October 23 and Saturday, October 24 2026\
-**Where**: UC Davis campus\
-**Who**: Students (see the registration page for eligibility)
+**Where**: Peter J. Shields Library, UC Davis campus\
+**Who**: Students from any university or college; no coding experience required (each team needs at least one UC Davis student)
 
-UC Davis joins the United Nations' Reboot the Earth hackathon series, in which student teams spend two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two. This edition includes a wildfire track.
+UC Davis joins the United Nations' Reboot the Earth hackathon series, in which student teams spend two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two. It's free to take part.
+
+This year's challenges:
+
+- **Wildfire**: build a web tool that helps land managers find the right drone-mapped forest data from the Open Forest Observatory
+- **Watershed**: use open data and community mapping to fill gaps in maps of urban stormwater infrastructure
+
+The winning team is invited to UN Open Source Week in New York!
 
 **Registration closes October 15 2026.**
 
