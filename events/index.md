@@ -102,6 +102,19 @@ TZDB does far more than keep the clocks on our phones accurate. It underpins tim
 [Register here](https://calendar.library.ucla.edu/event/17080330)
 :::
 
+### ORB Community Call
+
+**When**: Tuesday, October 6 2026, 1pm-2pm Pacific / 20:00-21:00 UTC\
+**Where**: Zoom. [Join Now](https://ucsb.zoom.us/j/83628810634)\
+**Who**: Anyone
+
+Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
+
+* [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
+* [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
+* ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
+
+
 ### How to Contribute to Open Source Software
 
 **When**: Thursday, October 8 2026, 11am-1pm Pacific / 2-4pm Eastern / 18:00-20:00 UTC\
