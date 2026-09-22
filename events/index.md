@@ -110,10 +110,9 @@ TZDB does far more than keep the clocks on our phones accurate. It underpins tim
 
 Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
 
-* [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
-* [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
-* ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
-
+- [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
+- [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
+- ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
 
 ### How to Contribute to Open Source Software
 
