@@ -96,7 +96,7 @@ TZDB does far more than keep the clocks on our phones accurate. It underpins tim
 
 ### ORB Community Call
 
-**When**: Tuesday, October 6 2026, 1pm-2pm Pacific / 20:00-21:00 UTC\
+**When**: Tuesday, October 6 2026, 1pm-2pm Pacific / 20:00-21:00 UTC; first Tuesday of every month\
 **Where**: Zoom. [Join Now](https://ucsb.zoom.us/j/83628810634)\
 **Who**: Anyone
 
