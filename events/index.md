@@ -276,6 +276,14 @@ Guest speakers:
 
 You can [watch the recording](https://youtu.be/j1o5z6V23TA) if you missed it!
 
+### UC Open 2026
+
+**When**: Wednesday-Thursday, April 22-23 2026\
+**Where**: UC Berkeley\
+**Who**: Anyone (including students and staff!)
+
+View the full [UC Open Source Summit 2026 page](uc-open-2026/index.md) for session recordings, speaker bios, and more.
+
 ### March 2026 All-Campus Virtual Meetup
 
 **When**: Wednesday, March 18 2026 12pm\
