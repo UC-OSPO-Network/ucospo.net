@@ -47,21 +47,6 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Upcoming Events
 
-### UC Carpentries: Core Elements of Citable and Discoverable Research Software
-
-**When**: Wednesday, September 23 2026, 8:30am-12:30pm Pacific / 15:30-19:30 UTC\
-**Where**: Zoom ([registration required](https://calendar.library.ucla.edu/event/17386215))\
-**Who**: Researchers and the professionals who support them; no prior setup needed
-
-Learn practical steps for making research software citable, discoverable, and reusable. Working in your browser with a GitHub repository, you'll add an open source license, create a `CITATION.cff` file, make a versioned release with a DOI, and improve your project's documentation and metadata.
-
-Co-presented by the **UC OSPO Network** and **UC Carpentries**, and hosted by UCLA. It's one session in a wider UC Carpentries series running September 8-23; you can register for this workshop on its own or for as many of the others as you like.
-
-:::{div}
-:class: register-btn
-[Register here](https://calendar.library.ucla.edu/event/17386215)
-:::
-
 ### All-Campus Virtual Meetup: Lightcone Research
 
 **When**: Thursday, October 1 2026 at 10am Pacific / 17:00 UTC\
@@ -227,6 +212,16 @@ Speakers and host campus TBA!
 **Who**: Working-group delegates, and anyone interested in how the Network is run
 
 The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. It meets on the fourth Wednesday of every month, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
+
+### UC Carpentries: Core Elements of Citable and Discoverable Research Software
+
+**When**: Wednesday, September 23 2026, 8:30am-12:30pm Pacific / 15:30-19:30 UTC\
+**Where**: Zoom\
+**Who**: Researchers and the professionals who support them; no prior setup needed
+
+Participants learned practical steps for making research software citable, discoverable, and reusable. Working in the browser with a GitHub repository, they added an open source license, created a `CITATION.cff` file, made a versioned release with a DOI, and improved their project's documentation and metadata.
+
+Co-presented by the **UC OSPO Network** and **UC Carpentries**, and hosted by UCLA. It was one session in a wider UC Carpentries series that ran September 8-23.
 
 ### UC Berkeley OSPO Monthly Meetup: scikit-image with Stéfan van der Walt
 
