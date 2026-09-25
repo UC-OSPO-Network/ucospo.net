@@ -32,11 +32,11 @@
         --uco-daynum-muted: #6b6b6b; /* other-month day number */
         --uco-event-text: #fff; /* text on event tiles + button hover */
       }
-      /* Dark mode follows the OS (prefers-color-scheme), which is how the site's
-         book-theme resolves its default/"system" appearance. Values mirror the
-         site's dark palette (#7ab3ff accent, light text on dark surfaces). */
+      /* Dark mode follows the OS (prefers-color-scheme) when no explicit theme class is set,
+         or when .dark / data-theme="dark" is active on documentElement / :root.
+         Values mirror the site's dark palette (#7ab3ff accent, light text on dark surfaces). */
       @media (prefers-color-scheme: dark) {
-        :root {
+        :root:not(.light):not([data-theme="light"]) {
           --uco-primary: #7ab3ff; /* .dark .article a in custom.css */
           --uco-text: #e3e3e8;
           --uco-surface: #1f1f1f;
@@ -46,6 +46,17 @@
           --uco-daynum-muted: #8a8a8a;
           --uco-event-text: #10243f; /* dark text on the lighter dark-mode tiles */
         }
+      }
+      :root.dark,
+      :root[data-theme="dark"] {
+        --uco-primary: #7ab3ff;
+        --uco-text: #e3e3e8;
+        --uco-surface: #1f1f1f;
+        --uco-border: #3a3a3a;
+        --uco-muted: #9aa0a6;
+        --uco-daynum: #e3e3e8;
+        --uco-daynum-muted: #8a8a8a;
+        --uco-event-text: #10243f;
       }
       body {
         margin: 0;
@@ -200,6 +211,58 @@
          own origin, not a CDN). Version pinned in package.json. -->
     <script src="/purify.min.js"></script>
     <script>
+      // Sync theme with parent site's theme toggle (.dark / data-theme="dark" on documentElement)
+      (function syncParentTheme() {
+        function updateTheme() {
+          try {
+            if (
+              window.parent &&
+              window.parent.document &&
+              window.parent.document.documentElement
+            ) {
+              const pDoc = window.parent.document.documentElement;
+              const isDark =
+                pDoc.classList.contains("dark") ||
+                pDoc.getAttribute("data-theme") === "dark";
+              const isLight =
+                pDoc.classList.contains("light") ||
+                pDoc.getAttribute("data-theme") === "light";
+              if (isDark) {
+                document.documentElement.classList.add("dark");
+                document.documentElement.classList.remove("light");
+              } else if (isLight) {
+                document.documentElement.classList.add("light");
+                document.documentElement.classList.remove("dark");
+              } else {
+                document.documentElement.classList.remove("dark", "light");
+              }
+            }
+          } catch (e) {
+            /* Parent document unreadable or cross-origin fallback */
+            document.documentElement.classList.remove("dark", "light");
+          }
+        }
+
+        updateTheme();
+
+        try {
+          if (
+            window.parent &&
+            window.parent.document &&
+            window.parent.document.documentElement
+          ) {
+            const pDoc = window.parent.document.documentElement;
+            const observer = new MutationObserver(updateTheme);
+            observer.observe(pDoc, {
+              attributes: true,
+              attributeFilter: ["class", "data-theme"],
+            });
+          }
+        } catch (e) {
+          /* MutationObserver unavailable or parent doc unreadable */
+        }
+      })();
+
       (async () => {
         let events = [];
         try {
