@@ -14,7 +14,7 @@ The award builds on earlier Sloan Foundation investment in open source at UC. Th
 
 The grant supports work across several fronts:
 
-- **Funding and governance:** building a permanent funding and [governance](../../about/governance.md) model for the Network, with shared institutional support for core positions and OSPO priorities reflected in campus and systemwide planning
+- **Funding and governance:** building a permanent funding and [governance](../../about/governance/model.md) model for the Network, with shared institutional support for core positions and OSPO priorities reflected in campus and systemwide planning
 - **A Sustainability Playbook:** documenting the UC model's practices, resources, and successes for other universities to adapt, including procurement guidance for UCOP
 - **Network services:** completing the [UC Open Repository Browser (UC ORB)](../../oss-resources/index.md), extending it across UC and to peer institutions, and advancing systemwide guidance on open source release practices
 - **Education:** delivering field-tested [curriculum on open source contribution](https://ucospo.net/education), community engagement, licensing, and security, integrated with the [Carpentries](../develop-open-source-lesson-cldt/index.md)
