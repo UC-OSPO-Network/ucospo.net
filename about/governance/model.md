@@ -1,5 +1,5 @@
 ---
-title: "Governance"
+title: "Governance Model"
 ---
 
 ## Purpose of this Document
