@@ -164,13 +164,19 @@ The winning team is invited to UN Open Source Week in New York!
 
 The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
 
-### All-Campus Virtual Meetup: November
+(all-campus-meetup-2026-11)=
+
+### All-Campus Virtual Meetup: Open source and your tech transfer office
 
 **When**: Thursday, November 5 2026 at 10am Pacific / 18:00 UTC\
 **Where**: Zoom ([registration required](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1))\
 **Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
 
-Speakers and host campus TBA!
+Thinking about open-sourcing your research software but unsure how to approach your Tech Transfer Office (TTO)? Steven Tudor, Director of the Technology Transfer Office at UC Davis, joins us to talk about what his office actually does when a researcher wants to release code as open source, the worries researchers bring to his office most often, and what information the TTO needs to help researchers make decisions. We'll also talk about how your campus OSPO can serve as a first stop on the way to tech transfer, so you can feel informed and confident when you meet with the TTO.
+
+Guest speaker:
+
+- Steven Tudor is Director of the TTO at UC Davis, where he leads the university’s intellectual property management and commercialization activities. His work focuses on helping researchers navigate intellectual property, licensing, and commercialization while supporting practical pathways for moving university innovations into broader use.
 
 :::{div}
 :class: register-btn
