@@ -26,6 +26,7 @@ body:
         - UCSC
         - UCSD
         - UCSF
+        - Network
     validations:
       required: true
   - type: input
