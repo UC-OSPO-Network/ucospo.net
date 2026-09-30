@@ -52,6 +52,12 @@ html {
   --tw-prose-body: #222832;
 }
 
+/* Restore the theme's dark-mode body color; the rule above would otherwise
+   pin dark text in both modes. Fallback is the old prose-invert body color. */
+.dark .article {
+  --tw-prose-body: var(--myst-color-prose-body, #d1d5db);
+}
+
 /* Link color and weight (.article a beats .article :where(a) in specificity) */
 .article a {
   font-weight: 400;
