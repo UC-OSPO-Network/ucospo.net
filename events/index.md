@@ -140,14 +140,14 @@ Full schedule on the [UCSC OSPO website](https://ucsc-ospo.github.io/event/20261
 **Where**: Peter J. Shields Library, UC Davis campus\
 **Who**: Students from any university or college; no coding experience required (each team needs at least one UC Davis student)
 
-UC Davis joins the United Nations' Reboot the Earth hackathon series, in which student teams spend two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two. It's free to take part.
+UC Davis joins the United Nations' [Reboot the Earth](https://unite.un.org/en/reboot-earth) hackathon series, in which student teams spend two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two. It's free to take part.
 
 This year's challenges:
 
-- **Wildfire**: build a web tool that helps land managers find the right drone-mapped forest data from the Open Forest Observatory
-- **Watershed**: use open data and community mapping to fill gaps in maps of urban stormwater infrastructure
+- **Wildfire**: build a web tool that helps land managers find the right drone-mapped forest data from the [Open Forest Observatory](https://openforestobservatory.org/)
+- **More climate challenges for Northern California and the Central Valley**: further challenges are in development with researchers and practitioners in the region
 
-The winning team is invited to UN Open Source Week in New York!
+The winning team is invited to [UN Open Source Week](https://www.unopensource.org/) in New York!
 
 **Registration closes October 15 2026.**
 
