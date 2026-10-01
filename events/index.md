@@ -47,21 +47,6 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Upcoming Events
 
-### All-Campus Virtual Meetup: Lightcone Research
-
-**When**: Thursday, October 1 2026 at 10am Pacific / 17:00 UTC\
-**Where**: Zoom ([registration required](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1))\
-**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
-
-For October UC Berkeley hosts speakers Liam Parker and François Lanusse to discuss [Lightcone Research](https://www.lightconeresearch.org), an international open source initiative based at the [Berkeley Institute for Data Science](https://bids.berkeley.edu/) at UC Berkeley and the [AI for Science and Science for AI Center](https://aissai.cnrs.fr/) at CNRS, aiming at "AI-assisted science with rigor at its core." AI is making more ambitious research questions tractable, and Lightcone builds the open source tools and standards—including the [ASTRA specification](https://astra-spec.org) and the [Lightcone CLI](https://docs.lightconeresearch.org/)—that turn that expanded reach into results other scientists can reproduce, inspect, and build on. Part of that is tracking provenance through agentic workflows: when lots of agents are making decisions at each stage of a scientific process, how do you go back afterwards and verify those decisions were sensible?
-
-They're also keen to discuss how to make Lightcone a sustainable, community-governed project: governance models, transparent decision-making, and pathways for researchers and developers to contribute and take on shared stewardship, so the communities the project serves help steer its direction.
-
-:::{div}
-:class: register-btn
-[Register here](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1)
-:::
-
 ### UCLA Open Source Meetup: Keeping the World on Time
 
 **When**: Tuesday, October 6 2026, 12-1pm Pacific / 19:00-20:00 UTC\
@@ -210,6 +195,21 @@ Speakers and host campus TBA!
 :::
 
 ## Past Events
+
+### October 2026 All-Campus Virtual Meetup
+
+**When**: Thursday, October 1 2026 at 10am Pacific / 17:00 UTC\
+**Where**: Zoom\
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
+
+UC Berkeley's OSPO at BIDS hosted October's meetup, with François Lanusse (CNRS) and Liam Parker (UC Berkeley) introducing [Lightcone Research](https://www.lightconeresearch.org). Their open schema, [ASTRA](https://astra-spec.org), records the scientific decisions behind a result and the evidence for each one, in a compact file an agent can maintain and a person can read. Liam showed an agent reproducing the DESI DR1 BAO cosmology analysis from the raw catalogs, with every output provenance-verified and every analysis choice traced to a cited source.
+
+Guest speakers:
+
+- François Lanusse, Research Scientist, CNRS
+- Liam Parker, UC Berkeley
+
+You can [watch the recording](https://www.youtube.com/watch?v=t8ZRVBFbh9Q) or [see the slides](https://lightconeresearch.github.io/talks/UCOSPO2026.html) if you missed it!
 
 ### September 2026 Alignment Group
 
