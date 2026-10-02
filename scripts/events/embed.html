@@ -67,6 +67,19 @@
       .fc .fc-scrollgrid {
         border: 0;
       }
+      /* Ensure FullCalendar table headers and cells inherit proper background and border colors */
+      .fc .fc-theme-standard th,
+      .fc .fc-theme-standard td,
+      .fc .fc-scrollgrid,
+      .fc .fc-col-header-cell,
+      .fc .fc-scrollgrid-section-header th {
+        background-color: var(--uco-surface) !important;
+        border-color: var(--uco-border);
+      }
+      .fc .fc-col-header-cell-cushion {
+        color: var(--uco-text) !important;
+        text-decoration: none;
+      }
       /* Brand-blue event tiles (site --uco-primary). FullCalendar's default event
          color renders white text at ~3.7:1 (fails WCAG AA); #003cb3 gives ~9:1. */
       .fc {
@@ -219,7 +232,10 @@
           },
           height: "auto",
           eventDisplay: "block",
-          datesSet: fit,
+          datesSet: function () {
+            fit();
+            fixA11y();
+          },
           eventClick: function (info) {
             // Show event details in a popover instead of navigating straight to
             // the link (which would, e.g., drop people into a Zoom meeting).
@@ -240,6 +256,15 @@
             },
           })),
         });
+        // Clean up FullCalendar table-markup ARIA violations (role="presentation" on tr/th/td/table).
+        function fixA11y() {
+          const calEl = document.getElementById("calendar");
+          if (!calEl) return;
+          calEl.querySelectorAll('[role="presentation"]').forEach((el) => {
+            el.removeAttribute("role");
+          });
+        }
+
         // Size the parent iframe wrapper to the calendar's real height so there
         // is no empty space below it (and no clipping). Refit on view change
         // (datesSet) and window resize. Same origin, so frameElement is reachable.
@@ -255,6 +280,7 @@
 
         cal.render();
         fit();
+        fixA11y();
         window.addEventListener("resize", fit);
 
         // Event-details popover (instead of navigating straight to the link).
