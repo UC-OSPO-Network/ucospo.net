@@ -141,15 +141,6 @@ as part of the UC OSPO Network's discovery activities. You can
 
 ::::::
 
-## What's the status of the UCSB OSPO?
-
-At present, UCSB does not have a dedicated Open Source Programs Office. Rather,
-we have a cross-functional team of UCSB staff with expertise in open source
-who are developing the strategies, know-how, and connections needed to create
-an OSPO. Building on the work of the Open Source Programs Team, the OSPO will
-draw on resources developed by the UC OSPO Network, and its priorities will be
-shaped by both UC leadership and the UCSB open source community.
-
 ## Get connected
 
 <!-- ::::{div}

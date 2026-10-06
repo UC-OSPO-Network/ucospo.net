@@ -6,7 +6,7 @@ Working Groups are where most of the Network's work actually happens. Each one p
 
 Most of our Working Groups are open to anyone interested, whether or not your institution has an OSPO or any plans to start one. A few set light membership criteria, which are noted on each group's page.
 
-Each Working Group designates a chair who represents it on the Alignment Group, the body that keeps the Network's Working Groups coordinated and aligned with its mission. You can read more about how Working Groups fit into the Network's structure on the [Governance page](../../governance.md).
+Each Working Group designates a chair who represents it to the Alignment Group, the body that keeps the Network's Working Groups coordinated and aligned with its mission. You can read more about how Working Groups fit into the Network's structure on the [Governance page](../../governance/model.md).
 
 ## Our Working Groups
 

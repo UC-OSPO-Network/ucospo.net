@@ -47,44 +47,6 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Upcoming Events
 
-### UC Carpentries: Core Elements of Citable and Discoverable Research Software
-
-**When**: Wednesday, September 23 2026, 8:30am-12:30pm Pacific / 15:30-19:30 UTC\
-**Where**: Zoom ([registration required](https://calendar.library.ucla.edu/event/17386215))\
-**Who**: Researchers and the professionals who support them; no prior setup needed
-
-Learn practical steps for making research software citable, discoverable, and reusable. Working in your browser with a GitHub repository, you'll add an open source license, create a `CITATION.cff` file, make a versioned release with a DOI, and improve your project's documentation and metadata.
-
-Co-presented by the **UC OSPO Network** and **UC Carpentries**, and hosted by UCLA. It's one session in a wider UC Carpentries series running September 8-23; you can register for this workshop on its own or for as many of the others as you like.
-
-:::{div}
-:class: register-btn
-[Register here](https://calendar.library.ucla.edu/event/17386215)
-:::
-
-### Alignment Group (open governance meeting)
-
-**When**: Wednesday, September 23 2026 at 11am Pacific / 18:00 UTC; fourth Wednesday of every month\
-**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
-**Who**: Working-group delegates, and anyone interested in how the Network is run
-
-The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
-
-### All-Campus Virtual Meetup: Lightcone Research
-
-**When**: Thursday, October 1 2026 at 10am Pacific / 17:00 UTC\
-**Where**: Zoom ([registration required](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1))\
-**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
-
-For October UC Berkeley hosts speakers Liam Parker and François Lanusse to discuss [Lightcone Research](https://www.lightconeresearch.org), an international open source initiative based at the [Berkeley Institute for Data Science](https://bids.berkeley.edu/) at UC Berkeley and the [AI for Science and Science for AI Center](https://aissai.cnrs.fr/) at CNRS, aiming at "AI-assisted science with rigor at its core." AI is making more ambitious research questions tractable, and Lightcone builds the open source tools and standards—including the [ASTRA specification](https://astra-spec.org) and the [Lightcone CLI](https://docs.lightconeresearch.org/)—that turn that expanded reach into results other scientists can reproduce, inspect, and build on. Part of that is tracking provenance through agentic workflows: when lots of agents are making decisions at each stage of a scientific process, how do you go back afterwards and verify those decisions were sensible?
-
-They're also keen to discuss how to make Lightcone a sustainable, community-governed project: governance models, transparent decision-making, and pathways for researchers and developers to contribute and take on shared stewardship, so the communities the project serves help steer its direction.
-
-:::{div}
-:class: register-btn
-[Register here](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1)
-:::
-
 ### UCLA Open Source Meetup: Keeping the World on Time
 
 **When**: Tuesday, October 6 2026, 12-1pm Pacific / 19:00-20:00 UTC\
@@ -101,6 +63,18 @@ TZDB does far more than keep the clocks on our phones accurate. It underpins tim
 :class: register-btn
 [Register here](https://calendar.library.ucla.edu/event/17080330)
 :::
+
+### ORB Community Call
+
+**When**: Tuesday, October 6 2026, 1pm-2pm Pacific / 20:00-21:00 UTC; first Tuesday of every month\
+**Where**: Zoom. [Join Now](https://ucsb.zoom.us/j/83628810634)\
+**Who**: Anyone
+
+Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
+
+- [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
+- [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
+- ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
 
 ### How to Contribute to Open Source Software
 
@@ -151,14 +125,14 @@ Full schedule on the [UCSC OSPO website](https://ucsc-ospo.github.io/event/20261
 **Where**: Peter J. Shields Library, UC Davis campus\
 **Who**: Students from any university or college; no coding experience required (each team needs at least one UC Davis student)
 
-UC Davis joins the United Nations' Reboot the Earth hackathon series, in which student teams spend two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two. It's free to take part.
+UC Davis joins the United Nations' [Reboot the Earth](https://unite.un.org/en/reboot-earth) hackathon series, in which student teams spend two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two. It's free to take part.
 
 This year's challenges:
 
-- **Wildfire**: build a web tool that helps land managers find the right drone-mapped forest data from the Open Forest Observatory
-- **Watershed**: use open data and community mapping to fill gaps in maps of urban stormwater infrastructure
+- **Wildfire**: build a web tool that helps land managers find the right drone-mapped forest data from the [Open Forest Observatory](https://openforestobservatory.org/)
+- **More climate challenges for Northern California and the Central Valley**: further challenges are in development with researchers and practitioners in the region
 
-The winning team is invited to UN Open Source Week in New York!
+The winning team is invited to [UN Open Source Week](https://www.unopensource.org/) in New York!
 
 **Registration closes October 15 2026.**
 
@@ -167,13 +141,27 @@ The winning team is invited to UN Open Source Week in New York!
 [Register here](https://events.library.ucdavis.edu/event/reboot-the-earth-hackathon-ucdavis)
 :::
 
-### All-Campus Virtual Meetup: November
+### Alignment Group (open governance meeting)
+
+**When**: Wednesday, October 28 2026 at 11am Pacific / 18:00 UTC; fourth Wednesday of every month\
+**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
+**Who**: Working-group delegates, and anyone interested in how the Network is run
+
+The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
+
+(all-campus-meetup-2026-11)=
+
+### All-Campus Virtual Meetup: Open source and your tech transfer office
 
 **When**: Thursday, November 5 2026 at 10am Pacific / 18:00 UTC\
 **Where**: Zoom ([registration required](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1))\
 **Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
 
-Speakers and host campus TBA!
+Thinking about open-sourcing your research software but unsure how to approach your Tech Transfer Office (TTO)? Steven Tudor, Director of the Technology Transfer Office at UC Davis, joins us to talk about what his office actually does when a researcher wants to release code as open source, the worries researchers bring to his office most often, and what information the TTO needs to help researchers make decisions. We'll also talk about how your campus OSPO can serve as a first stop on the way to tech transfer, so you can feel informed and confident when you meet with the TTO.
+
+Guest speaker:
+
+- Steven Tudor is Director of the TTO at UC Davis, where he leads the university’s intellectual property management and commercialization activities. His work focuses on helping researchers navigate intellectual property, licensing, and commercialization while supporting practical pathways for moving university innovations into broader use.
 
 :::{div}
 :class: register-btn
@@ -208,9 +196,38 @@ Speakers and host campus TBA!
 
 ## Past Events
 
-### UC Open 2026
+### October 2026 All-Campus Virtual Meetup
 
-View the full [UC Open Source Summit 2026 page](uc-open-2026/index.md) for session recordings, speaker bios, and more.
+**When**: Thursday, October 1 2026 at 10am Pacific / 17:00 UTC\
+**Where**: Zoom\
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
+
+UC Berkeley's OSPO at BIDS hosted October's meetup, with François Lanusse (CNRS) and Liam Parker (UC Berkeley) introducing [Lightcone Research](https://www.lightconeresearch.org). Their open schema, [ASTRA](https://astra-spec.org), records the scientific decisions behind a result and the evidence for each one, in a compact file an agent can maintain and a person can read. Liam showed an agent reproducing the DESI DR1 BAO cosmology analysis from the raw catalogs, with every output provenance-verified and every analysis choice traced to a cited source.
+
+Guest speakers:
+
+- François Lanusse, Research Scientist, CNRS
+- Liam Parker, UC Berkeley
+
+You can [watch the recording](https://www.youtube.com/watch?v=t8ZRVBFbh9Q) or [see the slides](https://lightconeresearch.github.io/talks/UCOSPO2026.html) if you missed it!
+
+### September 2026 Alignment Group
+
+**When**: Wednesday, September 23 2026 at 11am Pacific / 18:00 UTC\
+**Where**: Zoom\
+**Who**: Working-group delegates, and anyone interested in how the Network is run
+
+The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. It meets on the fourth Wednesday of every month, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
+
+### UC Carpentries: Core Elements of Citable and Discoverable Research Software
+
+**When**: Wednesday, September 23 2026, 8:30am-12:30pm Pacific / 15:30-19:30 UTC\
+**Where**: Zoom\
+**Who**: Researchers and the professionals who support them; no prior setup needed
+
+Participants learned practical steps for making research software citable, discoverable, and reusable. Working in the browser with a GitHub repository, they added an open source license, created a `CITATION.cff` file, made a versioned release with a DOI, and improved their project's documentation and metadata.
+
+Co-presented by the **UC OSPO Network** and **UC Carpentries**, and hosted by UCLA. It was one session in a wider UC Carpentries series that ran September 8-23.
 
 ### UC Berkeley OSPO Monthly Meetup: scikit-image with Stéfan van der Walt
 
@@ -259,6 +276,14 @@ Guest speakers:
 - Carlo Broderick, Data Science Researcher, NCEAS, UC Santa Barbara
 
 You can [watch the recording](https://youtu.be/j1o5z6V23TA) if you missed it!
+
+### UC Open 2026
+
+**When**: Wednesday-Thursday, April 22-23 2026\
+**Where**: UC Berkeley\
+**Who**: Anyone (including students and staff!)
+
+View the full [UC Open Source Summit 2026 page](uc-open-2026/index.md) for session recordings, speaker bios, and more.
 
 ### March 2026 All-Campus Virtual Meetup
 

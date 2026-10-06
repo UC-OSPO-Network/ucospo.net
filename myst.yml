@@ -33,7 +33,14 @@ project:
                 - file: about/get-involved/working-groups/uc-open-steering-committee.md
                 - file: about/get-involved/working-groups/high-level-outreach.md
         - file: about/contact.md
-        - file: about/governance.md
+        - title: Governance
+          children:
+            - file: about/governance/index.md
+            - file: about/governance/model.md
+            - file: about/governance/stewardship-summaries/index.md
+              children:
+                - pattern: about/governance/stewardship-summaries/2*.md
+                  hidden: true
         - file: about/guiding-themes/index.md
           children:
             - file: about/guiding-themes/discovery.md
