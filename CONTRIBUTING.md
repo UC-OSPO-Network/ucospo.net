@@ -5,6 +5,7 @@ Thank you for investing your time in contributing to our project!
 ## Table of contents
 
 - [Quickstart for experienced contributors](#quickstart-for-experienced-contributors)
+- [What we expect in a pull request](#what-we-expect-in-a-pull-request)
 - [New contributor guide](#new-contributor-guide)
   - [Development workflow](#development-workflow)
   - [Divergence from main](#divergence-from-origin-main)
@@ -40,6 +41,19 @@ Thank you for investing your time in contributing to our project!
 
 - Please [use keywords to link relevant issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue) in your PR's description or commit message
 - We squash and merge PRs, so merging vs rebasing is up to you!
+
+## What we expect in a pull request
+
+These apply to everyone, maintainers included, whatever tools you use to write your code.
+
+- **Keep the PR to one purpose:** every change in the diff should be needed to resolve the linked issue. Leave out unrelated fixes, reformatting of lines you didn't otherwise change, and drive-by edits; open a separate issue or PR for those.
+- **Understand every line you submit:** you should be able to explain why each change is there and what it does. That includes code written with AI assistants or other tools. You're welcome to use them, but you're responsible for the result.
+- **Don't weaken a check to make it pass:** it's very unlikely a "solution" will involve removing a linter or accessibility ignore, a test, or a timeout. In the very rare that such a removal is justified, explain why in the PR description, and make sure the underlying problem is fixed rather than hidden.
+- **Write down the why:** if you do something non-obvious (a workaround, the least-bad option, something a future contributor might "fix" back), explain it in a code comment next to it, or in the README if contributors need to know it. PR descriptions and review comments are hard to find later.
+- **Use MyST first:** if [MyST](https://mystmd.org/guide) markup can do it, use that instead of raw HTML or custom CSS.
+- **Write alt text that says what the image conveys:** the linter only checks that alt text exists, not that it's useful. Describe what the image means in context, include any text that appears in it, and use empty alt text (`alt=""`) for purely decorative images.
+
+Note: if a PR still has the same problems after a round of requested changes, or doesn't meet the above requirements after being reminded of them previously, we'll close the PR and won't review further iterations. We have limited time to review contributions, and we need to reserve it for PRs that follow our guidelines.
 
 ## New contributor guide
 
