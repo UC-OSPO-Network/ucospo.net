@@ -34,7 +34,8 @@
       }
       /* Dark mode follows the OS (prefers-color-scheme) when no explicit theme class is set,
          or when .dark / data-theme="dark" is active on documentElement / :root.
-         Values mirror the site's dark palette (#7ab3ff accent, light text on dark surfaces). */
+         Values mirror the site's dark palette (#7ab3ff accent, light text on dark surfaces).
+         Keep this dark palette in sync with the :root.dark block below. */
       @media (prefers-color-scheme: dark) {
         :root:not(.light):not([data-theme="light"]) {
           --uco-primary: #7ab3ff; /* .dark .article a in custom.css */
@@ -47,6 +48,8 @@
           --uco-event-text: #10243f; /* dark text on the lighter dark-mode tiles */
         }
       }
+      /* Explicit dark theme when toggled on parent documentElement.
+         Keep this dark palette in sync with the prefers-color-scheme block above. */
       :root.dark,
       :root[data-theme="dark"] {
         --uco-primary: #7ab3ff;
