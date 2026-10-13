@@ -141,7 +141,7 @@ Guest speakers:
 
 ### UC Berkeley OSPO Monthly Meetup: November
 
-**When**: Thursday, November 19 2026, 3-5:30pm Pacific (in person from 3pm, online from 3:30pm)\
+**When**: Thursday, November 19 2026, 3-5:00pm Pacific (in person from 3pm, online from 3:30pm)\
 **Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online ([sign up for the Zoom link](https://forms.gle/fKjzxbKFScfAMxks5))\
 **Who**: Anyone (including students and staff!)
 
