@@ -47,23 +47,6 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Upcoming Events
 
-### UCLA Open Source Meetup: Keeping the World on Time
-
-**When**: Tuesday, October 6 2026, 12-1pm Pacific / 19:00-20:00 UTC\
-**Where**: Hybrid. In person at the Charles E. Young Research Library, Data Science Center, Room 11630L, and online ([registration required](https://calendar.library.ucla.edu/event/17080330))\
-**Who**: Anyone at UCLA or across the UC system
-
-A lunch-hour conversation with **Paul Eggert**, UCLA Computer Science Teaching Professor, primary coordinator of the public-domain Time Zone Database (TZDB) and a longtime GNU contributor.
-
-TZDB does far more than keep the clocks on our phones accurate. It underpins timestamps on documents and photographs, preserves historical time-zone information that software depends on, and has to respond when governments change their clocks with little warning. Eggert will introduce this widely used but largely invisible infrastructure and discuss the technical, legal, political and collaborative challenges of sustaining it, in a 30-40 minute talk followed by an extended Q&A.
-
-**In-person seating is limited to 16 and advance registration is required.** Bring your own lunch; light refreshments and beverages provided. Online participation is open to the wider UC community.
-
-:::{div}
-:class: register-btn
-[Register here](https://calendar.library.ucla.edu/event/17080330)
-:::
-
 ### ORB Community Call
 
 **When**: Tuesday, October 6 2026, 1pm-2pm Pacific / 20:00-21:00 UTC; first Tuesday of every month\
@@ -76,22 +59,9 @@ Join the Open Repository Browser (ORB) working group for our regular community c
 - [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
 - ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
 
-### How to Contribute to Open Source Software
-
-**When**: Thursday, October 8 2026, 11am-1pm Pacific / 2-4pm Eastern / 18:00-20:00 UTC\
-**Where**: Zoom ([registration required](https://www.eventbrite.com/e/2000937230119))\
-**Who**: Anyone—no experience required, all institutional affiliations welcome!
-
-Come learn the best ways to get started as a contributor to open source software. This webinar will guide you through the processes needed to begin contributing to and publishing open source software today: where to start, how open source communities work and the norms they follow, and the skills you'll need along the way. Representatives from the Syracuse University and University of California Open Source Program Offices will lead the session, the second in a [CURIOSS](https://curioss.org/) pilot series that began with September's Git & GitHub workshop.
-
-:::{div}
-:class: register-btn
-[Register here](https://www.eventbrite.com/e/2000937230119)
-:::
-
 ### UC Berkeley OSPO Monthly Meetup: Open Source AI Models
 
-**When**: Thursday, October 15 2026, 3-5:30pm Pacific (in person from 3pm, online from 3:30pm)\
+**When**: Thursday, October 15 2026, 3-5pm Pacific (in person from 3pm, online from 3:30pm)\
 **Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online ([sign up for the Zoom link](https://forms.gle/fKjzxbKFScfAMxks5))\
 **Who**: Anyone (including students and staff!)
 
@@ -157,11 +127,12 @@ The Alignment Group brings together the chairs and delegates of the Network's Wo
 **Where**: Zoom ([registration required](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1))\
 **Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
 
-Thinking about open-sourcing your research software but unsure how to approach your Tech Transfer Office (TTO)? Steven Tudor, Director of the Technology Transfer Office at UC Davis, joins us to talk about what his office actually does when a researcher wants to release code as open source, the worries researchers bring to his office most often, and what information the TTO needs to help researchers make decisions. We'll also talk about how your campus OSPO can serve as a first stop on the way to tech transfer, so you can feel informed and confident when you meet with the TTO.
+Thinking about open-sourcing your research software but unsure how to approach your Tech Transfer Office (TTO)? Steven Tudor, Director of the Technology Transfer Office at UC Davis, and Mike Cohen, Director of Innovation Ecosystem Development in UC Berkeley's TTO, join us to talk about what their offices actually do when a researcher wants to release code as open source, the worries researchers bring to them most often, and what information the TTO needs to help researchers make decisions. We'll also talk about how your campus OSPO can serve as a first stop on the way to tech transfer, so you can feel informed and confident when you meet with the TTO.
 
-Guest speaker:
+Guest speakers:
 
 - Steven Tudor is Director of the TTO at UC Davis, where he leads the university’s intellectual property management and commercialization activities. His work focuses on helping researchers navigate intellectual property, licensing, and commercialization while supporting practical pathways for moving university innovations into broader use.
+- Mike Cohen is Director of Innovation Ecosystem Development in UC Berkeley's TTO, where he drives initiatives and license agreements that catalyze the commercialization of UC Berkeley innovations and support the funding of campus research. In 2019, he led the development of UC Berkeley's [Open Source Software Startup (OS3) Good-Standing Program](https://ipira.berkeley.edu/open-source-software-startup-program), which enables the university to obtain stock equity in startups that spin out of the university leveraging software developed at, and open-sourced by, the university.
 
 :::{div}
 :class: register-btn
@@ -195,6 +166,22 @@ Speakers and host campus TBA!
 :::
 
 ## Past Events
+
+### How to Contribute to Open Source Software
+
+**When**: Thursday, October 8 2026, 11am-1pm Pacific / 2-4pm Eastern / 18:00-20:00 UTC\
+**Where**: Zoom\
+**Who**: Anyone—no experience required, all institutional affiliations welcome!
+
+Representatives from the Syracuse University and University of California Open Source Program Offices guided participants through the processes needed to begin contributing to and publishing open source software: where to start, how open source communities work and the norms they follow, and the skills needed along the way. This was the second session in a [CURIOSS](https://curioss.org/) pilot series that began with September's Git & GitHub workshop.
+
+### UCLA Open Source Meetup: Keeping the World on Time
+
+**When**: Tuesday, October 6 2026, 12-1pm Pacific / 19:00-20:00 UTC\
+**Where**: Hybrid. In person at the Charles E. Young Research Library, Data Science Center, UCLA, and online\
+**Who**: Anyone at UCLA or across the UC system
+
+A lunch-hour conversation with **Paul Eggert**, UCLA Computer Science Teaching Professor, primary coordinator of the public-domain Time Zone Database (TZDB) and a longtime GNU contributor. Eggert introduced this widely used but largely invisible infrastructure, which underpins timestamps on documents and photographs, preserves historical time-zone information that software depends on, and has to respond when governments change their clocks with little warning. He discussed the technical, legal, political and collaborative challenges of sustaining it, followed by an extended Q&A.
 
 ### October 2026 All-Campus Virtual Meetup
 
