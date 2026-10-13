@@ -48,6 +48,7 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 ## Upcoming Events
 
 ```{include} _upcoming.md
+
 ```
 
 ## Past Events
