@@ -8,7 +8,7 @@
 
 [build]
   publish = "_build/html"
-  command = "npm ci && npx myst build --html && node scripts/generate-feed.js && node scripts/aggregate-events.js && npx linkinator ./_build/html/ --skip /events-embed.html"
+  command = "npm ci && node scripts/generate-upcoming.js && npx myst build --html && node scripts/generate-feed.js && node scripts/aggregate-events.js && npx linkinator ./_build/html/ --skip /events-embed.html"
 
 [context.deploy-preview]
   ignore = "false"

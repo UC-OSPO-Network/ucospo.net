@@ -13,14 +13,23 @@
 //     location:    string | null
 //     url:         string | null   // link to the event detail page / registration
 //     description: string | null
+//     ongoing:     boolean  // true for recurring weekly coworking / office hours
 //   }
 
 export function makeEvent(source, fields) {
+  const title = (fields.title || "Untitled event").trim();
+  const isOngoing = Boolean(
+    fields.ongoing ||
+      source.ongoing ||
+      (Array.isArray(source.ongoingPatterns) &&
+        source.ongoingPatterns.some((pattern) => pattern.test(title))),
+  );
+
   return {
     uid: `${source.id}:${fields.id}`,
     sourceId: source.id,
     sourceLabel: source.label,
-    title: (fields.title || "Untitled event").trim(),
+    title,
     start: fields.start,
     end: fields.end ?? null,
     allDay: Boolean(fields.allDay),
@@ -28,6 +37,7 @@ export function makeEvent(source, fields) {
     url: fields.url || null,
     description: fields.description?.trim() || null,
     descriptionHtml: fields.descriptionHtml || null,
+    ongoing: isOngoing,
   };
 }
 
@@ -61,8 +71,16 @@ export function dedupe(events) {
 function preferred(a, b) {
   const aNet = a.sourceId === "network";
   const bNet = b.sourceId === "network";
-  if (aNet !== bNet) return aNet ? a : b;
-  return (b.description?.length ?? 0) > (a.description?.length ?? 0) ? b : a;
+  const winner =
+    aNet !== bNet
+      ? aNet ? a : b
+      : (b.description?.length ?? 0) > (a.description?.length ?? 0)
+        ? b
+        : a;
+  if (a.ongoing || b.ongoing) {
+    return { ...winner, ongoing: true };
+  }
+  return winner;
 }
 
 export function sortByStart(events) {

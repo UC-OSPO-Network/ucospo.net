@@ -9,6 +9,7 @@ install: ## Install Node dependencies (mystmd)
 
 html: ## Build MyST site in ./_build/html
 html: install
+	node scripts/generate-upcoming.js
 	npx myst build --html
 	node scripts/generate-feed.js
 	node scripts/aggregate-events.js

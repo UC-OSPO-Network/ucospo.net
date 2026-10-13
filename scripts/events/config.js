@@ -20,6 +20,11 @@ export const SOURCES = [
     type: "ics",
     // Google Calendar (network-wide, all-campus events). Owned by Laura.
     url: "https://calendar.google.com/calendar/ical/c_92ca749b4c01f221e16866c624be4377f8ccefbf0a079ec37f6960663c486e79%40group.calendar.google.com/public/basic.ics",
+    // Recurring Tue + Thu Office Hours remain in the curated "Coworking/Office Hours (ongoing)"
+    // section of events/index.md. Match them specifically so the upcoming list excludes them.
+    ongoingPatterns: [
+      /^(OSPO Virtual Coffee\/)?Office Hours(\s*\((Tuesdays|Thursdays)\))?$/i,
+    ],
   },
   {
     id: "davis",

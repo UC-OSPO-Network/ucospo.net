@@ -31,22 +31,44 @@ const DATE_RE = new RegExp(
   "i",
 );
 
-/** Split the Upcoming Events section into `### ` entries. */
-function upcomingEntries(markdown) {
+function resolveIncludes(section, baseDir) {
+  return section.replace(
+    /(?:`{3,4}\s*)?\{include\}\s+([^\s\n`]+)(?:\s*`{3,4})?/g,
+    (_, relPath) => {
+      const targetPath = path.resolve(baseDir, relPath);
+      if (fs.existsSync(targetPath)) {
+        return fs.readFileSync(targetPath, "utf8");
+      }
+      return "";
+    },
+  );
+}
+
+/** Split the Upcoming Events section into entries (supporting H3/H4 entries and MyST includes). */
+function upcomingEntries(markdown, baseDir = path.dirname(INDEX)) {
   const start = markdown.indexOf("## Upcoming Events");
   assert.notEqual(start, -1, "events/index.md has no '## Upcoming Events' heading");
   let end = markdown.indexOf("\n## ", start + 1);
   if (end === -1) end = markdown.length;
 
-  const section = markdown.slice(start, end);
+  let section = markdown.slice(start, end);
+  section = resolveIncludes(section, baseDir);
+
   const entries = [];
-  const re = /^### (.+)$/gm;
+  const hasH4 = /^#### (.+)$/m.test(section);
+  const re = hasH4 ? /^#### (.+)$/gm : /^### (.+)$/gm;
   let m;
   const marks = [];
   while ((m = re.exec(section)) !== null) marks.push({ title: m[1].trim(), at: m.index });
 
   for (let i = 0; i < marks.length; i++) {
-    const body = section.slice(marks[i].at, marks[i + 1]?.at ?? section.length);
+    const after = section.slice(marks[i].at);
+    const nextBoundaryRel = after.slice(marks[i].title.length).search(/\n#{3,4}\s+/);
+    const bodyEnd =
+      nextBoundaryRel !== -1
+        ? marks[i].at + marks[i].title.length + nextBoundaryRel
+        : (marks[i + 1]?.at ?? section.length);
+    const body = section.slice(marks[i].at, bodyEnd);
     const d = DATE_RE.exec(body);
     // A "% EVENT:PINNED" comment on the line(s) just above the heading opts the entry out of the ordering check.
     const before = section.slice(Math.max(0, marks[i].at - 200), marks[i].at);
@@ -59,6 +81,34 @@ function upcomingEntries(markdown) {
     });
   }
   return entries;
+}
+
+function upcomingMonthHeadings(markdown, baseDir = path.dirname(INDEX)) {
+  const start = markdown.indexOf("## Upcoming Events");
+  assert.notEqual(start, -1, "events/index.md has no '## Upcoming Events' heading");
+  let end = markdown.indexOf("\n## ", start + 1);
+  if (end === -1) end = markdown.length;
+
+  let section = markdown.slice(start, end);
+  section = resolveIncludes(section, baseDir);
+
+  const monthRe = new RegExp(
+    `^###\\s+(${Object.keys(MONTHS).join("|")})\\s+(\\d{4})$`,
+    "gim",
+  );
+  const months = [];
+  let m;
+  while ((m = monthRe.exec(section)) !== null) {
+    const monthName = m[1].toLowerCase();
+    const year = Number(m[2]);
+    months.push({
+      heading: m[0].replace(/^###\s+/, "").trim(),
+      month: MONTHS[monthName],
+      year,
+      sortKey: year * 100 + MONTHS[monthName],
+    });
+  }
+  return months;
 }
 
 test("Upcoming Events entries are in chronological order", () => {
@@ -99,4 +149,18 @@ test("every Upcoming Events entry either has a readable date or is a known serie
       `ALLOWED_UNDATED in this test if it is genuinely a recurring series block. ` +
       `Note that pinning an entry does NOT exempt it from needing a date.`,
   );
+});
+
+test("month headings in Upcoming Events follow chronological order and required structure", () => {
+  const months = upcomingMonthHeadings(fs.readFileSync(INDEX, "utf8"));
+  assert.ok(months.length > 0, "no month headings found in Upcoming Events");
+
+  for (let i = 1; i < months.length; i++) {
+    const prev = months[i - 1];
+    const cur = months[i];
+    assert.ok(
+      cur.sortKey >= prev.sortKey,
+      `Month headings out of chronological order: "${prev.heading}" before "${cur.heading}"`,
+    );
+  }
 });

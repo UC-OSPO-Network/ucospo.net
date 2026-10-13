@@ -110,4 +110,50 @@ test("makeEvent builds a stable uid and normalizes fields", () => {
   assert.equal(e.description, "hi");
   assert.equal(e.end, null);
   assert.equal(e.allDay, false);
+  assert.equal(e.ongoing, false);
+});
+
+test("makeEvent marks events as ongoing when matching source.ongoingPatterns", () => {
+  const netSrc = {
+    id: "network",
+    label: "NETWORK",
+    ongoingPatterns: [
+      /^(OSPO Virtual Coffee\/)?Office Hours(\s*\((Tuesdays|Thursdays)\))?$/i,
+    ],
+  };
+  const tue = makeEvent(netSrc, {
+    id: "tue-1",
+    title: "Office Hours (Tuesdays)",
+    start: new Date("2026-07-07T17:00:00Z"),
+  });
+  const thu = makeEvent(netSrc, {
+    id: "thu-1",
+    title: "OSPO Virtual Coffee/Office Hours",
+    start: new Date("2026-07-09T20:00:00Z"),
+  });
+  const meetup = makeEvent(netSrc, {
+    id: "net-meetup",
+    title: "All-Campus Virtual Meetup: July",
+    start: new Date("2026-07-16T17:00:00Z"),
+  });
+
+  assert.equal(tue.ongoing, true);
+  assert.equal(thu.ongoing, true);
+  assert.equal(meetup.ongoing, false);
+});
+
+test("dedupe preserves ongoing: true flag when merging duplicates", () => {
+  const start = new Date("2026-07-07T17:00:00Z");
+  const ongoingNet = makeEvent(
+    { id: "network", label: "NET" },
+    { id: "n1", title: "Office Hours", start, ongoing: true },
+  );
+  const campusCopy = makeEvent(
+    { id: "davis", label: "DAVIS" },
+    { id: "d1", title: "Office Hours", start, description: "longer description" },
+  );
+
+  const out = dedupe([campusCopy, ongoingNet]);
+  assert.equal(out.length, 1);
+  assert.equal(out[0].ongoing, true);
 });
