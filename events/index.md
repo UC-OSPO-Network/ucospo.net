@@ -50,7 +50,7 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 ### ORB Community Call
 
 **When**: Tuesday, October 6 2026, 1pm-2pm Pacific / 20:00-21:00 UTC; first Tuesday of every month\
-**Where**: Zoom. [Join Now](https://ucsb.zoom.us/j/83628810634)\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/83628810634) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWQ2a2pvY2xzdWYxN2EyZWVzbXAwMjRnZzhfMjAyNjEwMDZUMjAwMDAwWiBjXzk5ZTQ1NmUxZDNkMWQ1ZDMyMGZiMzUzNjQ3NjE3ZmI3MmQ5ZDljMDFmYzkzNjhlZDc2ZTgzMGM3ZTU5MTA4ZTZAZw&amp;tmsrc=c_99e456e1d3d1d5d320fb353647617fb72d9d9c01fc9368ed76e830c7e59108e6%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
 **Who**: Anyone
 
 Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
