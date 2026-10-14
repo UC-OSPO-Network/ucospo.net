@@ -47,18 +47,6 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Upcoming Events
 
-### ORB Community Call
-
-**When**: Tuesday, October 6 2026, 1pm-2pm Pacific / 20:00-21:00 UTC; first Tuesday of every month\
-**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/83628810634) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWQ2a2pvY2xzdWYxN2EyZWVzbXAwMjRnZzhfMjAyNjEwMDZUMjAwMDAwWiBjXzk5ZTQ1NmUxZDNkMWQ1ZDMyMGZiMzUzNjQ3NjE3ZmI3MmQ5ZDljMDFmYzkzNjhlZDc2ZTgzMGM3ZTU5MTA4ZTZAZw&amp;tmsrc=c_99e456e1d3d1d5d320fb353647617fb72d9d9c01fc9368ed76e830c7e59108e6%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
-**Who**: Anyone
-
-Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
-
-- [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
-- [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
-- ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
-
 ### UC Berkeley OSPO Monthly Meetup: Open Source AI Models
 
 **When**: Thursday, October 15 2026, 3-5pm Pacific (in person from 3pm, online from 3:30pm)\
@@ -118,6 +106,18 @@ The winning team is invited to [UN Open Source Week](https://www.unopensource.or
 **Who**: Working-group delegates, and anyone interested in how the Network is run
 
 The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
+
+### ORB Community Call
+
+**When**: Tuesday, November 3 2026, 1pm-2pm Pacific / 21:00-22:00 UTC; first Tuesday of every month\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/83628810634) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWQ2a2pvY2xzdWYxN2EyZWVzbXAwMjRnZzhfMjAyNjEwMDZUMjAwMDAwWiBjXzk5ZTQ1NmUxZDNkMWQ1ZDMyMGZiMzUzNjQ3NjE3ZmI3MmQ5ZDljMDFmYzkzNjhlZDc2ZTgzMGM3ZTU5MTA4ZTZAZw&amp;tmsrc=c_99e456e1d3d1d5d320fb353647617fb72d9d9c01fc9368ed76e830c7e59108e6%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
+**Who**: Anyone
+
+Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
+
+- [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
+- [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
+- ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
 
 (all-campus-meetup-2026-11)=
 
