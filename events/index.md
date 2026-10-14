@@ -53,6 +53,22 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Past Events
 
+### How to Contribute to Open Source Software
+
+**When**: Thursday, October 8 2026, 11am-1pm Pacific / 2-4pm Eastern / 18:00-20:00 UTC\
+**Where**: Zoom\
+**Who**: Anyone—no experience required, all institutional affiliations welcome!
+
+Representatives from the Syracuse University and University of California Open Source Program Offices guided participants through the processes needed to begin contributing to and publishing open source software: where to start, how open source communities work and the norms they follow, and the skills needed along the way. This was the second session in a [CURIOSS](https://curioss.org/) pilot series that began with September's Git & GitHub workshop.
+
+### UCLA Open Source Meetup: Keeping the World on Time
+
+**When**: Tuesday, October 6 2026, 12-1pm Pacific / 19:00-20:00 UTC\
+**Where**: Hybrid. In person at the Charles E. Young Research Library, Data Science Center, UCLA, and online\
+**Who**: Anyone at UCLA or across the UC system
+
+A lunch-hour conversation with **Paul Eggert**, UCLA Computer Science Teaching Professor, primary coordinator of the public-domain Time Zone Database (TZDB) and a longtime GNU contributor. Eggert introduced this widely used but largely invisible infrastructure, which underpins timestamps on documents and photographs, preserves historical time-zone information that software depends on, and has to respond when governments change their clocks with little warning. He discussed the technical, legal, political and collaborative challenges of sustaining it, followed by an extended Q&A.
+
 ### October 2026 All-Campus Virtual Meetup
 
 **When**: Thursday, October 1 2026 at 10am Pacific / 17:00 UTC\
