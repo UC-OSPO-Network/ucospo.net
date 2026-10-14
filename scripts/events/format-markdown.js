@@ -26,6 +26,13 @@ const monthHeadingFormatter = new Intl.DateTimeFormat("en-US", {
   timeZone: PACIFIC_TZ,
 });
 
+const headingDateFormatter = new Intl.DateTimeFormat("en-US", {
+  month: "long",
+  day: "numeric",
+  year: "numeric",
+  timeZone: PACIFIC_TZ,
+});
+
 export function escapeHeading(text) {
   const sanitized = (text || "")
     .replace(/[\r\n]+/g, " ")
@@ -35,8 +42,115 @@ export function escapeHeading(text) {
   return sanitized || "Untitled event";
 }
 
+export function formatHeadingTitle(event, seenHeadings) {
+  const baseTitle = escapeHeading(event.title);
+  if (!seenHeadings) {
+    return baseTitle;
+  }
+  if (!seenHeadings.has(baseTitle)) {
+    seenHeadings.add(baseTitle);
+    return baseTitle;
+  }
+
+  let dateStr = "";
+  if (event.start instanceof Date && !isNaN(event.start)) {
+    dateStr = headingDateFormatter.format(event.start);
+  }
+
+  let uniqueTitle = dateStr ? `${baseTitle} (${dateStr})` : baseTitle;
+  if (seenHeadings.has(uniqueTitle)) {
+    let disambiguated = uniqueTitle;
+    let counter = 2;
+    while (seenHeadings.has(disambiguated)) {
+      disambiguated = `${uniqueTitle} (${counter})`;
+      counter++;
+    }
+    uniqueTitle = disambiguated;
+  }
+
+  seenHeadings.add(uniqueTitle);
+  return uniqueTitle;
+}
+
 function sanitizeText(text) {
   return (text || "").trim();
+}
+
+export function formatDescription(text) {
+  if (!text || typeof text !== "string") return "";
+
+  // 1. Protect inline code spans `...`
+  const codeSpans = [];
+  let tokenized = text.replace(/`+[^`]+`+/g, (match) => {
+    const idx = codeSpans.length;
+    codeSpans.push(match);
+    return `__MD_CODE_${idx}__`;
+  });
+
+  // 2. Normalize concatenated sentences or missing whitespace from upstream feeds
+  tokenized = tokenized.replace(
+    /([a-z])(Check out the rest of the series\b)/g,
+    "$1. $2",
+  );
+  tokenized = tokenized.replace(/([.!?])\(/g, "$1 (");
+
+  // 3. Convert markdown links whose visible text is a URL: [https://...](dest) -> [Event link](dest)
+  // Preserve images and non-URL labels as-is.
+  const preservedLinks = [];
+  tokenized = tokenized.replace(
+    /!?\[([^\]]*)\]\(([^)\s]+(?:\s+["\x27][^"\x27]*["\x27])?)\)/g,
+    (match, label, dest) => {
+      if (match.startsWith("!")) {
+        const idx = preservedLinks.length;
+        preservedLinks.push(match);
+        return `__MD_LINK_${idx}__`;
+      }
+      const trimmedLabel = label.trim();
+      const isUrl = /^https?:\/\//i.test(trimmedLabel);
+      const finalLabel = isUrl ? "Event link" : label;
+      const idx = preservedLinks.length;
+      preservedLinks.push(`[${finalLabel}](${dest})`);
+      return `__MD_LINK_${idx}__`;
+    },
+  );
+
+  // 3. Protect autolinks <http...>
+  const autolinks = [];
+  tokenized = tokenized.replace(/<(https?:\/\/[^>]+)>/g, (match) => {
+    const idx = autolinks.length;
+    autolinks.push(match);
+    return `__MD_AUTOLINK_${idx}__`;
+  });
+
+  // 4. Convert bare URLs in text to protected [Event link](url) tokens
+  tokenized = tokenized.replace(
+    /\b(https?:\/\/[^\s<>[\]()]+(?:\([^\s<>[\]()]+\)[^\s<>[\]()]*)*)/gi,
+    (match) => {
+      let cleanUrl = match;
+      let trailing = "";
+      while (/[.,;:!?]$/.test(cleanUrl)) {
+        trailing = cleanUrl.slice(-1) + trailing;
+        cleanUrl = cleanUrl.slice(0, -1);
+      }
+      const idx = preservedLinks.length;
+      preservedLinks.push(`[Event link](${cleanUrl})`);
+      return `__MD_LINK_${idx}__${trailing}`;
+    },
+  );
+
+  // 5. Normalize whitespace after closing parentheses or markdown links followed directly by words
+  tokenized = tokenized.replace(/\)([A-Za-z])/g, ") $1");
+  tokenized = tokenized.replace(/(__MD_LINK_\d+__)([A-Za-z])/g, "$1 $2");
+
+  // 6. Restore preserved tokens
+  tokenized = tokenized.replace(/__MD_AUTOLINK_(\d+)__/g, (_, i) => autolinks[Number(i)]);
+  tokenized = tokenized.replace(/__MD_LINK_(\d+)__/g, (_, i) => preservedLinks[Number(i)]);
+  tokenized = tokenized.replace(/__MD_CODE_(\d+)__/g, (_, i) => codeSpans[Number(i)]);
+
+  // 6. Ensure clean paragraph separation between bullet lists and subsequent non-list text
+  tokenized = tokenized.replace(/(^|\n)([-*]\s+[^\n]+)\n([^-*\s#`>])/g, "$1$2\n\n$3");
+
+  return tokenized.trim();
 }
 
 export function isValidUrl(url) {
@@ -92,10 +206,10 @@ export function formatWhen(event) {
   return `${startDateStr}, ${startTimeStr} Pacific`;
 }
 
-function formatEventEntry(event) {
+function formatEventEntry(event, seenHeadings) {
   const parts = [];
 
-  const title = escapeHeading(event.title);
+  const title = formatHeadingTitle(event, seenHeadings);
   parts.push(`#### ${title}`);
 
   const when = formatWhen(event);
@@ -107,7 +221,7 @@ function formatEventEntry(event) {
     parts.push(`**When**: ${when}`);
   }
 
-  const description = sanitizeText(event.description);
+  const description = formatDescription(event.description);
   if (description) {
     parts.push(description);
   }
@@ -169,10 +283,13 @@ export function formatUpcomingMarkdown(events) {
 
   // 5. Format into Markdown
   const monthSections = [];
+  const seenHeadings = new Set();
 
   for (const group of sortedGroups) {
     group.events.sort((a, b) => a.start - b.start);
-    const eventBlocks = group.events.map(formatEventEntry);
+    const eventBlocks = group.events.map((e) =>
+      formatEventEntry(e, seenHeadings),
+    );
     monthSections.push(`### ${group.heading}\n\n${eventBlocks.join("\n\n")}`);
   }
 

@@ -6,6 +6,8 @@ import {
   escapeHeading,
   formatUrl,
   isValidUrl,
+  formatDescription,
+  formatHeadingTitle,
 } from "./format-markdown.js";
 import { makeEvent } from "./normalize.js";
 
@@ -325,4 +327,275 @@ test("full event formatting keeps C# in heading and properly links URL with pare
   assert.ok(
     md.includes("[Register here](https://calendar.ucsd.edu/event%28999%29?ref=%28email%29)"),
   );
+});
+
+test("formatDescription converts URL-shaped link labels while preserving destinations", () => {
+  assert.equal(
+    formatDescription("Check [https://example.com](https://example.com) for details."),
+    "Check [Event link](https://example.com) for details.",
+  );
+  assert.equal(
+    formatDescription("See [http://example.org/path?q=1](http://example.org/path?q=1)."),
+    "See [Event link](http://example.org/path?q=1).",
+  );
+  assert.equal(
+    formatDescription("Visit [https://old.edu/link](https://new.edu/actual-target)."),
+    "Visit [Event link](https://new.edu/actual-target).",
+  );
+});
+
+test("formatDescription preserves meaningful link labels, images, and inline code", () => {
+  assert.equal(
+    formatDescription("Visit [the project website](https://example.com) for details."),
+    "Visit [the project website](https://example.com) for details.",
+  );
+  assert.equal(
+    formatDescription("Read the [UC OSPO Report](https://ucospo.net/report) online."),
+    "Read the [UC OSPO Report](https://ucospo.net/report) online.",
+  );
+  assert.equal(
+    formatDescription("![Campus Map](https://example.edu/map.png)"),
+    "![Campus Map](https://example.edu/map.png)",
+  );
+  assert.equal(
+    formatDescription("Run `curl https://api.example.com` to inspect."),
+    "Run `curl https://api.example.com` to inspect.",
+  );
+});
+
+test("formatDescription converts bare URLs and handles surrounding punctuation", () => {
+  assert.equal(
+    formatDescription("Visit https://example.com for details."),
+    "Visit [Event link](https://example.com) for details.",
+  );
+  assert.equal(
+    formatDescription("Join https://example.com/event?id=123 for details."),
+    "Join [Event link](https://example.com/event?id=123) for details.",
+  );
+  assert.equal(
+    formatDescription("Zoom: https://ucsb.zoom.us/j/87889247304"),
+    "Zoom: [Event link](https://ucsb.zoom.us/j/87889247304)",
+  );
+  assert.equal(
+    formatDescription("Sign up (https://forms.gle/fKjzxbKFScfAMxks5) now!"),
+    "Sign up ([Event link](https://forms.gle/fKjzxbKFScfAMxks5)) now!",
+  );
+  assert.equal(
+    formatDescription("See https://en.wikipedia.org/wiki/Open_source_(software) for details."),
+    "See [Event link](https://en.wikipedia.org/wiki/Open_source_(software)) for details.",
+  );
+  assert.equal(
+    formatDescription("Paper (https://www.nature.com/articles/d41586-026-02451-2). Thanks!"),
+    "Paper ([Event link](https://www.nature.com/articles/d41586-026-02451-2)). Thanks!",
+  );
+});
+
+test("formatDescription generates valid Markdown links without unwanted backslashes", () => {
+  const input =
+    "Sign up (https://forms.gle/fKjzxbKFScfAMxks5) now and visit https://example.com/event?id=123.";
+  const output = formatDescription(input);
+  assert.equal(
+    output,
+    "Sign up ([Event link](https://forms.gle/fKjzxbKFScfAMxks5)) now and visit [Event link](https://example.com/event?id=123).",
+  );
+  assert.ok(!output.includes("\\("), "Generated Markdown links must not contain backslash-escaped parentheses");
+  assert.ok(!output.includes("\\:"), "Generated Markdown links must not contain backslash-escaped colons");
+});
+
+test("formatDescription separates concatenated sentences and missing whitespace safely", () => {
+  // Berkeley October/November meetup sentence concatenation
+  assert.equal(
+    formatDescription(
+      "Join us to explore how we can harness the collective intelligence and creativity of the global open source ecosystem to meaningfully transform how knowledge is created and sharedCheck out the rest of the series (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)!",
+    ),
+    "Join us to explore how we can harness the collective intelligence and creativity of the global open source ecosystem to meaningfully transform how knowledge is created and shared. Check out the rest of the series ([Event link](https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo))!",
+  );
+
+  // Berkeley November meetup: period before parenthetical remark
+  assert.equal(
+    formatDescription("join us at 3:30pm.(event details coming soon!)"),
+    "join us at 3:30pm. (event details coming soon!)",
+  );
+
+  // Existing sentence with proper separator is not duplicated
+  assert.equal(
+    formatDescription(
+      "Knowledge is created and shared. Check out the rest of the series (https://example.com)!",
+    ),
+    "Knowledge is created and shared. Check out the rest of the series ([Event link](https://example.com))!",
+  );
+
+  // Normal descriptions and inline code/links remain unchanged
+  assert.equal(
+    formatDescription("Regular sentence with `inline.code(test)` and [Custom](https://example.com) link."),
+    "Regular sentence with `inline.code(test)` and [Custom](https://example.com) link.",
+  );
+
+  // Paragraph and list formatting preserved
+  assert.equal(
+    formatDescription("First paragraph.\n\n- Item 1\n- Item 2\n\nSubsequent paragraph."),
+    "First paragraph.\n\n- Item 1\n- Item 2\n\nSubsequent paragraph.",
+  );
+});
+
+test("formatDescription inserts whitespace between closing link parenthesis and adjacent word", () => {
+  // Berkeley meetup: parenthetical URL concatenated with following prose
+  assert.equal(
+    formatDescription(
+      "Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events.",
+    ),
+    "Visit ([Event link](https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)) the OSPO page ([Event link](https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)) for more OSPO info and events.",
+  );
+
+  // Already-formatted markdown link followed immediately by text
+  assert.equal(
+    formatDescription("Visit ([Event link](https://bids.berkeley.edu/ospo))the OSPO page."),
+    "Visit ([Event link](https://bids.berkeley.edu/ospo)) the OSPO page.",
+  );
+  assert.equal(
+    formatDescription("Visit [the site](https://example.com)for info."),
+    "Visit [the site](https://example.com) for info.",
+  );
+  assert.equal(
+    formatDescription("Check [Event link](https://example.com)the page."),
+    "Check [Event link](https://example.com) the page.",
+  );
+
+  // General parenthetical URL concatenated with word
+  assert.equal(
+    formatDescription("Read docs (https://example.com/guide)carefully before starting."),
+    "Read docs ([Event link](https://example.com/guide)) carefully before starting.",
+  );
+
+  // Parenthesized URL that itself contains parentheses followed by word
+  assert.equal(
+    formatDescription("See (https://en.wikipedia.org/wiki/Open_source_(software))the article."),
+    "See ([Event link](https://en.wikipedia.org/wiki/Open_source_(software))) the article.",
+  );
+
+  // Inline code with parens and adjacent letters must not be modified
+  assert.equal(
+    formatDescription("Code `fn(x)y` and `test(1)foo` stay intact."),
+    "Code `fn(x)y` and `test(1)foo` stay intact.",
+  );
+
+  // Idempotence: repeated formatting produces identical results
+  const rawBerkeley =
+    "Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events.";
+  const pass1 = formatDescription(rawBerkeley);
+  const pass2 = formatDescription(pass1);
+  assert.equal(
+    pass1,
+    "Visit ([Event link](https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)) the OSPO page ([Event link](https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)) for more OSPO info and events.",
+  );
+  assert.equal(pass2, pass1);
+});
+
+test("formatUpcomingMarkdown preserves registration URLs and converts description URL labels", () => {
+  const e = ev("ucla", {
+    id: "url-test",
+    title: "Link Test Event",
+    start: new Date("2026-10-20T19:00:00Z"),
+    description: "Visit [https://example.com](https://example.com) or join https://zoom.us/j/123.",
+    url: "https://registration.example.edu/event?id=123",
+  });
+
+  const md = formatUpcomingMarkdown([e]);
+  assert.ok(md.includes("Visit [Event link](https://example.com)"));
+  assert.ok(md.includes("or join [Event link](https://zoom.us/j/123)."));
+  // Registration button must remain intact
+  assert.ok(md.includes("[Register here](https://registration.example.edu/event?id=123)"));
+});
+
+test("formatHeadingTitle preserves titles occurring once and disambiguates duplicates with date", () => {
+  const seen = new Set();
+  const e1 = ev("ucsb", {
+    id: "lounge-1",
+    title: "Open Source Lounge",
+    start: new Date("2026-10-16T10:00:00Z"),
+  });
+  const e2 = ev("ucsb", {
+    id: "lounge-2",
+    title: "Open Source Lounge",
+    start: new Date("2026-10-23T10:00:00Z"),
+  });
+  const single = ev("davis", {
+    id: "symposium",
+    title: "Data Science Symposium",
+    start: new Date("2026-10-25T18:00:00Z"),
+  });
+
+  assert.equal(formatHeadingTitle(e1, seen), "Open Source Lounge");
+  assert.equal(formatHeadingTitle(e2, seen), "Open Source Lounge (October 23, 2026)");
+  assert.equal(formatHeadingTitle(single, seen), "Data Science Symposium");
+
+  // Missing and invalid start dates on duplicate events fall back safely
+  const seenMissing = new Set();
+  const eMissing1 = { title: "Workshop", start: null };
+  const eMissing2 = { title: "Workshop", start: new Date("invalid") };
+  const eMissing3 = { title: "Workshop", start: undefined };
+  assert.equal(formatHeadingTitle(eMissing1, seenMissing), "Workshop");
+  assert.equal(formatHeadingTitle(eMissing2, seenMissing), "Workshop (2)");
+  assert.equal(formatHeadingTitle(eMissing3, seenMissing), "Workshop (3)");
+});
+
+test("duplicate titles repeated in different months are disambiguated and all headings remain unique", () => {
+  const events = [
+    ev("ucsb", {
+      id: "lounge-oct-1",
+      title: "Open Source Lounge",
+      start: new Date("2026-10-16T10:00:00Z"),
+    }),
+    ev("ucsb", {
+      id: "lounge-oct-2",
+      title: "Open Source Lounge",
+      start: new Date("2026-10-23T10:00:00Z"),
+    }),
+    ev("network", {
+      id: "unique-keynote",
+      title: "All-Campus Keynote",
+      start: new Date("2026-10-28T18:00:00Z"),
+    }),
+    ev("network", {
+      id: "orb-nov-1",
+      title: "ORB Community Call",
+      start: new Date("2026-11-03T20:00:00Z"),
+    }),
+    ev("network", {
+      id: "orb-nov-2",
+      title: "ORB Community Call",
+      start: new Date("2026-11-04T10:30:00Z"),
+    }),
+    ev("ucsb", {
+      id: "lounge-nov",
+      title: "Open Source Lounge",
+      start: new Date("2026-11-06T11:00:00Z"),
+    }),
+    ev("network", {
+      id: "orb-dec",
+      title: "ORB Community Call",
+      start: new Date("2026-12-01T20:00:00Z"),
+    }),
+  ];
+
+  const md = formatUpcomingMarkdown(events);
+
+  // Single occurrence must preserve original title without date
+  assert.ok(md.includes("#### All-Campus Keynote"));
+  assert.ok(!md.includes("#### All-Campus Keynote ("));
+
+  // First occurrence of repeated title preserves original title
+  assert.ok(md.includes("#### Open Source Lounge\n"));
+  assert.ok(md.includes("#### ORB Community Call\n"));
+
+  // Subsequent occurrences in same or different months get dates
+  assert.ok(md.includes("#### Open Source Lounge (October 23, 2026)"));
+  assert.ok(md.includes("#### Open Source Lounge (November 6, 2026)"));
+  assert.ok(md.includes("#### ORB Community Call (November 4, 2026)"));
+  assert.ok(md.includes("#### ORB Community Call (December 1, 2026)"));
+
+  // Confirm that every generated heading in the output is unique
+  const headings = [...md.matchAll(/^#{3,4}\s+(.+)$/gm)].map((m) => m[1]);
+  const uniqueHeadings = new Set(headings);
+  assert.equal(uniqueHeadings.size, headings.length, "All H3/H4 headings must be strictly unique");
 });
