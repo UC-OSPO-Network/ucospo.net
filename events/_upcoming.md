@@ -1,33 +1,6 @@
 ### October 2026
 
-#### OSPO Monthly Meetup: Open source AI models
-
-**When**: Thursday, October 15, 2026, 3:00 PM – 5:00 PM Pacific\
-**Where**: Gateway Building, Social Kitchen, Room 1420
-
-Join BIDS and D-Lab in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time with drinks and snacks! → Attend in person: Register on this page and join us at 3pm. → Attend online: Sign up here to receive a Zoom link ([Event link](https://forms.gle/fKjzxbKFScfAMxks5)) and join us at 3:30pm. The focus of this month's OSPO is on open source AI, sovereign implementations, data privacy, researcher and user surveillance, and creating a more diverse AI ecosystem. We are joined by Fernando Pérez, BIDS Faculty Director and Project Jupyter Co-Founder, and Cathryn Carson, Professor and Chair of the Department of History. Pérez is a co-author of a recent Nature commentary "Why scientists should lead the shift away from AI mega data centres" ([Event link](https://www.nature.com/articles/d41586-026-02451-2)).&#160; Join us to explore how we can harness the collective intelligence and creativity of the global open source ecosystem to meaningfully transform how knowledge is created and shared. Check out the rest of the series ([Event link](https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo))!
-
-:::{div}
-:class: register-btn
-[Register here](https://events.berkeley.edu/BIDS/event/327522-ospo-monthly-meetup-open-source-ai-models)
-:::
-
 #### Open Source Lounge
-
-**When**: Friday, October 16, 2026, 3:00 AM – 5:00 AM Pacific
-
-The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.
-
-In-person: Sara Miller McCune Arts library (Library room 1411, mountain side)
-Zoom: [Event link](https://ucsb.zoom.us/j/87889247304)
-Thursdays, 2:30-4:30pm
-
-:::{div}
-:class: register-btn
-[Register here](https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247304&sa=D&source=calendar&ust=1788292841470995&usg=AOvVaw1ioYjTlQQbEcK9R0Yg6ydJ)
-:::
-
-#### Open Source Lounge (October 23, 2026)
 
 **When**: Friday, October 23, 2026, 3:00 AM – 5:00 AM Pacific
 
@@ -578,6 +551,21 @@ Register here: [Event link](https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTS
 #### Open Source Lounge (February 5, 2027)
 
 **When**: Friday, February 5, 2027, 4:00 AM – 6:00 AM Pacific
+
+The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.
+
+In-person: Sara Miller McCune Arts library (Library room 1411, mountain side)
+Zoom: [Event link](https://ucsb.zoom.us/j/87889247304)
+Thursdays, 2:30-4:30pm
+
+:::{div}
+:class: register-btn
+[Register here](https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247304&sa=D&source=calendar&ust=1788292841470995&usg=AOvVaw1ioYjTlQQbEcK9R0Yg6ydJ)
+:::
+
+#### Open Source Lounge (February 12, 2027)
+
+**When**: Friday, February 12, 2027, 4:00 AM – 6:00 AM Pacific
 
 The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.
 
