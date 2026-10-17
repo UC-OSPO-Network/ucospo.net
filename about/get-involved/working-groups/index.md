@@ -10,7 +10,8 @@ Each Working Group designates a chair who represents it to the Alignment Group, 
 
 ## Our Working Groups
 
-- **[Discovery](discovery.md):** mapping the UC open source landscape; home of the [Open Repository Browser (ORB)](https://juanis2112-repoexplorer.share.connect.posit.cloud/) and the project showcase.
+- **[Discovery](discovery.md):** mapping the UC open source landscape; runs the UC instance of the [Open Repository Browser (ORB)](orb.md) and the project showcase.
+- **[ORB](orb.md):** maintaining the open source ORB toolkit itself, with an open monthly community call.
 - **[Sustainability Playbook](sustainability-playbook.md):** an online handbook for sustaining open source at UC, built from interviews with UC researchers.
 - **[OSS Licensing](oss-licensing.md):** clarifying and simplifying open source licensing guidance for UC.
 - **[Education](education.md):** building a connected open source learning culture across UC, much of it through the UC Carpentries partnership.

@@ -12,9 +12,13 @@ The Discovery Working Group maps the open source landscape across the University
 
 Discovery's work spans several projects:
 
-- **[Open Repository Browser (ORB)](https://juanis2112-repoexplorer.share.connect.posit.cloud/):** a toolkit for discovering, exploring, and spotlighting UC open source projects, along with the community growing around it.
+- **UC instance of the [Open Repository Browser (ORB)](https://juanis2112-repoexplorer.share.connect.posit.cloud/):** the Network's deployment of ORB, a toolkit for discovering, exploring, and spotlighting UC open source projects, and the outreach that builds on its data
 - **Project showcase:** a curated view of UC open source projects that are open to engagement with contributors and sponsors.
 - A UC-wide **[survey](../../../oss-resources/survey/index.md)** of open source projects, practices, and perceptions, which feeds the annual "State of UC Open Source."
+
+:::{note} Looking for ORB development?
+Work on the ORB toolkit itself, such as code, architecture, and data infrastructure, happens in the [ORB Working Group](orb.md), which is open to anyone. Discovery focuses on how the UC OSPO Network uses ORB and its data.
+:::
 
 For more on the group's aims and activities, see the [Discovery guiding theme](../../guiding-themes/discovery.md).
 
