@@ -246,7 +246,7 @@ _Contact: [Laura Langdon](mailto:lalangdon@ucdavis.edu) (Network Community Manag
 
 ### UC ORB (UC Open Repository Browser)
 
-A centralized platform for discovering and showcasing open source projects across the UC system. UC ORB increases visibility of UC's open source contributions and makes it easier to find collaborators across campuses.
+A toolkit for discovering and showcasing open source projects across the UC system. UC ORB increases visibility of UC's open source contributions and makes it easier to find collaborators across campuses. See the [ORB Working Group page](get-involved/working-groups/orb.md) for the live instance, the code, and how to get involved.
 
 **Service capabilities:**
 
