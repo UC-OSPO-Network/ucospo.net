@@ -107,6 +107,8 @@ The winning team is invited to [UN Open Source Week](https://www.unopensource.or
 
 The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
 
+(orb-community-call)=
+
 ### ORB Community Call
 
 **When**: Tuesday, November 3 2026, 1pm-2pm Pacific / 21:00-22:00 UTC; first Tuesday of every month\
