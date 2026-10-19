@@ -8,7 +8,7 @@ UC Davis is the lead campus for the Network: it holds the Alfred P. Sloan Founda
 
 ## Team
 
-- **Vessela Ensberg**—Principal Investigator, UC OSPO Network; UC Davis Library
+- **[Vessela Ensberg](https://library.ucdavis.edu/person/vessela-ensberg/)**—Principal Investigator, UC OSPO Network; UC Davis Library
 - **[Pamela Reynolds](https://library.ucdavis.edu/person/pamela-reynolds/)**—Associate Director, [DataLab: Data Science and Informatics](https://datalab.ucdavis.edu/); UC Davis Library
 - **Laura Langdon**—Community Manager, UC OSPO Network
 
