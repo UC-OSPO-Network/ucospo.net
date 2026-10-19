@@ -16,4 +16,4 @@ See also the [Sustainability guiding theme](../../guiding-themes/sustainability.
 
 ## Join
 
-Join the Sustainability Playbook Working Group's channel in the [Network Slack](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg) and introduce yourself. Not sure if it's a fit? Reach out to Laura Langdon (community manager).
+Join the Sustainability Playbook Working Group's `#sus-pb-work` channel in the [Network Slack](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg) and introduce yourself. Not sure if it's a fit? Reach out to Laura Langdon (community manager).
