@@ -94,10 +94,80 @@ Berkeley's OSPO, BIDS, and D-Lab host a monthly fireside chat and Q&A, followed 
 [Register here](https://events.berkeley.edu/BIDS/event/327532-ospo-monthly-meetup-november)
 :::
 
+### Alignment Group (open governance meeting)
+
+**When**: Wednesday, November 25 2026 at 11am Pacific / 18:00 UTC; fourth Wednesday of every month\
+**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
+**Who**: Working-group delegates, and anyone interested in how the Network is run
+
+The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
+
+### ORB Community Call: December
+
+**When**: Tuesday, December 1 2026, 1pm-2pm Pacific / 21:00-22:00 UTC; first Tuesday of every month\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/83628810634) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWQ2a2pvY2xzdWYxN2EyZWVzbXAwMjRnZzhfMjAyNjEwMDZUMjAwMDAwWiBjXzk5ZTQ1NmUxZDNkMWQ1ZDMyMGZiMzUzNjQ3NjE3ZmI3MmQ5ZDljMDFmYzkzNjhlZDc2ZTgzMGM3ZTU5MTA4ZTZAZw&amp;tmsrc=c_99e456e1d3d1d5d320fb353647617fb72d9d9c01fc9368ed76e830c7e59108e6%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
+**Who**: Anyone
+
+Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
+
+- [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
+- [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
+- ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
+
 ### All-Campus Virtual Meetup: December
 
 **When**: Thursday, December 3 2026 at 10am Pacific / 18:00 UTC\
-**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA?_x_zm_rtaid=OiQAvBT7RCO0AcP-4NRp2A.1782150197524.7f0e8301105759d998584e0c50412276&_x_zm_rhtaid=561#/registration))\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA))\
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
+
+Speakers and host campus TBA!
+
+:::{div}
+:class: register-btn
+[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
+:::
+
+### ORB Community Call: January
+
+**When**: Tuesday, January 5 2027, 1pm-2pm Pacific / 21:00-22:00 UTC; first Tuesday of every month\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/83628810634) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWQ2a2pvY2xzdWYxN2EyZWVzbXAwMjRnZzhfMjAyNjEwMDZUMjAwMDAwWiBjXzk5ZTQ1NmUxZDNkMWQ1ZDMyMGZiMzUzNjQ3NjE3ZmI3MmQ5ZDljMDFmYzkzNjhlZDc2ZTgzMGM3ZTU5MTA4ZTZAZw&amp;tmsrc=c_99e456e1d3d1d5d320fb353647617fb72d9d9c01fc9368ed76e830c7e59108e6%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
+**Who**: Anyone
+
+Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
+
+- [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
+- [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
+- ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
+
+### All-Campus Virtual Meetup: January
+
+**When**: Thursday, January 7 2027 at 10am Pacific / 18:00 UTC\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA))\
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
+
+Speakers and host campus TBA!
+
+:::{div}
+:class: register-btn
+[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
+:::
+
+### ORB Community Call: February
+
+**When**: Tuesday, February 2 2027, 1pm-2pm Pacific / 21:00-22:00 UTC; first Tuesday of every month\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/83628810634) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWQ2a2pvY2xzdWYxN2EyZWVzbXAwMjRnZzhfMjAyNjEwMDZUMjAwMDAwWiBjXzk5ZTQ1NmUxZDNkMWQ1ZDMyMGZiMzUzNjQ3NjE3ZmI3MmQ5ZDljMDFmYzkzNjhlZDc2ZTgzMGM3ZTU5MTA4ZTZAZw&amp;tmsrc=c_99e456e1d3d1d5d320fb353647617fb72d9d9c01fc9368ed76e830c7e59108e6%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
+**Who**: Anyone
+
+Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
+
+- [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
+- [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
+- ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
+
+### All-Campus Virtual Meetup: February
+
+**When**: Thursday, February 4 2027 at 10am Pacific / 18:00 UTC\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA))\
 **Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
 
 Speakers and host campus TBA!
