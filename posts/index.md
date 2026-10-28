@@ -6,6 +6,13 @@ title: Blog
 :class: blog-cards
 ::::{grid} 1 2 3 3
 
+:::{card} Reboot the Earth comes to UC Davis: students build open source tools for fire and farms
+:link: /posts/davis-reboot-the-earth-2026
+:footer: October 27, 2026
+
+Students built open source tools for wildfire and orchard challenges at the UN's Reboot the Earth hackathon, cohosted by the UC Davis OSPO and DataLab.
+:::
+
 :::{card} A New Chapter for UC Open Source: Highlights from the First All-Campus Virtual Meetup
 :link: /posts/ospo-meetup-2026-07-02
 :footer: July 22, 2026
