@@ -28,30 +28,28 @@ Two challenges came from the Davis community and one from the UN:
 - "Counting the Cold for California Growers," from Julia Stover and Carson Black of the [UC Davis Fruit & Nut Research & Information Center](https://fruitsandnuts.ucdavis.edu/) and Andy Lyons of [UC Agriculture and Natural Resources](https://ucanr.edu/) (UC ANR)
 - "Soil Intelligence," from the UN's [Food and Agriculture Organization](https://www.fao.org/home/en) (FAO)
 
-Mentors and judges from CAL FIRE, UC Davis, UC ANR, and tech companies such as Meta, AWS, and Walmart Global Tech gave students invaluable perspective and feedback throughout the weekend.
-
 ::::{grid} 1 1 2 2
 
-:::{figure} working.jpg
+```{image} working.jpg
 :alt: Students work on laptops around classroom tables while a mentor in a black shirt talks with them
-Teams at work
-:::
+```
 
-:::{figure} pitching.jpg
-:alt: Five students stand behind a table with a monitor showing their app, pitching to three seated judges
-Team Popcorn pitches SoilSense to judges in the science-fair round
-:::
+```{image} working-2.jpg
+:alt: Students work on laptops at clusters of tables, with team names written on a whiteboard behind them
+```
 
 ::::
+
+Mentors and judges from CAL FIRE, UC Davis, UC ANR, and tech companies such as Meta, AWS, and Walmart Global Tech gave students invaluable perspective and feedback throughout the weekend.
 
 ## Winning projects
 
 "The Gummybears" won first place with TreeSearch, an interactive map for exploring Open Forest Observatory plot, tree, and drone data by wildfire hazard, plus a forum that connects people working on the same ground. Try the [TreeSearch app](https://treesearch-un-reboot-the-earth-hackathon-2026.streamlit.app/) or explore [TreeSearch's source code on GitHub](https://github.com/Reboot-The-Earth-GummyBears/UN-Reboot-The-Earth-Hackathon).
 
-```{figure} winners.jpg
-:alt: Nine people stand in a row in front of the Reboot the Earth slide; four students in the middle hold award certificates
+```{figure} gummybears-pitching.jpg
+:alt: Four students stand behind a monitor showing a wildfire hazard map of California, pitching to three seated judges
 
-The Gummybears, holding their certificates, with members of the organizing team
+The Gummybears pitch TreeSearch to judges
 ```
 
 [✏️ PLACEHOLDER: more on The Gummybears (who they are, how they picked the problem, a quote) after the Wed Zoom with the team]
