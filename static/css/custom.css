@@ -195,11 +195,6 @@ body[data-theme="light"] {
   position: absolute;
 }
 
-.ucsb-fig-caption-text figcaption {
-  font-weight: normal !important;
-  font-size: 16px !important;
-}
-
 @media screen and (max-width: 480px) {
   .suspb-image {
     min-width: 100px !important;
@@ -812,8 +807,9 @@ footer.article-grid {
 
 /* ── Table captions (services page) ─────────────────────────────── */
 
+/* Scoped to MyST table figures (.fig-table) so image figure captions keep body-text size */
 table caption,
-figcaption,
+figure.fig-table > figcaption,
 .table-caption,
 [class*="TableCaption"],
 .caption-text {
