@@ -47,66 +47,6 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Upcoming Events
 
-### UC Berkeley OSPO Monthly Meetup: Open Source AI Models
-
-**When**: Thursday, October 15 2026, 3-5pm Pacific (in person from 3pm, online from 3:30pm)\
-**Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online ([sign up for the Zoom link](https://forms.gle/fKjzxbKFScfAMxks5))\
-**Who**: Anyone (including students and staff!)
-
-Berkeley's OSPO, BIDS, and D-Lab host a monthly fireside chat and Q&A, followed by community gathering time with drinks and snacks. October's topic is open source AI: sovereign implementations, data privacy, researcher and user surveillance, and building a more diverse AI ecosystem.
-
-:::{div}
-:class: register-btn
-[Register here](https://events.berkeley.edu/BIDS/event/327522-ospo-monthly-meetup-open-source-ai-models)
-:::
-
-### CruzCon: Open Source for Research & Innovation
-
-**When**: Thursday, October 22 2026, 10am-5pm Pacific\
-**Where**: Seymour Marine Discovery Center, UC Santa Cruz\
-**Who**: UC researchers, faculty, students, campus leadership, and industry partners
-
-CruzCon is a day exploring open source in research and innovation, hosted by the UC Santa Cruz Open Source Program Office and the Center for Research in Open Source Software (CROSS) together with CITRIS.
-
-The draft program runs two panels, "Open Source Ecosystems as a Pathway to University Innovation" and "Campus Infrastructure Supporting Open Source and Impact", alongside a fireside chat, a keynote, lunch and demos, and a closing discussion on institutionalizing open source infrastructure. Attendees are also invited to the CROSS Annual Oktoberfest, held immediately after the conference.
-
-Full schedule on the [UCSC OSPO website](https://ucsc-ospo.github.io/event/20261022-cruzcon/).
-
-:::{div}
-:class: register-btn
-[Register here](https://docs.google.com/forms/d/e/1FAIpQLSe9kqcmwp-OotTb9cUlhJ5CGttoGitT-aHg8JIqcKZC1-T0WQ/viewform)
-:::
-
-### Reboot the Earth Hackathon @ Davis
-
-**When**: Friday, October 23 and Saturday, October 24 2026\
-**Where**: Peter J. Shields Library, UC Davis campus\
-**Who**: Students from any university or college; no coding experience required (each team needs at least one UC Davis student)
-
-UC Davis joins the United Nations' [Reboot the Earth](https://unite.un.org/en/reboot-earth) hackathon series, in which student teams spend two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two. It's free to take part.
-
-This year's challenges:
-
-- **Wildfire**: build a web tool that helps land managers find the right drone-mapped forest data from the [Open Forest Observatory](https://openforestobservatory.org/)
-- **More climate challenges for Northern California and the Central Valley**: further challenges are in development with researchers and practitioners in the region
-
-The winning team is invited to [UN Open Source Week](https://www.unopensource.org/) in New York!
-
-**Registration closes October 15 2026.**
-
-:::{div}
-:class: register-btn
-[Register here](https://events.library.ucdavis.edu/event/reboot-the-earth-hackathon-ucdavis)
-:::
-
-### Alignment Group (open governance meeting)
-
-**When**: Wednesday, October 28 2026 at 11am Pacific / 18:00 UTC; fourth Wednesday of every month\
-**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
-**Who**: Working-group delegates, and anyone interested in how the Network is run
-
-The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
-
 (orb-community-call)=
 
 ### ORB Community Call
@@ -168,6 +108,41 @@ Speakers and host campus TBA!
 :::
 
 ## Past Events
+
+### Reboot the Earth Hackathon @ Davis
+
+**When**: Friday, October 23 and Saturday, October 24 2026\
+**Where**: Peter J. Shields Library, UC Davis campus\
+**Who**: Students from any university or college; no coding experience required (each team needed at least one UC Davis student)
+
+UC Davis joined the United Nations' [Reboot the Earth](https://unite.un.org/en/reboot-earth) hackathon series, in which student teams spent two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two.
+
+This year's challenges included:
+
+- **Wildfire**: build a web tool that helps land managers find the right drone-mapped forest data from the [Open Forest Observatory](https://openforestobservatory.org/)
+- **More climate challenges for Northern California and the Central Valley**: further challenges from researchers and practitioners in the region
+
+The winning team is invited to [UN Open Source Week](https://www.unopensource.org/) in New York!
+
+### CruzCon: Open Source for Research & Innovation
+
+**When**: Thursday, October 22 2026, 10am-5pm Pacific\
+**Where**: Seymour Marine Discovery Center, UC Santa Cruz\
+**Who**: UC researchers, faculty, students, campus leadership, and industry partners
+
+CruzCon was a day exploring open source in research and innovation, hosted by the UC Santa Cruz Open Source Program Office and the Center for Research in Open Source Software (CROSS) together with CITRIS.
+
+The program included two panels, "Open Source Ecosystems as a Pathway to University Innovation" and "Campus Infrastructure Supporting Open Source and Impact", alongside a fireside chat, a keynote, lunch and demos, and a closing discussion on institutionalizing open source infrastructure, followed by the CROSS Annual Oktoberfest.
+
+More on the [UCSC OSPO website](https://ucsc-ospo.github.io/event/20261022-cruzcon/).
+
+### UC Berkeley OSPO Monthly Meetup: Open Source AI Models
+
+**When**: Thursday, October 15 2026, 3-5pm Pacific (in person from 3pm, online from 3:30pm)\
+**Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online\
+**Who**: Anyone (including students and staff!)
+
+Berkeley's OSPO, BIDS, and D-Lab hosted their monthly fireside chat and Q&A, followed by community gathering time with drinks and snacks. October's topic was open source AI: sovereign implementations, data privacy, researcher and user surveillance, and building a more diverse AI ecosystem.
 
 ### How to Contribute to Open Source Software
 
