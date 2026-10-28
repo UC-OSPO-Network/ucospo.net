@@ -66,7 +66,7 @@ Join the Open Repository Browser (ORB) working group for our regular community c
 ### All-Campus Virtual Meetup: Open source and your tech transfer office
 
 **When**: Thursday, November 5 2026 at 10am Pacific / 18:00 UTC\
-**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA?_x_zm_rtaid=OiQAvBT7RCO0AcP-4NRp2A.1782150197524.7f0e8301105759d998584e0c50412276&_x_zm_rhtaid=561#/registration))\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA))\
 **Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
 
 Thinking about open-sourcing your research software but unsure how to approach your Tech Transfer Office (TTO)? Steven Tudor, Director of the Technology Transfer Office at UC Davis, and Mike Cohen, Director of Innovation Ecosystem Development in UC Berkeley's TTO, join us to talk about what their offices actually do when a researcher wants to release code as open source, the worries researchers bring to them most often, and what information the TTO needs to help researchers make decisions. We'll also talk about how your campus OSPO can serve as a first stop on the way to tech transfer, so you can feel informed and confident when you meet with the TTO.
@@ -78,7 +78,7 @@ Guest speakers:
 
 :::{div}
 :class: register-btn
-[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA?_x_zm_rtaid=OiQAvBT7RCO0AcP-4NRp2A.1782150197524.7f0e8301105759d998584e0c50412276&_x_zm_rhtaid=561#/registration)
+[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
 :::
 
 ### UC Berkeley OSPO Monthly Meetup: November
@@ -174,7 +174,7 @@ Speakers and host campus TBA!
 
 :::{div}
 :class: register-btn
-[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA?_x_zm_rtaid=OiQAvBT7RCO0AcP-4NRp2A.1782150197524.7f0e8301105759d998584e0c50412276&_x_zm_rhtaid=561#/registration)
+[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
 :::
 
 ## Past Events
