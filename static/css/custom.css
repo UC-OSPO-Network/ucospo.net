@@ -812,8 +812,9 @@ footer.article-grid {
 
 /* ── Table captions (services page) ─────────────────────────────── */
 
+/* Scoped to MyST table figures (.fig-table) so image figure captions keep body-text size */
 table caption,
-figcaption,
+figure.fig-table > figcaption,
 .table-caption,
 [class*="TableCaption"],
 .caption-text {
