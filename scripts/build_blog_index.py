@@ -52,7 +52,7 @@ def find_image(post_dir: Path, post_file: Path) -> str | None:
     """Return the first image found next to the post, relative to posts/."""
     for f in sorted(post_dir.iterdir()):
         if f.suffix.lower() in IMAGE_EXTENSIONS and f != post_file:
-            return str(f.relative_to(POSTS_DIR))
+            return str(f.relative_to(POSTS_DIR).as_posix())
     return None
 
 
@@ -93,7 +93,7 @@ def collect_posts() -> list[dict]:
 
 def format_date(d: date) -> str:
     """Format a date as 'Month D, YYYY'."""
-    return d.strftime("%B %-d, %Y")
+    return f"{d.strftime('%B')} {d.day}, {d.year}"
 
 
 def render_card(post: dict) -> str:
