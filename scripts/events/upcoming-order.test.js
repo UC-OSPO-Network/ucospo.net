@@ -21,8 +21,18 @@ const HERE = path.dirname(fileURLToPath(import.meta.url));
 const INDEX = path.join(HERE, "..", "..", "events", "index.md");
 
 const MONTHS = {
-  january: 0, february: 1, march: 2, april: 3, may: 4, june: 5,
-  july: 6, august: 7, september: 8, october: 9, november: 10, december: 11,
+  jan: 0, january: 0,
+  feb: 1, february: 1,
+  mar: 2, march: 2,
+  apr: 3, april: 3,
+  may: 4,
+  jun: 5, june: 5,
+  jul: 6, july: 6,
+  aug: 7, august: 7,
+  sep: 8, sept: 8, september: 8,
+  oct: 9, october: 9,
+  nov: 10, november: 10,
+  dec: 11, december: 11,
 };
 
 // "September 23 2026", "September 23, 2026", "Oct 6 2026"
@@ -73,11 +83,11 @@ test("Upcoming Events entries are in chronological order", () => {
     assert.ok(
       cur.date >= prev.date,
       `Upcoming Events is out of chronological order.\n` +
-        `  "${prev.title}" (${prev.raw})\n` +
-        `  comes before\n` +
-        `  "${cur.title}" (${cur.raw})\n` +
-        `  but ${cur.raw} is earlier. Move the entries so the page reads forwards in time,\n` +
-        `  or add a "% EVENT:PINNED" comment above the heading if it belongs at the top on purpose.`,
+      `  "${prev.title}" (${prev.raw})\n` +
+      `  comes before\n` +
+      `  "${cur.title}" (${cur.raw})\n` +
+      `  but ${cur.raw} is earlier. Move the entries so the page reads forwards in time,\n` +
+      `  or add a "% EVENT:PINNED" comment above the heading if it belongs at the top on purpose.`,
     );
   }
 });
@@ -94,9 +104,27 @@ test("every Upcoming Events entry either has a readable date or is a known serie
     unexpected,
     [],
     `These Upcoming Events entries have no parseable date, so the ordering check ` +
-      `cannot see them:\n  ${unexpected.join("\n  ")}\n` +
-      `Add a "**When**: Weekday, Month D YYYY" line, or add the title to ` +
-      `ALLOWED_UNDATED in this test if it is genuinely a recurring series block. ` +
-      `Note that pinning an entry does NOT exempt it from needing a date.`,
+    `cannot see them:\n  ${unexpected.join("\n  ")}\n` +
+    `Add a "**When**: Weekday, Month D YYYY" line, or add the title to ` +
+    `ALLOWED_UNDATED in this test if it is genuinely a recurring series block. ` +
+    `Note that pinning an entry does NOT exempt it from needing a date.`,
   );
+});
+
+test("DATE_RE parses both full month names and standard abbreviations", () => {
+  const examples = [
+    { text: "September 23 2026", month: 8, day: 23, year: 2026 },
+    { text: "September 23, 2026", month: 8, day: 23, year: 2026 },
+    { text: "Oct 6 2026", month: 9, day: 6, year: 2026 },
+    { text: "Nov 3, 2026", month: 10, day: 3, year: 2026 },
+    { text: "Jan 15 2027", month: 0, day: 15, year: 2027 },
+  ];
+
+  for (const ex of examples) {
+    const match = DATE_RE.exec(ex.text);
+    assert.ok(match, `failed to match "${ex.text}"`);
+    assert.equal(MONTHS[match[1].toLowerCase()], ex.month);
+    assert.equal(+match[2], ex.day);
+    assert.equal(+match[3], ex.year);
+  }
 });
