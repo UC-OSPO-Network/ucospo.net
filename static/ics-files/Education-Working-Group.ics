@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UC OSPO Network//ucospo.net//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20261103T230500Z
+UID:education-wg-weekly-20261103@ucospo.net
+DTSTART;TZID=America/Los_Angeles:20261103T140000
+DTEND;TZID=America/Los_Angeles:20261103T150000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:UC OSPO Network Education Working Group
+LOCATION:https://ucla.zoom.us/j/97776026230
+URL:https://ucla.zoom.us/j/97776026230
+DESCRIPTION:Weekly meeting of the UC OSPO Network Education Working Group. Open to anyone.\n\nZoom: https://ucla.zoom.us/j/97776026230\nAgenda and notes: https://docs.google.com/document/d/1-CJxDt05f9YoYfGB8-NC0zvQZbEJzHT1P7keRciMlrY/edit\nGroup page: https://ucospo.net/about/get-involved/working-groups/education
+END:VEVENT
+END:VCALENDAR
