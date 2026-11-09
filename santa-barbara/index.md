@@ -6,7 +6,6 @@ title: UC Santa Barbara Open Source Program
 
 ```{figure} ../static/images/ucsb/library2_1600.jpg
 :alt: UCSB library exterior
-:class: ucsb-fig-caption-text
 
 Image courtesy of the UCSB library
 

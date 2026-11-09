@@ -47,66 +47,6 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Upcoming Events
 
-### UC Berkeley OSPO Monthly Meetup: Open Source AI Models
-
-**When**: Thursday, October 15 2026, 3-5pm Pacific (in person from 3pm, online from 3:30pm)\
-**Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online ([sign up for the Zoom link](https://forms.gle/fKjzxbKFScfAMxks5))\
-**Who**: Anyone (including students and staff!)
-
-Berkeley's OSPO, BIDS, and D-Lab host a monthly fireside chat and Q&A, followed by community gathering time with drinks and snacks. October's topic is open source AI: sovereign implementations, data privacy, researcher and user surveillance, and building a more diverse AI ecosystem.
-
-:::{div}
-:class: register-btn
-[Register here](https://events.berkeley.edu/BIDS/event/327522-ospo-monthly-meetup-open-source-ai-models)
-:::
-
-### CruzCon: Open Source for Research & Innovation
-
-**When**: Thursday, October 22 2026, 10am-5pm Pacific\
-**Where**: Seymour Marine Discovery Center, UC Santa Cruz\
-**Who**: UC researchers, faculty, students, campus leadership, and industry partners
-
-CruzCon is a day exploring open source in research and innovation, hosted by the UC Santa Cruz Open Source Program Office and the Center for Research in Open Source Software (CROSS) together with CITRIS.
-
-The draft program runs two panels, "Open Source Ecosystems as a Pathway to University Innovation" and "Campus Infrastructure Supporting Open Source and Impact", alongside a fireside chat, a keynote, lunch and demos, and a closing discussion on institutionalizing open source infrastructure. Attendees are also invited to the CROSS Annual Oktoberfest, held immediately after the conference.
-
-Full schedule on the [UCSC OSPO website](https://ucsc-ospo.github.io/event/20261022-cruzcon/).
-
-:::{div}
-:class: register-btn
-[Register here](https://docs.google.com/forms/d/e/1FAIpQLSe9kqcmwp-OotTb9cUlhJ5CGttoGitT-aHg8JIqcKZC1-T0WQ/viewform)
-:::
-
-### Reboot the Earth Hackathon @ Davis
-
-**When**: Friday, October 23 and Saturday, October 24 2026\
-**Where**: Peter J. Shields Library, UC Davis campus\
-**Who**: Students from any university or college; no coding experience required (each team needs at least one UC Davis student)
-
-UC Davis joins the United Nations' [Reboot the Earth](https://unite.un.org/en/reboot-earth) hackathon series, in which student teams spend two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two. It's free to take part.
-
-This year's challenges:
-
-- **Wildfire**: build a web tool that helps land managers find the right drone-mapped forest data from the [Open Forest Observatory](https://openforestobservatory.org/)
-- **More climate challenges for Northern California and the Central Valley**: further challenges are in development with researchers and practitioners in the region
-
-The winning team is invited to [UN Open Source Week](https://www.unopensource.org/) in New York!
-
-**Registration closes October 15 2026.**
-
-:::{div}
-:class: register-btn
-[Register here](https://events.library.ucdavis.edu/event/reboot-the-earth-hackathon-ucdavis)
-:::
-
-### Alignment Group (open governance meeting)
-
-**When**: Wednesday, October 28 2026 at 11am Pacific / 18:00 UTC; fourth Wednesday of every month\
-**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
-**Who**: Working-group delegates, and anyone interested in how the Network is run
-
-The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
-
 (orb-community-call)=
 
 ### ORB Community Call
@@ -126,7 +66,7 @@ Join the Open Repository Browser (ORB) working group for our regular community c
 ### All-Campus Virtual Meetup: Open source and your tech transfer office
 
 **When**: Thursday, November 5 2026 at 10am Pacific / 18:00 UTC\
-**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA?_x_zm_rtaid=OiQAvBT7RCO0AcP-4NRp2A.1782150197524.7f0e8301105759d998584e0c50412276&_x_zm_rhtaid=561#/registration))\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA))\
 **Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
 
 Thinking about open-sourcing your research software but unsure how to approach your Tech Transfer Office (TTO)? Steven Tudor, Director of the Technology Transfer Office at UC Davis, and Mike Cohen, Director of Innovation Ecosystem Development in UC Berkeley's TTO, join us to talk about what their offices actually do when a researcher wants to release code as open source, the worries researchers bring to them most often, and what information the TTO needs to help researchers make decisions. We'll also talk about how your campus OSPO can serve as a first stop on the way to tech transfer, so you can feel informed and confident when you meet with the TTO.
@@ -138,7 +78,7 @@ Guest speakers:
 
 :::{div}
 :class: register-btn
-[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA?_x_zm_rtaid=OiQAvBT7RCO0AcP-4NRp2A.1782150197524.7f0e8301105759d998584e0c50412276&_x_zm_rhtaid=561#/registration)
+[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
 :::
 
 ### UC Berkeley OSPO Monthly Meetup: November
@@ -154,20 +94,125 @@ Berkeley's OSPO, BIDS, and D-Lab host a monthly fireside chat and Q&A, followed 
 [Register here](https://events.berkeley.edu/BIDS/event/327532-ospo-monthly-meetup-november)
 :::
 
+### Alignment Group (open governance meeting)
+
+**When**: Wednesday, November 25 2026 at 11am Pacific / 18:00 UTC; fourth Wednesday of every month\
+**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
+**Who**: Working-group delegates, and anyone interested in how the Network is run
+
+The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
+
+### ORB Community Call: December
+
+**When**: Tuesday, December 1 2026, 1pm-2pm Pacific / 21:00-22:00 UTC; first Tuesday of every month\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/83628810634) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWQ2a2pvY2xzdWYxN2EyZWVzbXAwMjRnZzhfMjAyNjEwMDZUMjAwMDAwWiBjXzk5ZTQ1NmUxZDNkMWQ1ZDMyMGZiMzUzNjQ3NjE3ZmI3MmQ5ZDljMDFmYzkzNjhlZDc2ZTgzMGM3ZTU5MTA4ZTZAZw&amp;tmsrc=c_99e456e1d3d1d5d320fb353647617fb72d9d9c01fc9368ed76e830c7e59108e6%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
+**Who**: Anyone
+
+Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
+
+- [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
+- [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
+- ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
+
 ### All-Campus Virtual Meetup: December
 
 **When**: Thursday, December 3 2026 at 10am Pacific / 18:00 UTC\
-**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA?_x_zm_rtaid=OiQAvBT7RCO0AcP-4NRp2A.1782150197524.7f0e8301105759d998584e0c50412276&_x_zm_rhtaid=561#/registration))\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA))\
 **Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
 
 Speakers and host campus TBA!
 
 :::{div}
 :class: register-btn
-[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA?_x_zm_rtaid=OiQAvBT7RCO0AcP-4NRp2A.1782150197524.7f0e8301105759d998584e0c50412276&_x_zm_rhtaid=561#/registration)
+[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
+:::
+
+### ORB Community Call: January
+
+**When**: Tuesday, January 5 2027, 1pm-2pm Pacific / 21:00-22:00 UTC; first Tuesday of every month\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/83628810634) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWQ2a2pvY2xzdWYxN2EyZWVzbXAwMjRnZzhfMjAyNjEwMDZUMjAwMDAwWiBjXzk5ZTQ1NmUxZDNkMWQ1ZDMyMGZiMzUzNjQ3NjE3ZmI3MmQ5ZDljMDFmYzkzNjhlZDc2ZTgzMGM3ZTU5MTA4ZTZAZw&amp;tmsrc=c_99e456e1d3d1d5d320fb353647617fb72d9d9c01fc9368ed76e830c7e59108e6%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
+**Who**: Anyone
+
+Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
+
+- [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
+- [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
+- ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
+
+### All-Campus Virtual Meetup: January
+
+**When**: Thursday, January 7 2027 at 10am Pacific / 18:00 UTC\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA))\
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
+
+Speakers and host campus TBA!
+
+:::{div}
+:class: register-btn
+[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
+:::
+
+### ORB Community Call: February
+
+**When**: Tuesday, February 2 2027, 1pm-2pm Pacific / 21:00-22:00 UTC; first Tuesday of every month\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/83628810634) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWQ2a2pvY2xzdWYxN2EyZWVzbXAwMjRnZzhfMjAyNjEwMDZUMjAwMDAwWiBjXzk5ZTQ1NmUxZDNkMWQ1ZDMyMGZiMzUzNjQ3NjE3ZmI3MmQ5ZDljMDFmYzkzNjhlZDc2ZTgzMGM3ZTU5MTA4ZTZAZw&amp;tmsrc=c_99e456e1d3d1d5d320fb353647617fb72d9d9c01fc9368ed76e830c7e59108e6%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
+**Who**: Anyone
+
+Join the Open Repository Browser (ORB) working group for our regular community call. We'll make engineering decisions regarding the ORB toolkit, an open-source AI/ML-based pipeline for discovering academic open source projects.
+
+- [ORB dashboard](https://juanis2112-repoexplorer.share.connect.posit.cloud/)
+- [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
+- ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
+
+### All-Campus Virtual Meetup: February
+
+**When**: Thursday, February 4 2027 at 10am Pacific / 18:00 UTC\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA))\
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
+
+Speakers and host campus TBA!
+
+:::{div}
+:class: register-btn
+[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
 :::
 
 ## Past Events
+
+### Reboot the Earth Hackathon @ Davis
+
+**When**: Friday, October 23 and Saturday, October 24 2026\
+**Where**: Peter J. Shields Library, UC Davis campus\
+**Who**: Students from any university or college; no coding experience required (each team needed at least one UC Davis student)
+
+UC Davis joined the United Nations' [Reboot the Earth](https://unite.un.org/en/reboot-earth) hackathon series, in which student teams spent two days building open source solutions to real-world climate and sustainability challenges set by researchers and practitioners, with support from mentors and a judging round on day two.
+
+This year's challenges included:
+
+- **Wildfire**: build a web tool that helps land managers find the right drone-mapped forest data from the [Open Forest Observatory](https://openforestobservatory.org/)
+- **More climate challenges for Northern California and the Central Valley**: further challenges from researchers and practitioners in the region
+
+The winning team is invited to [UN Open Source Week](https://www.unopensource.org/) in New York!
+
+### CruzCon: Open Source for Research & Innovation
+
+**When**: Thursday, October 22 2026, 10am-5pm Pacific\
+**Where**: Seymour Marine Discovery Center, UC Santa Cruz\
+**Who**: UC researchers, faculty, students, campus leadership, and industry partners
+
+CruzCon was a day exploring open source in research and innovation, hosted by the UC Santa Cruz Open Source Program Office and the Center for Research in Open Source Software (CROSS) together with CITRIS.
+
+The program included two panels, "Open Source Ecosystems as a Pathway to University Innovation" and "Campus Infrastructure Supporting Open Source and Impact", alongside a fireside chat, a keynote, lunch and demos, and a closing discussion on institutionalizing open source infrastructure, followed by the CROSS Annual Oktoberfest.
+
+More on the [UCSC OSPO website](https://ucsc-ospo.github.io/event/20261022-cruzcon/).
+
+### UC Berkeley OSPO Monthly Meetup: Open Source AI Models
+
+**When**: Thursday, October 15 2026, 3-5pm Pacific (in person from 3pm, online from 3:30pm)\
+**Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online\
+**Who**: Anyone (including students and staff!)
+
+Berkeley's OSPO, BIDS, and D-Lab hosted their monthly fireside chat and Q&A, followed by community gathering time with drinks and snacks. October's topic was open source AI: sovereign implementations, data privacy, researcher and user surveillance, and building a more diverse AI ecosystem.
 
 ### How to Contribute to Open Source Software
 
