@@ -212,8 +212,9 @@
          is intentionally included. The SRI SHA-384 integrity hash must be regenerated
          whenever the FullCalendar version or CDN file changes; otherwise, the browser
          will block the script.
-         To regenerate the hash, replace <url> with the actual FullCalendar JavaScript CDN URL:
-         curl -sL <url> | openssl dgst -sha384 -binary | openssl base64 -A -->
+         To regenerate: update the version in the src URL below, then run
+         curl -sL <that URL> | openssl dgst -sha384 -binary | openssl base64 -A
+         and set integrity="sha384-<output>". -->
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js" integrity="sha384-B1OFx8Gy9GjPu8UbUyXbGQpzll9ubAUQ9agInFJ8NnD7nYG1u/CLR+Sqr5yifl4q" crossorigin="anonymous"></script>
     <!-- Vendored at build time by scripts/aggregate-events.js (served from our
          own origin, not a CDN). Version pinned in package.json. -->
