@@ -4,7 +4,7 @@ title: Events
 
 ## Calendar
 
-<iframe title="UC OSPO Network event calendar" src="/events-embed.html?v=6" loading="lazy"></iframe>
+<iframe title="UC OSPO Network event calendar" src="/events-embed.html" loading="lazy"></iframe>
 
 ## Subscribe
 

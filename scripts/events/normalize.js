@@ -13,21 +13,36 @@
 //     location:    string | null
 //     url:         string | null   // link to the event detail page / registration
 //     description: string | null
+//     stamp:       Date | null  // stable modification/creation timestamp for .ics DTSTAMP
 //   }
 
+function pickValidDate(...candidates) {
+  for (const c of candidates) {
+    if (c instanceof Date && !isNaN(c.getTime())) return c;
+    if (typeof c === "string" || typeof c === "number") {
+      const d = new Date(c);
+      if (!isNaN(d.getTime())) return d;
+    }
+  }
+  return null;
+}
+
 export function makeEvent(source, fields) {
+  const start = fields.start;
+  const stamp = pickValidDate(fields.stamp, start);
   return {
     uid: `${source.id}:${fields.id}`,
     sourceId: source.id,
     sourceLabel: source.label,
     title: (fields.title || "Untitled event").trim(),
-    start: fields.start,
+    start,
     end: fields.end ?? null,
     allDay: Boolean(fields.allDay),
     location: fields.location?.trim() || null,
     url: fields.url || null,
     description: fields.description?.trim() || null,
     descriptionHtml: fields.descriptionHtml || null,
+    stamp,
   };
 }
 
