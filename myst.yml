@@ -57,6 +57,8 @@ project:
               title: Los Angeles
             - file: san-diego/index.md
               title: San Diego
+            - title: San Francisco
+              url: https://ssc.ucsf.edu/
             - file: santa-barbara/index.md
               title: Santa Barbara
               children:
