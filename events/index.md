@@ -65,7 +65,7 @@ Berkeley's OSPO, BIDS, and D-Lab host a monthly fireside chat and Q&A, followed 
 ### Alignment Group (open governance meeting)
 
 **When**: Wednesday, November 25 2026 at 11am Pacific / 19:00 UTC; fourth Wednesday of every month\
-**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/87582153282) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NjJiY2FxZGRqZHVhOHQycWNoaWM1aG8yYTcgY185MmNhNzQ5YjRjMDFmMjIxZTE2ODY2YzYyNGJlNDM3N2Y4Y2NlZmJmMGEwNzllYzM3ZjY5NjA2NjNjNDg2ZTc5QGc&amp;tmsrc=c_92ca749b4c01f221e16866c624be4377f8ccefbf0a079ec37f6960663c486e79%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
 **Who**: Working-group delegates, and anyone interested in how the Network is run
 
 The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
@@ -92,21 +92,41 @@ Join the Open Repository Browser (ORB) working group for our regular community c
 **Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA))\
 **Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
 
-UCLA hosts December's meetup. Neal Fultz became interested in browser extensions after the Anthem data breach, when his identity was among those sold on the dark web, and has written six more extensions since. He'll talk about why and how he built them, and how the browser extension ecosystem differs from other open source communities. Then it's show and tell: bring something open source you've been working on!
+UCLA hosts December's meetup. Neal Fultz became interested in browser extensions after the Anthem data breach, when his identity was among those sold on the dark web, and has written six more extensions since. He'll talk about why and how he built them, and how the browser extension ecosystem differs from other open source communities.
 
 Guest speaker:
 
-- Neal Fultz is the statistical consultant for UCLA Social Sciences.
+- Neal Fultz is the statistical consultant for [njnm](https://www.njnm.co) and for UCLA Social Sciences. You can reach him at [nfultz@ucla.edu](mailto:nfultz@ucla.edu) or [book a time with him](https://calendly.com/sscert-stats/).
 
 :::{div}
 :class: register-btn
 [Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
 :::
 
+(git-github-workshop-2026-12)=
+
+### Git & GitHub Workshop (two days)
+
+**When**: Monday, December 7 and Tuesday, December 8 2026, 10am-12pm Pacific / 1-3pm Eastern / 18:00-20:00 UTC\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/RiYoGo8EQSqsJjyHMhYjGg); one registration covers both days)\
+**Who**: Anyone—no programming or Git experience required, all institutional affiliations welcome!
+
+Working with collaborators on code and code-like documents can be quite a headache. Traditional version history often has poor tools for managing conflicting contributions, saving and accessing historical checkpoints, and handling experimentation. This workshop will introduce participants to Git, a piece of software and a collaboration mindset that resolves all of these issues and more. Representatives from the Syracuse University and University of California Open Source Program Offices will walk participants through their first Git contributions, help them collaborate with each other using GitHub, and discuss Git's place in the world of AI coding. A [CURIOSS](https://curioss.org/) workshop.
+
+- **Day 1 (Dec 7)**: Git and GitHub in your browser and VS Code, with nothing to install. It's a repeat of our September workshop, so if you came to that one, feel free to skip straight to day 2!
+- **Day 2 (Dec 8)**: the same workflows on the command line, plus what's really going on underneath. You'll need Git installed; we'll send setup instructions before the session.
+
+Both sessions will be recorded.
+
+:::{div}
+:class: register-btn
+[Register here](https://ucdavis.zoom.us/meeting/register/RiYoGo8EQSqsJjyHMhYjGg)
+:::
+
 ### Alignment Group: December
 
 **When**: Wednesday, December 23 2026 at 11am Pacific / 19:00 UTC; fourth Wednesday of every month\
-**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/87582153282) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NjJiY2FxZGRqZHVhOHQycWNoaWM1aG8yYTcgY185MmNhNzQ5YjRjMDFmMjIxZTE2ODY2YzYyNGJlNDM3N2Y4Y2NlZmJmMGEwNzllYzM3ZjY5NjA2NjNjNDg2ZTc5QGc&amp;tmsrc=c_92ca749b4c01f221e16866c624be4377f8ccefbf0a079ec37f6960663c486e79%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
 **Who**: Working-group delegates, and anyone interested in how the Network is run
 
 The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
@@ -139,7 +159,7 @@ Speakers and host campus TBA!
 ### Alignment Group: January
 
 **When**: Wednesday, January 27 2027 at 11am Pacific / 19:00 UTC; fourth Wednesday of every month\
-**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/87582153282) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NjJiY2FxZGRqZHVhOHQycWNoaWM1aG8yYTcgY185MmNhNzQ5YjRjMDFmMjIxZTE2ODY2YzYyNGJlNDM3N2Y4Y2NlZmJmMGEwNzllYzM3ZjY5NjA2NjNjNDg2ZTc5QGc&amp;tmsrc=c_92ca749b4c01f221e16866c624be4377f8ccefbf0a079ec37f6960663c486e79%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
 **Who**: Working-group delegates, and anyone interested in how the Network is run
 
 The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
@@ -172,7 +192,7 @@ Speakers and host campus TBA!
 ### Alignment Group: February
 
 **When**: Wednesday, February 24 2027 at 11am Pacific / 19:00 UTC; fourth Wednesday of every month\
-**Where**: [Zoom](https://ucsb.zoom.us/j/87582153282)\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/87582153282) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NjJiY2FxZGRqZHVhOHQycWNoaWM1aG8yYTcgY185MmNhNzQ5YjRjMDFmMjIxZTE2ODY2YzYyNGJlNDM3N2Y4Y2NlZmJmMGEwNzllYzM3ZjY5NjA2NjNjNDg2ZTc5QGc&amp;tmsrc=c_92ca749b4c01f221e16866c624be4377f8ccefbf0a079ec37f6960663c486e79%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
 **Who**: Working-group delegates, and anyone interested in how the Network is run
 
 The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
@@ -191,6 +211,14 @@ Join the Open Repository Browser (ORB) working group for our regular community c
 
 ## Past Events
 
+### BIDS Seminar: Notebook.link, with Sylvain Corlay and Jeremy Tuloup
+
+**When**: Tuesday, November 10 2026, 11am Pacific / 19:00 UTC\
+**Where**: Hybrid. In person at the Gateway Building, Social Kitchen, Room 1420 at UC Berkeley, and online\
+**Who**: Anyone, especially researchers and educators using Jupyter at scale
+
+BIDS and the Berkeley OSPO welcomed Sylvain Corlay and Jeremy Tuloup, CEO and Technical Director at [QuantStack](https://quantstack.net/about) and long-time leaders in the Jupyter community. In "Notebook.link: Rethinking Scientific Communication with Scalable, Interactive, AI-enabled Jupyter Notebooks," they presented [Notebook.link](https://notebook.link/), a platform for sharing live, interactive notebooks (with language kernels, widgets, and custom packages) publicly at scale and embedding them in articles, blogs, and presentations. They also gave an overview of the current options for using AI in Jupyter, from terminal coding agents to Jupyter AI's chat and notebook tools, and talked about Jupyter's impact on open science, reproducibility, and public engagement with research.
+
 (all-campus-meetup-2026-11)=
 
 ### November 2026 All-Campus Virtual Meetup: Open source and your tech transfer office
@@ -205,6 +233,8 @@ Guest speakers:
 
 - Steven Tudor is Director of the TTO at UC Davis, where he leads the university’s intellectual property management and commercialization activities. His work focuses on helping researchers navigate intellectual property, licensing, and commercialization while supporting practical pathways for moving university innovations into broader use.
 - Mike Cohen is Director of Innovation Ecosystem Development in UC Berkeley's TTO, where he drives initiatives and license agreements that catalyze the commercialization of UC Berkeley innovations and support the funding of campus research. In 2019, he led the development of UC Berkeley's [Open Source Software Startup (OS3) Good-Standing Program](https://ipira.berkeley.edu/open-source-software-startup-program), which enables the university to obtain stock equity in startups that spin out of the university leveraging software developed at, and open-sourced by, the university.
+
+You can [watch the recording](https://www.youtube.com/watch?v=v4y9JrznWM8) if you missed it!
 
 ### Reboot the Earth Hackathon @ Davis
 
