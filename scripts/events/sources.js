@@ -10,27 +10,120 @@ import { makeEvent } from "./normalize.js";
 // whole build (Node's global fetch has no default timeout).
 const FETCH_TIMEOUT_MS = 15000;
 
+const NAMED_ENTITIES = {
+  amp: "&",
+  lt: "<",
+  gt: ">",
+  quot: '"',
+  apos: "'",
+  nbsp: " ",
+  ndash: "–",
+  mdash: "—",
+  lsquo: "‘",
+  rsquo: "’",
+  sbquo: "‚",
+  ldquo: "“",
+  rdquo: "”",
+  bdquo: "„",
+  dagger: "†",
+  Dagger: "‡",
+  bull: "•",
+  hellip: "…",
+  prime: "′",
+  Prime: "″",
+  cent: "¢",
+  pound: "£",
+  yen: "¥",
+  euro: "€",
+  copy: "©",
+  reg: "®",
+  trade: "™",
+  sect: "§",
+  deg: "°",
+  plusmn: "±",
+  times: "×",
+  divide: "÷",
+  laquo: "«",
+  raquo: "»",
+  permil: "‰",
+  micro: "µ",
+  middot: "·",
+};
+
+// Explicit uppercase aliases for standard HTML/XML entities.
+// Named entities are case-sensitive (e.g. &dagger; vs &Dagger;, &prime; vs &Prime;);
+// do not perform generic lowercase fallback on all names.
+const UPPERCASE_ALIASES = {
+  AMP: "&",
+  LT: "<",
+  GT: ">",
+  QUOT: '"',
+  COPY: "©",
+  REG: "®",
+};
+
+function decodeEntities(str) {
+  return str.replace(/&(#[xX][0-9a-fA-F]+|#\d+|[a-zA-Z]+);/g, (match, entity) => {
+    if (entity.startsWith("#x") || entity.startsWith("#X")) {
+      const code = parseInt(entity.slice(2), 16);
+      if (isNaN(code) || code <= 0 || code > 0x10ffff || (code >= 0xd800 && code <= 0xdfff)) {
+        return match;
+      }
+      try {
+        return String.fromCodePoint(code);
+      } catch {
+        return match;
+      }
+    }
+    if (entity.startsWith("#")) {
+      const code = parseInt(entity.slice(1), 10);
+      if (isNaN(code) || code <= 0 || code > 0x10ffff || (code >= 0xd800 && code <= 0xdfff)) {
+        return match;
+      }
+      try {
+        return String.fromCodePoint(code);
+      } catch {
+        return match;
+      }
+    }
+    if (Object.prototype.hasOwnProperty.call(NAMED_ENTITIES, entity)) {
+      return NAMED_ENTITIES[entity];
+    }
+    if (Object.prototype.hasOwnProperty.call(UPPERCASE_ALIASES, entity)) {
+      return UPPERCASE_ALIASES[entity];
+    }
+    return match;
+  });
+}
+
 // HTML to plain text, but keep the structure (line breaks + list bullets) so
 // the .ics DESCRIPTION reads properly in a subscriber's calendar app instead of
 // collapsing to one line.
-function stripHtml(html) {
+export function stripHtml(html) {
   if (!html) return null;
-  const text = html
+  const stripped = html
     .replace(/<\s*br\s*\/?>/gi, "\n")
     .replace(/<\/(p|div|li|h[1-6]|tr)\s*>/gi, "\n")
     .replace(/<\s*li[^>]*>/gi, "- ")
-    .replace(/<[^>]+>/g, "")
-    .replace(/&nbsp;/gi, " ")
-    .replace(/&amp;/gi, "&")
-    .replace(/&lt;/gi, "<")
-    .replace(/&gt;/gi, ">")
-    .replace(/&quot;/gi, '"')
-    .replace(/&#0?39;|&#x27;/gi, "'")
+    .replace(/<[^>]+>/g, "");
+  const decoded = decodeEntities(stripped);
+  const text = decoded
     .replace(/[ \t]+/g, " ")
     .replace(/[ \t]*\n[ \t]*/g, "\n")
     .replace(/\n{3,}/g, "\n\n")
     .trim();
   return text || null;
+}
+
+function pickValidDate(...candidates) {
+  for (const c of candidates) {
+    if (c instanceof Date && !isNaN(c.getTime())) return c;
+    if (typeof c === "string" || typeof c === "number") {
+      const d = new Date(c);
+      if (!isNaN(d.getTime())) return d;
+    }
+  }
+  return null;
 }
 
 // Google Calendar iCal exports omit the URL property but put the
@@ -153,6 +246,7 @@ async function fetchIcs(source, { from, to }) {
     };
     const durationMs =
       ev.end instanceof Date && ev.start instanceof Date ? ev.end - ev.start : null;
+    const masterStamp = pickValidDate(ev.lastmodified, ev.dtstamp, ev.created, ev.start);
 
     if (ev.rrule) {
       // Recurring: expand occurrences in-window, honoring EXDATEs and
@@ -174,6 +268,7 @@ async function fetchIcs(source, { from, to }) {
             id: `${ev.uid}-${occ.toISOString()}`,
             start,
             end: durationMs != null ? new Date(+start + durationMs) : null,
+            stamp: masterStamp || start,
           }),
         );
       }
@@ -181,6 +276,13 @@ async function fetchIcs(source, { from, to }) {
       // and cancelled overrides are dropped (withinWindow + the status check).
       for (const ov of Object.values(overrides)) {
         if (!ov.start || ov.status === "CANCELLED") continue;
+        const ovStamp = pickValidDate(
+          ov.lastmodified,
+          ov.dtstamp,
+          ov.created,
+          masterStamp,
+          ov.start,
+        );
         events.push(
           makeEvent(source, {
             id: `${ev.uid}-${(ov.recurrenceid ?? ov.start).toISOString()}`,
@@ -192,12 +294,19 @@ async function fetchIcs(source, { from, to }) {
             allDay: ov.datetype === "date",
             start: ov.start,
             end: ov.end || null,
+            stamp: ovStamp,
           }),
         );
       }
     } else {
       events.push(
-        makeEvent(source, { ...base, id: ev.uid, start: ev.start, end: ev.end || null }),
+        makeEvent(source, {
+          ...base,
+          id: ev.uid,
+          start: ev.start,
+          end: ev.end || null,
+          stamp: masterStamp,
+        }),
       );
     }
   }
@@ -239,17 +348,20 @@ async function fetchLocalist(source) {
     // the first for now.
     const inst = ev.event_instances?.[0]?.event_instance;
     if (!inst?.start) continue;
+    const instStart = new Date(inst.start);
+    const stamp = pickValidDate(ev.updated_at, ev.created_at, instStart);
     events.push(
       makeEvent(source, {
         id: String(ev.id),
         title: ev.title,
-        start: new Date(inst.start),
+        start: instStart,
         end: inst.end ? new Date(inst.end) : null,
         allDay: Boolean(inst.all_day),
         location: ev.location_name || ev.room_number || null,
         url: ev.localist_url || ev.url || null,
         description: ev.description_text || stripHtml(ev.description),
         descriptionHtml: ev.description || null,
+        stamp,
       }),
     );
   }
@@ -260,20 +372,23 @@ async function fetchLocalist(source) {
 const rss = new Parser({ timeout: FETCH_TIMEOUT_MS });
 async function fetchUcscRss(source) {
   const feed = await rss.parseURL(source.url);
-  return (feed.items || []).map((item, i) =>
-    makeEvent(source, {
+  return (feed.items || []).map((item, i) => {
+    const start = item.isoDate ? new Date(item.isoDate) : new Date(item.pubDate);
+    const stamp = pickValidDate(item.isoDate, item.pubDate, start);
+    return makeEvent(source, {
       id: item.guid || item.link || `ucsc-${i}`,
       title: item.title,
       // <pubDate> is the event date for this feed (verified). No end/location in RSS.
-      start: item.isoDate ? new Date(item.isoDate) : new Date(item.pubDate),
+      start,
       end: null,
       allDay: false,
       location: null,
       url: item.link || null,
       description: item.contentSnippet || null,
       descriptionHtml: item.content || null,
-    }),
-  );
+      stamp,
+    });
+  });
 }
 
 const ADAPTERS = {

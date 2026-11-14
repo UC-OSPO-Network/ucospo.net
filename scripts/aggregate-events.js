@@ -11,6 +11,7 @@
 //   --validate-only   Fetch and report per-source counts without writing.
 //                     Exits non-zero if any source errors—used for alerting.
 
+import crypto from "crypto";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
@@ -73,8 +74,36 @@ try {
   // /events-embed.html (the events page iframes it). MyST relocates/hashes files
   // under static/, so we publish this one directly, like the feeds above.
   const buildRoot = path.join(OUT_DIR, "..");
-  fs.copyFileSync(path.join(__dirname, "events", "embed.html"), path.join(buildRoot, "events-embed.html"));
+  const embedSourcePath = path.join(__dirname, "events", "embed.html");
+  const embedDestPath = path.join(buildRoot, "events-embed.html");
+  fs.copyFileSync(embedSourcePath, embedDestPath);
   console.log("Copied events-embed.html to build root");
+
+  // Calculate SHA-256 hash from destination events-embed.html content for cache-busting
+  const embedBytes = fs.readFileSync(embedDestPath);
+  const embedHash = crypto.createHash("sha256").update(embedBytes).digest("hex");
+
+  // Apply cache-busting query parameter to iframe URL in generated build output
+  const generatedTargets = [
+    path.join(buildRoot, "events", "index.html"),
+    path.join(buildRoot, "events.index.json"),
+  ];
+
+  for (const targetPath of generatedTargets) {
+    if (!fs.existsSync(targetPath)) {
+      throw new Error(`Generated file not found for iframe cache-busting: ${targetPath}`);
+    }
+    const content = fs.readFileSync(targetPath, "utf8");
+    if (!content.includes("/events-embed.html")) {
+      throw new Error(`Iframe reference /events-embed.html not found in: ${targetPath}`);
+    }
+    const updated = content.replaceAll(
+      /\/events-embed\.html(?:\?[^"'\s>]*)?/g,
+      `/events-embed.html?v=${embedHash}`,
+    );
+    fs.writeFileSync(targetPath, updated, "utf8");
+  }
+  console.log(`Applied cache-busting hash (${embedHash.slice(0, 8)}) to generated events page and route data`);
 
   // Vendor DOMPurify next to the embed so it loads from our own origin (served at
   // /purify.min.js) instead of a third-party CDN. Version is pinned in
