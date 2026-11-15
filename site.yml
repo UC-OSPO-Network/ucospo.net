@@ -8,6 +8,9 @@ site:
     style: static/css/custom.css
     logo_text: "UC OSPO Network"
     hide_footer_links: true
-  template: book-theme
+  # Pinned so theme releases only reach the site when we choose. Upgrade mystmd
+  # and this URL together, then check the Netlify preview. Unpinned, builds
+  # pull the newest theme, which can need a newer mystmd than package-lock has.
+  template: https://github.com/jupyter-book/myst-theme/releases/download/myst-to-react%401.4.1/book-theme.zip
   parts:
     footer: footer.md
