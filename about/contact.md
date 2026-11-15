@@ -14,6 +14,7 @@ If you know which campus you're looking for, connect directly:
 - **Davis**—[Vessela Ensberg](mailto:vensberg@ucdavis.edu) · [join mailing list](https://lists.ucdavis.edu/sympa/info/opensource-announce)
 - **Los Angeles**—[Tim Dennis](mailto:timdennis@ucla.edu) & [Leigh Phan](mailto:leighphan@library.ucla.edu) · [join mailing list](https://groups.google.com/g/ucla-ospo)
 - **San Diego**—[David Minor](mailto:dminor@ucsd.edu) & [Karla Padilla](mailto:kapadilla@ucsd.edu)
+- **San Francisco**—[Stathis Gennatas](mailto:stathis.gennatas@ucsf.edu) & [Henrik Bengtsson](mailto:henrik.bengtsson@ucsf.edu)
 - **Santa Barbara**—[Amber Budden](mailto:ospo@library.ucsb.edu) & [Virginia Scarlett](mailto:virginiascarlett@ucsb.edu) · [join mailing list](https://signup.e2ma.net/signup/2045162/1984731/)
 - **Santa Cruz**—[Stephanie Lieggi](mailto:slieggi@ucsc.edu) & [Emily Lovell](mailto:elovell@ucsc.edu) · [join mailing list](https://groups.google.com/u/0/a/ucsc.edu/g/ucsc-open-source-news-group/about)
 

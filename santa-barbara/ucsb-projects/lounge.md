@@ -67,7 +67,7 @@ for the 10/8 evening edition</a>
 
 If the Open Source Lounge doesn't work for you, you can still socialize with us!
 We're on Slack (see Stay informed section above), and we're in the
-[monthly all-campus Open Source meetup](https://ucospo.net/events/#all-campus-virtual-meetups-monthly).
+[monthly all-campus Open Source meetup](https://ucospo.net/events/#all-campus-meetup).
 Note: The UCSB Open Source Meetup has now merged with the all-campus Open Source
 meetup.
 
