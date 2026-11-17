@@ -71,8 +71,7 @@ static/          # images, CSS, and other static assets
 ## Content conventions
 
 - Pages are [MyST Markdown](https://mystmd.org/guide/quickstart-myst-documents).
-- The table of contents is defined in `myst.yml` under `project.toc`.
-  Add new pages there as well as creating the `.md` file.
+- The table of contents is defined in `myst.yml` under `project.toc`. Add new pages there as well as creating the `.md` file.
 - Blog post frontmatter uses `tags` as an array: `tags: [tag1, tag2]`.
 - Admonitions use MyST syntax: `:::{note}`, `:::{tip}`, `:::{important}`.
 
@@ -165,5 +164,4 @@ CI checks that run on every PR:
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution workflow including
-forking, branching, and the PR review process.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution workflow including forking, branching, and the PR review process.

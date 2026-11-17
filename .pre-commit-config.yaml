@@ -18,6 +18,17 @@ repos:
       - id: mixed-line-ending
       - id: trailing-whitespace
 
+  # One line per paragraph, so diffs show what changed rather than reflow. Runs
+  # before Prettier so Prettier checks the result. Standard library only, so
+  # pre-commit.ci can run it.
+  - repo: local
+    hooks:
+      - id: unwrap-prose
+        name: unwrap hard-wrapped prose
+        entry: python scripts/unwrap_prose.py
+        language: python
+        types: [markdown]
+
   - repo: https://github.com/rbubley/mirrors-prettier
     rev: ef4a397f916211b4a39ccf9d3d9cbb6562157251 # frozen: v3.9.9
     hooks:

@@ -67,8 +67,7 @@ Here are some resources to help you get started with open source contributions:
 ### Development Workflow
 
 1.  If you are a first-time contributor:
-    - Go to <https://github.com/UC-OSPO-Network/ucospo.net/> and click the
-      "fork" button to create your own copy of the project.
+    - Go to <https://github.com/UC-OSPO-Network/ucospo.net/> and click the "fork" button to create your own copy of the project.
 
     - Clone the project to your local computer:
 
@@ -88,8 +87,7 @@ Here are some resources to help you get started with open source contributions:
           git switch main
           git pull origin main
 
-    - Create a branch for the feature you want to work on. Since the branch name will appear in the merge message, use a sensible
-      name such as `bugfix-for-issue-1480`:
+    - Create a branch for the feature you want to work on. Since the branch name will appear in the merge message, use a sensible name such as `bugfix-for-issue-1480`:
 
           git switch -c bugfix-for-issue-1480
 
@@ -110,9 +108,7 @@ Here are some resources to help you get started with open source contributions:
     - Go to GitHub. The new branch will show up with a green Pull Request button---click it.
 
 4.  Review process:
-    - Every Pull Request (PR) update triggers a set of [continuous
-      integration](https://en.wikipedia.org/wiki/Continuous_integration)
-      checks that must pass before your PR can be merged:
+    - Every Pull Request (PR) update triggers a set of [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) checks that must pass before your PR can be merged:
       - **Build** — confirms the site builds successfully with MyST
       - **Link check** — [linkinator](https://github.com/JustinBeckwith/linkinator) verifies all internal and external links
       - **Accessibility** — [pa11y-ci](https://github.com/pa11y/pa11y-ci) tests every page against WCAG 2.1 AA
@@ -121,22 +117,9 @@ Here are some resources to help you get started with open source contributions:
       If a check fails, click the "failed" icon (red cross) to see the
       build log and find out what needs fixing.
 
-    - If the `pre-commit.ci` test fails, you can usually have the
-      pre-commit bot push a fix to your branch by adding a comment on your
-      PR with the text `pre-commit.ci autofix`.
-    - Reviewers (the other developers and interested community
-      members) will write inline and/or general comments on your PR to
-      help you improve its implementation, documentation, and style.
-      Every single contributor working on the project has their contributions
-      reviewed, and we've come to see it as friendly conversation
-      from which we all learn and the overall code quality benefits.
-      Therefore, please don't let the review discourage you from
-      contributing: its only aim is to improve the quality of project,
-      not to criticize (we are, after all, very grateful for the time
-      you're donating!).
-    - To update your PR, make your changes on your local repository
-      and commit. As soon as those changes are pushed up (to the same
-      branch as before) the PR will update automatically.
+    - If the `pre-commit.ci` test fails, you can usually have the pre-commit bot push a fix to your branch by adding a comment on your PR with the text `pre-commit.ci autofix`.
+    - Reviewers (the other developers and interested community members) will write inline and/or general comments on your PR to help you improve its implementation, documentation, and style. Every single contributor working on the project has their contributions reviewed, and we've come to see it as friendly conversation from which we all learn and the overall code quality benefits. Therefore, please don't let the review discourage you from contributing: its only aim is to improve the quality of project, not to criticize (we are, after all, very grateful for the time you're donating!).
+    - To update your PR, make your changes on your local repository and commit. As soon as those changes are pushed up (to the same branch as before) the PR will update automatically.
 
       > **_NOTE:_** If the PR closes an issue, make sure that GitHub knows to
       > automatically close the issue when the PR is merged. For example, if
@@ -145,14 +128,12 @@ Here are some resources to help you get started with open source contributions:
 
 ### Divergence from `origin main`
 
-If GitHub indicates that the branch of your Pull Request can no longer
-be merged automatically, merge the main branch into yours:
+If GitHub indicates that the branch of your Pull Request can no longer be merged automatically, merge the main branch into yours:
 
     git fetch origin main
     git merge origin/main
 
-If any conflicts occur, they need to be fixed before continuing. See
-which files are in conflict using:
+If any conflicts occur, they need to be fixed before continuing. See which files are in conflict using:
 
     git status
 
@@ -183,5 +164,4 @@ Once you've fixed all merge conflicts, do:
 
     git commit
 
-> **_NOTE:_** Advanced Git users may want to rebase instead of merge, but we squash
-> and merge PRs either way.
+> **_NOTE:_** Advanced Git users may want to rebase instead of merge, but we squash and merge PRs either way.
