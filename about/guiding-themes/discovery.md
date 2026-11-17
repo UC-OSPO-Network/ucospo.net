@@ -19,8 +19,6 @@ Primary activities under this Working Group include:
 - Emily Lovell, UC Santa Cruz
 - Virginia Scarlett, UC Santa Barbara
 
-**Advisor:**
-Adam Tilghman, UC San Diego
+**Advisor:** Adam Tilghman, UC San Diego
 
-**External Contributor:**
-Jonathan Starr, NumFocus / Map Of Open Source Science
+**External Contributor:** Jonathan Starr, NumFocus / Map Of Open Source Science

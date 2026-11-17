@@ -8,8 +8,7 @@ title: News
 
 ## Survey Analysis Published in PLOS One
 
-Our analysis of UC open source contributors is now live! Read the
-[blog post](posts/survey-results/index.md).
+Our analysis of UC open source contributors is now live! Read the [blog post](posts/survey-results/index.md).
 
 ## Develop an Open Source Lesson with the UC OSPO Network
 
@@ -37,7 +36,6 @@ For more information, see this [blog post](posts/charting-a-course/index.md).
 
 ## 2024-04-30: BIDS Launches Open Source Program Office
 
-UC Berkeley Joins Multi-Campus Effort Supported by $1.85 Million Grant from
-Alfred P. Sloan Foundation to Advance Open Source Initiatives Across UC System.
+UC Berkeley Joins Multi-Campus Effort Supported by $1.85 Million Grant from Alfred P. Sloan Foundation to Advance Open Source Initiatives Across UC System.
 
 For more information, see this [blog post](posts/launch/index.md).

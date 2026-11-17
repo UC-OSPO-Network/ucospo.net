@@ -12,8 +12,7 @@ Rather than presenting decentralization as a theoretical idea, this talk focuses
 
 PeerSky was supported through Google Summer of Code 2025 with UC OSPO and continues to be developed in the open, this session also serves as a case study in how university-led open source projects can produce durable, reusable infrastructure. The goal is not only to present a browser, but to invite discussion on how local-first, peer-to-peer tools can strengthen public-interest research infrastructure across the UC system and beyond.
 
-Website: [https://peersky.p2plabs.xyz/](https://peersky.p2plabs.xyz/)
-GitHub: [https://github.com/p2plabsxyz/peersky-browser](https://github.com/p2plabsxyz/peersky-browser)
+Website: [https://peersky.p2plabs.xyz/](https://peersky.p2plabs.xyz/) GitHub: [https://github.com/p2plabsxyz/peersky-browser](https://github.com/p2plabsxyz/peersky-browser)
 
 ---
 
@@ -35,8 +34,6 @@ Akhilesh is an active member of the decentralized web community. He was a 2023 G
 
 He is currently pursuing a Master's degree in Computer Science at the University of California, Santa Cruz.
 
-Website: [https://akhilesh.art/](https://akhilesh.art/)
-GitHub: [https://github.com/akhileshthite](https://github.com/akhileshthite)
-LinkedIn: [https://www.linkedin.com/in/akhileshthite/](https://www.linkedin.com/in/akhileshthite/)
+Website: [https://akhilesh.art/](https://akhilesh.art/) GitHub: [https://github.com/akhileshthite](https://github.com/akhileshthite) LinkedIn: [https://www.linkedin.com/in/akhileshthite/](https://www.linkedin.com/in/akhileshthite/)
 
 :::

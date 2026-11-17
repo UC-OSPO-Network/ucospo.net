@@ -30,8 +30,7 @@ TODO: "Step zero" section—uncomment once the "Case for OSPO" docs are publishe
 
 ## Step zero: making the case at your institution
 
-Before any of that, you'll usually need to bring people along—a Sponsor to sign off, and colleagues to make the OSPO real. That starts with being able to explain, briefly, why an OSPO is worth it for your institution. [link the Case for OSPO docs here]
--->
+Before any of that, you'll usually need to bring people along—a Sponsor to sign off, and colleagues to make the OSPO real. That starts with being able to explain, briefly, why an OSPO is worth it for your institution. [link the Case for OSPO docs here] -->
 
 ## Who to talk to first
 

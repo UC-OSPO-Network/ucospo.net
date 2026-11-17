@@ -10,8 +10,7 @@ tags: [network]
 
 ## Registration now open!
 
-**April 23 & 24, 2025**
-**Venue: [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/)**
+**April 23 & 24, 2025** **Venue: [UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/)**
 
 The UC Open celebrates open source efforts throughout the UC system and provides an opportunity to highlight the valuable and impactful research happening at our campuses. This event will include UC faculty, technical staff, and students, as well as those interested in collaborating with the UC open source community, and focus on sharing experience, knowledge, and expertise.
 
