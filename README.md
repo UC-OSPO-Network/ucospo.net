@@ -33,7 +33,7 @@ pip install -r requirements.txt
 pre-commit install
 ```
 
-If you skip this step, the `pre-commit.ci` bot will check your PR automatically instead.
+If you skip this step, the `pre-commit.ci` bot will check your PR automatically instead. [CONTRIBUTING.md](CONTRIBUTING.md#quickstart-for-experienced-contributors) explains what the hooks check and how to fix failures.
 
 ### 4. Preview the site
 
@@ -53,6 +53,10 @@ make html
 
 Output goes to `_build/html/`.
 
+### 6. Run the checks
+
+See [the checks CI runs](CONTRIBUTING.md#development-workflow) in CONTRIBUTING.md.
+
 ## Project structure
 
 ```text
@@ -70,11 +74,7 @@ static/          # images, CSS, and other static assets
 
 ## Content conventions
 
-- Pages are [MyST Markdown](https://mystmd.org/guide/quickstart-myst-documents).
-- The table of contents is defined in `myst.yml` under `project.toc`.
-  Add new pages there as well as creating the `.md` file.
-- Blog post frontmatter uses `tags` as an array: `tags: [tag1, tag2]`.
-- Admonitions use MyST syntax: `:::{note}`, `:::{tip}`, `:::{important}`.
+See [Follow the content conventions](CONTRIBUTING.md#follow-the-content-conventions) in CONTRIBUTING.md.
 
 ## Writing a blog post
 
@@ -133,18 +133,7 @@ You do **not** need to touch these; they regenerate from post frontmatter at bui
 
 ### 4. Preview and check
 
-Run `make serve` and confirm the post renders, appears on the blog index, and is linked from the sidebar nav. `make html` followed by the link and accessibility checks (see below) catches broken links and missing alt text before you open a PR.
-
-## Linting and formatting
-
-This project uses [pre-commit](https://pre-commit.com) with:
-
-- **[Prettier](https://prettier.io)** — auto-formats Markdown, CSS, and YAML
-- **[markdownlint](https://github.com/DavidAnson/markdownlint)** — checks Markdown structure and accessibility (heading levels, alt text, informative link text, etc.). Configuration is in `.markdownlint-cli2.yaml`.
-- **[Black](https://black.readthedocs.io)** — Python code formatting
-- **[codespell](https://github.com/codespell-project/codespell)** — catches common typos
-
-If you push without running pre-commit locally, the `pre-commit.ci` bot will check your PR automatically. See [CONTRIBUTING.md](CONTRIBUTING.md) for usage details.
+Run `make serve` and confirm the post renders, appears on the blog index, and is linked from the sidebar nav. `make check` (step 6 of [Local development](#local-development)) catches broken links and missing alt text before you open a PR.
 
 ## CI and deployment
 
@@ -152,16 +141,7 @@ The site's production build is deployed to [GitHub Pages](https://pages.github.c
 
 **On push to `main`:** `.github/workflows/deploy.yml` builds the site with `make html` and publishes it to the `UC-OSPO-Network.github.io` repo (also on a 12-hour schedule, to keep the aggregated event feeds current).
 
-**On pull requests:** `.github/workflows/pr.yml` runs the build and checks (linkinator + pa11y-ci). Branch PRs also get a **Netlify deploy preview** (built from `netlify.toml`, linked from the PR's checks); fork PRs get the build check but not the preview. The Netlify preview is not production.
-
-CI checks that run on every PR:
-
-| Check              | Tool                                                       | What it catches                                   |
-| ------------------ | ---------------------------------------------------------- | ------------------------------------------------- |
-| Build              | MyST                                                       | Broken Markdown, missing files, config errors     |
-| Links              | [linkinator](https://github.com/JustinBeckwith/linkinator) | Broken internal and external links                |
-| Accessibility      | [pa11y-ci](https://github.com/pa11y/pa11y-ci)              | WCAG 2.1 AA violations (contrast, alt text, etc.) |
-| Linting/formatting | [pre-commit.ci](https://pre-commit.ci)                     | Formatting, Markdown structure, typos             |
+**On pull requests:** `.github/workflows/pr.yml` runs `make check`, and pre-commit.ci runs the pre-commit hooks. Branch PRs also get a **Netlify deploy preview** (built from `netlify.toml`, linked from the PR's checks); fork PRs get the checks but not the preview. The Netlify preview is not production. [CONTRIBUTING.md](CONTRIBUTING.md#development-workflow) lists what each check catches.
 
 ## Contributing
 
