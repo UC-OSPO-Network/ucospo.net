@@ -28,16 +28,16 @@ New to open source? These GitHub guides cover the basics:
 
 ## Choose what to work on
 
-Most of the PRs we close aren't wrong line by line. They fix something nobody runs into.
+Most of the PRs we close fix something nobody runs into.
 
-- **Start from an issue.** The surest way to find work we want is an open issue a maintainer filed. Issues labeled `good first issue` or `help wanted` are good places to start; `internal-only` issues are for people in the UC OSPO Network. Comment on the issue before you begin, so we can confirm it's still wanted.
-- **Search first, closed issues and PRs included.** If an earlier PR was closed, read why before proposing the same thing.
+- **Start from an issue:** the surest way to find work we want is an open issue a maintainer filed. Issues labeled `good first issue` or `help wanted` are good places to start; `internal-only` issues are for people in the UC OSPO Network. Comment on the issue before you begin, so we can confirm it's still wanted.
+- **Search first, closed issues and PRs included:** if an earlier PR was closed, read why before proposing the same thing.
 - **Name who runs into the problem:** a visitor to a page that's in the nav or linked from other pages, someone following this guide or the README, or a maintainer running CI or the build. If you can't name anyone, it probably doesn't need fixing.
-- **Check that the thing is still in use.** Before fixing a script, page, or function, confirm something still uses it: for a script, does the Makefile, CI, or this guide run it? For a page, is it linked anywhere? If nothing uses it, open an issue asking whether it should be removed, rather than fixing it.
-- **Check that it's actually broken.** A dead link, a crash on a path people take, or wrong information is broken. Wording you'd phrase differently, a style you'd prefer, or a case that hasn't come up isn't.
-- **Leave working safeguards alone.** A check that fails loudly and tells you exactly how to fix your input is doing its job.
-- **New pages and posts** come from the network. If you're part of the UC OSPO Network or writing on its behalf, go ahead ([Writing a blog post](#writing-a-blog-post) covers posts). Otherwise, suggest new content in an issue first.
-- **Ask before maintainer-sized work.** Library swaps, major dependency upgrades, and repo-wide refactors are maintainer decisions. Raise them in an issue first.
+- **Check that the thing is still in use:** before fixing a script, page, or function, confirm something still uses it: for a script, does the Makefile, CI, or this guide run it? For a page, is it linked anywhere? If nothing uses it, open an issue asking whether it should be removed, rather than fixing it.
+- **Check that it's actually broken:** a dead link, a crash on a path people take, or wrong information. If it's wording you'd phrase differently or a style you'd prefer, leave it, and the same goes for a case that hasn't come up yet.
+- **Leave working safeguards alone:** a check that fails loudly and tells you exactly how to fix your input is doing its job.
+- **New pages and posts:** these come from the network. If you're part of the UC OSPO Network or writing on its behalf, go ahead ([Writing a blog post](#writing-a-blog-post) covers posts). Otherwise, suggest new content in an issue first.
+- **Ask before maintainer-sized work:** library swaps, major dependency upgrades, and repo-wide refactors are maintainer decisions. Raise them in an issue first.
 
 ## Set up your copy
 
@@ -121,23 +121,23 @@ static/           # images, CSS, and other static assets
 
 ### Follow the content conventions
 
-- **MyST first.** Pages are [MyST Markdown](https://mystmd.org/guide/quickstart-myst-documents). When native MyST can do the job (directives such as `{figure}`, `{image}`, `{card}`, `{grid}`, and `{div}`, roles, or frontmatter options), use it instead of raw HTML or custom CSS. Raw HTML elsewhere on the site isn't a reason to add more. Admonitions, for example, use `:::{note}`, `:::{tip}`, or `:::{important}`.
-- **New pages go in the table of contents.** It's defined in `myst.yml` under `project.toc`; add the page there as well as creating the `.md` file. Blog posts have a few more steps; see [Writing a blog post](#writing-a-blog-post).
-- **Blog post tags are an array** in frontmatter: `tags: [tag1, tag2]`.
-- **Good alt text, not just alt text.** markdownlint only checks that it exists. Good alt text says what the image is for in context, doesn't start with "image of", includes any text that's in the image, and is empty (`alt=""`) for purely decorative images.
-- **Link text that makes sense out of context** (no "click here").
-- **Leave line wrapping as you find it.** Don't rewrap or unwrap paragraphs you aren't otherwise editing.
-- **Don't edit generated output** (`_build/`, the Atom feed, the sitemap). It regenerates at build time.
+- **MyST first:** pages are [MyST Markdown](https://mystmd.org/guide/quickstart-myst-documents). When native MyST can do the job (directives such as `{figure}`, `{image}`, `{card}`, `{grid}`, and `{div}`, roles, or frontmatter options), use it instead of raw HTML or custom CSS. Raw HTML elsewhere on the site isn't a reason to add more. Admonitions, for example, use `:::{note}`, `:::{tip}`, or `:::{important}`.
+- **New pages go in the table of contents:** it's defined in `myst.yml` under `project.toc`; add the page there as well as creating the `.md` file. Blog posts have a few more steps; see [Writing a blog post](#writing-a-blog-post).
+- **Blog post tags:** write them as an array in frontmatter: `tags: [tag1, tag2]`.
+- **Alt text that says what the image conveys:** markdownlint only checks that it exists. Good alt text says what the image is for in context, doesn't start with "image of", includes any text that's in the image, and is empty (`alt=""`) for purely decorative images.
+- **Link text:** make it make sense out of context (no "click here").
+- **Leave line wrapping as you find it:** don't rewrap or unwrap paragraphs you aren't otherwise editing.
+- **Generated output:** don't edit `_build/`, the Atom feed, or the sitemap; they regenerate at build time.
 
 ### Make it right for the site, not just correct
 
 If the obvious next step after merging your PR would be for a maintainer to remove or replace what you changed, it isn't the right change, however well the lines do what they claim.
 
-- **Find every other use.** Search the repo for each function, selector, CSS class, config key, and file you change, and check what else your change reaches.
-- **Don't trade a loud failure for a silent wrong answer.** When you widen what a pattern, regex, or check accepts, test what it now accepts that it shouldn't.
-- **Don't weaken a check to make it pass.** It's very unlikely a "solution" will involve removing or disabling a lint rule, an accessibility check, a test, or a timeout, adding an ignore, or deleting markup a checker flags. Find out what the flagged thing was doing first. In the very rare case that such a change is justified, explain why in the PR description, and make sure the underlying problem is fixed rather than hidden.
-- **Write down the why.** If you do something non-obvious (a workaround, the least-bad option, something a future contributor might "fix" back), explain it in a code comment next to it, or in this guide if contributors need to know it. PR descriptions and review comments are hard to find later. Keep existing comments that explain why something unusual is done; they're there for the next contributor.
-- **Follow the existing pattern.** If you think there's a better way, say so in an issue rather than starting a second pattern.
+- **Find every other use:** search the repo for each function, selector, CSS class, config key, and file you change, and check what else your change reaches.
+- **Don't trade a loud failure for a silent wrong answer:** when you widen what a pattern, regex, or check accepts, test what it now accepts that it shouldn't.
+- **Don't weaken a check to make it pass:** it's very unlikely a "solution" will involve removing or disabling a lint rule, an accessibility check, a test, or a timeout, adding an ignore, or deleting markup a checker flags. Find out what the flagged thing was doing first. In the very rare case that such a change is justified, explain why in the PR description, and make sure the underlying problem is fixed rather than hidden.
+- **Write down the why:** if you do something non-obvious (a workaround, the least-bad option, something a future contributor might "fix" back), explain it in a code comment next to it, or in this guide if contributors need to know it. PR descriptions and review comments are hard to find later. Keep existing comments that explain why something unusual is done; they're there for the next contributor.
+- **Follow the existing pattern:** if you think there's a better way, say so in an issue rather than starting a second pattern.
 
 ### Writing a blog post
 
@@ -192,7 +192,7 @@ Copy an existing entry in each file and adjust the title, link, and date.
 You do **not** need to touch these; they regenerate from post frontmatter at build time:
 
 - **Atom feed** (`scripts/generate-feed.js`, run during `make html`): picks up any `posts/*/index.md` that has a `date` and `title`.
-- **Sitemap**: MyST generates `_build/html/sitemap.xml` on build.
+- **Sitemap:** MyST generates `_build/html/sitemap.xml` on build.
 
 #### 4. Preview and check
 
@@ -217,9 +217,9 @@ If you open your PR from a branch in this repo (not a fork), a comment will appe
 
 ### Prove it works
 
-- **Ask which test would fail if your change didn't work.** If nothing you ran, and nothing CI runs, would fail, you haven't shown the change does anything. Add that test, with negative cases (inputs that should be rejected) as well as positive ones.
-- **Run what you claim.** Only write "all tests pass" or "no change on other platforms" if you ran it, and say what you ran.
-- **Run the change the way someone would meet it.** CI passing says nothing about a script CI never runs. For content, preview the site and look at the pages you touched.
+- **Ask which test would fail if your change didn't work:** if nothing you ran, and nothing CI runs, would fail, you haven't shown the change does anything. Add that test, with negative cases (inputs that should be rejected) as well as positive ones.
+- **Run what you claim:** only write "all tests pass" or "no change on other platforms" if you ran it, and say what you ran.
+- **Run the change the way someone would meet it:** CI passing says nothing about a script CI never runs. For content, preview the site and look at the pages you touched.
 
 ### Run the checks
 
@@ -273,10 +273,10 @@ Go to GitHub. The new branch will show up with a green Pull Request button---cli
 
 ### Write the description
 
-- **Link the issue.** Use a closing keyword ("Fixes #123") only if the PR finishes everything the issue asks for. If it does only part, write "Part of #123" so merging doesn't close the issue. ([More on linking keywords](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue).)
-- **Say who runs into the problem** and what goes wrong for them today, in a sentence or two.
+- **Link the issue:** use a closing keyword ("Fixes #123") only if the PR finishes everything the issue asks for. If it does only part, write "Part of #123" so merging doesn't close the issue. ([More on linking keywords](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue).)
+- **Who runs into the problem:** say who, and what goes wrong for them today, in a sentence or two.
 - **Say how you checked it:** the commands you ran and what they showed.
-- **Point to the why.** If you did something non-obvious, say where the explanation lives ([Write down the why](#make-it-right-for-the-site-not-just-correct)).
+- **Point to the why:** if you did something non-obvious, say where the explanation lives ([Write down the why](#make-it-right-for-the-site-not-just-correct)).
 
 ### Review
 
