@@ -104,16 +104,18 @@ Commit locally as you progress (`git add` and `git commit`).
 ### Project structure
 
 ```text
-myst.yml          # site config and table of contents
+myst.yml          # project config and table of contents
+site.yml          # site theme, logo, and footer settings
 index.md          # home page
-about.md          # about page
 news.md           # news page
-campus/           # per-campus pages
+footer.md         # site footer
+about/            # about, contact, governance, get involved, guiding themes
+davis/            # campus pages (also los-angeles/, san-diego/, santa-barbara/)
 events/           # event pages
-guiding-themes/   # guiding themes section
 oss-resources/    # open source resource guides
 posts/            # blog posts
-static/          # images, CSS, and other static assets
+scripts/          # build scripts: Atom feed, events aggregator
+static/           # images, CSS, and other static assets
 ```
 
 ### Follow the content conventions
