@@ -6,7 +6,7 @@ This file adds only what's specific to agents, and points you to the part of CON
 
 ## Before you start
 
-- Read README.md and CONTRIBUTING.md in full before changing anything. It follows a contribution from start to finish, and it's what we review against.
+- Read README.md and CONTRIBUTING.md in full before changing anything. CONTRIBUTING.md follows a contribution from start to finish, and it's what we review against.
 - Check the task against [Choose what to work on](CONTRIBUTING.md#choose-what-to-work-on). If it fails any of those questions, tell the human deploying you before you write any code.
 
 ## If you're asked to find things to fix
