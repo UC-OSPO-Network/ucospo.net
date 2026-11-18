@@ -222,13 +222,13 @@ If you open your PR from a branch in this repo (not a fork), a comment will appe
 
 Every PR update runs these [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) checks, and they must pass before your PR can be merged:
 
-| Check              | Tool                                                       | What it catches                                                                    |
-| ------------------ | ---------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Unit tests         | `npm test`                                                 | Bugs in the events scripts, and events listed out of order                         |
-| Build              | MyST                                                       | Broken Markdown, missing files, config errors                                      |
-| Links              | [linkinator](https://github.com/JustinBeckwith/linkinator) | Broken internal and external links                                                 |
-| Accessibility      | [pa11y-ci](https://github.com/pa11y/pa11y-ci)              | WCAG 2.1 AA violations (contrast, alt text, etc.)                                  |
-| Linting/formatting | [pre-commit.ci](https://pre-commit.ci)                     | Formatting (Prettier, Black), Markdown structure (markdownlint), typos (codespell) |
+| Check              | Tool                                                       | What it catches                                                                                                |
+| ------------------ | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Unit tests         | `npm test`                                                 | Bugs in the events scripts, and events listed out of order                                                     |
+| Build              | MyST                                                       | Broken Markdown, missing files, config errors                                                                  |
+| Links              | [linkinator](https://github.com/JustinBeckwith/linkinator) | Broken internal and external links                                                                             |
+| Accessibility      | [pa11y-ci](https://github.com/pa11y/pa11y-ci)              | WCAG 2.1 AA violations (contrast, alt text, etc.)                                                              |
+| Linting/formatting | [pre-commit.ci](https://pre-commit.ci)                     | Formatting, Markdown structure, Python style, typos, and file hygiene (the hooks in `.pre-commit-config.yaml`) |
 
 To run them yourself before you push:
 
