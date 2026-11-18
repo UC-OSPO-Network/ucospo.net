@@ -24,4 +24,4 @@ For more on the group's aims and activities, see the [Discovery guiding theme](.
 
 ## Join
 
-Join the Discovery Working Group's channel in the [Network Slack](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg) and introduce yourself. Not sure if it's a fit? Reach out to Laura Langdon (community manager).
+For now, the Discovery Working Group is an internal working group for Network and campus OSPO staff. To join, email [Stephanie Lieggi](mailto:slieggi@ucsc.edu), Network Chair.
