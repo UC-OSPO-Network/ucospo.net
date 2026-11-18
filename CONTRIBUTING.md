@@ -341,3 +341,7 @@ git commit
 
 > **_NOTE:_** Advanced Git users may want to rebase instead of merge, but we squash
 > and merge PRs either way.
+
+## Acknowledgements
+
+Parts of this guide are adapted from [scikit-image's contributing guide](https://github.com/scikit-image/scikit-image/blob/main/CONTRIBUTING.md).
