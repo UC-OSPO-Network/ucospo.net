@@ -8,7 +8,7 @@ The site's production build is deployed to [GitHub Pages](https://pages.github.c
 
 **On push to `main`:** `.github/workflows/deploy.yml` builds the site with `make html` and publishes it to the `UC-OSPO-Network.github.io` repo (also on a 12-hour schedule, to keep the aggregated event feeds current).
 
-**On pull requests:** `.github/workflows/pr.yml` runs `make check`, and pre-commit.ci runs the pre-commit hooks. Branch PRs also get a **Netlify deploy preview** (built from `netlify.toml`, linked from the PR's checks); fork PRs get the checks but not the preview. The Netlify preview is not production. [CONTRIBUTING.md](CONTRIBUTING.md#development-workflow) lists what each check catches.
+**On pull requests:** `.github/workflows/pr.yml` runs `make check`, and pre-commit.ci runs the pre-commit hooks. Branch PRs also get a **Netlify deploy preview** (built from `netlify.toml`, linked from the PR's checks); fork PRs get the checks but not the preview. The Netlify preview is not production. [CONTRIBUTING.md](CONTRIBUTING.md#run-the-checks) lists what each check catches.
 
 ## Contributing
 
