@@ -1,6 +1,6 @@
 # Instructions for AI coding agents
 
-This file is for AI agents helping someone contribute to ucospo.net. The rules that apply to every contributor live in the human guides, and you're expected to follow them: [README.md](README.md) covers setup, running the site and its checks, writing blog posts, and how CI deploys the site, and [CONTRIBUTING.md](CONTRIBUTING.md) covers the workflow, the content conventions, and what we look for in review. If this file and those guides ever disagree, the guides win.
+This file is for AI agents helping someone contribute to ucospo.net. The rules that apply to every contributor live in the human guides, and you're expected to follow them: [README.md](README.md) says what the site is and how it's deployed, and [CONTRIBUTING.md](CONTRIBUTING.md) covers everything about working on it: setup, the checks, content conventions, blog posts, the workflow, and what we look for in review. If this file and those guides ever disagree, the guides win.
 
 This file adds only what's specific to agents, and points you to the part of CONTRIBUTING.md that matters at each step.
 
