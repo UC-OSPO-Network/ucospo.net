@@ -2,7 +2,7 @@
 
 Thank you for investing your time in contributing to our project!
 
-Every pull request takes a maintainer's time to read, test, and decide on. This guide follows a contribution from start to finish, and it's also what we check when we review, so following it makes your PR quicker to merge. It applies whether you write every line yourself or work with an AI tool.
+Every pull request takes a maintainer's time to read, test, and decide on. This guide follows a contribution from start to finish, and it's also what we check when we review, so following it makes your PR quicker to merge. It applies to everyone, maintainers included, whether you write every line yourself or work with an AI tool.
 
 New to open source? These GitHub guides cover the basics:
 
@@ -132,8 +132,8 @@ If the obvious next step after merging your PR would be for a maintainer to remo
 
 - **Find every other use.** Search the repo for each function, selector, CSS class, config key, and file you change, and check what else your change reaches.
 - **Don't trade a loud failure for a silent wrong answer.** When you widen what a pattern, regex, or check accepts, test what it now accepts that it shouldn't.
-- **Don't quiet a checker by removing what it checks.** Don't delete or skip tests, add lint or accessibility ignores, or remove markup to make a check pass. Find out what the flagged thing was doing first.
-- **Keep rationale comments.** A comment explaining why something unusual is done is there for the next contributor.
+- **Don't weaken a check to make it pass.** It's very unlikely a "solution" will involve removing a linter or accessibility ignore, a test, or a timeout, or adding an ignore or deleting markup that a checker flags. Find out what the flagged thing was doing first. In the very rare case that such a change is justified, explain why in the PR description, and make sure the underlying problem is fixed rather than hidden.
+- **Write down the why.** If you do something non-obvious (a workaround, the least-bad option, something a future contributor might "fix" back), explain it in a code comment next to it, or in this guide if contributors need to know it. PR descriptions and review comments are hard to find later. Keep existing comments that explain why something unusual is done; they're there for the next contributor.
 - **Follow the existing pattern.** If you think there's a better way, say so in an issue rather than starting a second pattern.
 
 ### Writing a blog post
@@ -197,7 +197,7 @@ Run `make serve` and confirm the post renders, appears on the blog index, and is
 
 ### Keep the diff focused
 
-Only change lines the issue needs. Don't reformat, rewrap, reindent, reorder, or restyle anything you aren't otherwise editing. Before you push, read the whole diff and revert anything that isn't needed.
+Keep the PR to one purpose: every change in the diff should be needed to resolve the linked issue. Leave out unrelated fixes, reformatting of lines you didn't otherwise change, and drive-by edits; open a separate issue or PR for those. That includes rewrapping, reindenting, reordering, or restyling anything you aren't otherwise editing. Before you push, read the whole diff and revert anything that isn't needed.
 
 ## Check your change
 
@@ -256,6 +256,8 @@ Full rule reference: <https://github.com/DavidAnson/markdownlint/blob/main/doc/R
 
 ## Open your pull request
 
+Understand every line you submit: you should be able to explain why each change is there, what it does, and what it could break, and answer review questions yourself. That includes code written with AI assistants or other tools. You're welcome to use them, but you're responsible for the result.
+
 ### Push your branch
 
 Push your changes back to your fork on GitHub:
@@ -271,14 +273,15 @@ Go to GitHub. The new branch will show up with a green Pull Request button---cli
 - **Link the issue.** Use a closing keyword ("Fixes #123") only if the PR finishes everything the issue asks for. If it does only part, write "Part of #123" so merging doesn't close the issue. ([More on linking keywords](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue).)
 - **Say who runs into the problem** and what goes wrong for them today, in a sentence or two.
 - **Say how you checked it:** the commands you ran and what they showed.
-- **Put the why in the code.** If you did something a future contributor might not expect or understand, explain it in a code comment, not only in the PR. The PR thread is hard to find later.
-- **You're responsible for every line,** however it was written. You should be able to explain why each change is needed and what it could break, and answer review questions yourself.
+- **Point to the why.** If you did something non-obvious, say where the explanation lives ([Write down the why](#make-it-right-for-the-site-not-just-correct)).
 
 ### Review
 
 Reviewers (the other developers and interested community members) will write inline and/or general comments on your PR to help you improve its implementation, documentation, and style. Every single contributor working on the project has their contributions reviewed, and we've come to see it as friendly conversation from which we all learn and the overall code quality benefits. Therefore, please don't let the review discourage you from contributing: its only aim is to improve the quality of project, not to criticize (we are, after all, very grateful for the time you're donating!).
 
 To update your PR, make your changes on your local repository and commit. As soon as those changes are pushed up (to the same branch as before) the PR will update automatically.
+
+If a PR still has the same problems after a round of requested changes, or doesn't meet this guide after being reminded of it previously, we'll close the PR and won't review further iterations. We have limited time to review contributions, and we need to reserve it for PRs that follow our guidelines.
 
 ## Keep your branch up to date
 
