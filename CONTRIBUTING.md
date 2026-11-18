@@ -24,6 +24,7 @@ New to open source? These GitHub guides cover the basics:
 - [Check your change](#check-your-change)
 - [Open your pull request](#open-your-pull-request)
 - [Keep your branch up to date](#keep-your-branch-up-to-date)
+- [Acknowledgements](#acknowledgements)
 
 ## Choose what to work on
 
