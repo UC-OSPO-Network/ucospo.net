@@ -20,6 +20,6 @@ Each Working Group designates a chair who represents it to the Alignment Group, 
 
 ## Joining a Working Group
 
-You can join most Working Groups by joining the group's channel in the [Network Slack](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg) and introducing yourself. Pick a group whose work is closest to yours, or one whose work you want to learn more about. Each group's page has the details.
+You can join most Working Groups by joining the group's channel in the [Network Slack](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg) and introducing yourself. Pick a group whose work is closest to yours, or one whose work you want to learn more about. Some groups have a different route, such as emailing the chair, so check each group's page for how to join.
 
 Not sure which fits? Reach out to Laura Langdon (community manager), who can walk you through what each group is working on.

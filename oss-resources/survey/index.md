@@ -114,16 +114,16 @@ effort, please reach out to us at
 ## Links to research products
 
 - **Paper:**
-  [doi:10.1371/journal.pone.0348894](https://doi.org/10.1371/journal.pone.0348894)
+  [Published in PLOS ONE](https://doi.org/10.1371/journal.pone.0348894)
 - **Preprint:**
-  [doi:10.31235/osf.io/p8bx6_v1](https://doi.org/10.31235/osf.io/p8bx6_v1)
+  [Preprint on SocArXiv](https://osf.io/preprints/socarxiv/p8bx6_v1)
   - To find the preprint's supplementary materials, you have to go the 'Project'
     in OSF that has the same title as the preprint. Find it here:
     [osf.io/m5ft6/overview](https://osf.io/m5ft6/overview)
 - **Dataset on Dryad**:
-  [doi:10.5061/dryad.2280gb662](https://doi.org/10.5061/dryad.2280gb662)
+  [View the dataset](https://doi.org/10.5061/dryad.2280gb662)
 - **Archived code** snapshot on Zenodo:
-  [doi:10.5281/zenodo.17783101](https://doi.org/10.5281/zenodo.17783101)
+  [View the snapshot](https://doi.org/10.5281/zenodo.17783101)
 - **Living code** repository:
   [UC-OSPO-Network/ospo-survey-analysis](https://github.com/UC-OSPO-Network/ospo-survey-analysis)
 - **Survey instrument** is available as a PDF in the paper's supplementary

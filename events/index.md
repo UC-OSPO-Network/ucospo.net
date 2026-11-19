@@ -209,6 +209,19 @@ Join the Open Repository Browser (ORB) working group for our regular community c
 - [ORB paper](https://doi.org/10.48550/arXiv.2506.18359)
 - ORB repositories: [repofinder](https://github.com/UC-OSPO-Network/repofinder), [repoexplorer](https://github.com/UC-OSPO-Network/repoexplorer)
 
+### All-Campus Virtual Meetup: March
+
+**When**: Thursday, March 4 2027 at 10am Pacific / 18:00 UTC\
+**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA))\
+**Who**: Anyone—students, staff, faculty, researchers, and folks outside UC all welcome!
+
+Speakers and host campus TBA!
+
+:::{div}
+:class: register-btn
+[Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
+:::
+
 ## Past Events
 
 ### BIDS Seminar: Notebook.link, with Sylvain Corlay and Jeremy Tuloup
