@@ -72,6 +72,7 @@ project:
         - file: events/index.md
         - file: events/uc-open-2027/index.md
         - file: events/uc-open-2026/index.md
+          hidden: true
         - pattern: events/uc-open-2026/talks/*.md
           hidden: true
         - pattern: events/uc-open-4-2025/**/*.md
