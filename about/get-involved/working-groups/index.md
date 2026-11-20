@@ -15,7 +15,7 @@ Each Working Group designates a chair who represents it to the Alignment Group, 
 - **[Sustainability Playbook](sustainability-playbook.md):** an online handbook for sustaining open source at UC, built from interviews with UC researchers.
 - **[OSS Licensing](oss-licensing.md):** clarifying and simplifying open source licensing guidance for UC.
 - **[Education](education.md):** building a connected open source learning culture across UC, much of it through the UC Carpentries partnership.
-- **[UC Open Steering Committee](uc-open-steering-committee.md):** organizing the Network's annual [UC Open](../../../events/uc-open-2026/index.md) convening.
+- **[UC Open Steering Committee](uc-open-steering-committee.md):** organizing the Network's annual [UC Open](../../../events/uc-open-2027/index.md) convening.
 - **[High Level Outreach](high-level-outreach.md):** outreach to senior campus leadership to strengthen OSPO sustainability.
 
 ## Joining a Working Group
