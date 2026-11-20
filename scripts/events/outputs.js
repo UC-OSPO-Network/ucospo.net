@@ -10,7 +10,7 @@ import fs from "fs";
 import path from "path";
 import { SITE_URL, SOURCES } from "./config.js";
 
-function buildCalendar(name, events) {
+export function buildCalendar(name, events) {
   const cal = icalGenerator({ name, prodId: { company: "UC OSPO Network", product: "events" } });
   for (const e of events) {
     cal.createEvent({
@@ -22,6 +22,7 @@ function buildCalendar(name, events) {
       location: e.location || undefined,
       description: e.description || undefined,
       url: e.url || undefined,
+      stamp: e.stamp || e.start,
     });
   }
   return cal.toString();
