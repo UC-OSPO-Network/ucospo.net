@@ -2,7 +2,7 @@
 title: UC Open Steering Committee
 ---
 
-The UC Open Steering Committee is the main organizing body for [UC Open](../../../events/uc-open-2026/index.md), the Network's annual convening. It works through subcommittees covering program, logistics, outreach, and more.
+The UC Open Steering Committee is the main organizing body for [UC Open](../../../events/uc-open-2027/index.md), the Network's annual convening. It works through subcommittees covering program, logistics, outreach, and more.
 
 **Chair:** Stephanie Lieggi
 
