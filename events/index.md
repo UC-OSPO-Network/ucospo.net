@@ -47,6 +47,16 @@ The Open Source Lounge, hosted by UCSB but open to all UC affiliates, is a co-wo
 
 ## Upcoming Events
 
+% EVENT:PINNED
+
+### UC Open 2027: Open by Design
+
+**When**: Wednesday, April 21 and Thursday, April 22 2027\
+**Where**: Loma Pelona Center, UC Santa Barbara\
+**Who**: Researchers, students, and staff from across the University of California, along with industry and community partners
+
+Save the date! The call for proposals opens December 1, and registration opens in mid-January 2027. See the [UC Open 2027 page](uc-open-2027/index.md) for details.
+
 ### UC Berkeley OSPO Monthly Meetup: November
 
 **When**: Thursday, November 19 2026, 3-5:00pm Pacific (in person from 3pm, online from 3:30pm)\
