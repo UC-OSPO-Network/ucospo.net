@@ -84,6 +84,15 @@ try {
     path.join(buildRoot, "purify.min.js"),
   );
   console.log("Copied purify.min.js to build root");
+
+  // Copy static .ics calendar downloads into the build output so download links work
+  const icsSrcDir = path.join(__dirname, "..", "static", "ics-files");
+  const icsDestDir = path.join(buildRoot, "static", "ics-files");
+  if (fs.existsSync(icsSrcDir)) {
+    fs.mkdirSync(icsDestDir, { recursive: true });
+    fs.cpSync(icsSrcDir, icsDestDir, { recursive: true });
+    console.log("Copied static/ics-files to build root");
+  }
 } catch (err) {
   console.error(`\nFailed to write build outputs: ${err.message}`);
   process.exit(1);
