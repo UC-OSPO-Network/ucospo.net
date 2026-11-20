@@ -103,26 +103,6 @@ Guest speaker:
 [Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
 :::
 
-(git-github-workshop-2026-12)=
-
-### Git & GitHub Workshop (two days)
-
-**When**: Monday, December 7 and Tuesday, December 8 2026, 10am-12pm Pacific / 1-3pm Eastern / 18:00-20:00 UTC\
-**Where**: Zoom ([registration required](https://ucdavis.zoom.us/meeting/register/RiYoGo8EQSqsJjyHMhYjGg); one registration covers both days)\
-**Who**: Anyone—no programming or Git experience required, all institutional affiliations welcome!
-
-Working with collaborators on code and code-like documents can be quite a headache. Traditional version history often has poor tools for managing conflicting contributions, saving and accessing historical checkpoints, and handling experimentation. This workshop will introduce participants to Git, a piece of software and a collaboration mindset that resolves all of these issues and more. Representatives from the Syracuse University and University of California Open Source Program Offices will walk participants through their first Git contributions, help them collaborate with each other using GitHub, and discuss Git's place in the world of AI coding. A [CURIOSS](https://curioss.org/) workshop.
-
-- **Day 1 (Dec 7)**: Git and GitHub in your browser and VS Code, with nothing to install. It's a repeat of our September workshop, so if you came to that one, feel free to skip straight to day 2!
-- **Day 2 (Dec 8)**: the same workflows on the command line, plus what's really going on underneath. You'll need Git installed; we'll send setup instructions before the session.
-
-Both sessions will be recorded.
-
-:::{div}
-:class: register-btn
-[Register here](https://ucdavis.zoom.us/meeting/register/RiYoGo8EQSqsJjyHMhYjGg)
-:::
-
 ### Alignment Group: December
 
 **When**: Wednesday, December 23 2026 at 11am Pacific / 19:00 UTC; fourth Wednesday of every month\
