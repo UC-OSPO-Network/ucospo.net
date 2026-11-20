@@ -27,4 +27,4 @@ As the momentum continued into community updates, [Stephanie Lieggi](https://ucs
 
 At the [next meetup](https://ucospo.net/events/#all-campus-meetup) on August 6th, a group of researchers from UCSB’s [NCEAS](https://www.nceas.ucsb.edu/) will be presenting on how AI is affecting open-source workflows and sharing practical rules for using AI in a research lab. We hope to have you join us there!
 
-To stay in touch with the UC open source community and join the conversation, please join us on [Slack](https://ucospo.net/build/slack-33978b77eaded7f2749dd89d433644f8.svg)!
+To stay in touch with the UC open source community and join the conversation, please join us on [Slack](https://join.slack.com/t/uc-ospo-network/shared_invite/zt-3ecp5b20z-ECL~4DkCUslB0t3mbH9xUg)!
