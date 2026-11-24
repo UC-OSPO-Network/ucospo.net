@@ -179,6 +179,19 @@ Speakers and host campus TBA!
 [Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
 :::
 
+### UC Berkeley OSPO Monthly Meetup: February
+
+**When**: Thursday, February 18 2027, 3-5pm Pacific\
+**Where**: In person at the Berkeley Institute for Data Science, 2300 Hearst Ave, UC Berkeley (see the [event page](https://luma.com/71fkzhut) for details)\
+**Who**: Anyone (including students and staff!)
+
+Berkeley's OSPO, BIDS, and D-Lab host a monthly fireside chat and Q&A, followed by community gathering time. February's guest and topic are still to be announced; see the [full series](https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for updates.
+
+:::{div}
+:class: register-btn
+[Register here](https://luma.com/71fkzhut)
+:::
+
 ### Alignment Group: February
 
 **When**: Wednesday, February 24 2027 at 11am Pacific / 19:00 UTC; fourth Wednesday of every month\
@@ -211,6 +224,14 @@ Speakers and host campus TBA!
 :class: register-btn
 [Register here](https://ucdavis.zoom.us/meeting/register/Mr0pGJ7mQhymTi19oT86JA)
 :::
+
+### Alignment Group: March
+
+**When**: Wednesday, March 24 2027 at 11am Pacific / 19:00 UTC; fourth Wednesday of every month\
+**Where**: Zoom. [Direct Zoom link](https://ucsb.zoom.us/j/87582153282) or add to your calendar: <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NjJiY2FxZGRqZHVhOHQycWNoaWM1aG8yYTcgY185MmNhNzQ5YjRjMDFmMjIxZTE2ODY2YzYyNGJlNDM3N2Y4Y2NlZmJmMGEwNzllYzM3ZjY5NjA2NjNjNDg2ZTc5QGc&amp;tmsrc=c_92ca749b4c01f221e16866c624be4377f8ccefbf0a079ec37f6960663c486e79%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>\
+**Who**: Working-group delegates, and anyone interested in how the Network is run
+
+The Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Working-group delegates are asked to attend, and everyone in the UC open source community (and beyond!) is welcome to join and listen in.
 
 ## Past Events
 
