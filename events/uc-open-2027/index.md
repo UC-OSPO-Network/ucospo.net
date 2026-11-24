@@ -4,6 +4,8 @@ date: 2026-11-20
 description: "The third annual UC Open: April 21–22, 2027, at the Loma Pelona Center, UC Santa Barbara"
 ---
 
+![Open by Design: UC Open Summit 2027, Santa Barbara, CA, April 21 and 22. A ring of yellow, green, orange, and blue paint splashes sits beside the text.](./uc_open3.png)
+
 ## April 21–22, 2027 | Loma Pelona Center, UC Santa Barbara
 
 ## About
