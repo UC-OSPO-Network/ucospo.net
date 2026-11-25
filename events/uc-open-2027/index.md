@@ -4,8 +4,8 @@ date: 2026-11-20
 description: "The third annual UC Open: April 21–22, 2027, at the Loma Pelona Center, UC Santa Barbara"
 ---
 
-<img src="../../static/images/uc_open27.svg" class="only-light" style="display: block; margin: 1.5rem auto; width: 100%; height: auto;" alt="UC Open 27">
-<img src="../../static/images/uc_open27_darkmode.svg" class="only-dark" style="display: block; margin: 1.5rem auto; width: 100%; height: auto;" alt="UC Open 27">
+<img src="../../static/images/uc_open27.png" class="only-light" style="display: block; margin: 1.5rem auto; width: 100%; height: auto;" alt="UC Open 27">
+<img src="../../static/images/uc_open27_darkmode.png" class="only-dark" style="display: block; margin: 1.5rem auto; width: 100%; height: auto;" alt="UC Open 27">
 
 ## Join us at the Loma Pelona Center, UC Santa Barbara, April 21–22, 2027!
 
