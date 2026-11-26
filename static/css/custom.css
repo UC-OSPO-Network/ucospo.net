@@ -89,6 +89,34 @@ html {
 
 /* ── UCSB campus pages ─────────────────────────────────────────── */
 
+/* Default (Light Mode): hide dark image */
+.only-dark,
+.only-dark img,
+.only-dark picture {
+  display: none !important;
+}
+
+/* Dark Mode: hide light image, show dark image */
+html.dark .only-light,
+html.dark .only-light img,
+html.dark .only-light picture,
+html[data-theme="dark"] .only-light,
+html[data-theme="dark"] .only-light img,
+body[data-theme="dark"] .only-light,
+body[data-theme="dark"] .only-light img {
+  display: none !important;
+}
+
+html.dark .only-dark,
+html.dark .only-dark img,
+html.dark .only-dark picture,
+html[data-theme="dark"] .only-dark,
+html[data-theme="dark"] .only-dark img,
+body[data-theme="dark"] .only-dark,
+body[data-theme="dark"] .only-dark img {
+  display: block !important;
+}
+
 /* Panel background variables */
 :root {
   --ucsb-sand: #e9e6e2;

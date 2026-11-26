@@ -4,11 +4,10 @@ date: 2026-11-20
 description: "The third annual UC Open: April 21–22, 2027, at the Loma Pelona Center, UC Santa Barbara"
 ---
 
-![Open by Design: UC Open Summit 2027, Santa Barbara, CA, April 21 and 22. A ring of yellow, green, orange, and blue paint splashes sits beside the text.](./uc_open3.png)
+<img src="../../static/images/uc_open27.png" class="only-light" style="display: block; margin: 1.5rem auto; width: 100%; height: auto;" alt="UC Open 27">
+<img src="../../static/images/uc_open27_darkmode.png" class="only-dark" style="display: block; margin: 1.5rem auto; width: 100%; height: auto;" alt="UC Open 27">
 
-## April 21–22, 2027 | Loma Pelona Center, UC Santa Barbara
-
-## About
+## Join us at the Loma Pelona Center, UC Santa Barbara, April 21–22, 2027!
 
 Openness works best when it's baked in from the beginning. UC Open 2027, the third annual summit of the UC Open Source Program Office (UC OSPO) Network, brings together researchers, students, staff, and industry and community partners from across the University of California to explore how UC creators are reshaping open source, and how UC can make it easier for creators to build openly. Join us for two days focused on the tools and processes that open source projects can implement today to support growth tomorrow.
 
